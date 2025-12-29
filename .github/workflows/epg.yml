@@ -22,7 +22,7 @@ jobs:
         run: npm install @iptv-org/epg
 
       - name: Generate EPG
-        run: npx epg --output epg.xml
+        run: npx epg --config https://iptv-org.github.io/epg/guides/en.json --output epg.xml
 
       - name: Commit EPG
         run: |
