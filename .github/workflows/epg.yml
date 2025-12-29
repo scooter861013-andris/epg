@@ -2,7 +2,7 @@ name: Generate EPG
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 3 * * *"   # naponta 03:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -19,22 +19,26 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 22
 
       - name: Install dependencies
         run: |
           cd epg
           npm install
 
-      - name: Generate EPG
+      - name: Generate EPG (tvmusor.hu)
         run: |
           cd epg
-          npm run grab -- --site=example.com --output=../epg.xml
+          npm run grab -- --site=tvmusor.hu --output=../epg.xml
 
       - name: Commit EPG
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add epg.xml
-          git commit -m "Update EPG" || echo "No changes"
-          git push
+          if [ -f epg.xml ]; then
+            git config user.name "github-actions"
+            git config user.email "github-actions@github.com"
+            git add epg.xml
+            git commit -m "Update EPG" || echo "No changes"
+            git push
+          else
+            echo "No epg.xml generated"
+          fi
