@@ -31,13 +31,19 @@ jobs:
           cd epg
           npm run grab -- --site=tvmusor.hu --output=../epg.xml
 
+      # 👉 ÚJ, BIZTONSÁGOS LÉPÉS (nem nyúl semmi máshoz)
+      - name: TV2 esti műsor JSON szűrés
+        run: |
+          npm install fast-xml-parser
+          node tv2_esti_musor_szuro.js
+
       - name: Commit EPG
         run: |
           if [ -f epg.xml ]; then
             git config user.name "github-actions"
             git config user.email "github-actions@github.com"
-            git add epg.xml
-            git commit -m "Update EPG" || echo "No changes"
+            git add epg.xml tv2_esti_musor.json
+            git commit -m "Update EPG + TV2 esti műsor" || echo "No changes"
             git push
           else
             echo "No epg.xml generated"
