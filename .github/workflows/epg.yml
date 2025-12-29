@@ -1,0 +1,33 @@
+name: Generate EPG
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install EPG
+        run: npm install @iptv-org/epg
+
+      - name: Generate EPG
+        run: npx epg --output epg.xml
+
+      - name: Commit EPG
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add epg.xml
+          git commit -m "Update EPG" || echo "No changes"
+          git push
