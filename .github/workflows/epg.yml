@@ -18,11 +18,8 @@ jobs:
         with:
           node-version: 18
 
-      - name: Install EPG
-        run: npm install @iptv-org/epg-cli
-
       - name: Generate EPG
-        run: npx epg --config https://iptv-org.github.io/epg/guides/en.json --output epg.xml
+        run: npx @iptv-org/epg --config https://iptv-org.github.io/epg/guides/en.json --output epg.xml
 
       - name: Commit EPG
         run: |
