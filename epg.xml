@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20251229">
 <channel id="M1.hu@SD"><display-name>M1</display-name><icon src="https://i.imgur.com/r4tgKZK.png"/><url>https://tvmusor.hu</url></channel>
-<channel id="346"><display-name>Fit HD</display-name><url>https://tvmusor.hu</url></channel>
-<channel id="345"><display-name>Aréna 4</display-name><url>https://tvmusor.hu</url></channel>
-<channel id="344"><display-name>Spíler2 TV</display-name><url>https://tvmusor.hu</url></channel>
-<channel id="343"><display-name>Epic Drama</display-name><url>https://tvmusor.hu</url></channel>
+<channel id="M2.hu@SD"><display-name>M2 / Petőfi TV</display-name><icon src="https://i.imgur.com/B0nYT0l.png"/><url>https://tvmusor.hu</url></channel>
+<channel id="RTL.hu@SD"><display-name>RTL</display-name><icon src="https://i.imgur.com/ruRshE1.png"/><url>https://tvmusor.hu</url></channel>
+<channel id="HirTV.hu@SD"><display-name>Hír TV</display-name><icon src="https://i.imgur.com/xmIUDRN.png"/><url>https://tvmusor.hu</url></channel>
+<channel id="TV4.hu@SD"><display-name>TV4</display-name><icon src="https://i.imgur.com/cjypCfu.png"/><url>https://tvmusor.hu</url></channel>
+<channel id="Eurosport1.fr@France"><display-name>Eurosport 1</display-name><icon src="https://i.imgur.com/olQJgm7.png"/><url>https://tvmusor.hu</url></channel>
+<channel id="IzauraTV.hu@SD"><display-name>Izaura TV</display-name><icon src="https://i.imgur.com/p9YFnpw.png"/><url>https://tvmusor.hu</url></channel>
+<channel id="M5.hu@SD"><display-name>M5</display-name><icon src="https://i.imgur.com/y21wFd0.png"/><url>https://tvmusor.hu</url></channel>
 <channel id="342"><display-name>Nicktoons</display-name><url>https://tvmusor.hu</url></channel>
 <channel id="341"><display-name>Max4</display-name><url>https://tvmusor.hu</url></channel>
 <channel id="340"><display-name>Match4</display-name><url>https://tvmusor.hu</url></channel>
@@ -35,12 +38,12 @@
 <channel id="TV2Sef.hu@SD"><display-name>TV2 Séf</display-name><icon src="https://i.imgur.com/8GFj3XP.png"/><url>https://tvmusor.hu</url></channel>
 <channel id="FEM3.hu@SD"><display-name>FEM3</display-name><icon src="https://i.imgur.com/AF4Sz8Z.png"/><url>https://tvmusor.hu</url></channel>
 <channel id="Spiler1.hu@SD"><display-name>Spíler1 TV</display-name><icon src="https://i.imgur.com/pbk8c4x.png"/><url>https://tvmusor.hu</url></channel>
-<channel id="IzauraTV.hu@SD"><display-name>Izaura TV</display-name><icon src="https://i.imgur.com/p9YFnpw.png"/><url>https://tvmusor.hu</url></channel>
-<channel id="M5.hu@SD"><display-name>M5</display-name><icon src="https://i.imgur.com/y21wFd0.png"/><url>https://tvmusor.hu</url></channel>
+<channel id="CartoonNetworkCEE.uk@Hungary"><display-name>Cartoon Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"/><url>https://tvmusor.hu</url></channel>
 <channel id="M4Sport.hu@SD"><display-name>M4 Sport</display-name><icon src="https://i.imgur.com/TQ4uJZk.png"/><url>https://tvmusor.hu</url></channel>
 <channel id="FoodNetworkEMEA.us@SD"><display-name>Food Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png"/><url>https://tvmusor.hu</url></channel>
+<channel id="Eurosport2.fr@France"><display-name>Eurosport 2</display-name><icon src="https://i.imgur.com/f56dHgR.png"/><url>https://tvmusor.hu</url></channel>
+<channel id="Sport1.hu@SD"><display-name>Sport1</display-name><icon src="https://i.imgur.com/X5X3tKC.png"/><url>https://tvmusor.hu</url></channel>
 <channel id="ParamountNetwork.hu@SD"><display-name>Paramount Network</display-name><icon src="https://i.postimg.cc/Hxy2hJyh/paramountnetwork.png"/><url>https://tvmusor.hu</url></channel>
-<channel id="BBCEarth.uk@Romania"><display-name>BBC Earth</display-name><icon src="https://i.imgur.com/nGSsUd4.png"/><url>https://tvmusor.hu</url></channel>
 <channel id="SuperTV2.hu@SD"><display-name>SuperTV2</display-name><icon src="https://i.imgur.com/JCu1u2v.png"/><url>https://tvmusor.hu</url></channel>
 <channel id="RTLKetto.hu@SD"><display-name>RTL II</display-name><icon src="https://i.imgur.com/IVv0qrI.png"/><url>https://tvmusor.hu</url></channel>
 <channel id="NickJr.hu@SD"><display-name>Nick Jr.</display-name><icon src="https://i.postimg.cc/tJB6gpQj/nickjr.png"/><url>https://tvmusor.hu</url></channel>
@@ -67,12 +70,11 @@
 <channel id="Viasat2.hu@SD"><display-name>VIASAT2</display-name><icon src="https://i.imgur.com/lEAhKPa.png"/><url>https://tvmusor.hu</url></channel>
 <channel id="DunaWorld.hu@SD"><display-name>Duna World</display-name><icon src="https://i.imgur.com/uOBQJZS.png"/><url>https://tvmusor.hu</url></channel>
 <channel id="FilmMania.hu@SD"><display-name>Film Mánia</display-name><icon src="https://i.imgur.com/crhsomk.png"/><url>https://tvmusor.hu</url></channel>
-<channel id="Eurosport1.fr@France"><display-name>Eurosport 1</display-name><icon src="https://i.imgur.com/olQJgm7.png"/><url>https://tvmusor.hu</url></channel>
-<channel id="CartoonNetworkCEE.uk@Hungary"><display-name>Cartoon Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"/><url>https://tvmusor.hu</url></channel>
-<channel id="Sport1.hu@SD"><display-name>Sport1</display-name><icon src="https://i.imgur.com/X5X3tKC.png"/><url>https://tvmusor.hu</url></channel>
+<channel id="BBCEarth.uk@Romania"><display-name>BBC Earth</display-name><icon src="https://i.imgur.com/nGSsUd4.png"/><url>https://tvmusor.hu</url></channel>
 <channel id="FilmCafe.hu@Hungary"><display-name>Filmcafe</display-name><icon src="https://i.imgur.com/jaKRnzU.png"/><url>https://tvmusor.hu</url></channel>
+<channel id="Spektrum.hu@SD"><display-name>Spektrum</display-name><icon src="https://i.imgur.com/GmFRQ82.png"/><url>https://tvmusor.hu</url></channel>
+<channel id="DisneyChannel.hu@SD"><display-name>Disney Channel</display-name><icon src="https://i.imgur.com/aOa73uT.png"/><url>https://tvmusor.hu</url></channel>
 <channel id="DiscoveryScience.us@SD"><display-name>Discovery Science</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png"/><url>https://tvmusor.hu</url></channel>
-<channel id="DiscoveryChannel.hu@SD"><display-name>Discovery Channel</display-name><icon src="https://i.postimg.cc/T2QFcf7r/discoverychannel.png"/><url>https://tvmusor.hu</url></channel>
 <channel id="82"><display-name>Animal Planet</display-name><url>https://tvmusor.hu</url></channel>
 <channel id="CoolTV.hu@SD"><display-name>Cool</display-name><icon src="https://i.imgur.com/rXJtthd.png"/><url>https://tvmusor.hu</url></channel>
 <channel id="CartoonitoCEE.uk@SD"><display-name>Cartoonito</display-name><icon src="https://i.imgur.com/9MrzLb1.png"/><url>https://tvmusor.hu</url></channel>
@@ -83,21 +85,19 @@
 <channel id="Sport2.hu@SD"><display-name>Sport2</display-name><icon src="https://i.imgur.com/UxflVoU.png"/><url>https://tvmusor.hu</url></channel>
 <channel id="42"><display-name>AXN</display-name><url>https://tvmusor.hu</url></channel>
 <channel id="Nickelodeon.hu@SD"><display-name>Nickelodeon</display-name><icon src="https://i.imgur.com/fXs8f6a.png"/><url>https://tvmusor.hu</url></channel>
-<channel id="TV4.hu@SD"><display-name>TV4</display-name><icon src="https://i.imgur.com/cjypCfu.png"/><url>https://tvmusor.hu</url></channel>
-<channel id="Eurosport2.fr@France"><display-name>Eurosport 2</display-name><icon src="https://i.imgur.com/f56dHgR.png"/><url>https://tvmusor.hu</url></channel>
-<channel id="DisneyChannel.hu@SD"><display-name>Disney Channel</display-name><icon src="https://i.imgur.com/aOa73uT.png"/><url>https://tvmusor.hu</url></channel>
+<channel id="DiscoveryChannel.hu@SD"><display-name>Discovery Channel</display-name><icon src="https://i.postimg.cc/T2QFcf7r/discoverychannel.png"/><url>https://tvmusor.hu</url></channel>
 <channel id="FilmPlus.hu@SD"><display-name>Film+</display-name><icon src="https://i.imgur.com/OWqzJyy.png"/><url>https://tvmusor.hu</url></channel>
+<channel id="TV2.hu@SD"><display-name>TV2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/512px-TV2_2008.svg.png"/><url>https://tvmusor.hu</url></channel>
+<channel id="HBOCentralEurope.hu@HD"><display-name>HBO</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png"/><url>https://tvmusor.hu</url></channel>
 <channel id="Viasat3.hu@SD"><display-name>VIASAT3</display-name><icon src="https://i.imgur.com/ehx7R3A.png"/><url>https://tvmusor.hu</url></channel>
-<channel id="Minimax.hu@SD"><display-name>Minimax</display-name><icon src="https://i.imgur.com/WWOlm1x.png"/><url>https://tvmusor.hu</url></channel>
 <channel id="ATV.hu@SD"><display-name>ATV</display-name><icon src="https://i.imgur.com/85sIvrX.png"/><url>https://tvmusor.hu</url></channel>
 <channel id="NationalGeographic.hu@SD"><display-name>National Geographic</display-name><icon src="https://i.postimg.cc/FsPGHpzX/nationalgeographic.png"/><url>https://tvmusor.hu</url></channel>
-<channel id="HirTV.hu@SD"><display-name>Hír TV</display-name><icon src="https://i.imgur.com/xmIUDRN.png"/><url>https://tvmusor.hu</url></channel>
-<channel id="Spektrum.hu@SD"><display-name>Spektrum</display-name><icon src="https://i.imgur.com/GmFRQ82.png"/><url>https://tvmusor.hu</url></channel>
-<channel id="HBOCentralEurope.hu@HD"><display-name>HBO</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png"/><url>https://tvmusor.hu</url></channel>
+<channel id="Minimax.hu@SD"><display-name>Minimax</display-name><icon src="https://i.imgur.com/WWOlm1x.png"/><url>https://tvmusor.hu</url></channel>
 <channel id="Duna.hu@SD"><display-name>DUNA Televízió</display-name><icon src="https://i.imgur.com/oPbsSlp.png"/><url>https://tvmusor.hu</url></channel>
-<channel id="RTL.hu@SD"><display-name>RTL</display-name><icon src="https://i.imgur.com/ruRshE1.png"/><url>https://tvmusor.hu</url></channel>
-<channel id="TV2.hu@SD"><display-name>TV2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/512px-TV2_2008.svg.png"/><url>https://tvmusor.hu</url></channel>
-<channel id="M2.hu@SD"><display-name>M2 / Petőfi TV</display-name><icon src="https://i.imgur.com/B0nYT0l.png"/><url>https://tvmusor.hu</url></channel>
+<channel id="345"><display-name>Aréna 4</display-name><url>https://tvmusor.hu</url></channel>
+<channel id="346"><display-name>Fit HD</display-name><url>https://tvmusor.hu</url></channel>
+<channel id="343"><display-name>Epic Drama</display-name><url>https://tvmusor.hu</url></channel>
+<channel id="344"><display-name>Spíler2 TV</display-name><url>https://tvmusor.hu</url></channel>
 <programme start="20251229004000 +0000" stop="20251229012500 +0000" channel="42"><title lang="hu">Dr. House</title><desc lang="hu">Cuddy anyja szokatlan tünetekre panaszkodik, ezért beviszik a kórházba.</desc><category lang="hu">filmsorozat</category></programme>
 <programme start="20251229012500 +0000" stop="20251229075000 +0000" channel="42"><title lang="hu">Doktor Murphy</title><desc lang="hu">Shaun Murphy, a fiatal és kivételesen tehetséges sebész teljesen felkavarja az ország egyik legrangosabb kórházának az életét.</desc><category lang="hu">filmsorozat</category></programme>
 <programme start="20251229075000 +0000" stop="20251229130000 +0000" channel="42"><title lang="hu">Csillagkapu</title><desc lang="hu">A Csillagkapu egy ősidők óta létező titokzatos átjáró, melyen keresztül azok, akik megfejtik titkát, eljuthatnak különböző galaxisokba, expedícióra indulhatnak térben és időben.</desc><category lang="hu">filmsorozat</category></programme>
