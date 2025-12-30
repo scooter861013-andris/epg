@@ -1,0 +1,45 @@
+name: Generate EPG
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # naponta 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Clone iptv-org/epg
+        run: git clone --depth 1 https://github.com/iptv-org/epg.git
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: |
+          cd epg
+          npm install
+
+      - name: Generate EPG (tvmusor.hu)
+        run: |
+          cd epg
+          npm run grab -- --site=tvmusor.hu --output=../epg.xml
+
+      - name: Szűrés JSON-ra (mai műsorok)
+        run: |
+          npm install fast-xml-parser
+          node tv2_esti_musor_szuro.js
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add epg.xml tv2_esti_musor.json
+          git commit -m "Update EPG + mai műsorok" || echo "No changes"
+          git push
