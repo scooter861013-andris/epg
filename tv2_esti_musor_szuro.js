@@ -34,14 +34,30 @@ const adat = parser.parse(xml)
 const musorok = adat?.tv?.programme || []
 
 const kimenet = musorok
-  .filter(m =>
+  .filter(m => {
+  const ch = m["@_channel"] || "";
+  const start = m["@_start"] || "";
+
+  const isNormalChannel =
     (
-      CSATORNAK.includes(m["@_channel"]) ||
-      NUMERIC_CHANNELS[m["@_channel"]]
+      CSATORNAK.includes(ch) ||
+      NUMERIC_CHANNELS[ch]
     ) &&
-    (m["@_start"] || "").startsWith(MA) &&
-    (m["@_start"] || "").slice(8, 14) >= DEL
-  )
+    start.startsWith(MA) &&
+    start.slice(8, 14) >= DEL;
+
+  const isNickelodeonLate =
+    ch === "Nickelodeon.hu@SD" &&
+    (
+      start.startsWith(MA) ||
+      start.startsWith(
+        String(Number(MA) - 1)
+      )
+    );
+
+  return isNormalChannel || isNickelodeonLate;
+})
+
   .map(m => ({
    csatorna: NUMERIC_CHANNELS[m["@_channel"]] || m["@_channel"],
    kezdes: m["@_start"],
