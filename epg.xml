@@ -1,41 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20251230">
 <channel id="3SAT"><display-name>3Sat</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="ZENEBUTIK"><display-name>Zenebutik</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="ZEGTV"><display-name>Zeg TV</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="ZDF"><display-name>ZDF</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="VOX"><display-name>Vox</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="VIASATNATURE"><display-name>Viasat Nature</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="VIASATHISTORY"><display-name>Viasat History</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="VIASATEXPLORE"><display-name>Viasat Explore</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="VIASAT_FILM"><display-name>Viasat Film</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="VIASAT6"><display-name>Viasat 6</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="VIASAT3"><display-name>Viasat 3</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="VIASAT2"><display-name>Viasat 2</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="TVPAPRIKA"><display-name>TV Paprika</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="TVE"><display-name>TVE</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="TV5MONDE"><display-name>TV5</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="TV4"><display-name>TV4</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="TV2SEF"><display-name>TV2 Séf</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="TV2KLUB"><display-name>TV2 Klub</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="TV2COMEDY"><display-name>TV2 Comedy</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="TV2_KIDS"><display-name>TV2 Kids</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="TV2"><display-name>TV2</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="TRAVELXP"><display-name>TravelXP</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="TRAVELCHANNELHD"><display-name>Travel Channel HD</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="TOLNATAJTV"><display-name>Tolnatáj TV</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="TLC"><display-name>TLC</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="THEHISTORYCHANNELHD"><display-name>The History HD</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="THEHISTORYCHANNEL"><display-name>History Channel</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="TELEPAKS"><display-name>Telepaks</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="TEENNICK"><display-name>TeenNick</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="SUPERTV2"><display-name>Super TV2</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="SUPERRTL"><display-name>Super Rtl</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="SUPERONEHD"><display-name>Superone HD</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="STORY4"><display-name>Story4</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="SPORT2"><display-name>Sport2</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="SPORT1"><display-name>Sport1</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="SPILER2TV"><display-name>Spíler2 TV</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="SPILER1TV"><display-name>Spíler1 TV</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="360TUNEBOX"><display-name>360TuneBox</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="AMC"><display-name>AMC</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="ARENA4"><display-name>Aréna4</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="BBCEARTH"><display-name>BBC Earth</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="DAVINCILEARNING"><display-name>Da Vinci Tv</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="D1"><display-name>D1</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="BALATONTV"><display-name>Balaton TV</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="CRIME_INVESTIGATION"><display-name>Crime + Investigation</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="COOL"><display-name>Cool TV</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="ARD"><display-name>ARD1</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="BABYTV"><display-name>Baby TV</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="COMEDY"><display-name>Comedy Central</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="CNN"><display-name>CNN</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="BABYFIRST"><display-name>Babyfirst</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="CMUSIC"><display-name>Stingray CMusic</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="CLUBMTV"><display-name>Club MTV</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="ALJAZEERA"><display-name>Al Jazeera</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="APOSTOL_TV"><display-name>Apostol TV</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="AXN"><display-name>AXN</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="CLASSICA"><display-name>Stingray Classica</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="CINEMAX2"><display-name>Cinemax 2</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="ATVEXTRA"><display-name>ATV Extra</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="CINEMAX"><display-name>Cinemax</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="CARTOONITO"><display-name>Cartoonito</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="ANIMALPLANETHD"><display-name>Animal Planet HD</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="ATV"><display-name>ATV</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="CARTOON"><display-name>Cartoon Network</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="CANAL_PLUS_ACTION"><display-name>Canal+ Action</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="DOCUBOX"><display-name>Docubox</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="DISNEY"><display-name>Disney Channel</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="ARTE"><display-name>Arte</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="BRAZZERSTVEUROPE"><display-name>Brazzers TV Europe</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="DISCOVERYID"><display-name>ID: Investigation Discovery</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="DISCOVERYCHANNEL"><display-name>Discovery Channel</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="BBCFIRST"><display-name>BBC First</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="DIKHTV"><display-name>Dikh TV</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="DEUTSCHEWELLE"><display-name>Deutsche Welle</display-name><url>https://tvmustra.hu</url></channel>
 <channel id="SPEKTRUMHOME"><display-name>Spektrum Home</display-name><url>https://tvmustra.hu</url></channel>
 <channel id="SPEKTRUMHD"><display-name>Spektrum HD</display-name><url>https://tvmustra.hu</url></channel>
 <channel id="SPEKTRUM"><display-name>Spektrum</display-name><url>https://tvmustra.hu</url></channel>
@@ -151,43 +152,42 @@
 <channel id="DUNAWORLD"><display-name>Duna World</display-name><url>https://tvmustra.hu</url></channel>
 <channel id="DUNA"><display-name>Duna TV</display-name><url>https://tvmustra.hu</url></channel>
 <channel id="DUCKTV"><display-name>Duck Tv</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="DOCUBOX"><display-name>Docubox</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="DISNEY"><display-name>Disney Channel</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="DISCOVERYID"><display-name>ID: Investigation Discovery</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="DISCOVERYCHANNEL"><display-name>Discovery Channel</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="DIKHTV"><display-name>Dikh TV</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="DEUTSCHEWELLE"><display-name>Deutsche Welle</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="DAVINCILEARNING"><display-name>Da Vinci Tv</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="D1"><display-name>D1</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="CRIME_INVESTIGATION"><display-name>Crime + Investigation</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="COOL"><display-name>Cool TV</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="COMEDY"><display-name>Comedy Central</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="CNN"><display-name>CNN</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="CMUSIC"><display-name>Stingray CMusic</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="CLUBMTV"><display-name>Club MTV</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="CLASSICA"><display-name>Stingray Classica</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="CINEMAX2"><display-name>Cinemax 2</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="CINEMAX"><display-name>Cinemax</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="CARTOONITO"><display-name>Cartoonito</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="CARTOON"><display-name>Cartoon Network</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="CANAL_PLUS_ACTION"><display-name>Canal+ Action</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="BRAZZERSTVEUROPE"><display-name>Brazzers TV Europe</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="BBCFIRST"><display-name>BBC First</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="BBCEARTH"><display-name>BBC Earth</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="BALATONTV"><display-name>Balaton TV</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="BABYTV"><display-name>Baby TV</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="BABYFIRST"><display-name>Babyfirst</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="AXN"><display-name>AXN</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="ATVEXTRA"><display-name>ATV Extra</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="ATV"><display-name>ATV</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="ARTE"><display-name>Arte</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="ARENA4"><display-name>Aréna4</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="ARD"><display-name>ARD1</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="APOSTOL_TV"><display-name>Apostol TV</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="ANIMALPLANETHD"><display-name>Animal Planet HD</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="AMC"><display-name>AMC</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="ALJAZEERA"><display-name>Al Jazeera</display-name><url>https://tvmustra.hu</url></channel>
-<channel id="360TUNEBOX"><display-name>360TuneBox</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="THEHISTORYCHANNELHD"><display-name>The History HD</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="THEHISTORYCHANNEL"><display-name>History Channel</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="TELEPAKS"><display-name>Telepaks</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="SUPERTV2"><display-name>Super TV2</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="SUPERRTL"><display-name>Super Rtl</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="SUPERONEHD"><display-name>Superone HD</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="STORY4"><display-name>Story4</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="SPORT2"><display-name>Sport2</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="SPORT1"><display-name>Sport1</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="ZENEBUTIK"><display-name>Zenebutik</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="ZEGTV"><display-name>Zeg TV</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="ZDF"><display-name>ZDF</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="VOX"><display-name>Vox</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="VIASATNATURE"><display-name>Viasat Nature</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="VIASATHISTORY"><display-name>Viasat History</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="VIASAT_FILM"><display-name>Viasat Film</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="VIASAT6"><display-name>Viasat 6</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="VIASAT3"><display-name>Viasat 3</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="TVPAPRIKA"><display-name>TV Paprika</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="TVE"><display-name>TVE</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="TV5MONDE"><display-name>TV5</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="TV2SEF"><display-name>TV2 Séf</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="TV2KLUB"><display-name>TV2 Klub</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="TV2COMEDY"><display-name>TV2 Comedy</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="TV2"><display-name>TV2</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="TRAVELXP"><display-name>TravelXP</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="TRAVELCHANNELHD"><display-name>Travel Channel HD</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="TLC"><display-name>TLC</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="SPILER2TV"><display-name>Spíler2 TV</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="VIASATEXPLORE"><display-name>Viasat Explore</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="VIASAT2"><display-name>Viasat 2</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="TV2_KIDS"><display-name>TV2 Kids</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="TEENNICK"><display-name>TeenNick</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="TV4"><display-name>TV4</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="TOLNATAJTV"><display-name>Tolnatáj TV</display-name><url>https://tvmustra.hu</url></channel>
+<channel id="SPILER1TV"><display-name>Spíler1 TV</display-name><url>https://tvmustra.hu</url></channel>
 <programme start="20251230051500 +0000" stop="20251230054500 +0000" channel="3SAT"><title lang="hu">Die Schlagzeugmafia: Backstreet Noise</title></programme>
 <programme start="20251230054500 +0000" stop="20251230061500 +0000" channel="3SAT"><title lang="hu">Starbugs Comedy: Showtime!</title></programme>
 <programme start="20251230061500 +0000" stop="20251230064500 +0000" channel="3SAT"><title lang="hu">Dr. Pop: Hitverdächtig</title></programme>
@@ -2912,8 +2912,8 @@
 <programme start="20251231024000 +0000" stop="20251231032500 +0000" channel="DOCUBOX"><title lang="hu">Rip Files - Season 2 - Spirits of the Palace</title></programme>
 <programme start="20251231032500 +0000" stop="20251231041000 +0000" channel="DOCUBOX"><title lang="hu">The Past Hunters - The Block</title></programme>
 <programme start="20251231032500 +0000" stop="20251231041000 +0000" channel="DOCUBOX"><title lang="hu">The Past Hunters - The Block</title></programme>
-<programme start="20251231041000 +0000" stop="20251231050000 +0000" channel="DOCUBOX"><title lang="hu">The Past Hunters - Drakelow Tunnels</title></programme>
 <programme start="20251231041000 +0000" stop="20251231044000 +0000" channel="DOCUBOX"><title lang="hu">The Past Hunters - Drakelow Tunnels</title></programme>
+<programme start="20251231041000 +0000" stop="20251231050000 +0000" channel="DOCUBOX"><title lang="hu">The Past Hunters - Drakelow Tunnels</title></programme>
 <programme start="20251231050000 +0000" stop="20251231053000 +0000" channel="DOCUBOX"><title lang="hu">What in the World - Brazil</title></programme>
 <programme start="20251231053000 +0000" stop="20251231060000 +0000" channel="DOCUBOX"><title lang="hu">What in the World - Somalia</title></programme>
 <programme start="20251231060000 +0000" stop="20251231062500 +0000" channel="DOCUBOX"><title lang="hu">Travel Thru History - Baltimore</title></programme>
@@ -11309,8 +11309,8 @@
 <programme start="20251231023000 +0000" stop="20251231031500 +0000" channel="SPEKTRUMHOME"><title lang="hu">Álomház</title></programme>
 <programme start="20251231031500 +0000" stop="20251231040000 +0000" channel="SPEKTRUMHOME"><title lang="hu">Emlékműhely</title></programme>
 <programme start="20251231031500 +0000" stop="20251231040000 +0000" channel="SPEKTRUMHOME"><title lang="hu">Emlékműhely</title></programme>
-<programme start="20251231040000 +0000" stop="20251231050000 +0000" channel="SPEKTRUMHOME"><title lang="hu">A kertész kertje</title></programme>
 <programme start="20251231040000 +0000" stop="20251231043000 +0000" channel="SPEKTRUMHOME"><title lang="hu">A kertész kertje</title></programme>
+<programme start="20251231040000 +0000" stop="20251231050000 +0000" channel="SPEKTRUMHOME"><title lang="hu">A kertész kertje</title></programme>
 <programme start="20251231050000 +0000" stop="20251231060000 +0000" channel="SPEKTRUMHOME"><title lang="hu">Tengerparti kunyhók</title></programme>
 <programme start="20251231060000 +0000" stop="20251231065500 +0000" channel="SPEKTRUMHOME"><title lang="hu">Álomház</title></programme>
 <programme start="20251231065500 +0000" stop="20251231075000 +0000" channel="SPEKTRUMHOME"><title lang="hu">Emlékműhely</title></programme>
@@ -11584,8 +11584,8 @@
 <programme start="20251230230000 +0000" stop="20251230235500 +0000" channel="STORY4"><title lang="hu">A Guldenburgok öröksége</title></programme>
 <programme start="20251230235500 +0000" stop="20251231004500 +0000" channel="STORY4"><title lang="hu">A Guldenburgok öröksége</title></programme>
 <programme start="20251230235500 +0000" stop="20251231004500 +0000" channel="STORY4"><title lang="hu">A Guldenburgok öröksége</title></programme>
-<programme start="20251231004500 +0000" stop="20251231053500 +0000" channel="STORY4"><title lang="hu">Álom és szerelem: Rosamunde Pilcher - Apánk első szerelme</title></programme>
 <programme start="20251231004500 +0000" stop="20251231011500 +0000" channel="STORY4"><title lang="hu">Álom és szerelem: Rosamunde Pilcher - Apánk első szerelme</title></programme>
+<programme start="20251231004500 +0000" stop="20251231053500 +0000" channel="STORY4"><title lang="hu">Álom és szerelem: Rosamunde Pilcher - Apánk első szerelme</title></programme>
 <programme start="20251231053500 +0000" stop="20251231071000 +0000" channel="STORY4"><title lang="hu">Lena Lorenz - Szülésznő az Alpokban</title></programme>
 <programme start="20251231071000 +0000" stop="20251231080500 +0000" channel="STORY4"><title lang="hu">Rex Kanadában</title></programme>
 <programme start="20251231080500 +0000" stop="20251231085500 +0000" channel="STORY4"><title lang="hu">Rex Kanadában</title></programme>
@@ -11690,8 +11690,8 @@
 <programme start="20251231044000 +0000" stop="20251231045000 +0000" channel="SUPERRTL"><title lang="hu">Billy - Der Cowboy Hamster</title></programme>
 <programme start="20251231045000 +0000" stop="20251231045500 +0000" channel="SUPERRTL"><title lang="hu">Peppa Pig</title></programme>
 <programme start="20251231045000 +0000" stop="20251231045500 +0000" channel="SUPERRTL"><title lang="hu">Peppa Pig</title></programme>
-<programme start="20251231045500 +0000" stop="20251231050500 +0000" channel="SUPERRTL"><title lang="hu">Peppa Pig</title></programme>
 <programme start="20251231045500 +0000" stop="20251231052500 +0000" channel="SUPERRTL"><title lang="hu">Peppa Pig</title></programme>
+<programme start="20251231045500 +0000" stop="20251231050500 +0000" channel="SUPERRTL"><title lang="hu">Peppa Pig</title></programme>
 <programme start="20251231050500 +0000" stop="20251231051500 +0000" channel="SUPERRTL"><title lang="hu">Benjamin Blümchen</title></programme>
 <programme start="20251231051500 +0000" stop="20251231053000 +0000" channel="SUPERRTL"><title lang="hu">Benjamin Blümchen</title></programme>
 <programme start="20251231053000 +0000" stop="20251231055000 +0000" channel="SUPERRTL"><title lang="hu">PAW Patrol - Helfer auf vier Pfoten</title></programme>
@@ -11986,8 +11986,8 @@
 <programme start="20251231024500 +0000" stop="20251231033000 +0000" channel="THEHISTORYCHANNEL"><title lang="hu">Zálogcsillagok</title></programme>
 <programme start="20251231033000 +0000" stop="20251231041500 +0000" channel="THEHISTORYCHANNEL"><title lang="hu">Elképesztő rejtélyek</title></programme>
 <programme start="20251231033000 +0000" stop="20251231041500 +0000" channel="THEHISTORYCHANNEL"><title lang="hu">Elképesztő rejtélyek</title></programme>
-<programme start="20251231041500 +0000" stop="20251231050000 +0000" channel="THEHISTORYCHANNEL"><title lang="hu">Zálogcsillagok: amerikai road show</title></programme>
 <programme start="20251231041500 +0000" stop="20251231044500 +0000" channel="THEHISTORYCHANNEL"><title lang="hu">Zálogcsillagok: amerikai road show</title></programme>
+<programme start="20251231041500 +0000" stop="20251231050000 +0000" channel="THEHISTORYCHANNEL"><title lang="hu">Zálogcsillagok: amerikai road show</title></programme>
 <programme start="20251231050000 +0000" stop="20251231052500 +0000" channel="THEHISTORYCHANNEL"><title lang="hu">Aukcióvadászok</title></programme>
 <programme start="20251231052500 +0000" stop="20251231055000 +0000" channel="THEHISTORYCHANNEL"><title lang="hu">Aukcióvadászok</title></programme>
 <programme start="20251231055000 +0000" stop="20251231064000 +0000" channel="THEHISTORYCHANNEL"><title lang="hu">Craig Charles: UFO-összeesküvések</title></programme>
@@ -12073,8 +12073,8 @@
 <programme start="20251231024500 +0000" stop="20251231033000 +0000" channel="THEHISTORYCHANNELHD"><title lang="hu">Zálogcsillagok</title></programme>
 <programme start="20251231033000 +0000" stop="20251231041500 +0000" channel="THEHISTORYCHANNELHD"><title lang="hu">Elképesztő rejtélyek</title></programme>
 <programme start="20251231033000 +0000" stop="20251231041500 +0000" channel="THEHISTORYCHANNELHD"><title lang="hu">Elképesztő rejtélyek</title></programme>
-<programme start="20251231041500 +0000" stop="20251231050000 +0000" channel="THEHISTORYCHANNELHD"><title lang="hu">Zálogcsillagok: amerikai road show</title></programme>
 <programme start="20251231041500 +0000" stop="20251231044500 +0000" channel="THEHISTORYCHANNELHD"><title lang="hu">Zálogcsillagok: amerikai road show</title></programme>
+<programme start="20251231041500 +0000" stop="20251231050000 +0000" channel="THEHISTORYCHANNELHD"><title lang="hu">Zálogcsillagok: amerikai road show</title></programme>
 <programme start="20251231050000 +0000" stop="20251231052500 +0000" channel="THEHISTORYCHANNELHD"><title lang="hu">Aukcióvadászok</title></programme>
 <programme start="20251231052500 +0000" stop="20251231055000 +0000" channel="THEHISTORYCHANNELHD"><title lang="hu">Aukcióvadászok</title></programme>
 <programme start="20251231055000 +0000" stop="20251231064000 +0000" channel="THEHISTORYCHANNELHD"><title lang="hu">Craig Charles: UFO-összeesküvések</title></programme>
@@ -12895,8 +12895,8 @@
 <programme start="20251231041000 +0000" stop="20251231042500 +0000" channel="TV2SEF"><title lang="hu">Ízes élet</title></programme>
 <programme start="20251231042500 +0000" stop="20251231045000 +0000" channel="TV2SEF"><title lang="hu">Nigella Falatozója</title></programme>
 <programme start="20251231042500 +0000" stop="20251231045000 +0000" channel="TV2SEF"><title lang="hu">Nigella Falatozója</title></programme>
-<programme start="20251231045000 +0000" stop="20251231055500 +0000" channel="TV2SEF"><title lang="hu">Sütimester</title></programme>
 <programme start="20251231045000 +0000" stop="20251231052000 +0000" channel="TV2SEF"><title lang="hu">Sütimester</title></programme>
+<programme start="20251231045000 +0000" stop="20251231055500 +0000" channel="TV2SEF"><title lang="hu">Sütimester</title></programme>
 <programme start="20251231055500 +0000" stop="20251231065500 +0000" channel="TV2SEF"><title lang="hu">Billy és Dom felfalja a világot</title></programme>
 <programme start="20251231065500 +0000" stop="20251231074500 +0000" channel="TV2SEF"><title lang="hu">A nagy ízválasztó</title></programme>
 <programme start="20251231074500 +0000" stop="20251231081000 +0000" channel="TV2SEF"><title lang="hu">Kedvenc ételeink eredete</title></programme>
@@ -13105,8 +13105,8 @@
 <programme start="20251230235500 +0000" stop="20251231012500 +0000" channel="TVE"><title lang="hu">CINE</title></programme>
 <programme start="20251231012500 +0000" stop="20251231031500 +0000" channel="TVE"><title lang="hu">LA NOCHE EN 24H</title></programme>
 <programme start="20251231012500 +0000" stop="20251231031500 +0000" channel="TVE"><title lang="hu">LA NOCHE EN 24H</title></programme>
-<programme start="20251231031500 +0000" stop="20251231050000 +0000" channel="TVE"><title lang="hu">NOTICIAS 24 H</title></programme>
 <programme start="20251231031500 +0000" stop="20251231034500 +0000" channel="TVE"><title lang="hu">NOTICIAS 24 H</title></programme>
+<programme start="20251231031500 +0000" stop="20251231050000 +0000" channel="TVE"><title lang="hu">NOTICIAS 24 H</title></programme>
 <programme start="20251231050000 +0000" stop="20251231053000 +0000" channel="TVE"><title lang="hu">NOTICIAS 24 H</title></programme>
 <programme start="20251231053000 +0000" stop="20251231070000 +0000" channel="TVE"><title lang="hu">TELEDIARIO MATINAL</title></programme>
 <programme start="20251231070000 +0000" stop="20251231113000 +0000" channel="TVE"><title lang="hu">LA HORA DE LA 1</title></programme>
@@ -13366,8 +13366,8 @@
 <programme start="20251230234500 +0000" stop="20251231013000 +0000" channel="VIASAT_FILM"><title lang="hu">Miután elbuktunk</title></programme>
 <programme start="20251231013000 +0000" stop="20251231021500 +0000" channel="VIASAT_FILM"><title lang="hu">Az elveszett világ</title></programme>
 <programme start="20251231013000 +0000" stop="20251231021500 +0000" channel="VIASAT_FILM"><title lang="hu">Az elveszett világ</title></programme>
-<programme start="20251231021500 +0000" stop="20251231051500 +0000" channel="VIASAT_FILM"><title lang="hu">Kaland Bt.</title></programme>
 <programme start="20251231021500 +0000" stop="20251231024500 +0000" channel="VIASAT_FILM"><title lang="hu">Kaland Bt.</title></programme>
+<programme start="20251231021500 +0000" stop="20251231051500 +0000" channel="VIASAT_FILM"><title lang="hu">Kaland Bt.</title></programme>
 <programme start="20251231051500 +0000" stop="20251231055000 +0000" channel="VIASAT_FILM"><title lang="hu">Totalcar</title></programme>
 <programme start="20251231055000 +0000" stop="20251231064500 +0000" channel="VIASAT_FILM"><title lang="hu">Az elveszett ereklyék fosztogatói</title></programme>
 <programme start="20251231064500 +0000" stop="20251231074000 +0000" channel="VIASAT_FILM"><title lang="hu">Az elveszett ereklyék fosztogatói</title></programme>
@@ -13580,8 +13580,8 @@
 <programme start="20251231024000 +0000" stop="20251231033000 +0000" channel="VOX"><title lang="hu">Medical Detectives - Geheimnisse der Gerichtsmedizin</title></programme>
 <programme start="20251231033000 +0000" stop="20251231041000 +0000" channel="VOX"><title lang="hu">Medical Detectives - Geheimnisse der Gerichtsmedizin</title></programme>
 <programme start="20251231033000 +0000" stop="20251231041000 +0000" channel="VOX"><title lang="hu">Medical Detectives - Geheimnisse der Gerichtsmedizin</title></programme>
-<programme start="20251231041000 +0000" stop="20251231050000 +0000" channel="VOX"><title lang="hu">Medical Detectives - Geheimnisse der Gerichtsmedizin</title></programme>
 <programme start="20251231041000 +0000" stop="20251231044000 +0000" channel="VOX"><title lang="hu">Medical Detectives - Geheimnisse der Gerichtsmedizin</title></programme>
+<programme start="20251231041000 +0000" stop="20251231050000 +0000" channel="VOX"><title lang="hu">Medical Detectives - Geheimnisse der Gerichtsmedizin</title></programme>
 <programme start="20251231050000 +0000" stop="20251231055500 +0000" channel="VOX"><title lang="hu">CSI: NY</title></programme>
 <programme start="20251231055500 +0000" stop="20251231073000 +0000" channel="VOX"><title lang="hu">Der Dummschwätzer</title></programme>
 <programme start="20251231073000 +0000" stop="20251231093000 +0000" channel="VOX"><title lang="hu">100 Songs, die die Welt bewegten</title></programme>
