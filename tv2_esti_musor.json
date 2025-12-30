@@ -1,5 +1,59 @@
 [
   {
+    "csatorna": "AXN",
+    "kezdes": "20251230200000 +0000",
+    "vege": "20251230221500 +0000",
+    "cim": "Robotzsaru 2"
+  },
+  {
+    "csatorna": "AXN",
+    "kezdes": "20251230221500 +0000",
+    "vege": "20251230234500 +0000",
+    "cim": "Cloverfield"
+  },
+  {
+    "csatorna": "AXN",
+    "kezdes": "20251230234500 +0000",
+    "vege": "20251231004000 +0000",
+    "cim": "Csillagkapu"
+  },
+  {
+    "csatorna": "AMC",
+    "kezdes": "20251230132000 +0000",
+    "vege": "20251230151000 +0000",
+    "cim": "Még zöldebb a szomszéd nője"
+  },
+  {
+    "csatorna": "AMC",
+    "kezdes": "20251230151000 +0000",
+    "vege": "20251230173500 +0000",
+    "cim": "Willow"
+  },
+  {
+    "csatorna": "AMC",
+    "kezdes": "20251230173500 +0000",
+    "vege": "20251230200000 +0000",
+    "cim": "Csillagpor"
+  },
+  {
+    "csatorna": "AMC",
+    "kezdes": "20251230200000 +0000",
+    "vege": "20251230215000 +0000",
+    "cim": "Vörös zsaru"
+  },
+  {
+    "csatorna": "AMC",
+    "kezdes": "20251230215000 +0000",
+    "vege": "20251230232000 +0000",
+    "cim": "Leszámolás Kis-Tokióban"
+  },
+  {
+    "csatorna": "AMC",
+    "kezdes": "20251230232000 +0000",
+    "vege": "20251231010000 +0000",
+    "cim": "Sharknado 2: A második harapás"
+  },
+  {
     "csatorna": "FilmCafe.hu@Hungary",
     "kezdes": "20251230131000 +0000",
     "vege": "20251230145000 +0000",
@@ -138,6 +192,48 @@
     "cim": "Bosszúvágy 5 - Bosszú kedvesemért"
   },
   {
+    "csatorna": "Nickelodeon.hu@SD",
+    "kezdes": "20251230231500 +0000",
+    "vege": "20251230234500 +0000",
+    "cim": "Szipi & Szuper"
+  },
+  {
+    "csatorna": "Nickelodeon.hu@SD",
+    "kezdes": "20251230234500 +0000",
+    "vege": "20251231010000 +0000",
+    "cim": "Csillag Patrik műsora"
+  },
+  {
+    "csatorna": "OzoneTV.hu@SD",
+    "kezdes": "20251230143000 +0000",
+    "vege": "20251230153000 +0000",
+    "cim": "Zálogkirályok"
+  },
+  {
+    "csatorna": "OzoneTV.hu@SD",
+    "kezdes": "20251230153000 +0000",
+    "vege": "20251230170000 +0000",
+    "cim": "Tűzben edzett"
+  },
+  {
+    "csatorna": "OzoneTV.hu@SD",
+    "kezdes": "20251230170000 +0000",
+    "vege": "20251230203000 +0000",
+    "cim": "Texasi raktárvadászok"
+  },
+  {
+    "csatorna": "OzoneTV.hu@SD",
+    "kezdes": "20251230230000 +0000",
+    "vege": "20251230233000 +0000",
+    "cim": "Hogyan készül? Megmutatjuk!"
+  },
+  {
+    "csatorna": "OzoneTV.hu@SD",
+    "kezdes": "20251230233000 +0000",
+    "vege": "20251231012000 +0000",
+    "cim": "Garázs"
+  },
+  {
     "csatorna": "ParamountNetwork.hu@SD",
     "kezdes": "20251230130000 +0000",
     "vege": "20251230152000 +0000",
@@ -246,6 +342,24 @@
     "cim": "Halálos fegyver 4."
   },
   {
+    "csatorna": "RTLKetto.hu@SD",
+    "kezdes": "20251230141500 +0000",
+    "vege": "20251230225000 +0000",
+    "cim": "Egy rém rendes család"
+  },
+  {
+    "csatorna": "RTLKetto.hu@SD",
+    "kezdes": "20251230232000 +0000",
+    "vege": "20251230234500 +0000",
+    "cim": "A semmi közepén"
+  },
+  {
+    "csatorna": "RTLKetto.hu@SD",
+    "kezdes": "20251230234500 +0000",
+    "vege": "20251231014500 +0000",
+    "cim": "Showder Klub"
+  },
+  {
     "csatorna": "SuperTV2.hu@SD",
     "kezdes": "20251230133000 +0000",
     "vege": "20251230152500 +0000",
@@ -340,5 +454,59 @@
     "kezdes": "20251230235000 +0000",
     "vege": "20251231004500 +0000",
     "cim": "A Grace klinika"
+  },
+  {
+    "csatorna": "Viasat6.hu@SD",
+    "kezdes": "20251230142000 +0000",
+    "vege": "20251230152000 +0000",
+    "cim": "Dumaszínház"
+  },
+  {
+    "csatorna": "Viasat6.hu@SD",
+    "kezdes": "20251230152000 +0000",
+    "vege": "20251230170500 +0000",
+    "cim": "Duma Aktuál"
+  },
+  {
+    "csatorna": "Viasat6.hu@SD",
+    "kezdes": "20251230231500 +0000",
+    "vege": "20251231001000 +0000",
+    "cim": "KAPóra"
+  },
+  {
+    "csatorna": "ViasatFilm.hu@SD",
+    "kezdes": "20251230140000 +0000",
+    "vege": "20251230155500 +0000",
+    "cim": "Borotvaélen"
+  },
+  {
+    "csatorna": "ViasatFilm.hu@SD",
+    "kezdes": "20251230155500 +0000",
+    "vege": "20251230175500 +0000",
+    "cim": "Streetdance: Step Up 2"
+  },
+  {
+    "csatorna": "ViasatFilm.hu@SD",
+    "kezdes": "20251230175500 +0000",
+    "vege": "20251230200000 +0000",
+    "cim": "Step Up 3D"
+  },
+  {
+    "csatorna": "ViasatFilm.hu@SD",
+    "kezdes": "20251230200000 +0000",
+    "vege": "20251230215500 +0000",
+    "cim": "Miután boldogok leszünk"
+  },
+  {
+    "csatorna": "ViasatFilm.hu@SD",
+    "kezdes": "20251230215500 +0000",
+    "vege": "20251230234500 +0000",
+    "cim": "Első szerelem"
+  },
+  {
+    "csatorna": "ViasatFilm.hu@SD",
+    "kezdes": "20251230234500 +0000",
+    "vege": "20251231013000 +0000",
+    "cim": "Miután elbuktunk"
   }
 ]
