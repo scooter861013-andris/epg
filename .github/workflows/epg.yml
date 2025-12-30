@@ -21,25 +21,26 @@ jobs:
         with:
           node-version: 22
 
-      - name: Install dependencies
+      - name: Install EPG dependencies
         run: |
           cd epg
           npm install
 
-      - name: Generate EPG (tvmusor.hu)
+      - name: Generate epg.xml (tvmusor.hu)
         run: |
           cd epg
           npm run grab -- --site=tvmusor.hu --output=../epg.xml
 
-      - name: Szűrés JSON-ra (mai műsorok)
-        run: |
-          npm install fast-xml-parser
-          node tv2_esti_musor_szuro.js
+      - name: Install JSON parser
+        run: npm install fast-xml-parser
+
+      - name: Generate TV JSON (MAI adatok)
+        run: node tv2_esti_musor_szuro.js
 
       - name: Commit results
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add epg.xml tv2_esti_musor.json
-          git commit -m "Update EPG + mai műsorok" || echo "No changes"
+          git commit -m "Update EPG + TV programs" || echo "No changes"
           git push
