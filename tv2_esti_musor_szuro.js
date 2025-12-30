@@ -1,7 +1,8 @@
 import fs from "fs"
 import { XMLParser } from "fast-xml-parser"
 
-const MA = new Date().toISOString().slice(0, 10).replace(/-/g, "") // ← EZ AZ 1.
+const MA = new Date().toISOString().slice(0, 10).replace(/-/g, "")
+const DEL = "120000" // 12:00-tól
 
 const CSATORNAK = [
   "RTL.hu@SD",
@@ -25,14 +26,14 @@ const musorok = adat?.tv?.programme || []
 const kimenet = musorok
   .filter(m =>
     CSATORNAK.includes(m["@_channel"]) &&
-    (m["@_start"] || "").startsWith(MA)   // ← EZ A 2.
+    (m["@_start"] || "").startsWith(MA) &&
+    (m["@_start"] || "").slice(8, 14) >= DEL
   )
   .map(m => ({
     csatorna: m["@_channel"],
     kezdes: m["@_start"],
     vege: m["@_stop"],
-    cim: typeof m.title === "string" ? m.title : m.title?.["#text"] || "",
-    leiras: typeof m.desc === "string" ? m.desc : m.desc?.["#text"] || ""
+    cim: typeof m.title === "string" ? m.title : m.title?.["#text"] || ""
   }))
 
 fs.writeFileSync(
@@ -40,4 +41,4 @@ fs.writeFileSync(
   JSON.stringify(kimenet, null, 2)
 )
 
-console.log("Mai műsorok száma:", kimenet.length)
+console.log("Mai műsorok déltől:", kimenet.length)
