@@ -10,22 +10,25 @@ const NUMERIC_CHANNELS = {
 }
 
 const CSATORNAK = [
-  "TV2.hu@SD",
-  "SuperTV2.hu@SD",
-  "RTL.hu@SD",
-  "RTLKetto.hu@SD",
-  "RTLHarom.hu@SD",
-  "Viasat3.hu@SD",
-  "Viasat6.hu@SD",
-  "FilmMania.hu@SD",
-  "FilmCafe.hu@Hungary",
-  "FilmPlus.hu@SD",
-  "ViasatFilm.hu@SD",
-  "MoziPlus.hu@SD",
-  "ParamountNetwork.hu@SD",
-  "OzoneTV.hu@SD",
-  "Nickelodeon.hu@SD"
-]
+  "TV2",
+  "SUPERTV2",
+  "RTL",
+  "RTLKETTO",
+  "RTLHAROM",
+  "AMC",
+  "AXN",
+  "VIASAT3",
+  "VIASAT6",
+  "FILMMANIA",
+  "FILMCAFE",
+  "FILMPLUS",
+  "VIASATFILM",
+  "MOZIPLUS",
+  "PARAMOUNT_NETWORK",
+  "OZONETV",
+  "NICKELODEON"
+];
+
 
 const xml = fs.readFileSync("epg.xml", "utf8")
 const parser = new XMLParser({ ignoreAttributes: false })
@@ -35,35 +38,24 @@ const musorok = adat?.tv?.programme || []
 
 const kimenet = musorok
   .filter(m => {
-  const ch = m["@_channel"] || "";
-  const start = m["@_start"] || "";
+    const ch = m["@_channel"] || "";
+    const start = m["@_start"] || "";
 
-  const isNormalChannel =
-    (
-      CSATORNAK.includes(ch) ||
-      NUMERIC_CHANNELS[ch]
-    ) &&
-    start.startsWith(MA) &&
-    start.slice(8, 14) >= DEL;
-
-  const isNickelodeonLate =
-    ch === "Nickelodeon.hu@SD" &&
-    (
-      start.startsWith(MA) ||
-      start.startsWith(
-        String(Number(MA) - 1)
-      )
+    return (
+      (CSATORNAK.includes(ch) || NUMERIC_CHANNELS[ch]) &&
+      start.startsWith(MA) &&
+      start.slice(8, 14) >= DEL
     );
-
-  return isNormalChannel || isNickelodeonLate;
-})
-
+  })
   .map(m => ({
-   csatorna: NUMERIC_CHANNELS[m["@_channel"]] || m["@_channel"],
-   kezdes: m["@_start"],
-   vege: m["@_stop"],
-   cim: typeof m.title === "string" ? m.title : m.title?.["#text"] || ""
-  }))
+    csatorna: NUMERIC_CHANNELS[m["@_channel"]] || m["@_channel"],
+    kezdes: m["@_start"],
+    vege: m["@_stop"],
+    cim: typeof m.title === "string"
+      ? m.title
+      : m.title?.["#text"] || ""
+  }));
+
 
 
 fs.writeFileSync(
