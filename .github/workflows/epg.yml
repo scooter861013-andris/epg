@@ -1,50 +1,64 @@
-name: Generate EPG
+import fs from "fs"
+import { XMLParser } from "fast-xml-parser"
 
-on:
-  schedule:
-    - cron: "0 3 * * *"   # naponta 03:00 UTC
-  workflow_dispatch:
+// ======================================================
+// MAI NAP (UTC, YYYYMMDD) – EPG IS UTC!
+// ======================================================
+const MA = new Date().toISOString().slice(0, 10).replace(/-/g, "")
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+// ======================================================
+// CSATORNALISTA
+// ======================================================
+const CSATORNAK = [
+  "RTL.hu@SD",
+  "TV2.hu@SD",
+  "Viasat3.hu@SD",
+  "SuperTV2.hu@SD",
+  "FilmCafe.hu@Hungary",
+  "FilmPlus.hu@SD",
+  "FilmMania.hu@SD",
+  "MoziPlus.hu@SD",
+  "RTLHarom.hu@SD",
+  "ParamountNetwork.hu@SD"
+]
 
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+// ======================================================
+// XML BEOLVASÁS
+// ======================================================
+const xml = fs.readFileSync("epg.xml", "utf8")
 
-      - name: Clone iptv-org/epg
-        run: git clone --depth 1 https://github.com/iptv-org/epg.git
+const parser = new XMLParser({ ignoreAttributes: false })
+const adat = parser.parse(xml)
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22
+const musorok = adat?.tv?.programme || []
 
-      - name: Install dependencies
-        run: |
-          cd epg
-          npm install
+// ======================================================
+// SZŰRÉS – CSAK MA + CSAK KIVÁLASZTOTT CSATORNÁK
+// ======================================================
+const kimenet = musorok
+  .filter(m => {
+    const csatorna = m["@_channel"]
+    const start = m["@_start"] || ""
 
-      - name: Generate EPG (tvmusor.hu)
-        run: |
-          cd epg
-          npm run grab -- --site=tvmusor.hu --output=../epg.xml
+    if (!CSATORNAK.includes(csatorna)) return false
+    if (!start.startsWith(MA)) return false   // 🔴 CSAK MAI NAP
 
-      # 👉 ÚJ, BIZTONSÁGOS LÉPÉS (nem nyúl semmi máshoz)
-      - name: TV2 esti műsor JSON szűrés
-        run: |
-          npm install fast-xml-parser
-          node tv2_esti_musor_szuro.js
+    return true
+  })
+  .map(m => ({
+    csatorna: m["@_channel"],
+    kezdes: m["@_start"],
+    vege: m["@_stop"],
+    cim: typeof m.title === "string" ? m.title : m.title?.["#text"] || "",
+    leiras: typeof m.desc === "string" ? m.desc : m.desc?.["#text"] || ""
+  }))
 
-      - name: Commit EPG
-        run: |
-          if [ -f epg.xml ]; then
-            git config user.name "github-actions"
-            git config user.email "github-actions@github.com"
-            git add epg.xml tv2_esti_musor.json
-            git commit -m "Update EPG + TV2 esti műsor" || echo "No changes"
-            git push
-          else
-            echo "No epg.xml generated"
-          fi
+// ======================================================
+// JSON KIÍRÁS – FONTOS: EZ A FÁJLNÉV!
+// ======================================================
+fs.writeFileSync(
+  "tv2_esti_musor.json",
+  JSON.stringify(kimenet, null, 2)
+)
+
+console.log("Mai műsorok száma:", kimenet.length)
