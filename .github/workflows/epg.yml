@@ -29,7 +29,7 @@ jobs:
       - name: Generate epg.xml (tvmusor.hu)
         run: |
           cd epg
-          npm run grab -- --site=tvmusor.hu --output=../epg.xml
+          npm run grab -- --site=tvmustra.hu --output=../epg.xml
 
       - name: Install JSON parser
         run: npm install fast-xml-parser
