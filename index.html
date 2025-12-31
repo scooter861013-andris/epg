@@ -2,11 +2,66 @@
 <html lang="hu">
 <head>
   <meta charset="UTF-8">
-  <title>Időjárás teszt</title>
+  <title>Időjárás</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: monospace;
+      background: #ffffff;
+      color: #000;
+      padding: 16px;
+      white-space: pre-line;
+    }
+  </style>
 </head>
-<body>
-<pre>
-Ha ezt látod, akkor az index.html működik 👍
-</pre>
+<body id="out">
+Betöltés...
+<script>
+const lat = 47.6881;     // Hajdúhadház
+const lon = 21.6601;
+
+const weatherMap = {
+  0: ["Tiszta égbolt", "☀️"],
+  1: ["Többnyire derült", "🌤️"],
+  2: ["Részben felhős", "⛅"],
+  3: ["Borult", "☁️"],
+  45: ["Köd", "🌫️"],
+  48: ["Zúzmarás köd", "🌫️"],
+  51: ["Szitálás", "🌦️"],
+  61: ["Eső", "🌧️"],
+  71: ["Havazás", "❄️"],
+  80: ["Zápor", "🌧️"],
+  95: ["Zivatar", "⛈️"]
+};
+
+function fmtDate(d) {
+  return d.toLocaleDateString("hu-HU", { weekday: "short" });
+}
+
+fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true&daily=weathercode,temperature_2m_min,temperature_2m_max&timezone=Europe/Budapest`)
+.then(r => r.json())
+.then(d => {
+  const now = d.current_weather;
+  const mapNow = weatherMap[now.weathercode] || ["Ismeretlen", "❓"];
+
+  let txt = `[${now.time.slice(11,16)}]\n`;
+  txt += `Most: ${now.temperature} °C\n`;
+  txt += `Idő: ${mapNow[0]} ${mapNow[1]}\n\n`;
+  txt += `Előrejelzés:\n`;
+
+  for (let i = 1; i <= 3; i++) {
+    const map = weatherMap[d.daily.weathercode[i]] || ["?", "❓"];
+    txt += `${fmtDate(new Date(d.daily.time[i]))}  `;
+    txt += `${Math.round(d.daily.temperature_2m_min[i])} / `;
+    txt += `${Math.round(d.daily.temperature_2m_max[i])} `;
+    txt += `${map[1]}\n`;
+  }
+
+  document.getElementById("out").textContent = txt;
+})
+.catch(() => {
+  document.getElementById("out").textContent = "Hiba az időjárás betöltésekor.";
+});
+</script>
 </body>
 </html>
