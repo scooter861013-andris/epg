@@ -4,6 +4,9 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 
+# -------------------------------------------------
+# KONFIG
+# -------------------------------------------------
 LOCATION = os.getenv("IDOKEP_LOCATION", "Hajduhadhaz")
 URL = f"https://www.idokep.hu/idojaras/{LOCATION}"
 
@@ -11,12 +14,17 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (GitHubActions)"
 }
 
+# -------------------------------------------------
+# LETÖLTÉS
+# -------------------------------------------------
 resp = requests.get(URL, headers=HEADERS, timeout=15)
 resp.raise_for_status()
 
 soup = BeautifulSoup(resp.text, "html.parser")
 
-# ---- AKTUÁLIS HŐMÉRSÉKLET ----
+# -------------------------------------------------
+# AKTUÁLIS HŐMÉRSÉKLET
+# -------------------------------------------------
 current_temp = None
 temp_el = soup.select_one(".current-temperature")
 if temp_el:
@@ -27,13 +35,17 @@ if temp_el:
     except ValueError:
         pass
 
-# ---- AKTUÁLIS IDŐJÁRÁS ----
+# -------------------------------------------------
+# AKTUÁLIS IDŐJÁRÁS
+# -------------------------------------------------
 current_cond = None
 cond_el = soup.select_one(".current-weather")
 if cond_el:
     current_cond = cond_el.text.strip()
 
-# ---- IKON MAP ----
+# -------------------------------------------------
+# IKON MAP
+# -------------------------------------------------
 ICON_MAP = {
     "napos": "☀️",
     "derült": "🌙",
@@ -58,14 +70,17 @@ def condition_to_icon(text):
 
 current_icon = condition_to_icon(current_cond)
 
-# ---- 7 NAPOS ELŐREJELZÉS ----
+# -------------------------------------------------
+# 7 NAPOS ELŐREJELZÉS (IDŐKÉP DOM)
+# -------------------------------------------------
 forecast_7d = []
 
 cards = soup.select(".dailyForecast .dfItem")[:7]
 
 for card in cards:
     day_name = None
-    tmin = tmax = None
+    tmin = None
+    tmax = None
     condition = None
     icon = None
 
@@ -100,7 +115,9 @@ for card in cards:
         "icon": icon
     })
 
-# ---- JSON KIMENET ----
+# -------------------------------------------------
+# JSON KIMENET
+# -------------------------------------------------
 data = {
     "source": "idokep.hu",
     "location": LOCATION,
