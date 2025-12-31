@@ -19,7 +19,6 @@ HEADERS = {
 # -------------------------------------------------
 resp = requests.get(URL, headers=HEADERS, timeout=15)
 resp.raise_for_status()
-
 soup = BeautifulSoup(resp.text, "html.parser")
 
 # -------------------------------------------------
@@ -62,23 +61,23 @@ ICON_MAP = {
 def condition_to_icon(text):
     if not text:
         return None
-    lc = text.lower()
+    text = text.lower()
     for k, v in ICON_MAP.items():
-        if k in lc:
+        if k in text:
             return v
     return None
 
 current_icon = condition_to_icon(current_cond)
 
 # -------------------------------------------------
-# 7 NAPOS ELŐREJELZÉS (IDŐKÉP DOM)
+# 7 NAPOS ELŐREJELZÉS  ✅ HELYES IDŐKÉP DOM
 # -------------------------------------------------
 forecast_7d = []
 
 cards = soup.select(".dailyForecast .dfItem")[:7]
 
 for card in cards:
-    day_name = None
+    day = None
     tmin = None
     tmax = None
     condition = None
@@ -86,7 +85,7 @@ for card in cards:
 
     day_el = card.select_one(".dfDay")
     if day_el:
-        day_name = day_el.text.strip()
+        day = day_el.text.strip()
 
     min_el = card.select_one(".dfMin")
     if min_el:
@@ -108,7 +107,7 @@ for card in cards:
         icon = condition_to_icon(condition)
 
     forecast_7d.append({
-        "day": day_name,
+        "day": day,
         "min": tmin,
         "max": tmax,
         "condition": condition,
