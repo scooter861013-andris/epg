@@ -1,4 +1,5 @@
 import os
+import re
 import json
 import requests
 from bs4 import BeautifulSoup
@@ -74,7 +75,7 @@ current_icon = condition_to_icon(current_cond)
 # -------------------------------------------------
 forecast_7d = []
 
-cards = soup.select(".dailyForecast .dfItem")[:7]
+cards = soup.select(".ik.dailyForecastCol")[:7]
 
 for card in cards:
     day = None
@@ -83,28 +84,35 @@ for card in cards:
     condition = None
     icon = None
 
+    # nap
     day_el = card.select_one(".dfDay")
     if day_el:
         day = day_el.text.strip()
 
-    min_el = card.select_one(".dfMin")
-    if min_el:
-        try:
-            tmin = int(min_el.text.replace("°", "").strip())
-        except ValueError:
-            pass
-
-    max_el = card.select_one(".dfMax")
+    # max
+    max_el = card.select_one(".max a")
     if max_el:
         try:
-            tmax = int(max_el.text.replace("°", "").strip())
+            tmax = int(max_el.text.strip())
         except ValueError:
             pass
 
-    img_el = card.select_one("img")
-    if img_el and img_el.get("alt"):
-        condition = img_el["alt"].strip()
-        icon = condition_to_icon(condition)
+    # min
+    min_el = card.select_one(".min a")
+    if min_el:
+        try:
+            tmin = int(min_el.text.strip())
+        except ValueError:
+            pass
+
+    # állapot szöveg (data-bs-content-ből)
+    a_el = card.select_one(".dfIconAlert a")
+    if a_el and a_el.has_attr("data-bs-content"):
+        html = a_el["data-bs-content"]
+        m = re.search(r">([^<]+)<", html)
+        if m:
+            condition = m.group(1).strip()
+            icon = condition_to_icon(condition)
 
     forecast_7d.append({
         "day": day,
