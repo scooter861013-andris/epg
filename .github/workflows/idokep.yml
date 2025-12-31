@@ -8,6 +8,8 @@ on:
 jobs:
   run-idokep:
     runs-on: ubuntu-latest
+    env:
+      IDOKEP_LOCATION: Hajduhadhaz
 
     steps:
       - name: Checkout repository
