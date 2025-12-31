@@ -20,9 +20,10 @@ Betöltés...
 const lat = 47.6881;   // Hajdúhadház
 const lon = 21.6601;
 
+// NAPPALI ikon + szöveg
 const weatherMap = {
   0: ["Tiszta égbolt", "☀️"],
-  1: ["Többnyire derült", "🌤️"],
+  1: ["Derült", "🌤️"],
   2: ["Részben felhős", "⛅"],
   3: ["Borult", "☁️"],
   45: ["Köd", "🌫️"],
@@ -42,6 +43,29 @@ const weatherMap = {
   95: ["Zivatar", "⛈️"]
 };
 
+// ÉJSZAKAI ikonok
+const nightIcons = {
+  0: "🌙",      // tiszta
+  1: "🌙",      // derült
+  2: "☁️🌙",    // részben felhős
+  3: "☁️",      // borult
+  45: "🌫️",
+  48: "🌫️",
+  51: "🌧️",
+  53: "🌧️",
+  55: "🌧️",
+  61: "🌧️",
+  63: "🌧️",
+  65: "🌧️",
+  71: "❄️",
+  73: "❄️",
+  75: "❄️",
+  80: "🌧️",
+  81: "🌧️",
+  82: "🌧️",
+  95: "⛈️"
+};
+
 function dayName(dateStr) {
   return new Date(dateStr).toLocaleDateString("hu-HU", { weekday: "short" });
 }
@@ -50,19 +74,28 @@ fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&c
 .then(r => r.json())
 .then(d => {
   const now = d.current_weather;
-  const nowMap = weatherMap[now.weathercode] || ["Ismeretlen", "❓"];
+  const map = weatherMap[now.weathercode] || ["Ismeretlen", "❓"];
+
+  // ÉJSZAKA MEGHATÁROZÁSA (emberi logika)
+  const hour = parseInt(now.time.slice(11,13), 10);
+  const isNight = (hour < 6 || hour >= 16);
+
+  let icon = map[1];
+  if (isNight && nightIcons[now.weathercode]) {
+    icon = nightIcons[now.weathercode];
+  }
 
   let txt = `[${now.time.slice(11,16)}]\n`;
   txt += `Most: ${now.temperature} °C\n`;
-  txt += `Idő: ${nowMap[0]} ${nowMap[1]}\n\n`;
+  txt += `Idő: ${map[0]} ${icon}\n\n`;
   txt += `7 napos előrejelzés:\n`;
 
   for (let i = 0; i < 7; i++) {
-    const map = weatherMap[d.daily.weathercode[i]] || ["?", "❓"];
+    const dayMap = weatherMap[d.daily.weathercode[i]] || ["?", "❓"];
     txt += `${dayName(d.daily.time[i])}  `;
     txt += `${Math.round(d.daily.temperature_2m_min[i])} / `;
     txt += `${Math.round(d.daily.temperature_2m_max[i])} °C `;
-    txt += `${map[1]}\n`;
+    txt += `${dayMap[1]}\n`;
   }
 
   document.getElementById("out").textContent = txt;
