@@ -27,7 +27,7 @@ if temp_el:
     except ValueError:
         pass
 
-# ---- IDŐJÁRÁS LEÍRÁS ----
+# ---- AKTUÁLIS IDŐJÁRÁS ----
 current_cond = None
 cond_el = soup.select_one(".current-weather")
 if cond_el:
@@ -47,15 +47,64 @@ ICON_MAP = {
     "köd": "🌫️"
 }
 
-icon = None
-if current_cond:
-    lc = current_cond.lower()
+def condition_to_icon(text):
+    if not text:
+        return None
+    lc = text.lower()
     for k, v in ICON_MAP.items():
         if k in lc:
-            icon = v
-            break
+            return v
+    return None
 
-# ---- JSON ----
+current_icon = condition_to_icon(current_cond)
+
+# ---- 7 NAPOS ELŐREJELZÉS ----
+forecast_7d = []
+
+cards = soup.select(".forecast-table .day")[:7]
+
+for card in cards:
+    # nap neve
+    day_name = None
+    day_el = card.select_one(".dayname")
+    if day_el:
+        day_name = day_el.text.strip()
+
+    # min / max
+    tmin = tmax = None
+
+    min_el = card.select_one(".min")
+    if min_el:
+        try:
+            tmin = int(min_el.text.replace("°", "").strip())
+        except ValueError:
+            pass
+
+    max_el = card.select_one(".max")
+    if max_el:
+        try:
+            tmax = int(max_el.text.replace("°", "").strip())
+        except ValueError:
+            pass
+
+    # állapot + ikon (img alt)
+    condition = None
+    icon = None
+
+    img_el = card.select_one("img")
+    if img_el and img_el.get("alt"):
+        condition = img_el["alt"].strip()
+        icon = condition_to_icon(condition)
+
+    forecast_7d.append({
+        "day": day_name,
+        "min": tmin,
+        "max": tmax,
+        "condition": condition,
+        "icon": icon
+    })
+
+# ---- JSON KIMENET ----
 data = {
     "source": "idokep.hu",
     "location": LOCATION,
@@ -63,12 +112,12 @@ data = {
     "current": {
         "temperature": current_temp,
         "condition": current_cond,
-        "icon": icon
+        "icon": current_icon
     },
-    "forecast_7d": []  # később bővíthető
+    "forecast_7d": forecast_7d
 }
 
 with open("idokep.json", "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
-print("Időkép JSON frissítve (DOM scraping)")
+print("Időkép JSON frissítve (aktuális + 7 napos előrejelzés)")
