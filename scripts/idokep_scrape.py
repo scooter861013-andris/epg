@@ -111,9 +111,8 @@ for card in cards:
         html = a_el["data-bs-content"]
         m = re.search(r"popover-icon[^>]*>\s*([^<\n\r]+)", html)
         if m:
-        condition = m.group(1).strip()
-        icon = condition_to_icon(condition)
-
+            condition = m.group(1).strip()
+            icon = condition_to_icon(condition)
 
     forecast_7d.append({
         "day": day,
