@@ -61,35 +61,31 @@ current_icon = condition_to_icon(current_cond)
 # ---- 7 NAPOS ELŐREJELZÉS ----
 forecast_7d = []
 
-cards = soup.select(".forecast-table .day")[:7]
+cards = soup.select(".dailyForecast .dfItem")[:7]
 
 for card in cards:
-    # nap neve
     day_name = None
-    day_el = card.select_one(".dayname")
+    tmin = tmax = None
+    condition = None
+    icon = None
+
+    day_el = card.select_one(".dfDay")
     if day_el:
         day_name = day_el.text.strip()
 
-    # min / max
-    tmin = tmax = None
-
-    min_el = card.select_one(".min")
+    min_el = card.select_one(".dfMin")
     if min_el:
         try:
             tmin = int(min_el.text.replace("°", "").strip())
         except ValueError:
             pass
 
-    max_el = card.select_one(".max")
+    max_el = card.select_one(".dfMax")
     if max_el:
         try:
             tmax = int(max_el.text.replace("°", "").strip())
         except ValueError:
             pass
-
-    # állapot + ikon (img alt)
-    condition = None
-    icon = None
 
     img_el = card.select_one("img")
     if img_el and img_el.get("alt"):
