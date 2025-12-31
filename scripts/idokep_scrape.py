@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 
 LOCATION = os.getenv("IDOKEP_LOCATION", "Hajduhadhaz")
-URL = f"https://www.idokep.hu/elorejelzes/{LOCATION}"
+URL = f"https://www.idokep.hu/idojaras/{LOCATION}"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (GitHubActions)"
@@ -16,33 +16,22 @@ resp.raise_for_status()
 
 soup = BeautifulSoup(resp.text, "html.parser")
 
-# ---- JSON-LD KINYERÉS ----
-json_ld = None
-for script in soup.find_all("script", type="application/ld+json"):
-    try:
-        data = json.loads(script.string)
-        if isinstance(data, dict) and data.get("@type") == "WeatherForecast":
-            json_ld = data
-            break
-    except Exception:
-        continue
-
+# ---- AKTUÁLIS HŐMÉRSÉKLET ----
 current_temp = None
+temp_el = soup.select_one(".current-temperature")
+if temp_el:
+    try:
+        current_temp = float(
+            temp_el.text.replace("˚C", "").replace("°C", "").strip()
+        )
+    except ValueError:
+        pass
+
+# ---- IDŐJÁRÁS LEÍRÁS ----
 current_cond = None
-forecast = []
-
-if json_ld:
-    current = json_ld.get("weatherCondition", {})
-    current_temp = current.get("temperature")
-    current_cond = current.get("description")
-
-    for day in json_ld.get("forecast", [])[:7]:
-        forecast.append({
-            "day": day.get("dayOfWeek"),
-            "min": day.get("lowTemperature"),
-            "max": day.get("highTemperature"),
-            "condition": day.get("weatherCondition")
-        })
+cond_el = soup.select_one(".current-weather")
+if cond_el:
+    current_cond = cond_el.text.strip()
 
 # ---- IKON MAP ----
 ICON_MAP = {
@@ -76,10 +65,10 @@ data = {
         "condition": current_cond,
         "icon": icon
     },
-    "forecast_7d": forecast
+    "forecast_7d": []  # később bővíthető
 }
 
 with open("idokep.json", "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
-print("Időkép JSON frissítve (JSON-LD)")
+print("Időkép JSON frissítve (DOM scraping)")
