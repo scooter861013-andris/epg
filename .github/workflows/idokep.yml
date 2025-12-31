@@ -20,6 +20,10 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Install Python dependencies
+        run: |
+          pip install requests beautifulsoup4
+
       - name: Run Idokep scraper
         run: python scripts/idokep_scrape.py
 
