@@ -36,9 +36,8 @@ const adat = parser.parse(xml)
 
 const musorok = adat?.tv?.programme || []
 const seen = new Set()
+
 const kimenet = musorok
-  
-  const kimenet = musorok
   .filter(m => {
     const ch = m["@_channel"] || "";
     const start = m["@_start"] || "";
