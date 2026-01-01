@@ -50,11 +50,15 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           NOW=$(date +%s)
-          LAST_RUN=${{ github.run_started_at }}
-          LAST=$(date -d "$LAST_RUN" +%s)
-          DIFF=$((NOW - LAST))
 
-          echo "Seconds since start: $DIFF"
+          if [ -f idokep.json ]; then
+            LAST=$(git log -1 --format=%ct -- idokep.json)
+          else
+            LAST=0
+          fi
+
+          DIFF=$((NOW - LAST))
+          echo "Seconds since last JSON update: $DIFF"
 
           if [ $DIFF -gt 1200 ]; then
             echo "Triggering self wake-up"
