@@ -129,6 +129,7 @@ data = {
     "source": "idokep.hu",
     "location": LOCATION,
     "updated": datetime.now().isoformat(timespec="minutes"),
+    "flow_last_run": datetime.now().isoformat(timespec="minutes"),
     "current": {
         "temperature": current_temp,
         "condition": current_cond,
