@@ -45,7 +45,7 @@ jobs:
           git commit -m "Update idokep.json" || echo "No changes to commit"
           git push
 
-      - name: Self wake-up safeguard
+       - name: Self wake-up safeguard
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
