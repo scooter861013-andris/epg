@@ -52,7 +52,7 @@ jobs:
           NOW=$(date +%s)
 
           if [ -f idokep.json ]; then
-            LAST=$(git log -1 --format=%ct -- idokep.json)
+            LAST=$(git log -1 --format=%ct)
           else
             LAST=0
           fi
