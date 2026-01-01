@@ -125,10 +125,26 @@ for card in cards:
 # -------------------------------------------------
 # JSON KIMENET
 # -------------------------------------------------
+
+old_data = None
+if os.path.exists("idokep.json"):
+    with open("idokep.json", "r", encoding="utf-8") as f:
+        old_data = json.load(f)
+
 data = {
     "source": "idokep.hu",
     "location": LOCATION,
-    "updated": datetime.now().isoformat(timespec="minutes"),
+    "updated": (
+        old_data.get("updated")
+        if old_data
+        and old_data.get("current") == {
+            "temperature": current_temp,
+            "condition": current_cond,
+            "icon": current_icon
+        }
+        and old_data.get("forecast_7d") == forecast_7d
+        else datetime.now().isoformat(timespec="minutes")
+    ),
     "flow_last_run": datetime.now().isoformat(timespec="minutes"),
     "current": {
         "temperature": current_temp,
