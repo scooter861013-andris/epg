@@ -1,7 +1,7 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026-01-01T05:45",
+  "updated": "2026-01-01T06:59",
   "current": {
     "temperature": -2.0,
     "condition": "Borult",
@@ -11,14 +11,14 @@
     {
       "day": "Cs",
       "min": -6,
-      "max": 0,
+      "max": 1,
       "condition": "havazás",
       "icon": "❄️"
     },
     {
       "day": "P",
       "min": -2,
-      "max": 4,
+      "max": 2,
       "condition": "borult",
       "icon": "☁️"
     },
