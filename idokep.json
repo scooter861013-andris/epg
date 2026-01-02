@@ -1,58 +1,58 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026-01-02T12:13+01:00",
-  "flow_last_run": "2026-01-02T12:13+01:00",
+  "updated": "2026-01-02T12:31+01:00",
+  "flow_last_run": "2026-01-02T12:31+01:00",
   "current": {
     "temperature": 2.0,
-    "condition": "Havas eső",
-    "icon": "🌧️"
+    "condition": "Borult",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "P",
+      "day": "Péntek",
       "min": -3,
       "max": 2,
       "condition": "borult",
       "icon": "☁️"
     },
     {
-      "day": "Sz",
+      "day": "Szombat",
       "min": -3,
       "max": 4,
       "condition": "gyengén felhős",
       "icon": "☁️"
     },
     {
-      "day": "V",
+      "day": "Vasárnap",
       "min": -6,
       "max": 2,
       "condition": "közepesen felhős",
       "icon": "☁️"
     },
     {
-      "day": "H",
+      "day": "Hétfő",
       "min": -8,
       "max": 1,
       "condition": "borult",
       "icon": "☁️"
     },
     {
-      "day": "K",
+      "day": "Kedd",
       "min": -6,
       "max": -1,
       "condition": "hószállingózás",
       "icon": "❄️"
     },
     {
-      "day": "Sz",
+      "day": "Szerda",
       "min": -5,
       "max": -1,
       "condition": "havazás",
       "icon": "❄️"
     },
     {
-      "day": "Cs",
+      "day": "Csütörtök",
       "min": -8,
       "max": -2,
       "condition": "hószállingózás",
