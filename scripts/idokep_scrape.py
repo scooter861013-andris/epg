@@ -4,6 +4,8 @@ import json
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
+from zoneinfo import ZoneInfo
+
 
 # -------------------------------------------------
 # KONFIG
@@ -130,7 +132,7 @@ old_data = None
 if os.path.exists("idokep.json"):
     with open("idokep.json", "r", encoding="utf-8") as f:
         old_data = json.load(f)
-
+now = datetime.now(ZoneInfo("Europe/Budapest")).isoformat(timespec="minutes")
 data = {
     "source": "idokep.hu",
     "location": LOCATION,
@@ -143,9 +145,9 @@ data = {
             "icon": current_icon
         }
         and old_data.get("forecast_7d") == forecast_7d
-        else datetime.now().isoformat(timespec="minutes")
+        else now
     ),
-    "flow_last_run": datetime.now().isoformat(timespec="minutes"),
+    "flow_last_run": now,
     "current": {
         "temperature": current_temp,
         "condition": current_cond,
