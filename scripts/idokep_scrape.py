@@ -89,11 +89,11 @@ for card in cards:
     # nap
     a_el = card.select_one(".dfIconAlert a")
     if a_el and a_el.has_attr("title"):
-    title = a_el["title"]
+        title = a_el["title"]
 
     # pl: "Szombat<br>2026. január 3."
-    parts = title.split("<br>")
-    day = parts[0].strip() if parts else None
+        parts = title.split("<br>")
+        day = parts[0].strip() if parts else None
 
 
     # max
