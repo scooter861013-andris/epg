@@ -31,7 +31,7 @@ current_temp = None
 temp_el = soup.select_one(".current-temperature")
 if temp_el:
     try:
-        current_temp = float(
+        current_temp = int(
             temp_el.text.replace("˚C", "").replace("°C", "").strip()
         )
     except ValueError:
