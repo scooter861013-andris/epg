@@ -1,11 +1,11 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026-01-03T15:59+01:00",
-  "flow_last_run": "2026-01-03T16:04+01:00",
+  "updated": "2026-01-03T16:10+01:00",
+  "flow_last_run": "2026-01-03T16:10+01:00",
   "current": {
     "temperature": 1,
-    "condition": "Gyengén felhős",
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -23,7 +23,7 @@
       "max": 3,
       "condition": "gyengén felhős",
       "icon": "☁️",
-      "alert": "fc-line'>\r\n                        Hidegfront"
+      "alert": "Hidegfront"
     },
     {
       "day": "Hétfő",
@@ -39,7 +39,7 @@
       "max": null,
       "condition": "havazás",
       "icon": "❄️",
-      "alert": "fc-line'>\r\n                        Hidegfront havazással és széllel"
+      "alert": "Hidegfront havazással és széllel"
     },
     {
       "day": "Szerda",
@@ -47,7 +47,7 @@
       "max": -2,
       "condition": "havazás",
       "icon": "❄️",
-      "alert": "fc-line'>\r\n                        Mediterrán ciklon"
+      "alert": "Mediterrán ciklon"
     },
     {
       "day": "Csütörtök",
@@ -55,7 +55,7 @@
       "max": -2,
       "condition": "hózápor",
       "icon": "🌧️",
-      "alert": "fc-line'>\r\n                        Erős fagy"
+      "alert": "Erős fagy"
     },
     {
       "day": "Péntek",
@@ -63,7 +63,7 @@
       "max": -4,
       "condition": "erősen felhős",
       "icon": "☁️",
-      "alert": "fc-line'>\r\n                        Erős fagy"
+      "alert": "Erős fagy"
     }
   ],
   "sun": {
