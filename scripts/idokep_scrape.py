@@ -110,14 +110,14 @@ for card in cards:
     alert = None
 
     alert_icon = card.select_one(".forecast-alert-icon")
-if alert_icon:
-    alert = None
+    if alert_icon:
+        alert = None
 
     # popover tartalom kinyerése
     a_el = card.select_one(".dfIconAlert a")
     if a_el and a_el.has_attr("data-bs-content"):
         html = a_el["data-bs-content"]
-
+        
         # minden figyelmeztetés sor megkeresése
         lines = re.findall(
             r"fc-line[^>]*>.*?</div>",
