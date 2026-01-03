@@ -154,7 +154,7 @@ for card in cards:
         "min": tmin,
         "max": tmax,
         "condition": condition,
-        "icon": icon
+        "icon": icon,
         "alert": alert
     })
 
