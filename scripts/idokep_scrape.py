@@ -122,10 +122,9 @@ for card in cards:
 
             for line in lines:
                 if "figyikonok2" in line:
-                txt = re.sub(r".*?>", "", line)   # minden HTML elejét levágja
-                txt = re.sub(r"<[^>]+>", "", txt) # maradék tagek le
-                alert = txt.strip()
-
+                    txt = re.sub(r".*?>", "", line)   # minden HTML elejét levágja
+                    txt = re.sub(r"<[^>]+>", "", txt) # maradék tagek le
+                    alert = txt.strip()
                     break
 
     # nap
