@@ -1,22 +1,14 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026-01-03T18:37+01:00",
-  "flow_last_run": "2026-01-03T18:49+01:00",
+  "updated": "2026-01-03T19:53+01:00",
+  "flow_last_run": "2026-01-03T19:53+01:00",
   "current": {
     "temperature": -2,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Szombat",
-      "min": -4,
-      "max": 4,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Vasárnap",
       "min": -5,
@@ -31,11 +23,11 @@
       "max": 1,
       "condition": "hószállingózás",
       "icon": "❄️",
-      "alert": null
+      "alert": "Erős fagy"
     },
     {
       "day": "Kedd",
-      "min": -2,
+      "min": -4,
       "max": 0,
       "condition": "havazás",
       "icon": "❄️",
@@ -43,7 +35,7 @@
     },
     {
       "day": "Szerda",
-      "min": -7,
+      "min": -5,
       "max": -2,
       "condition": "havazás",
       "icon": "❄️",
@@ -51,19 +43,27 @@
     },
     {
       "day": "Csütörtök",
-      "min": -9,
-      "max": -2,
+      "min": -8,
+      "max": -3,
       "condition": "hózápor",
       "icon": "🌧️",
-      "alert": "Erős fagy"
+      "alert": "Szeles nap"
     },
     {
       "day": "Péntek",
       "min": -13,
       "max": -4,
-      "condition": "erősen felhős",
-      "icon": "☁️",
+      "condition": "hószállingózás",
+      "icon": "❄️",
       "alert": "Erős fagy"
+    },
+    {
+      "day": "Szombat",
+      "min": -7,
+      "max": -1,
+      "condition": "havazás",
+      "icon": "❄️",
+      "alert": "Hidegfront havazással és széllel"
     }
   ],
   "sun": {
