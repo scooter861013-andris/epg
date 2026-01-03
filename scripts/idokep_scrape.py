@@ -109,9 +109,8 @@ for card in cards:
     icon = None
     alert = None
 
-    # --- FIGYELMEZTETÉS VAN-E? ---
     alert_icon = card.select_one(".forecast-alert-icon")
-    if alert_icon:
+if alert_icon:
     alert = None
 
     # popover tartalom kinyerése
