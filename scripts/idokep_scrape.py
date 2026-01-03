@@ -97,18 +97,18 @@ if sunset_el:
 # -------------------------------------------------
 # 7 NAPOS ELŐREJELZÉS  ✅ HELYES IDŐKÉP DOM
 # -------------------------------------------------
+def parse_temp(card, cls):
+    el = card.select_one(f".{cls}")
+    if not el:
+        return None
+    txt = el.get_text(strip=True)
+    try:
+        return int(txt)
+    except ValueError:
+        return None
 forecast_7d = []
 cards = soup.select(".ik.dailyForecastCol")[:7]
 for card in cards:
-    def parse_temp(card, cls):
-        el = card.select_one(f".{cls}")
-        if not el:
-            return None
-        txt = el.get_text(strip=True)
-        try:
-            return int(txt)
-        except ValueError:
-            return None
     day = None
     tmin = None
     tmax = None
