@@ -149,6 +149,21 @@ for card in cards:
     tmin = parse_temp(card, "min")
     tmax = parse_temp(card, "max")
 
+    # --- KEDD / összevont min-max (min-max-close) ---
+    if tmin is None and tmax is None:
+        close = card.select_one(".min-max-close")
+        if close:
+            vals = [v.get_text(strip=True) for v in close.select("a")]
+            vals = [v.replace("−", "-") for v in vals]
+
+            try:
+                nums = [int(v) for v in vals if v]
+                if len(nums) >= 2:
+                    tmax = nums[0]
+                    tmin = nums[1]
+            except ValueError:
+                pass
+
     # állapot szöveg (data-bs-content-ből)
     a_el = card.select_one(".dfIconAlert a")
     if a_el and a_el.has_attr("data-bs-content"):
