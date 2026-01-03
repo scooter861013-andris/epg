@@ -107,6 +107,12 @@ for card in cards:
     tmax = None
     condition = None
     icon = None
+    alert = None
+
+    # --- FIGYELMEZTETÉS VAN-E? ---
+    alert_icon = card.select_one(".forecast-alert-icon")
+    if alert_icon:
+        alert = "__VAN__"
 
     # nap
     a_el = card.select_one(".dfIconAlert a")
@@ -149,6 +155,7 @@ for card in cards:
         "max": tmax,
         "condition": condition,
         "icon": icon
+        "alert": alert
     })
 
 # -------------------------------------------------
