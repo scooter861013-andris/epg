@@ -190,7 +190,7 @@ data = {
         "condition": current_cond,
         "icon": current_icon
     },
-    "forecast_7d": forecast_7d
+    "forecast_7d": forecast_7d,
     "sun": {
     "sunrise": sunrise,
     "sunset": sunset,
