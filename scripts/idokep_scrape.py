@@ -100,6 +100,15 @@ if sunset_el:
 forecast_7d = []
 cards = soup.select(".ik.dailyForecastCol")[:7]
 for card in cards:
+    def parse_temp(card, cls):
+        el = card.select_one(f".{cls}")
+        if not el:
+            return None
+        txt = el.get_text(strip=True)
+        try:
+            return int(txt)
+        except ValueError:
+            return None
     day = None
     tmin = None
     tmax = None
@@ -137,21 +146,8 @@ for card in cards:
         day = parts[0].strip() if parts else None
 
 
-    # max
-    max_el = card.select_one(".max a")
-    if max_el:
-        try:
-            tmax = int(max_el.text.strip())
-        except ValueError:
-            pass
-
-    # min
-    min_el = card.select_one(".min a")
-    if min_el:
-        try:
-            tmin = int(min_el.text.strip())
-        except ValueError:
-            pass
+    tmin = parse_temp(card, "min")
+    tmax = parse_temp(card, "max")
 
     # állapot szöveg (data-bs-content-ből)
     a_el = card.select_one(".dfIconAlert a")
