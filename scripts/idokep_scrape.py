@@ -73,6 +73,28 @@ def condition_to_icon(text):
 current_icon = condition_to_icon(current_cond)
 
 # -------------------------------------------------
+# NAPKELTE / NAPNYUGTA
+# -------------------------------------------------
+sunrise = None
+sunset = None
+
+# Napkelte
+sunrise_el = soup.find("img", alt="Napkelte")
+if sunrise_el:
+    text = sunrise_el.parent.get_text(strip=True)
+    m = re.search(r"Napkelte\s*(\d{1,2}:\d{2})", text)
+    if m:
+        sunrise = m.group(1)
+
+# Napnyugta
+sunset_el = soup.find("img", alt="Napnyugta")
+if sunset_el:
+    text = sunset_el.parent.get_text(strip=True)
+    m = re.search(r"Napnyugta\s*(\d{1,2}:\d{2})", text)
+    if m:
+        sunset = m.group(1)
+
+# -------------------------------------------------
 # 7 NAPOS ELŐREJELZÉS  ✅ HELYES IDŐKÉP DOM
 # -------------------------------------------------
 forecast_7d = []
@@ -138,6 +160,16 @@ if os.path.exists("idokep.json"):
     with open("idokep.json", "r", encoding="utf-8") as f:
         old_data = json.load(f)
 now = datetime.now(ZoneInfo("Europe/Budapest")).isoformat(timespec="minutes")
+now_dt = datetime.now(ZoneInfo("Europe/Budapest"))
+is_night = None
+if sunrise and sunset:
+    sr = datetime.strptime(sunrise, "%H:%M").time()
+    ss = datetime.strptime(sunset, "%H:%M").time()
+    now_t = now_dt.time()
+
+    # nappal: napkelte <= most < napnyugta
+    is_night = not (sr <= now_t < ss)
+
 data = {
     "source": "idokep.hu",
     "location": LOCATION,
@@ -159,6 +191,11 @@ data = {
         "icon": current_icon
     },
     "forecast_7d": forecast_7d
+    "sun": {
+    "sunrise": sunrise,
+    "sunset": sunset,
+    "is_night": is_night
+},
 }
 
 with open("idokep.json", "w", encoding="utf-8") as f:
