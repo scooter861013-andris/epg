@@ -1,8 +1,8 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026-01-03T22:32+01:00",
-  "flow_last_run": "2026-01-03T22:47+01:00",
+  "updated": "2026-01-03T23:40+01:00",
+  "flow_last_run": "2026-01-03T23:40+01:00",
   "current": {
     "temperature": -4,
     "condition": "Derült",
@@ -11,7 +11,7 @@
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "min": -6,
+      "min": -5,
       "max": 3,
       "condition": "gyengén felhős",
       "icon": "☁️",
