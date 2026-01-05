@@ -152,7 +152,7 @@ for card in cards:
 
     # --- KEDD / összevont min-max (min-max-close) ---
     if tmin is None and tmax is None:
-        close = card.select_one(".min-max-close")
+        close = card.select_one(".min-max-line")
         if close:
             vals = [v.get_text(strip=True) for v in close.select("a")]
             vals = [v.replace("−", "-") for v in vals]
