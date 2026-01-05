@@ -115,6 +115,7 @@ for card in cards:
     condition = None
     icon = None
     alert = None
+    close = None
 
     # --- FIGYELMEZTETÉS ---
     alert_icon = card.select_one(".forecast-alert-icon")
