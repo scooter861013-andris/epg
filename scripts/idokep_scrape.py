@@ -163,6 +163,25 @@ for card in cards:
                     tmin = nums[1]
             except ValueError:
                 pass
+                
+    # --- BIZTONSÁGI FALLBACK: data-bs-content alapján ---
+    if tmin is None or tmax is None:
+        a_tags = close.select("a") if close else []
+        temps = []
+
+        for a in a_tags:
+            if a.has_attr("data-bs-content"):
+                html = a["data-bs-content"]
+                m = re.search(r"ik_daily-record-temp[^>]*>\s*([\-0-9]+)", html)
+                if m:
+                    try:
+                        temps.append(int(m.group(1)))
+                    except ValueError:
+                        pass
+
+        if len(temps) >= 2:
+            tmax = temps[0]
+            tmin = temps[1]
 
     # állapot szöveg (data-bs-content-ből)
     a_el = card.select_one(".dfIconAlert a")
