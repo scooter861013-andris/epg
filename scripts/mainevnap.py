@@ -64,15 +64,19 @@ teljes_szoveg = soup.get_text(" ", strip=True)
 nev = adat["mai_nevnap"]
 
 if nev:
-    # EREDET
+    # EREDET (két sorba törve)
     m1 = re.search(
         rf"{nev} eredete:\s*(.+?\.)",
         teljes_szoveg
     )
     if m1:
-        adat["eredet"] = m1.group(1).strip()
+        adat["eredet"] = (
+            m1.group(1)
+            .replace("; jelentése:", ";\n\njelentése:")
+            .strip()
+        )
 
-    # JELENTÉS
+    # JELENTÉS (külön, hosszú szöveg első mondata)
     m2 = re.search(
         rf"{nev} jelentése:\s*(.+?\.)",
         teljes_szoveg
