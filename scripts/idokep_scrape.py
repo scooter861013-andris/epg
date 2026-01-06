@@ -153,6 +153,7 @@ for card in cards:
     # --- KEDD / összevont min-max (min-max-close) ---
     if tmin is None and tmax is None:
         close = card.select_one(".min-max-line")
+      #  close = card.select_one(".min-max-close")
         if close:
             vals = [v.get_text(strip=True) for v in close.select("a")]
             vals = [v.replace("−", "-") for v in vals]
@@ -173,6 +174,20 @@ for card in cards:
             tmax = max(nums)
             tmin = min(nums)
 
+    
+    # --- UTOLSÓ, VÉGLEGES MIN/MAX MENTÉS ---
+    if tmin is None and tmax is None:
+        vals = []
+        for a in card.select("a"):
+            txt = a.get_text(strip=True).replace("−", "-")
+            if re.fullmatch(r"-?\d+", txt):
+                vals.append(int(txt))
+
+        if len(vals) >= 2:
+            tmin = min(vals)
+            tmax = max(vals)
+
+    
     #    if len(temps) >= 2:
     #        tmax = temps[0]
        #     tmin = temps[1]
