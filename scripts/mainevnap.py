@@ -1,5 +1,4 @@
 import json
-import os
 import re
 from datetime import datetime
 from zoneinfo import ZoneInfo
@@ -47,7 +46,7 @@ adat = {
     "datum": MA,
     "mai_nevnap": None,
     "eredet": None,
-    "jelentése": None,
+    "jelentese": None,
     "frissitve": frissites_ido
 }
 
@@ -63,7 +62,6 @@ if nev_el:
 # EREDET + JELENTÉS (KÜLÖN MEZŐK)
 # -----------------------------
 teljes_szoveg = soup.get_text(" ", strip=True)
-
 nev = adat["mai_nevnap"]
 
 if nev:
@@ -72,13 +70,16 @@ if nev:
         teljes_szoveg
     )
 
-if m:
-    eredet_szoveg = m.group(1).strip()
-    eredet_szoveg = re.sub(r"\s*eredetű\s*$", "", eredet_szoveg)
-    # nagy kezdőbetű
-    eredet_szoveg = eredet_szoveg[:1].upper() + eredet_szoveg[1:]
-    adat["eredet"] = eredet_szoveg
-    adat["jelentese"] = m.group(2).strip()
+    if m:
+        # EREDET
+        eredet_szoveg = m.group(1).strip()
+        eredet_szoveg = re.sub(r"\s*eredetű\s*$", "", eredet_szoveg)
+        eredet_szoveg = eredet_szoveg[:1].upper() + eredet_szoveg[1:]
+
+        adat["eredet"] = eredet_szoveg
+
+        # JELENTÉS (1 mondat)
+        adat["jelentese"] = m.group(2).strip()
 
 # -----------------------------
 # JSON MENTÉS
