@@ -16,17 +16,6 @@ MA = datetime.now(IDOZONA).date().isoformat()
 KIMENET = "mainevnap.json"
 
 # -----------------------------
-# NAPI FUTÁS VÉDELEM
-# -----------------------------
-if os.path.exists(KIMENET):
-    with open(KIMENET, "r", encoding="utf-8") as f:
-        regi = json.load(f)
-
-    if regi.get("datum") == MA:
-        print("Mai névnap már friss.")
-        exit(0)
-
-# -----------------------------
 # OLDAL LETÖLTÉS
 # -----------------------------
 URL = "https://mainevnap.hu/"
