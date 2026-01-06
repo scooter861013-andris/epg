@@ -2,6 +2,8 @@ import json
 import os
 from datetime import datetime
 from zoneinfo import ZoneInfo
+import requests
+from bs4 import BeautifulSoup
 
 # -----------------------------
 # ALAP ADATOK
@@ -22,6 +24,24 @@ if os.path.exists(KIMENET):
     if regi.get("datum") == MA:
         print("Mai névnap már friss.")
         exit(0)
+URL = "https://mainevnap.hu/"
+
+resp = requests.get(
+    URL,
+    timeout=15,
+    headers={
+        "User-Agent": "Mozilla/5.0"
+    }
+)
+
+resp.raise_for_status()
+
+soup = BeautifulSoup(
+    resp.text,
+    "html.parser"
+)
+
+print("Oldal letöltve.")
 
 # -----------------------------
 # IDE JÖN MAJD A SCRAPELT ADAT
