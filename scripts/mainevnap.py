@@ -70,10 +70,10 @@ if nev:
     )
 
     if m:
-    eredet_szoveg = m.group(1).strip()
-    eredet_szoveg = re.sub(r"\s*eredetű\s*$", "", eredet_szoveg)
-    adat["eredet"] = eredet_szoveg + ";"
-    adat["jelentese"] = m.group(2).strip()
+        eredet_szoveg = m.group(1).strip()
+        eredet_szoveg = re.sub(r"\s*eredetű\s*$", "", eredet_szoveg)
+        adat["eredet"] = eredet_szoveg + ";"
+        adat["jelentese"] = m.group(2).strip()
 
 # -----------------------------
 # JSON MENTÉS
