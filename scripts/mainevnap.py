@@ -40,12 +40,15 @@ print("Oldal letöltve.")
 # -----------------------------
 # ADAT STRUKTÚRA
 # -----------------------------
+frissites_ido = datetime.now(IDOZONA).strftime("%Y.%m.%d - %H:%M")
+
 adat = {
-    "forras": FORRAS,
-    "datum": MA,
-    "mai_nevnap": None,
-    "eredet": None,
-    "jelentese": None
+    "Forrás": FORRAS,
+    "Dátum": MA,
+    "Mai_nevnap": None,
+    "Eredet": None,
+    "Jelentése": None,
+    "Frissítve": frissites_ido
 }
 
 # -----------------------------
