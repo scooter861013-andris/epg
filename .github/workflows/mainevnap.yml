@@ -1,0 +1,7 @@
+name: mainevnap
+
+on:
+  schedule:
+    # minden nap 04:10-kor (Europe/Budapest idő szerint nem garantált, de jó közelítés; a scriptben lesz extra védelem)
+    - cron: "10 3 * * *"
+  workflow_dispatch:
