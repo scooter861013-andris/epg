@@ -69,11 +69,13 @@ if nev:
         teljes_szoveg
     )
 
-    if m:
-        eredet_szoveg = m.group(1).strip()
-        eredet_szoveg = re.sub(r"\s*eredetű\s*$", "", eredet_szoveg)
-        adat["eredet"] = eredet_szoveg + ";"
-        adat["jelentese"] = m.group(2).strip()
+if m:
+    eredet_szoveg = m.group(1).strip()
+    eredet_szoveg = re.sub(r"\s*eredetű\s*$", "", eredet_szoveg)
+    # nagy kezdőbetű
+    eredet_szoveg = eredet_szoveg[:1].upper() + eredet_szoveg[1:]
+    adat["eredet"] = eredet_szoveg
+    adat["jelentese"] = m.group(2).strip()
 
 # -----------------------------
 # JSON MENTÉS
