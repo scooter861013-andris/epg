@@ -43,12 +43,12 @@ print("Oldal letöltve.")
 frissites_ido = datetime.now(IDOZONA).strftime("%Y.%m.%d - %H:%M")
 
 adat = {
-    "Forrás": FORRAS,
-    "Dátum": MA,
-    "Mai_nevnap": None,
-    "Eredet": None,
-    "Jelentése": None,
-    "Frissítve": frissites_ido
+    "forras": FORRAS,
+    "datum": MA,
+    "mai_nevnap": None,
+    "eredet": None,
+    "jelentése": None,
+    "frissitve": frissites_ido
 }
 
 # -----------------------------
