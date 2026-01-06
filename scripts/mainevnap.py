@@ -1,5 +1,6 @@
 import json
 import os
+import re
 from datetime import datetime
 from zoneinfo import ZoneInfo
 import requests
@@ -9,8 +10,8 @@ from bs4 import BeautifulSoup
 # ALAP ADATOK
 # -----------------------------
 FORRAS = "mainevnap.hu"
-IDŐZÓNA = ZoneInfo("Europe/Budapest")
-MA = datetime.now(IDŐZÓNA).date().isoformat()
+IDOZONA = ZoneInfo("Europe/Budapest")
+MA = datetime.now(IDOZONA).date().isoformat()
 
 KIMENET = "mainevnap.json"
 
@@ -24,6 +25,10 @@ if os.path.exists(KIMENET):
     if regi.get("datum") == MA:
         print("Mai névnap már friss.")
         exit(0)
+
+# -----------------------------
+# OLDAL LETÖLTÉS
+# -----------------------------
 URL = "https://mainevnap.hu/"
 
 resp = requests.get(
@@ -61,6 +66,7 @@ nev_el = soup.select_one("span.piroskiem")
 
 if nev_el:
     adat["mai_nevnap"] = nev_el.get_text(strip=True)
+
 # -----------------------------
 # EREDET + JELENTÉS (1-1 mondat)
 # -----------------------------
@@ -84,6 +90,7 @@ if nev:
     )
     if m2:
         adat["jelentese"] = m2.group(1).strip()
+
 # -----------------------------
 # JSON MENTÉS
 # -----------------------------
