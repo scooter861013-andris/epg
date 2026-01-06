@@ -57,32 +57,21 @@ if nev_el:
     adat["mai_nevnap"] = nev_el.get_text(strip=True)
 
 # -----------------------------
-# EREDET + JELENTÉS (1-1 mondat)
+# EREDET + JELENTÉS (KÜLÖN MEZŐK)
 # -----------------------------
 teljes_szoveg = soup.get_text(" ", strip=True)
 
 nev = adat["mai_nevnap"]
 
 if nev:
-    # EREDET (két sorba törve)
-    m1 = re.search(
-        rf"{nev} eredete:\s*(.+?\.)",
+    m = re.search(
+        rf"{nev} eredete:\s*(.+?);\s*jelentése:\s*(.+?\.)",
         teljes_szoveg
     )
-    if m1:
-        adat["eredet"] = (
-            m1.group(1)
-            .replace("; jelentése:", ";\n\njelentése:")
-            .strip()
-        )
 
-    # JELENTÉS (külön, hosszú szöveg első mondata)
-    m2 = re.search(
-        rf"{nev} jelentése:\s*(.+?\.)",
-        teljes_szoveg
-    )
-    if m2:
-        adat["jelentese"] = m2.group(1).strip()
+    if m:
+        adat["eredet"] = m.group(1).strip() + ";"
+        adat["jelentese"] = m.group(2).strip()
 
 # -----------------------------
 # JSON MENTÉS
