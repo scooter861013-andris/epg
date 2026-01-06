@@ -44,16 +44,8 @@ soup = BeautifulSoup(
 print("Oldal letöltve.")
 
 # -----------------------------
-# IDE JÖN MAJD A SCRAPELT ADAT
-# (most még csak üres)
+# ADAT STRUKTÚRA
 # -----------------------------
-# -----------------------------
-# MAI NÉVNAP KIOLVASÁSA
-# -----------------------------
-nev_el = soup.select_one("span.piroskiem")
-
-if nev_el:
-    adat["mai_nevnap"] = nev_el.get_text(strip=True)
 adat = {
     "forras": FORRAS,
     "datum": MA,
@@ -62,6 +54,13 @@ adat = {
     "jelentese": None
 }
 
+# -----------------------------
+# MAI NÉVNAP KIOLVASÁSA
+# -----------------------------
+nev_el = soup.select_one("span.piroskiem")
+
+if nev_el:
+    adat["mai_nevnap"] = nev_el.get_text(strip=True)
 # -----------------------------
 # JSON MENTÉS
 # -----------------------------
