@@ -2,6 +2,34 @@ name: mainevnap
 
 on:
   schedule:
-    # minden nap 04:10-kor (Europe/Budapest idő szerint nem garantált, de jó közelítés; a scriptben lesz extra védelem)
     - cron: "10 3 * * *"
   workflow_dispatch:
+
+jobs:
+  mainevnap:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repo letöltése
+        uses: actions/checkout@v4
+
+      - name: Python beállítása
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Függőségek telepítése
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Mainevnap script futtatása
+        run: |
+          python scripts/mainevnap.py
+
+      - name: JSON commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add mainevnap.json
+          git commit -m "Mai névnap frissítve" || echo "Nincs változás"
+          git push
