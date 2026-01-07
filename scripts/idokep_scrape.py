@@ -243,8 +243,8 @@ data = {
         and old_data.get("forecast_7d") == forecast_7d
         else now
     ),
-    "uflow_last_run": now,
-    "ucurrent": {
+    "flow_last_run": now,
+    "current": {
         "temperature": current_temp,
         "condition": current_cond,
         "icon": current_icon
