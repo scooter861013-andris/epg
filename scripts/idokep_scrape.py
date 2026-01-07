@@ -218,7 +218,7 @@ old_data = None
 if os.path.exists("idokep.json"):
     with open("idokep.json", "r", encoding="utf-8") as f:
         old_data = json.load(f)
-now = datetime.now(ZoneInfo("Europe/Budapest")).strftime("%Y.%m.%d.       %H:%M")
+now = datetime.now(ZoneInfo("Europe/Budapest")).strftime("%Y.%m.%d. %H:%M")
 now_dt = datetime.now(ZoneInfo("Europe/Budapest"))
 is_night = None
 if sunrise and sunset:
@@ -243,8 +243,8 @@ data = {
         and old_data.get("forecast_7d") == forecast_7d
         else now
     ),
-    "flow_last_run": now,
-    "current": {
+    "uflow_last_run": now,
+    "ucurrent": {
         "temperature": current_temp,
         "condition": current_cond,
         "icon": current_icon
