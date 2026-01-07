@@ -218,7 +218,7 @@ old_data = None
 if os.path.exists("idokep.json"):
     with open("idokep.json", "r", encoding="utf-8") as f:
         old_data = json.load(f)
-now = datetime.now(ZoneInfo("Europe/Budapest")).isoformat(timespec="minutes")
+now = datetime.now(ZoneInfo("Europe/Budapest")).strftime("%Y.%m.%d.       %H:%M")
 now_dt = datetime.now(ZoneInfo("Europe/Budapest"))
 is_night = None
 if sunrise and sunset:
