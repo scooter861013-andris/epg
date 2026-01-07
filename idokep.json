@@ -1,18 +1,18 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.01.07. 16:51",
-  "flow_last_run": "2026.01.07. 16:51",
+  "updated": "2026.01.07. 18:00",
+  "flow_last_run": "2026.01.07. 18:00",
   "current": {
-    "temperature": -2,
-    "condition": "Havazás",
+    "temperature": -3,
+    "condition": "Hószállingózás",
     "icon": "❄️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "min": -4,
-      "max": -1,
+      "min": -6,
+      "max": 0,
       "condition": "hószállingózás",
       "icon": "❄️",
       "alert": "Mediterrán ciklon"
