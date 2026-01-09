@@ -1,8 +1,8 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.01.09. 14:56",
-  "flow_last_run": "2026.01.09. 14:56",
+  "updated": "2026.01.09. 15:57",
+  "flow_last_run": "2026.01.09. 15:57",
   "current": {
     "temperature": -6,
     "condition": "Borult",
@@ -12,7 +12,7 @@
     {
       "day": "Péntek",
       "min": -14,
-      "max": -4,
+      "max": -2,
       "condition": "havazás",
       "icon": "❄️",
       "alert": "Erős fagy"
