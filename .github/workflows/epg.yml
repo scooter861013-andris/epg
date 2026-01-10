@@ -2,7 +2,7 @@ name: Generate EPG
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # naponta 03:00 UTC
+    - cron: "0 1 * * *"   # naponta 03:00 UTC
   workflow_dispatch:
 
 jobs:
