@@ -1,22 +1,14 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.01.12. 18:53",
-  "flow_last_run": "2026.01.12. 18:53",
+  "updated": "2026.01.12. 19:59",
+  "flow_last_run": "2026.01.12. 19:59",
   "current": {
     "temperature": -11,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Hétfő 2026. január 12.",
-      "min": -11,
-      "max": -6,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": "Erős fagy"
-    },
     {
       "day": "Kedd 2026. január 13.",
       "min": -11,
@@ -31,11 +23,11 @@
       "max": 0,
       "condition": "ónos eső",
       "icon": "🌧️",
-      "alert": "Ónos eső"
+      "alert": "Köd"
     },
     {
       "day": "Csütörtök 2026. január 15.",
-      "min": 0,
+      "min": -1,
       "max": 1,
       "condition": "borult",
       "icon": "☁️",
@@ -43,27 +35,35 @@
     },
     {
       "day": "Péntek 2026. január 16.",
-      "min": -3,
-      "max": 3,
-      "condition": "pára",
-      "icon": null,
+      "min": -1,
+      "max": 2,
+      "condition": "köd",
+      "icon": "🌫️",
       "alert": "Köd"
     },
     {
       "day": "Szombat 2026. január 17.",
-      "min": -4,
-      "max": 3,
+      "min": -3,
+      "max": 2,
       "condition": "pára",
       "icon": null,
       "alert": "Köd"
     },
     {
       "day": "Vasárnap 2026. január 18.",
-      "min": -3,
-      "max": 2,
+      "min": -4,
+      "max": 0,
       "condition": "erősen felhős",
       "icon": "☁️",
-      "alert": "Köd"
+      "alert": null
+    },
+    {
+      "day": "Hétfő 2026. január 19.",
+      "min": -5,
+      "max": -1,
+      "condition": "erősen felhős",
+      "icon": "☁️",
+      "alert": null
     }
   ],
   "sun": {
