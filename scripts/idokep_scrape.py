@@ -101,9 +101,9 @@ def parse_temp(card, cls):
     el = card.select_one(f".{cls}")
     if not el:
         return None
-    txt = el.get_text(strip=True)
+    txt = el.get_text(strip=True).replace("−", "-")
     try:
-        return int(txt)
+        return round(float(txt))
     except ValueError:
         return None
 forecast_7d = []
