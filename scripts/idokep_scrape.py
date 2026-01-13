@@ -144,7 +144,7 @@ for card in cards:
 
     # pl: "Szombat<br>2026. január 3."
         parts = title.split("<br>")
-        day = parts[0].strip() if parts else None
+        day = title.split(" ")[0] if parts else None
 
 
     tmin = parse_temp(card, "min")
