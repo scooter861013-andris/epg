@@ -1,11 +1,11 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.01.13. 08:46",
-  "flow_last_run": "2026.01.13. 08:46",
+  "updated": "2026.01.13. 09:59",
+  "flow_last_run": "2026.01.13. 09:59",
   "current": {
-    "temperature": -8,
-    "condition": "Hószállingózás",
+    "temperature": -6,
+    "condition": "Havazás",
     "icon": "❄️"
   },
   "forecast_7d": [
@@ -28,22 +28,22 @@
     {
       "day": "Csütörtök 2026. január 15.",
       "min": -2,
-      "max": 1,
-      "condition": "borult",
-      "icon": "☁️",
-      "alert": "Köd"
-    },
-    {
-      "day": "Péntek 2026. január 16.",
-      "min": -1,
-      "max": 2,
+      "max": 0,
       "condition": "köd",
       "icon": "🌫️",
       "alert": "Köd"
     },
     {
+      "day": "Péntek 2026. január 16.",
+      "min": -1,
+      "max": 1,
+      "condition": "szitálás",
+      "icon": null,
+      "alert": "Köd"
+    },
+    {
       "day": "Szombat 2026. január 17.",
-      "min": -3,
+      "min": -2,
       "max": 2,
       "condition": "pára",
       "icon": null,
@@ -59,9 +59,9 @@
     },
     {
       "day": "Hétfő 2026. január 19.",
-      "min": -5,
+      "min": -7,
       "max": -1,
-      "condition": "erősen felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     }
