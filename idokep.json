@@ -1,8 +1,8 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.01.13. 19:58",
-  "flow_last_run": "2026.01.13. 19:58",
+  "updated": "2026.01.13. 19:59",
+  "flow_last_run": "2026.01.13. 19:59",
   "current": {
     "temperature": -7,
     "condition": "Borult",
@@ -10,7 +10,7 @@
   },
   "forecast_7d": [
     {
-      "day": "Szerda 2026. január 14.",
+      "day": "Szerda",
       "min": -9,
       "max": -1,
       "condition": "ónos eső",
@@ -18,7 +18,7 @@
       "alert": "Köd"
     },
     {
-      "day": "Csütörtök 2026. január 15.",
+      "day": "Csütörtök",
       "min": -3,
       "max": 0,
       "condition": "köd",
@@ -26,7 +26,7 @@
       "alert": "Köd"
     },
     {
-      "day": "Péntek 2026. január 16.",
+      "day": "Péntek",
       "min": -1,
       "max": 1,
       "condition": "szitálás",
@@ -34,7 +34,7 @@
       "alert": "Köd"
     },
     {
-      "day": "Szombat 2026. január 17.",
+      "day": "Szombat",
       "min": -2,
       "max": 2,
       "condition": "pára",
@@ -42,7 +42,7 @@
       "alert": "Köd"
     },
     {
-      "day": "Vasárnap 2026. január 18.",
+      "day": "Vasárnap",
       "min": -4,
       "max": 0,
       "condition": "erősen felhős",
@@ -50,7 +50,7 @@
       "alert": null
     },
     {
-      "day": "Hétfő 2026. január 19.",
+      "day": "Hétfő",
       "min": -7,
       "max": -1,
       "condition": "közepesen felhős",
@@ -58,7 +58,7 @@
       "alert": null
     },
     {
-      "day": "Kedd 2026. január 20.",
+      "day": "Kedd",
       "min": -9,
       "max": -2,
       "condition": "közepesen felhős",
