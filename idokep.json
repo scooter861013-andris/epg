@@ -2,7 +2,7 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "updated": "2026.01.14. 15:55",
-  "flow_last_run": "2026.01.14. 15:55",
+  "flow_last_run": "2026.01.14. 16:45",
   "current": {
     "temperature": -1,
     "condition": "ónos eső",
@@ -69,6 +69,6 @@
   "sun": {
     "sunrise": "7:16",
     "sunset": "16:07",
-    "is_night": false
+    "is_night": true
   }
 }
