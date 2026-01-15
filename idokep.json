@@ -1,17 +1,17 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.01.15. 08:00",
-  "flow_last_run": "2026.01.15. 08:46",
+  "updated": "2026.01.15. 09:58",
+  "flow_last_run": "2026.01.15. 09:58",
   "current": {
-    "temperature": -2,
+    "temperature": -1,
     "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "min": -3,
+      "min": -4,
       "max": 0,
       "condition": "pára",
       "icon": null,
@@ -19,49 +19,49 @@
     },
     {
       "day": "Péntek",
-      "min": 0,
-      "max": 2,
-      "condition": "borult",
+      "min": -1,
+      "max": 1,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": "Köd"
     },
     {
       "day": "Szombat",
-      "min": 0,
-      "max": 2,
-      "condition": "közepesen felhős",
+      "min": -1,
+      "max": -1,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": "Köd"
     },
     {
       "day": "Vasárnap",
-      "min": -10,
-      "max": -1,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "min": -11,
+      "max": -3,
+      "condition": "pára",
+      "icon": null,
       "alert": "Köd"
     },
     {
       "day": "Hétfő",
-      "min": -10,
-      "max": -2,
+      "min": -11,
+      "max": -3,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": "Köd"
     },
     {
       "day": "Kedd",
-      "min": -12,
-      "max": -3,
+      "min": -13,
+      "max": -4,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": "Köd"
     },
     {
       "day": "Szerda",
-      "min": -12,
-      "max": -3,
-      "condition": "erősen felhős",
+      "min": -13,
+      "max": -4,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": "Köd"
     }
