@@ -1,8 +1,8 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.01.15. 00:29",
-  "flow_last_run": "2026.01.15. 00:46",
+  "updated": "2026.01.15. 04:57",
+  "flow_last_run": "2026.01.15. 04:57",
   "current": {
     "temperature": -3,
     "condition": "Köd",
@@ -20,7 +20,7 @@
     {
       "day": "Péntek",
       "min": 0,
-      "max": 2,
+      "max": 1,
       "condition": "borult",
       "icon": "☁️",
       "alert": "Köd"
