@@ -1,22 +1,14 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.01.16. 18:48",
-  "flow_last_run": "2026.01.16. 18:48",
+  "updated": "2026.01.16. 19:58",
+  "flow_last_run": "2026.01.16. 19:58",
   "current": {
     "temperature": 3,
-    "condition": "Pára",
-    "icon": null
+    "condition": "Erősen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Péntek",
-      "min": -2,
-      "max": 3,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": "Köd"
-    },
     {
       "day": "Szombat",
       "min": -7,
@@ -28,22 +20,22 @@
     {
       "day": "Vasárnap",
       "min": -11,
-      "max": -4,
-      "condition": "közepesen felhős",
+      "max": -1,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": "Köd"
     },
     {
       "day": "Hétfő",
-      "min": -18,
+      "min": -14,
       "max": -5,
-      "condition": "erősen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": "Köd"
     },
     {
       "day": "Kedd",
-      "min": -14,
+      "min": -17,
       "max": -5,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -51,19 +43,27 @@
     },
     {
       "day": "Szerda",
-      "min": -14,
+      "min": -15,
       "max": -4,
       "condition": "közepesen felhős",
       "icon": "☁️",
-      "alert": "Köd"
+      "alert": "Erős fagy"
     },
     {
       "day": "Csütörtök",
       "min": -15,
+      "max": -4,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": "Erős fagy"
+    },
+    {
+      "day": "Péntek",
+      "min": -14,
       "max": -5,
       "condition": "közepesen felhős",
       "icon": "☁️",
-      "alert": "Köd"
+      "alert": "Erős fagy"
     }
   ],
   "sun": {
