@@ -3,6 +3,7 @@ name: mainevnap
 on:
   schedule:
     - cron: "30 23 * * *"
+    - cron: "30 0 * * *"
   workflow_dispatch:
 
 jobs:
