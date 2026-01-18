@@ -1,18 +1,18 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.01.18. 12:42",
-  "flow_last_run": "2026.01.18. 12:42",
+  "updated": "2026.01.18. 12:49",
+  "flow_last_run": "2026.01.18. 12:49",
   "current": {
     "temperature": -2,
-    "condition": "Pára",
-    "icon": null
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
       "min": -9,
-      "max": 0,
+      "max": -1,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": "Köd"
