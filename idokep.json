@@ -1,8 +1,8 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.01.20. 08:04",
-  "flow_last_run": "2026.01.20. 08:04",
+  "updated": "2026.01.20. 08:52",
+  "flow_last_run": "2026.01.20. 08:52",
   "current": {
     "temperature": -8,
     "condition": "Borult",
@@ -20,7 +20,7 @@
     {
       "day": "Szerda",
       "min": -11,
-      "max": -2,
+      "max": -1,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": "Erős fagy"
