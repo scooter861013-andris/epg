@@ -2,7 +2,7 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "updated": "2026.01.24. 06:53",
-  "flow_last_run": "2026.01.24. 06:53",
+  "flow_last_run": "2026.01.24. 07:56",
   "current": {
     "temperature": 2,
     "condition": "Pára",
@@ -69,6 +69,6 @@
   "sun": {
     "sunrise": "7:09",
     "sunset": "16:21",
-    "is_night": true
+    "is_night": false
   }
 }
