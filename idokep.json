@@ -1,8 +1,8 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.01.26. 12:38",
-  "flow_last_run": "2026.01.26. 12:53",
+  "updated": "2026.01.26. 14:56",
+  "flow_last_run": "2026.01.26. 14:56",
   "current": {
     "temperature": 6,
     "condition": "Eső",
@@ -19,8 +19,8 @@
     },
     {
       "day": "Kedd",
-      "min": 2,
-      "max": 8,
+      "min": 1,
+      "max": 7,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": "Köd"
