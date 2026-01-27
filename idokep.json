@@ -1,10 +1,10 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.01.27. 23:44",
-  "flow_last_run": "2026.01.27. 23:57",
+  "updated": "2026.01.28. 00:41",
+  "flow_last_run": "2026.01.28. 00:41",
   "current": {
-    "temperature": 2,
+    "temperature": 3,
     "condition": "Köd",
     "icon": "🌫️"
   },
@@ -68,7 +68,7 @@
   ],
   "sun": {
     "sunrise": "7:04",
-    "sunset": "16:26",
+    "sunset": "16:27",
     "is_night": true
   }
 }
