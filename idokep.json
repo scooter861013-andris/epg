@@ -1,27 +1,19 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.01.31. 19:21",
-  "flow_last_run": "2026.01.31. 19:21",
+  "updated": "2026.01.31. 19:54",
+  "flow_last_run": "2026.01.31. 19:54",
   "current": {
     "temperature": -1,
-    "condition": "Havazás",
-    "icon": "❄️"
+    "condition": "Borult",
+    "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Szombat",
-      "min": -2,
-      "max": 3,
-      "condition": "havas eső",
-      "icon": "🌧️",
-      "alert": "Köd"
-    },
     {
       "day": "Vasárnap",
       "min": -3,
       "max": 2,
-      "condition": "borult",
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": "Köd"
     },
@@ -29,25 +21,25 @@
       "day": "Hétfő",
       "min": -2,
       "max": 2,
-      "condition": "hószállingózás",
-      "icon": "❄️",
-      "alert": null
+      "condition": "erősen felhős",
+      "icon": "☁️",
+      "alert": "Köd"
     },
     {
       "day": "Kedd",
-      "min": -4,
-      "max": 5,
-      "condition": "gyenge eső",
+      "min": -3,
+      "max": 3,
+      "condition": "havas eső",
       "icon": "🌧️",
-      "alert": "Melegfront"
+      "alert": "Ónos eső"
     },
     {
       "day": "Szerda",
-      "min": 0,
+      "min": 1,
       "max": 6,
-      "condition": "havas eső",
+      "condition": "eső",
       "icon": "🌧️",
-      "alert": "Szeles nap"
+      "alert": "Melegfront"
     },
     {
       "day": "Csütörtök",
@@ -60,10 +52,18 @@
     {
       "day": "Péntek",
       "min": 1,
-      "max": 8,
+      "max": 9,
       "condition": "gyenge eső",
       "icon": "🌧️",
-      "alert": "Köd"
+      "alert": null
+    },
+    {
+      "day": "Szombat",
+      "min": 1,
+      "max": 8,
+      "condition": "erősen felhős",
+      "icon": "☁️",
+      "alert": null
     }
   ],
   "sun": {
