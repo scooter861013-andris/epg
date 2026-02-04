@@ -1,8 +1,8 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.02.04. 16:07",
-  "flow_last_run": "2026.02.04. 16:07",
+  "updated": "2026.02.04. 16:59",
+  "flow_last_run": "2026.02.04. 16:59",
   "current": {
     "temperature": 6,
     "condition": "Borult",
@@ -27,8 +27,8 @@
     },
     {
       "day": "Péntek",
-      "min": 0,
-      "max": 11,
+      "min": 2,
+      "max": 9,
       "condition": "gyenge eső",
       "icon": "🌧️",
       "alert": "Köd"
@@ -69,6 +69,6 @@
   "sun": {
     "sunrise": "6:54",
     "sunset": "16:38",
-    "is_night": false
+    "is_night": true
   }
 }
