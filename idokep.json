@@ -1,8 +1,8 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.02.05. 18:07",
-  "flow_last_run": "2026.02.05. 18:07",
+  "updated": "2026.02.05. 19:02",
+  "flow_last_run": "2026.02.05. 19:02",
   "current": {
     "temperature": 7,
     "condition": "Erősen felhős",
@@ -10,19 +10,11 @@
   },
   "forecast_7d": [
     {
-      "day": "Csütörtök",
-      "min": 2,
-      "max": 13,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": "Szeles nap"
-    },
-    {
       "day": "Péntek",
       "min": 1,
       "max": 11,
-      "condition": "erősen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": "Köd"
     },
     {
@@ -35,35 +27,43 @@
     },
     {
       "day": "Vasárnap",
-      "min": 1,
-      "max": 7,
-      "condition": "erősen felhős",
-      "icon": "☁️",
-      "alert": "Hidegfront erős széllel"
+      "min": 3,
+      "max": 8,
+      "condition": "gyenge eső",
+      "icon": "🌧️",
+      "alert": "Hidegfront"
     },
     {
       "day": "Hétfő",
-      "min": -1,
-      "max": 5,
+      "min": -4,
+      "max": 7,
       "condition": "közepesen felhős",
       "icon": "☁️",
-      "alert": null
+      "alert": "Köd"
     },
     {
       "day": "Kedd",
       "min": -1,
-      "max": 4,
+      "max": 5,
       "condition": "gyenge eső",
       "icon": "🌧️",
-      "alert": null
+      "alert": "Melegfront"
     },
     {
       "day": "Szerda",
-      "min": -1,
-      "max": 6,
-      "condition": "erősen felhős",
-      "icon": "☁️",
-      "alert": null
+      "min": 0,
+      "max": 7,
+      "condition": "eső viharos széllel",
+      "icon": "🌧️",
+      "alert": "Szeles nap"
+    },
+    {
+      "day": "Csütörtök",
+      "min": 1,
+      "max": 8,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": "Hidegfront"
     }
   ],
   "sun": {
