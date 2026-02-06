@@ -1,22 +1,14 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.02.06. 19:52",
-  "flow_last_run": "2026.02.06. 19:52",
+  "updated": "2026.02.06. 20:32",
+  "flow_last_run": "2026.02.06. 20:32",
   "current": {
     "temperature": 5,
-    "condition": "Közepesen felhős",
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Péntek",
-      "min": 3,
-      "max": 11,
-      "condition": "zápor",
-      "icon": "🌧️",
-      "alert": "Köd"
-    },
     {
       "day": "Szombat",
       "min": 2,
@@ -27,7 +19,7 @@
     },
     {
       "day": "Vasárnap",
-      "min": 3,
+      "min": 4,
       "max": 7,
       "condition": "gyenge eső",
       "icon": "🌧️",
@@ -36,14 +28,14 @@
     {
       "day": "Hétfő",
       "min": -2,
-      "max": 7,
+      "max": 5,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": "Köd"
     },
     {
       "day": "Kedd",
-      "min": -1,
+      "min": -2,
       "max": 6,
       "condition": "gyenge eső",
       "icon": "🌧️",
@@ -53,7 +45,7 @@
       "day": "Szerda",
       "min": 0,
       "max": 8,
-      "condition": "zápor",
+      "condition": "eső viharos széllel",
       "icon": "🌧️",
       "alert": "Szeles nap"
     },
@@ -61,9 +53,17 @@
       "day": "Csütörtök",
       "min": 2,
       "max": 10,
-      "condition": "zápor",
+      "condition": "eső",
       "icon": "🌧️",
       "alert": "Hidegfront"
+    },
+    {
+      "day": "Péntek",
+      "min": 1,
+      "max": 9,
+      "condition": "erősen felhős",
+      "icon": "☁️",
+      "alert": "Szeles nap"
     }
   ],
   "sun": {
