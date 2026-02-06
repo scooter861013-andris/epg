@@ -1,18 +1,18 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.02.06. 14:11",
-  "flow_last_run": "2026.02.06. 14:11",
+  "updated": "2026.02.06. 15:08",
+  "flow_last_run": "2026.02.06. 15:08",
   "current": {
-    "temperature": 9,
-    "condition": "Borult",
-    "icon": "☁️"
+    "temperature": 10,
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
       "min": 3,
-      "max": 9,
+      "max": 10,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": "Köd"
