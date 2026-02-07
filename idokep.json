@@ -1,8 +1,8 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.02.07. 18:20",
-  "flow_last_run": "2026.02.07. 18:20",
+  "updated": "2026.02.07. 18:49",
+  "flow_last_run": "2026.02.07. 18:49",
   "current": {
     "temperature": 6,
     "condition": "Borult",
@@ -12,7 +12,7 @@
     {
       "day": "Vasárnap",
       "min": 3,
-      "max": 5,
+      "max": 7,
       "condition": "eső",
       "icon": "🌧️",
       "alert": "Hidegfront"
@@ -31,39 +31,39 @@
       "max": 5,
       "condition": "gyenge eső",
       "icon": "🌧️",
-      "alert": "Melegfront"
+      "alert": "Szeles nap"
     },
     {
       "day": "Szerda",
       "min": 1,
       "max": 8,
+      "condition": "eső",
+      "icon": "🌧️",
+      "alert": "Melegfront"
+    },
+    {
+      "day": "Csütörtök",
+      "min": 2,
+      "max": 11,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
       "alert": "Szeles nap"
     },
     {
-      "day": "Csütörtök",
-      "min": 2,
-      "max": 10,
-      "condition": "eső",
-      "icon": "🌧️",
-      "alert": "Hidegfront"
-    },
-    {
       "day": "Péntek",
-      "min": 1,
+      "min": 2,
       "max": 9,
-      "condition": "zápor",
+      "condition": "eső viharos széllel",
       "icon": "🌧️",
-      "alert": "Szeles nap"
+      "alert": "Hidegfront erős széllel"
     },
     {
       "day": "Szombat",
       "min": -1,
-      "max": 6,
-      "condition": "borult",
-      "icon": "☁️",
-      "alert": null
+      "max": 8,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": "Szeles nap"
     }
   ],
   "sun": {
