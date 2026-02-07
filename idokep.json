@@ -1,8 +1,8 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.02.07. 06:38",
-  "flow_last_run": "2026.02.07. 06:38",
+  "updated": "2026.02.07. 07:07",
+  "flow_last_run": "2026.02.07. 07:07",
   "current": {
     "temperature": 5,
     "condition": "Köd",
@@ -12,7 +12,7 @@
     {
       "day": "Szombat",
       "min": 2,
-      "max": 6,
+      "max": 7,
       "condition": "gyenge eső",
       "icon": "🌧️",
       "alert": "Köd"
@@ -69,6 +69,6 @@
   "sun": {
     "sunrise": "6:51",
     "sunset": "16:43",
-    "is_night": true
+    "is_night": false
   }
 }
