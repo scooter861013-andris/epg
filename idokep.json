@@ -1,8 +1,8 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.02.10. 20:43",
-  "flow_last_run": "2026.02.10. 21:26",
+  "updated": "2026.02.10. 22:06",
+  "flow_last_run": "2026.02.10. 22:06",
   "current": {
     "temperature": 3,
     "condition": "Borult",
@@ -11,7 +11,7 @@
   "forecast_7d": [
     {
       "day": "Szerda",
-      "min": 3,
+      "min": 2,
       "max": 8,
       "condition": "eső",
       "icon": "🌧️",
