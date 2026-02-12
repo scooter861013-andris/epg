@@ -1,22 +1,14 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.02.12. 18:42",
-  "flow_last_run": "2026.02.12. 18:42",
+  "updated": "2026.02.12. 19:37",
+  "flow_last_run": "2026.02.12. 19:37",
   "current": {
     "temperature": 9,
-    "condition": "Borult",
-    "icon": "☁️"
+    "condition": "Porvihar",
+    "icon": null
   },
   "forecast_7d": [
-    {
-      "day": "Csütörtök",
-      "min": 4,
-      "max": 13,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": "Szeles nap"
-    },
     {
       "day": "Péntek",
       "min": 4,
@@ -36,33 +28,41 @@
     {
       "day": "Vasárnap",
       "min": 1,
-      "max": 1,
-      "condition": "hószállingózás",
-      "icon": "❄️",
+      "max": 2,
+      "condition": "havas eső",
+      "icon": "🌧️",
       "alert": "Hidegfront havazással és széllel"
     },
     {
       "day": "Hétfő",
       "min": -7,
-      "max": 1,
-      "condition": "közepesen felhős",
+      "max": 2,
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "min": -4,
+      "min": -5,
       "max": 4,
       "condition": "erősen felhős",
       "icon": "☁️",
-      "alert": "Melegfront"
+      "alert": null
     },
     {
       "day": "Szerda",
-      "min": -3,
+      "min": -4,
       "max": 6,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "havas eső",
+      "icon": "🌧️",
+      "alert": "Melegfront"
+    },
+    {
+      "day": "Csütörtök",
+      "min": -3,
+      "max": 7,
+      "condition": "gyenge eső",
+      "icon": "🌧️",
       "alert": "Szeles nap"
     }
   ],
