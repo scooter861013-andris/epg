@@ -1,8 +1,8 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.02.14. 17:54",
-  "flow_last_run": "2026.02.14. 17:54",
+  "updated": "2026.02.14. 18:19",
+  "flow_last_run": "2026.02.14. 18:19",
   "current": {
     "temperature": 9,
     "condition": "Borult",
@@ -20,7 +20,7 @@
     {
       "day": "Vasárnap",
       "min": -3,
-      "max": 6,
+      "max": 4,
       "condition": "hószállingózás",
       "icon": "❄️",
       "alert": "Hidegfront erős széllel"
