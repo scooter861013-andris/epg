@@ -1,10 +1,10 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.02.19. 10:02",
-  "flow_last_run": "2026.02.19. 10:02",
+  "updated": "2026.02.19. 11:03",
+  "flow_last_run": "2026.02.19. 11:03",
   "current": {
-    "temperature": 2,
+    "temperature": 4,
     "condition": "Borult",
     "icon": "☁️"
   },
@@ -12,7 +12,7 @@
     {
       "day": "Csütörtök",
       "min": -4,
-      "max": 5,
+      "max": 4,
       "condition": "eső",
       "icon": "🌧️",
       "alert": "Mediterrán ciklon"
