@@ -1,18 +1,18 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "updated": "2026.02.20. 23:23",
-  "flow_last_run": "2026.02.20. 23:23",
+  "updated": "2026.02.20. 23:53",
+  "flow_last_run": "2026.02.20. 23:53",
   "current": {
     "temperature": 2,
-    "condition": "Pára",
-    "icon": null
+    "condition": "Borult",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
       "min": 2,
-      "max": 5,
+      "max": 6,
       "condition": "havas eső",
       "icon": "🌧️",
       "alert": "Kettős front"
