@@ -1,0 +1,74 @@
+{
+  "source": "idokep.hu",
+  "location": "Nyiracsad",
+  "updated": "2026.02.20. 17:37",
+  "flow_last_run": "2026.02.20. 17:37",
+  "current": {
+    "temperature": 4,
+    "condition": "Borult",
+    "icon": "☁️"
+  },
+  "forecast_7d": [
+    {
+      "day": "Péntek",
+      "min": 0,
+      "max": 8,
+      "condition": "erősen felhős",
+      "icon": "☁️",
+      "alert": "Hidegfront havazással és széllel"
+    },
+    {
+      "day": "Szombat",
+      "min": 0,
+      "max": 5,
+      "condition": "havas eső",
+      "icon": "🌧️",
+      "alert": "Melegfront"
+    },
+    {
+      "day": "Vasárnap",
+      "min": 0,
+      "max": 8,
+      "condition": "erősen felhős",
+      "icon": "☁️",
+      "alert": "Melegfront"
+    },
+    {
+      "day": "Hétfő",
+      "min": 2,
+      "max": 8,
+      "condition": "eső",
+      "icon": "🌧️",
+      "alert": "Hidegfront"
+    },
+    {
+      "day": "Kedd",
+      "min": 2,
+      "max": 12,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": "Szeles nap"
+    },
+    {
+      "day": "Szerda",
+      "min": -1,
+      "max": 12,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": "Melegfront"
+    },
+    {
+      "day": "Csütörtök",
+      "min": -2,
+      "max": 13,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": "Szeles nap"
+    }
+  ],
+  "sun": {
+    "sunrise": "6:27",
+    "sunset": "17:02",
+    "is_night": true
+  }
+}
