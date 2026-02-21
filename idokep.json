@@ -1,12 +1,12 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.02.21. 05:55",
-  "flow_last_run": "2026.02.21. 05:55",
+  "updated": "2026.02.21. 06:36",
+  "flow_last_run": "2026.02.21. 06:36",
   "current": {
     "temperature": 1,
-    "condition": "Borult",
-    "icon": "☁️"
+    "condition": "Szitálás",
+    "icon": null
   },
   "forecast_7d": [
     {
@@ -69,6 +69,6 @@
   "sun": {
     "sunrise": "6:28",
     "sunset": "17:05",
-    "is_night": true
+    "is_night": false
   }
 }
