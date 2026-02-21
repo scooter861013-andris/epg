@@ -1,12 +1,12 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.02.21. 09:25",
-  "flow_last_run": "2026.02.21. 09:25",
+  "updated": "2026.02.21. 09:53",
+  "flow_last_run": "2026.02.21. 09:53",
   "current": {
     "temperature": 1,
-    "condition": "Szitálás",
-    "icon": null
+    "condition": "Hószállingózás",
+    "icon": "❄️"
   },
   "forecast_7d": [
     {
