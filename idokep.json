@@ -1,22 +1,14 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.02.22. 18:48",
-  "flow_last_run": "2026.02.22. 18:48",
+  "updated": "2026.02.22. 19:23",
+  "flow_last_run": "2026.02.22. 19:23",
   "current": {
     "temperature": 5,
-    "condition": "Szitálás",
-    "icon": null
+    "condition": "Borult",
+    "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Vasárnap",
-      "min": -2,
-      "max": 6,
-      "condition": "erősen felhős",
-      "icon": "☁️",
-      "alert": "Melegfront"
-    },
     {
       "day": "Hétfő",
       "min": 5,
@@ -35,31 +27,39 @@
     },
     {
       "day": "Szerda",
-      "min": 0,
+      "min": 1,
       "max": 9,
-      "condition": "közepesen felhős",
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": "Melegfront"
     },
     {
       "day": "Csütörtök",
-      "min": -1,
-      "max": 13,
-      "condition": "közepesen felhős",
+      "min": -5,
+      "max": 12,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": "Szeles nap"
     },
     {
       "day": "Péntek",
-      "min": 0,
-      "max": 14,
-      "condition": "közepesen felhős",
+      "min": -2,
+      "max": 13,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "min": 1,
+      "min": -1,
+      "max": 14,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Vasárnap",
+      "min": 0,
       "max": 15,
       "condition": "gyengén felhős",
       "icon": "☁️",
