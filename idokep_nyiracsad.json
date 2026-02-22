@@ -1,8 +1,8 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "updated": "2026.02.22. 02:58",
-  "flow_last_run": "2026.02.22. 02:58",
+  "updated": "2026.02.22. 05:22",
+  "flow_last_run": "2026.02.22. 05:22",
   "current": {
     "temperature": 2,
     "condition": "Pára",
@@ -11,8 +11,8 @@
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "min": 0,
-      "max": 9,
+      "min": -1,
+      "max": 7,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": "Melegfront"
