@@ -1,8 +1,8 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "updated": "2026.02.23. 15:10",
-  "flow_last_run": "2026.02.23. 15:10",
+  "updated": "2026.02.23. 16:06",
+  "flow_last_run": "2026.02.23. 16:06",
   "current": {
     "temperature": 10,
     "condition": "Erősen felhős",
@@ -12,7 +12,7 @@
     {
       "day": "Hétfő",
       "min": 4,
-      "max": 9,
+      "max": 10,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": "Hidegfront erős széllel"
