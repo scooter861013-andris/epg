@@ -1,12 +1,12 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "updated": "2026.02.23. 18:18",
-  "flow_last_run": "2026.02.23. 18:18",
+  "updated": "2026.02.23. 19:34",
+  "flow_last_run": "2026.02.23. 19:34",
   "current": {
-    "temperature": 8,
-    "condition": "Száraz zivatar",
-    "icon": "⛈️"
+    "temperature": 7,
+    "condition": "Borult",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -27,7 +27,7 @@
     },
     {
       "day": "Szerda",
-      "min": -1,
+      "min": 0,
       "max": 10,
       "condition": "erősen felhős",
       "icon": "☁️",
