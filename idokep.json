@@ -1,18 +1,18 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "updated": "2026.02.24. 14:58",
-  "flow_last_run": "2026.02.24. 14:58",
+  "updated": "2026.02.24. 15:51",
+  "flow_last_run": "2026.02.24. 15:51",
   "current": {
     "temperature": 10,
-    "condition": "Eső",
-    "icon": "🌧️"
+    "condition": "Erősen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "min": 4,
-      "max": 10,
+      "min": 3,
+      "max": 11,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": "Szeles nap"
