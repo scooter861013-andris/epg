@@ -95,6 +95,17 @@ if sunset_el:
         sunset = m.group(1)
 
 # -------------------------------------------------
+# FRONTHATÁS
+# -------------------------------------------------
+fronthatas = None
+
+for div in soup.find_all("div", class_="pt-2"):
+    text = div.get_text(strip=True)
+    if "front" in text.lower():
+        fronthatas = text
+        break
+
+# -------------------------------------------------
 # 7 NAPOS ELŐREJELZÉS  ✅ HELYES IDŐKÉP DOM
 # -------------------------------------------------
 def parse_temp(card, cls):
