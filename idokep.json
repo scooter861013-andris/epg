@@ -2,8 +2,8 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Megszűnő hidegfronti hatás",
-  "updated": "2026.02.26. 05:24",
-  "flow_last_run": "2026.02.26. 05:24",
+  "updated": "2026.02.26. 06:37",
+  "flow_last_run": "2026.02.26. 06:37",
   "current": {
     "temperature": -2,
     "condition": "Derült",
@@ -12,8 +12,8 @@
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "min": -2,
-      "max": 6,
+      "min": -3,
+      "max": 7,
       "condition": "derült",
       "icon": "🌙",
       "alert": "Szeles nap"
@@ -70,6 +70,6 @@
   "sun": {
     "sunrise": "6:19",
     "sunset": "17:12",
-    "is_night": true
+    "is_night": false
   }
 }
