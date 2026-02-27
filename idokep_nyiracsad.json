@@ -1,26 +1,18 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "updated": "2026.02.27. 18:02",
-  "flow_last_run": "2026.02.27. 18:02",
+  "updated": "2026.02.27. 18:53",
+  "flow_last_run": "2026.02.27. 18:53",
   "current": {
-    "temperature": 4,
+    "temperature": 1,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
-      "day": "Péntek",
-      "min": -4,
-      "max": 10,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Szombat",
-      "min": -4,
-      "max": 13,
+      "min": -5,
+      "max": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -36,34 +28,42 @@
     {
       "day": "Hétfő",
       "min": -2,
-      "max": 15,
+      "max": 14,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "min": 0,
+      "min": -1,
       "max": 15,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "min": 1,
+      "min": 0,
       "max": 15,
       "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "min": 0,
+      "max": 15,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": "Köd"
     },
     {
-      "day": "Csütörtök",
-      "min": 1,
+      "day": "Péntek",
+      "min": 0,
       "max": 15,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
-      "alert": "Köd"
+      "alert": null
     }
   ],
   "sun": {
