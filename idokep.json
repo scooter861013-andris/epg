@@ -2,10 +2,10 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
-  "updated": "2026.02.28. 08:01",
-  "flow_last_run": "2026.02.28. 08:01",
+  "updated": "2026.02.28. 08:37",
+  "flow_last_run": "2026.02.28. 08:37",
   "current": {
-    "temperature": 0,
+    "temperature": 3,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -20,7 +20,7 @@
     },
     {
       "day": "Vasárnap",
-      "min": -1,
+      "min": -2,
       "max": 15,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -28,7 +28,7 @@
     },
     {
       "day": "Hétfő",
-      "min": -1,
+      "min": 0,
       "max": 14,
       "condition": "közepesen felhős",
       "icon": "☁️",
