@@ -1,12 +1,12 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "updated": "2026.02.28. 23:20",
-  "flow_last_run": "2026.02.28. 23:46",
+  "updated": "2026.03.01. 00:19",
+  "flow_last_run": "2026.03.01. 00:19",
   "current": {
     "temperature": -3,
-    "condition": "Derült",
-    "icon": "🌙"
+    "condition": "Pára",
+    "icon": null
   },
   "forecast_7d": [
     {
@@ -19,7 +19,7 @@
     },
     {
       "day": "Hétfő",
-      "min": -2,
+      "min": -3,
       "max": 17,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -68,7 +68,7 @@
   ],
   "sun": {
     "sunrise": "6:12",
-    "sunset": "17:14",
+    "sunset": "17:16",
     "is_night": true
   }
 }
