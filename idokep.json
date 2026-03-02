@@ -1,27 +1,27 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "JelenlegKözepesen felhős4℃Nem lesz front felettünkNapkelte: 6:09Napnyugta: 17:196:0917:19",
-  "updated": "2026.03.02. 19:49",
-  "flow_last_run": "2026.03.02. 19:49",
+  "fronthatas": "JelenlegGyengén felhős3℃Nem lesz front felettünkNapkelte: 6:09Napnyugta: 17:196:0917:19",
+  "updated": "2026.03.02. 20:31",
+  "flow_last_run": "2026.03.02. 20:31",
   "current": {
     "temperature": null,
-    "condition": "Közepesen felhős",
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő<br>2026.",
       "min": -1,
-      "max": 13,
+      "max": 12,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd<br>2026.",
-      "min": -2,
-      "max": 15,
+      "min": -3,
+      "max": 13,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
