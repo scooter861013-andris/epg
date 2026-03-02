@@ -1,41 +1,41 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Nem lesz front felettünk",
-  "updated": "2026.03.02. 18:58",
-  "flow_last_run": "2026.03.02. 18:58",
+  "fronthatas": "JelenlegKözepesen felhős4℃Nem lesz front felettünkNapkelte: 6:09Napnyugta: 17:196:0917:19",
+  "updated": "2026.03.02. 19:49",
+  "flow_last_run": "2026.03.02. 19:49",
   "current": {
-    "temperature": 5,
-    "condition": "Borult",
+    "temperature": null,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Hétfő",
+      "day": "Hétfő<br>2026.",
       "min": -1,
-      "max": 12,
+      "max": 13,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
-      "day": "Kedd",
-      "min": -3,
-      "max": 13,
+      "day": "Kedd<br>2026.",
+      "min": -2,
+      "max": 15,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
     },
     {
-      "day": "Szerda",
+      "day": "Szerda<br>2026.",
       "min": -1,
       "max": 16,
       "condition": "gyengén felhős",
       "icon": "☁️",
-      "alert": "Elszórtan zivatarok"
+      "alert": null
     },
     {
-      "day": "Csütörtök",
+      "day": "Csütörtök<br>2026.",
       "min": -1,
       "max": 15,
       "condition": "derült",
@@ -43,7 +43,7 @@
       "alert": null
     },
     {
-      "day": "Péntek",
+      "day": "Péntek<br>2026.",
       "min": 0,
       "max": 16,
       "condition": "gyengén felhős",
@@ -51,7 +51,7 @@
       "alert": null
     },
     {
-      "day": "Szombat",
+      "day": "Szombat<br>2026.",
       "min": -1,
       "max": 15,
       "condition": "közepesen felhős",
@@ -59,7 +59,7 @@
       "alert": null
     },
     {
-      "day": "Vasárnap",
+      "day": "Vasárnap<br>2026.",
       "min": -1,
       "max": 15,
       "condition": "gyengén felhős",
@@ -68,8 +68,8 @@
     }
   ],
   "sun": {
-    "sunrise": "6:09",
-    "sunset": "17:19",
-    "is_night": true
+    "sunrise": null,
+    "sunset": null,
+    "is_night": null
   }
 }
