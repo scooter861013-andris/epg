@@ -1,23 +1,15 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "JelenlegGyengén felhős3℃Nem lesz front felettünkNapkelte: 6:09Napnyugta: 17:196:0917:19",
-  "updated": "2026.03.02. 20:31",
-  "flow_last_run": "2026.03.02. 20:31",
+  "fronthatas": "JelenlegDerült3℃Nem lesz front felettünkNapkelte: 6:09Napnyugta: 17:196:0917:19",
+  "updated": "2026.03.02. 21:01",
+  "flow_last_run": "2026.03.02. 21:01",
   "current": {
     "temperature": null,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Hétfő<br>2026.",
-      "min": -1,
-      "max": 12,
-      "condition": "erősen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Kedd<br>2026.",
       "min": -3,
@@ -29,7 +21,7 @@
     {
       "day": "Szerda<br>2026.",
       "min": -1,
-      "max": 16,
+      "max": 15,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -46,15 +38,15 @@
       "day": "Péntek<br>2026.",
       "min": 0,
       "max": 16,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     },
     {
       "day": "Szombat<br>2026.",
       "min": -1,
       "max": 15,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -62,8 +54,16 @@
       "day": "Vasárnap<br>2026.",
       "min": -1,
       "max": 15,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Hétfő<br>2026.",
+      "min": -1,
+      "max": 14,
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     }
   ],
