@@ -232,8 +232,8 @@ for card in cards:
 
     forecast_7d.append({
         "day": day,
-        "min": tmin,
         "max": tmax,
+        "min": tmin,
         "condition": condition,
         "icon": icon,
         "alert": alert
