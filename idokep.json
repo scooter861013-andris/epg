@@ -1,9 +1,9 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "JelenlegPára1℃Nem lesz front felettünkNapkelte: 6:09Napnyugta: 17:206:0917:20",
-  "updated": "2026.03.03. 02:21",
-  "flow_last_run": "2026.03.03. 02:21",
+  "fronthatas": "JelenlegPára0℃Nem lesz front felettünkNapkelte: 6:09Napnyugta: 17:206:0917:20",
+  "updated": "2026.03.03. 04:43",
+  "flow_last_run": "2026.03.03. 04:43",
   "current": {
     "temperature": null,
     "condition": "Pára",
@@ -12,7 +12,7 @@
   "forecast_7d": [
     {
       "day": "Kedd<br>2026.",
-      "min": -2,
+      "min": -1,
       "max": 13,
       "condition": "derült",
       "icon": "🌙",
