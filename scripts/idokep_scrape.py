@@ -27,15 +27,18 @@ soup = BeautifulSoup(resp.text, "html.parser")
 # -------------------------------------------------
 # AKTUÁLIS HŐMÉRSÉKLET
 # -------------------------------------------------
+# -------------------------------------------------
+# AKTUÁLIS HŐMÉRSÉKLET (STABIL)
+# -------------------------------------------------
 current_temp = None
-temp_el = soup.select_one(".current-temperature")
+
+temp_el = soup.select_one(".ik.current-temperature")
+
 if temp_el:
-    try:
-        current_temp = int(
-            temp_el.text.replace("˚C", "").replace("°C", "").strip()
-        )
-    except ValueError:
-        pass
+    text = temp_el.get_text(strip=True)
+    m = re.search(r"-?\d+", text)
+    if m:
+        current_temp = int(m.group())
 
 # -------------------------------------------------
 # AKTUÁLIS IDŐJÁRÁS
