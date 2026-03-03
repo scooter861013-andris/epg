@@ -76,22 +76,21 @@ current_icon = condition_to_icon(current_cond)
 # -------------------------------------------------
 # NAPKELTE / NAPNYUGTA
 # -------------------------------------------------
+
 sunrise = None
 sunset = None
 
-# Napkelte
-sunrise_el = soup.find("img", alt="Napkelte")
-if sunrise_el:
-    text = sunrise_el.parent.get_text(strip=True)
-    m = re.search(r"Napkelte\s*(\d{1,2}:\d{2})", text)
+sunrise_div = soup.select_one(".icon.sunrise")
+if sunrise_div:
+    text = sunrise_div.get_text(strip=True)
+    m = re.search(r"(\d{1,2}:\d{2})", text)
     if m:
         sunrise = m.group(1)
 
-# Napnyugta
-sunset_el = soup.find("img", alt="Napnyugta")
-if sunset_el:
-    text = sunset_el.parent.get_text(strip=True)
-    m = re.search(r"Napnyugta\s*(\d{1,2}:\d{2})", text)
+sunset_div = soup.select_one(".icon.sunset")
+if sunset_div:
+    text = sunset_div.get_text(strip=True)
+    m = re.search(r"(\d{1,2}:\d{2})", text)
     if m:
         sunset = m.group(1)
 
