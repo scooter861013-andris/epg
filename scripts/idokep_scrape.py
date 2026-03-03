@@ -148,11 +148,24 @@ for card in cards:
                     alert = txt.strip()
                     break
                     
-# --- NAPNÉV EGYSZERŰ ÉS STABIL ---
-a_el = card.select_one(".dfIconAlert a")
+# --- NAPNÉV STABIL, TELJES MAGYAR ---
+    day_el = card.select_one(".dfDay")
 
-if a_el:
-    print("ATTRIBÚTUMOK:", a_el.attrs)    
+    if day_el:
+        short = day_el.get_text(strip=True)
+
+        DAY_MAP = {
+            "H": "Hétfő",
+            "K": "Kedd",
+            "Sz": "Szerda",
+            "Cs": "Csütörtök",
+            "P": "Péntek",
+            "Szo": "Szombat",
+            "V": "Vasárnap"
+        }
+
+        day = DAY_MAP.get(short, short)
+        
     tmin = parse_temp(card, "min")
     tmax = parse_temp(card, "max")
 
