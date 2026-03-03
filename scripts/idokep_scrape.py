@@ -148,22 +148,11 @@ for card in cards:
                     alert = txt.strip()
                     break
                     
-# --- NAPNÉV TELJES ---
-    day_el = card.select_one(".dfDay")
-    if day_el:
-        short = day_el.get_text(strip=True)
-
-        DAY_MAP = {
-            "H": "Hétfő",
-            "K": "Kedd",
-            "Sz": "Szerda",
-            "Cs": "Csütörtök",
-            "P": "Péntek",
-            "Szo": "Szombat",
-            "V": "Vasárnap"
-        }
-
-        day = DAY_MAP.get(short, short)
+# --- NAPNÉV EGYSZERŰ ---
+    a_el = card.select_one(".dfIconAlert a")
+    if a_el and a_el.has_attr("aria-label"):
+        raw = a_el["aria-label"]
+        day = raw.split("<br>")[0].strip()
     
     tmin = parse_temp(card, "min")
     tmax = parse_temp(card, "max")
