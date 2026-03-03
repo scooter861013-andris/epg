@@ -1,9 +1,9 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "JelenlegPára0℃Nem lesz front felettünkNapkelte: 6:09Napnyugta: 17:206:0917:20",
-  "updated": "2026.03.03. 04:54",
-  "flow_last_run": "2026.03.03. 04:54",
+  "fronthatas": "JelenlegPára-0℃Nem lesz front felettünkNapkelte: 6:09Napnyugta: 17:206:0917:20",
+  "updated": "2026.03.03. 04:59",
+  "flow_last_run": "2026.03.03. 04:59",
   "current": {
     "temperature": null,
     "condition": "Pára",
@@ -11,7 +11,7 @@
   },
   "forecast_7d": [
     {
-      "day": "",
+      "day": "K",
       "min": 0,
       "max": 13,
       "condition": "derült",
@@ -19,7 +19,7 @@
       "alert": null
     },
     {
-      "day": "",
+      "day": "Sz",
       "min": -1,
       "max": 15,
       "condition": "gyengén felhős",
@@ -27,7 +27,7 @@
       "alert": null
     },
     {
-      "day": "",
+      "day": "Cs",
       "min": -1,
       "max": 15,
       "condition": "derült",
@@ -35,7 +35,7 @@
       "alert": null
     },
     {
-      "day": "",
+      "day": "P",
       "min": 0,
       "max": 16,
       "condition": "derült",
@@ -43,7 +43,7 @@
       "alert": null
     },
     {
-      "day": "",
+      "day": "Sz",
       "min": -1,
       "max": 15,
       "condition": "gyengén felhős",
@@ -51,7 +51,7 @@
       "alert": null
     },
     {
-      "day": "",
+      "day": "V",
       "min": -1,
       "max": 15,
       "condition": "közepesen felhős",
@@ -59,7 +59,7 @@
       "alert": null
     },
     {
-      "day": "",
+      "day": "H",
       "min": -1,
       "max": 14,
       "condition": "derült",
