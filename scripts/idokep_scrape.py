@@ -148,24 +148,44 @@ for card in cards:
                     alert = txt.strip()
                     break
                     
-# --- NAPNÉV STABIL, TELJES MAGYAR ---
-    day_el = card.select_one(".dfDay")
+# --- NAPNÉV PONTOS (DÁTUM ALAPJÁN) ---
+    daynum_el = card.select_one(".dfDayNum")
 
-    if day_el:
-        short = day_el.get_text(strip=True)
+    if daynum_el:
+        try:
+            day_number = int(daynum_el.get_text(strip=True))
 
-        DAY_MAP = {
-            "H": "Hétfő",
-            "K": "Kedd",
-            "Sz": "Szerda",
-            "Cs": "Csütörtök",
-            "P": "Péntek",
-            "Szo": "Szombat",
-            "V": "Vasárnap"
-        }
+            now_dt = datetime.now(ZoneInfo("Europe/Budapest"))
+            year = now_dt.year
+            month = now_dt.month
 
-        day = DAY_MAP.get(short, short)
-        
+            # ha a következő hónapba csúszik
+            if day_number < now_dt.day:
+                if month == 12:
+                    month = 1
+                    year += 1
+                else:
+                    month += 1
+
+            date_obj = datetime(year, month, day_number)
+
+            weekday_en = date_obj.strftime("%A")
+
+            DAY_TRANSLATE = {
+                "Monday": "Hétfő",
+                "Tuesday": "Kedd",
+                "Wednesday": "Szerda",
+                "Thursday": "Csütörtök",
+                "Friday": "Péntek",
+                "Saturday": "Szombat",
+                "Sunday": "Vasárnap"
+            }
+
+            day = DAY_TRANSLATE.get(weekday_en, weekday_en)
+
+        except:
+            pass
+            
     tmin = parse_temp(card, "min")
     tmax = parse_temp(card, "max")
 
