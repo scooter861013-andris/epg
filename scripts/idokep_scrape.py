@@ -27,9 +27,7 @@ soup = BeautifulSoup(resp.text, "html.parser")
 # -------------------------------------------------
 # AKTUÁLIS HŐMÉRSÉKLET
 # -------------------------------------------------
-# -------------------------------------------------
-# AKTUÁLIS HŐMÉRSÉKLET (STABIL)
-# -------------------------------------------------
+
 current_temp = None
 
 temp_el = soup.select_one(".ik.current-temperature")
@@ -78,9 +76,7 @@ current_icon = condition_to_icon(current_cond)
 # -------------------------------------------------
 # NAPKELTE / NAPNYUGTA
 # -------------------------------------------------
-# -------------------------------------------------
-# NAPKELTE / NAPNYUGTA (STABIL)
-# -------------------------------------------------
+
 sunrise = None
 sunset = None
 
