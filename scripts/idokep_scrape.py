@@ -148,15 +148,18 @@ for card in cards:
                     alert = txt.strip()
                     break
 
-    # nap
+# --- NAPNÉV JAVÍTÁS ---
     a_el = card.select_one(".dfIconAlert a")
-    if a_el and a_el.has_attr("title"):
-        title = a_el["title"]
 
-    # pl: "Szombat<br>2026. január 3."
-        parts = title.split("<br>")
-        day = title.split(" ")[0] if parts else None
+    if a_el:
+        raw = (
+            a_el.get("aria-label")
+            or a_el.get("data-bs-original-title")
+            or ""
+        )
 
+        raw = raw.split("<br>")[0].strip()
+        day = raw.split(" ")[0]
 
     tmin = parse_temp(card, "min")
     tmax = parse_temp(card, "max")
