@@ -147,13 +147,23 @@ for card in cards:
                     txt = re.sub(r"<[^>]+>", "", txt) # maradék tagek le
                     alert = txt.strip()
                     break
-
-# --- NAPNÉV JAVÍTÁS ---
-# --- NAPNÉV STABIL ---
+                    
+# --- NAPNÉV TELJES ---
     day_el = card.select_one(".dfDay")
     if day_el:
-        day = day_el.get_text(strip=True)
+        short = day_el.get_text(strip=True)
 
+        DAY_MAP = {
+            "H": "Hétfő",
+            "K": "Kedd",
+            "Sz": "Szerda",
+            "Cs": "Csütörtök",
+            "P": "Péntek",
+            "Szo": "Szombat",
+            "V": "Vasárnap"
+        }
+
+        day = DAY_MAP.get(short, short)
     
     tmin = parse_temp(card, "min")
     tmax = parse_temp(card, "max")
