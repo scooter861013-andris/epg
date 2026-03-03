@@ -149,19 +149,10 @@ for card in cards:
                     break
                     
 # --- NAPNÉV EGYSZERŰ ÉS STABIL ---
-    a_el = card.select_one(".dfIconAlert a")
+a_el = card.select_one(".dfIconAlert a")
 
-    if a_el:
-        raw = (
-            a_el.get("aria-label")
-            or a_el.get("data-bs-original-title")
-            or ""
-        )
-
-        if raw:
-            raw = raw.replace("&lt;br&gt;", "<br>")
-            day = raw.split("<br>")[0].strip()
-    
+if a_el:
+    print("ATTRIBÚTUMOK:", a_el.attrs)    
     tmin = parse_temp(card, "min")
     tmax = parse_temp(card, "max")
 
