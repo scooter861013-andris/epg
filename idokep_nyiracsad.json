@@ -1,28 +1,20 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "updated": "2026.03.04. 18:57",
-  "flow_last_run": "2026.03.04. 18:57",
+  "updated": "2026.03.04. 19:56",
+  "flow_last_run": "2026.03.04. 19:56",
   "current": {
-    "temperature": 7,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 5,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Szerda",
-      "max": 17,
-      "min": -4,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Csütörtök",
       "max": 16,
       "min": -2,
-      "condition": "derült",
-      "icon": "🌙",
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
@@ -35,23 +27,23 @@
     },
     {
       "day": "Szombat",
-      "max": 13,
-      "min": -3,
+      "max": 15,
+      "min": -6,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 15,
-      "min": -2,
+      "max": 16,
+      "min": -3,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 15,
+      "max": 16,
       "min": -2,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -59,10 +51,18 @@
     },
     {
       "day": "Kedd",
-      "max": 15,
+      "max": 17,
       "min": -1,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "derült",
+      "icon": "🌙",
+      "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 18,
+      "min": 0,
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     }
   ],
