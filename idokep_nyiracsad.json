@@ -1,22 +1,14 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "updated": "2026.03.05. 17:02",
-  "flow_last_run": "2026.03.05. 17:02",
+  "updated": "2026.03.05. 19:21",
+  "flow_last_run": "2026.03.05. 19:21",
   "current": {
-    "temperature": 12,
+    "temperature": 3,
     "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Csütörtök",
-      "max": 16,
-      "min": -1,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Péntek",
       "max": 17,
@@ -28,39 +20,47 @@
     {
       "day": "Szombat",
       "max": 18,
-      "min": -3,
+      "min": -2,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 17,
-      "min": -3,
+      "max": 16,
+      "min": -2,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 16,
-      "min": -2,
+      "max": 15,
+      "min": -1,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 17,
-      "min": -1,
+      "max": 16,
+      "min": 0,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 18,
+      "max": 17,
       "min": 0,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "max": 17,
+      "min": 1,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -69,6 +69,6 @@
   "sun": {
     "sunrise": "6:02",
     "sunset": "17:22",
-    "is_night": false
+    "is_night": true
   }
 }
