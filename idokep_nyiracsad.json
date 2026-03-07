@@ -1,50 +1,42 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "updated": "2026.03.07. 16:58",
-  "flow_last_run": "2026.03.07. 16:58",
+  "updated": "2026.03.07. 17:36",
+  "flow_last_run": "2026.03.07. 17:36",
   "current": {
-    "temperature": 14,
+    "temperature": 12,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
-      "day": "Szombat",
-      "max": 16,
-      "min": -3,
+      "day": "Vasárnap",
+      "max": 17,
+      "min": -4,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
     },
     {
-      "day": "Vasárnap",
-      "max": 17,
-      "min": -3,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Hétfő",
       "max": 16,
-      "min": -1,
-      "condition": "gyengén felhős",
+      "min": -2,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 16,
-      "min": -1,
-      "condition": "gyengén felhős",
+      "max": 17,
+      "min": -2,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
       "max": 16,
-      "min": 0,
+      "min": -1,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -64,11 +56,19 @@
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
+    },
+    {
+      "day": "Szombat",
+      "max": 17,
+      "min": 3,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
     }
   ],
   "sun": {
     "sunrise": "5:58",
     "sunset": "17:25",
-    "is_night": false
+    "is_night": true
   }
 }
