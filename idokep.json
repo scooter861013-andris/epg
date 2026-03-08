@@ -3,7 +3,7 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Marad a frontmentes idő",
   "updated": "2026.03.08. 17:21",
-  "flow_last_run": "2026.03.08. 17:21",
+  "flow_last_run": "2026.03.08. 17:50",
   "current": {
     "temperature": 14,
     "condition": "Erősen felhős",
@@ -70,6 +70,6 @@
   "sun": {
     "sunrise": "5:58",
     "sunset": "17:28",
-    "is_night": false
+    "is_night": true
   }
 }
