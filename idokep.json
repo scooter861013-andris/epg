@@ -2,8 +2,8 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Marad a frontmentes idő",
-  "updated": "2026.03.08. 22:43",
-  "flow_last_run": "2026.03.08. 22:54",
+  "updated": "2026.03.08. 23:15",
+  "flow_last_run": "2026.03.08. 23:15",
   "current": {
     "temperature": 8,
     "condition": "Derült",
@@ -13,7 +13,7 @@
     {
       "day": "Hétfő",
       "max": 16,
-      "min": -3,
+      "min": 2,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
