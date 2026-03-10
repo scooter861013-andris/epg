@@ -2,17 +2,17 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Marad a frontmentes idő",
-  "updated": "2026.03.10. 08:35",
-  "flow_last_run": "2026.03.10. 08:35",
+  "updated": "2026.03.10. 09:04",
+  "flow_last_run": "2026.03.10. 09:04",
   "current": {
-    "temperature": 8,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "temperature": 10,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 17,
+      "max": 18,
       "min": -2,
       "condition": "közepesen felhős",
       "icon": "☁️",
