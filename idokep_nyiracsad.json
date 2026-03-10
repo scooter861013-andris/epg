@@ -1,18 +1,18 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "updated": "2026.03.10. 02:50",
-  "flow_last_run": "2026.03.10. 02:50",
+  "updated": "2026.03.10. 05:08",
+  "flow_last_run": "2026.03.10. 05:08",
   "current": {
-    "temperature": -1,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": -3,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
       "max": 17,
-      "min": -2,
+      "min": -3,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
