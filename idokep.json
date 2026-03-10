@@ -2,26 +2,18 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Marad a frontmentes idő",
-  "updated": "2026.03.10. 15:41",
-  "flow_last_run": "2026.03.10. 15:41",
+  "updated": "2026.03.10. 16:43",
+  "flow_last_run": "2026.03.10. 16:43",
   "current": {
-    "temperature": 16,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 15,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
-      "day": "Kedd",
-      "max": 17,
-      "min": -1,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Szerda",
-      "max": 17,
-      "min": -1,
+      "max": 18,
+      "min": -2,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -29,15 +21,15 @@
     {
       "day": "Csütörtök",
       "max": 18,
-      "min": 2,
+      "min": 0,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 18,
-      "min": 2,
+      "max": 19,
+      "min": 0,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -45,21 +37,29 @@
     {
       "day": "Szombat",
       "max": 17,
-      "min": 4,
-      "condition": "közepesen felhős",
+      "min": 0,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 16,
-      "min": 5,
+      "max": 17,
+      "min": 2,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 14,
+      "min": 3,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
-      "day": "Hétfő",
+      "day": "Kedd",
       "max": 14,
       "min": 3,
       "condition": "zápor",
