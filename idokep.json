@@ -2,26 +2,18 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Csütörtökön sem érkezik front",
-  "updated": "2026.03.11. 16:03",
-  "flow_last_run": "2026.03.11. 16:03",
+  "updated": "2026.03.11. 17:00",
+  "flow_last_run": "2026.03.11. 17:00",
   "current": {
-    "temperature": 16,
+    "temperature": 15,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Szerda",
-      "max": 18,
-      "min": 0,
-      "condition": "derült",
-      "icon": "🌙",
-      "alert": null
-    },
-    {
       "day": "Csütörtök",
       "max": 18,
-      "min": 0,
+      "min": -1,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -29,23 +21,23 @@
     {
       "day": "Péntek",
       "max": 19,
-      "min": 0,
+      "min": -1,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 17,
+      "max": 18,
       "min": 0,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     },
     {
       "day": "Vasárnap",
       "max": 17,
-      "min": 2,
+      "min": -1,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -64,6 +56,14 @@
       "min": 3,
       "condition": "zápor",
       "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 15,
+      "min": 2,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
