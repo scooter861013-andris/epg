@@ -2,8 +2,8 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Marad a frontmentes idő",
-  "updated": "2026.03.11. 11:58",
-  "flow_last_run": "2026.03.11. 11:58",
+  "updated": "2026.03.11. 12:35",
+  "flow_last_run": "2026.03.11. 12:35",
   "current": {
     "temperature": 17,
     "condition": "Gyengén felhős",
@@ -12,7 +12,7 @@
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 18,
+      "max": 17,
       "min": 0,
       "condition": "derült",
       "icon": "🌙",
@@ -68,7 +68,7 @@
     }
   ],
   "sun": {
-    "sunrise": "5:54",
+    "sunrise": "5:52",
     "sunset": "17:32",
     "is_night": false
   }
