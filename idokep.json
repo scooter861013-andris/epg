@@ -2,19 +2,19 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Csütörtökön sem érkezik front",
-  "updated": "2026.03.12. 08:12",
-  "flow_last_run": "2026.03.12. 08:12",
+  "updated": "2026.03.12. 08:54",
+  "flow_last_run": "2026.03.12. 08:54",
   "current": {
-    "temperature": 9,
+    "temperature": 11,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "max": 18,
-      "min": -1,
-      "condition": "gyengén felhős",
+      "max": 17,
+      "min": 3,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -38,32 +38,32 @@
       "day": "Vasárnap",
       "max": 18,
       "min": -1,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     },
     {
       "day": "Hétfő",
       "max": 15,
-      "min": 3,
+      "min": 2,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 12,
+      "max": 11,
       "min": 4,
-      "condition": "zápor",
+      "condition": "eső viharos széllel",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Szerda",
       "max": 13,
-      "min": 2,
-      "condition": "erősen felhős",
-      "icon": "☁️",
+      "min": 3,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     }
   ],
