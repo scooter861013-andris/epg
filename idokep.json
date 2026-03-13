@@ -2,10 +2,10 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
-  "updated": "2026.03.13. 16:56",
-  "flow_last_run": "2026.03.13. 16:56",
+  "updated": "2026.03.13. 17:35",
+  "flow_last_run": "2026.03.13. 17:35",
   "current": {
-    "temperature": 16,
+    "temperature": 14,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -70,6 +70,6 @@
   "sun": {
     "sunrise": "5:48",
     "sunset": "17:35",
-    "is_night": false
+    "is_night": true
   }
 }
