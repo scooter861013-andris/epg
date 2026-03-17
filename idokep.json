@@ -2,17 +2,17 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Gyenge hidegfronti hatás várható",
-  "updated": "2026.03.17. 11:12",
-  "flow_last_run": "2026.03.17. 11:12",
+  "updated": "2026.03.17. 12:08",
+  "flow_last_run": "2026.03.17. 12:08",
   "current": {
-    "temperature": 14,
-    "condition": "Erősen felhős",
+    "temperature": 15,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 14,
+      "max": 15,
       "min": 2,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -68,7 +68,7 @@
     }
   ],
   "sun": {
-    "sunrise": "5:42",
+    "sunrise": "5:40",
     "sunset": "17:41",
     "is_night": false
   }
