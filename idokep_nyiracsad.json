@@ -1,22 +1,14 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "updated": "2026.03.18. 16:37",
-  "flow_last_run": "2026.03.18. 16:37",
+  "updated": "2026.03.18. 17:42",
+  "flow_last_run": "2026.03.18. 17:42",
   "current": {
-    "temperature": 16,
+    "temperature": 13,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Szerda",
-      "max": 18,
-      "min": 2,
-      "condition": "derült",
-      "icon": "🌙",
-      "alert": null
-    },
     {
       "day": "Csütörtök",
       "max": 14,
@@ -35,7 +27,7 @@
     },
     {
       "day": "Szombat",
-      "max": 15,
+      "max": 14,
       "min": 0,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -43,32 +35,40 @@
     },
     {
       "day": "Vasárnap",
-      "max": 14,
-      "min": 2,
-      "condition": "közepesen felhős",
+      "max": 15,
+      "min": 1,
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
       "max": 15,
-      "min": 2,
+      "min": 3,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 15,
-      "min": 2,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "max": 17,
+      "min": 4,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 16,
+      "min": 5,
+      "condition": "erősen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
   "sun": {
     "sunrise": "5:36",
     "sunset": "17:41",
-    "is_night": false
+    "is_night": true
   }
 }
