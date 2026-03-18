@@ -3,7 +3,7 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Gyenge hidegfronti hatás várható",
   "updated": "2026.03.18. 05:00",
-  "flow_last_run": "2026.03.18. 05:00",
+  "flow_last_run": "2026.03.18. 06:40",
   "current": {
     "temperature": 6,
     "condition": "Derült",
@@ -70,6 +70,6 @@
   "sun": {
     "sunrise": "5:40",
     "sunset": "17:42",
-    "is_night": true
+    "is_night": false
   }
 }
