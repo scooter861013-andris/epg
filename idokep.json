@@ -2,12 +2,12 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti jellegű tünetek jelentkezhetnek",
-  "updated": "2026.03.19. 17:06",
-  "flow_last_run": "2026.03.19. 17:06",
+  "updated": "2026.03.19. 18:12",
+  "flow_last_run": "2026.03.19. 18:12",
   "current": {
-    "temperature": 11,
-    "condition": "Szitálás",
-    "icon": null
+    "temperature": 10,
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -70,6 +70,6 @@
   "sun": {
     "sunrise": "5:36",
     "sunset": "17:44",
-    "is_night": false
+    "is_night": true
   }
 }
