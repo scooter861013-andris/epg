@@ -2,18 +2,18 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Kettősfronti hatás várható",
-  "updated": "2026.03.21. 02:15",
-  "flow_last_run": "2026.03.21. 02:15",
+  "updated": "2026.03.21. 04:30",
+  "flow_last_run": "2026.03.21. 04:30",
   "current": {
-    "temperature": 6,
-    "condition": "Gyenge eső",
-    "icon": "🌧️"
+    "temperature": 7,
+    "condition": "Erősen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
       "max": 15,
-      "min": 4,
+      "min": 7,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
