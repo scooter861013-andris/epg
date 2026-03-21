@@ -2,8 +2,8 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Kettősfronti hatás várható",
-  "updated": "2026.03.21. 19:25",
-  "flow_last_run": "2026.03.21. 19:25",
+  "updated": "2026.03.21. 19:58",
+  "flow_last_run": "2026.03.21. 19:58",
   "current": {
     "temperature": 9,
     "condition": "Erősen felhős",
@@ -11,48 +11,40 @@
   },
   "forecast_7d": [
     {
-      "day": "Szombat",
-      "max": 15,
-      "min": 2,
-      "condition": "erősen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Vasárnap",
       "max": 16,
-      "min": 1,
+      "min": 3,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 17,
-      "min": 2,
+      "max": 16,
+      "min": 3,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 18,
-      "min": 3,
-      "condition": "gyengén felhős",
+      "max": 17,
+      "min": 2,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
       "max": 17,
-      "min": 3,
+      "min": 2,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 16,
+      "max": 14,
       "min": 4,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
@@ -60,9 +52,17 @@
     },
     {
       "day": "Péntek",
-      "max": 16,
-      "min": 5,
+      "max": 12,
+      "min": 3,
       "condition": "eső viharos széllel",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Szombat",
+      "max": 11,
+      "min": 3,
+      "condition": "gyenge eső",
       "icon": "🌧️",
       "alert": null
     }
