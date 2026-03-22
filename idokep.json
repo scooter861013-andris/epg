@@ -2,18 +2,18 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Kettősfronti hatás várható",
-  "updated": "2026.03.22. 04:57",
-  "flow_last_run": "2026.03.22. 04:57",
+  "updated": "2026.03.22. 06:17",
+  "flow_last_run": "2026.03.22. 06:17",
   "current": {
     "temperature": 4,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
       "max": 16,
-      "min": 4,
+      "min": 3,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -70,6 +70,6 @@
   "sun": {
     "sunrise": "5:31",
     "sunset": "17:48",
-    "is_night": true
+    "is_night": false
   }
 }
