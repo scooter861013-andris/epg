@@ -1,33 +1,25 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "updated": "2026.03.22. 18:25",
-  "flow_last_run": "2026.03.22. 18:25",
+  "updated": "2026.03.22. 18:50",
+  "flow_last_run": "2026.03.22. 18:50",
   "current": {
-    "temperature": 10,
+    "temperature": 9,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Vasárnap",
-      "max": 16,
-      "min": 2,
-      "condition": "erősen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Hétfő",
-      "max": 16,
-      "min": 3,
-      "condition": "erősen felhős",
+      "max": 18,
+      "min": 2,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 17,
+      "max": 18,
       "min": 2,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -36,32 +28,40 @@
     {
       "day": "Szerda",
       "max": 17,
-      "min": 2,
+      "min": 1,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 12,
-      "min": 4,
+      "max": 13,
+      "min": 6,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 9,
-      "min": 2,
-      "condition": "havas eső",
+      "max": 11,
+      "min": 4,
+      "condition": "eső viharos széllel",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 8,
+      "max": 9,
       "min": 3,
-      "condition": "gyenge eső",
+      "condition": "eső viharos széllel",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Vasárnap",
+      "max": 10,
+      "min": 3,
+      "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     }
