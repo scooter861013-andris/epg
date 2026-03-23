@@ -94,6 +94,17 @@ if sunset_div:
     if m:
         sunset = m.group(1)
 
+
+# -------------------------------------------------
+# FRONTHATÁS (STABIL)
+# -------------------------------------------------
+fronthatas = None
+
+front_el = soup.select_one(".scTextDescription")
+if front_el:
+    fronthatas = front_el.get_text(strip=True)
+
+
 # -------------------------------------------------
 # 7 NAPOS ELŐREJELZÉS  ✅ HELYES IDŐKÉP DOM
 # -------------------------------------------------
@@ -261,6 +272,7 @@ if sunrise and sunset:
 data = {
     "source": "idokep.hu",
     "location": LOCATION,
+    "fronthatas": fronthatas,
     "updated": (
         old_data.get("updated")
         if old_data
