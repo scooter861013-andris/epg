@@ -2,10 +2,10 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
-  "updated": "2026.03.23. 17:35",
-  "flow_last_run": "2026.03.23. 17:35",
+  "updated": "2026.03.23. 18:35",
+  "flow_last_run": "2026.03.23. 18:35",
   "current": {
-    "temperature": 12,
+    "temperature": 8,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
@@ -70,6 +70,6 @@
   "sun": {
     "sunrise": "5:26",
     "sunset": "17:48",
-    "is_night": false
+    "is_night": true
   }
 }
