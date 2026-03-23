@@ -1,830 +1,998 @@
 [
   {
-    "csatorna": "FILMCAFE",
-    "kezdes": "20260322125500 +0000",
-    "vege": "20260322143000 +0000",
-    "cim": "Nicsak, ki beszél még!"
+    "csatorna": "AMC",
+    "kezdes": "20260323125500 +0000",
+    "vege": "20260323151000 +0000",
+    "cim": "Trükkös halál"
+  },
+  {
+    "csatorna": "AMC",
+    "kezdes": "20260323151000 +0000",
+    "vege": "20260323173500 +0000",
+    "cim": "Pókember"
+  },
+  {
+    "csatorna": "AMC",
+    "kezdes": "20260323173500 +0000",
+    "vege": "20260323200000 +0000",
+    "cim": "Ragadozó városok"
+  },
+  {
+    "csatorna": "AMC",
+    "kezdes": "20260323200000 +0000",
+    "vege": "20260323220500 +0000",
+    "cim": "Kellékfeleség"
+  },
+  {
+    "csatorna": "AMC",
+    "kezdes": "20260323220500 +0000",
+    "vege": "20260324001500 +0000",
+    "cim": "21 Jump Street - A kopasz osztag"
+  },
+  {
+    "csatorna": "AXN",
+    "kezdes": "20260323121000 +0000",
+    "vege": "20260323131000 +0000",
+    "cim": "Doktor House"
+  },
+  {
+    "csatorna": "AXN",
+    "kezdes": "20260323131000 +0000",
+    "vege": "20260323141000 +0000",
+    "cim": "Doktor House"
+  },
+  {
+    "csatorna": "AXN",
+    "kezdes": "20260323141000 +0000",
+    "vege": "20260323151000 +0000",
+    "cim": "Smallville"
+  },
+  {
+    "csatorna": "AXN",
+    "kezdes": "20260323151000 +0000",
+    "vege": "20260323160500 +0000",
+    "cim": "Csillagkapu: Atlantisz"
+  },
+  {
+    "csatorna": "AXN",
+    "kezdes": "20260323160500 +0000",
+    "vege": "20260323170500 +0000",
+    "cim": "Csillagkapu"
+  },
+  {
+    "csatorna": "AXN",
+    "kezdes": "20260323170500 +0000",
+    "vege": "20260323180500 +0000",
+    "cim": "Csillagkapu"
+  },
+  {
+    "csatorna": "AXN",
+    "kezdes": "20260323180500 +0000",
+    "vege": "20260323190000 +0000",
+    "cim": "J.A.G. - Becsületbeli ügyek"
+  },
+  {
+    "csatorna": "AXN",
+    "kezdes": "20260323190000 +0000",
+    "vege": "20260323200000 +0000",
+    "cim": "FBI - New York különleges ügynökei"
+  },
+  {
+    "csatorna": "AXN",
+    "kezdes": "20260323200000 +0000",
+    "vege": "20260323210000 +0000",
+    "cim": "Az elveszett világ"
+  },
+  {
+    "csatorna": "AXN",
+    "kezdes": "20260323210000 +0000",
+    "vege": "20260323220000 +0000",
+    "cim": "Az elveszett jelkép"
+  },
+  {
+    "csatorna": "AXN",
+    "kezdes": "20260323220000 +0000",
+    "vege": "20260324003500 +0000",
+    "cim": "Bad Boys - Mindörökké rosszfiúk"
+  },
+  {
+    "csatorna": "FILM4",
+    "kezdes": "20260323133500 +0000",
+    "vege": "20260323152500 +0000",
+    "cim": "Levél a palackban"
+  },
+  {
+    "csatorna": "FILM4",
+    "kezdes": "20260323152500 +0000",
+    "vege": "20260323171500 +0000",
+    "cim": "Virágbolti rejtélyek: Különös krizantémok"
+  },
+  {
+    "csatorna": "FILM4",
+    "kezdes": "20260323171500 +0000",
+    "vege": "20260323190000 +0000",
+    "cim": "A szerelem receptje"
+  },
+  {
+    "csatorna": "FILM4",
+    "kezdes": "20260323190000 +0000",
+    "vege": "20260323211000 +0000",
+    "cim": "A tenger alatt járó kölyök"
+  },
+  {
+    "csatorna": "FILM4",
+    "kezdes": "20260323211000 +0000",
+    "vege": "20260323235000 +0000",
+    "cim": "Jerry Maguire - A nagy hátraarc"
+  },
+  {
+    "csatorna": "FILM4",
+    "kezdes": "20260323235000 +0000",
+    "vege": "20260324021000 +0000",
+    "cim": "Hullámok hercege"
   },
   {
     "csatorna": "FILMCAFE",
-    "kezdes": "20260322143000 +0000",
-    "vege": "20260322163500 +0000",
-    "cim": "Step Up"
+    "kezdes": "20260323132500 +0000",
+    "vege": "20260323154500 +0000",
+    "cim": "Hollywoodi őrjárat"
   },
   {
     "csatorna": "FILMCAFE",
-    "kezdes": "20260322163500 +0000",
-    "vege": "20260322190000 +0000",
-    "cim": "Hart háborúja"
+    "kezdes": "20260323154500 +0000",
+    "vege": "20260323174500 +0000",
+    "cim": "Kiképzőtábor"
   },
   {
     "csatorna": "FILMCAFE",
-    "kezdes": "20260322190000 +0000",
-    "vege": "20260322204500 +0000",
-    "cim": "Charlie angyalai"
+    "kezdes": "20260323174500 +0000",
+    "vege": "20260323200000 +0000",
+    "cim": "Képlet"
   },
   {
     "csatorna": "FILMCAFE",
-    "kezdes": "20260322204500 +0000",
-    "vege": "20260322225500 +0000",
-    "cim": "Terminátor - Megváltás"
+    "kezdes": "20260323200000 +0000",
+    "vege": "20260323215500 +0000",
+    "cim": "Elhurcolva"
   },
   {
     "csatorna": "FILMCAFE",
-    "kezdes": "20260322225500 +0000",
-    "vege": "20260323012500 +0000",
-    "cim": "V mint vérbosszú"
+    "kezdes": "20260323215500 +0000",
+    "vege": "20260323235500 +0000",
+    "cim": "Harry Brown"
+  },
+  {
+    "csatorna": "FILMCAFE",
+    "kezdes": "20260323235500 +0000",
+    "vege": "20260324013500 +0000",
+    "cim": "Túszjátszma"
   },
   {
     "csatorna": "FILMMANIA",
-    "kezdes": "20260322123500 +0000",
-    "vege": "20260322145500 +0000",
-    "cim": "Piedone Hongkongban"
+    "kezdes": "20260323132500 +0000",
+    "vege": "20260323160000 +0000",
+    "cim": "Chihiro szellemországban"
   },
   {
     "csatorna": "FILMMANIA",
-    "kezdes": "20260322145500 +0000",
-    "vege": "20260322165000 +0000",
-    "cim": "Brian élete"
+    "kezdes": "20260323160000 +0000",
+    "vege": "20260323174000 +0000",
+    "cim": "Hangok a falból"
   },
   {
     "csatorna": "FILMMANIA",
-    "kezdes": "20260322165000 +0000",
-    "vege": "20260322184500 +0000",
-    "cim": "Négybalkezes"
+    "kezdes": "20260323174000 +0000",
+    "vege": "20260323200000 +0000",
+    "cim": "A hatodik napon"
   },
   {
     "csatorna": "FILMMANIA",
-    "kezdes": "20260322184500 +0000",
-    "vege": "20260322210000 +0000",
-    "cim": "A csendestárs"
+    "kezdes": "20260323200000 +0000",
+    "vege": "20260323220000 +0000",
+    "cim": "Air America"
   },
   {
     "csatorna": "FILMMANIA",
-    "kezdes": "20260322210000 +0000",
-    "vege": "20260322224000 +0000",
-    "cim": "Vakvágányon"
+    "kezdes": "20260323220000 +0000",
+    "vege": "20260323235500 +0000",
+    "cim": "A mocsár átka"
   },
   {
     "csatorna": "FILMMANIA",
-    "kezdes": "20260322224000 +0000",
-    "vege": "20260323004000 +0000",
-    "cim": "Ezüst pisztolygolyók"
+    "kezdes": "20260323235500 +0000",
+    "vege": "20260324014000 +0000",
+    "cim": "Egy férfi naplója"
   },
   {
     "csatorna": "FILMPLUSSZ",
-    "kezdes": "20260322124500 +0000",
-    "vege": "20260322142500 +0000",
-    "cim": "Drágám, add az életed!"
+    "kezdes": "20260323120000 +0000",
+    "vege": "20260323140000 +0000",
+    "cim": "Jöjj velem!"
   },
   {
     "csatorna": "FILMPLUSSZ",
-    "kezdes": "20260322142500 +0000",
-    "vege": "20260322162500 +0000",
-    "cim": "A pláza ásza Vegasban"
+    "kezdes": "20260323140000 +0000",
+    "vege": "20260323165000 +0000",
+    "cim": "Waterworld - Vízivilág"
   },
   {
     "csatorna": "FILMPLUSSZ",
-    "kezdes": "20260322162500 +0000",
-    "vege": "20260322190000 +0000",
-    "cim": "Vasököl"
-  },
-  {
-    "csatorna": "FILMPLUSSZ",
-    "kezdes": "20260322190000 +0000",
-    "vege": "20260322222000 +0000",
+    "kezdes": "20260323165000 +0000",
+    "vege": "20260323200000 +0000",
     "cim": "Dűne"
   },
   {
     "csatorna": "FILMPLUSSZ",
-    "kezdes": "20260322222000 +0000",
-    "vege": "20260323004000 +0000",
-    "cim": "Ex Machina"
+    "kezdes": "20260323200000 +0000",
+    "vege": "20260323221500 +0000",
+    "cim": "Ellenséges terület"
   },
   {
-    "csatorna": "MOZIPLUSZ",
-    "kezdes": "20260322134500 +0000",
-    "vege": "20260322153000 +0000",
-    "cim": "Utazás a Föld középpontja felé"
+    "csatorna": "FILMPLUSSZ",
+    "kezdes": "20260323221500 +0000",
+    "vege": "20260324010000 +0000",
+    "cim": "A fegyvertelen katona"
   },
   {
-    "csatorna": "MOZIPLUSZ",
-    "kezdes": "20260322153000 +0000",
-    "vege": "20260322174500 +0000",
-    "cim": "Meg - Az őscápa"
+    "csatorna": "MOZIVERZUM",
+    "kezdes": "20260323132000 +0000",
+    "vege": "20260323145000 +0000",
+    "cim": "Diszkópatkányok"
   },
   {
-    "csatorna": "MOZIPLUSZ",
-    "kezdes": "20260322174500 +0000",
-    "vege": "20260322200000 +0000",
-    "cim": "Jack Reacher: Nincs visszaút"
+    "csatorna": "MOZIVERZUM",
+    "kezdes": "20260323145000 +0000",
+    "vege": "20260323163000 +0000",
+    "cim": "Amerikai taxi"
   },
   {
-    "csatorna": "MOZIPLUSZ",
-    "kezdes": "20260322200000 +0000",
-    "vege": "20260322222500 +0000",
-    "cim": "Penge"
+    "csatorna": "MOZIVERZUM",
+    "kezdes": "20260323163000 +0000",
+    "vege": "20260323180000 +0000",
+    "cim": "Csupasz pisztoly 33 1/3 - Az utolsó merénylet"
   },
   {
-    "csatorna": "MOZIPLUSZ",
-    "kezdes": "20260322222500 +0000",
-    "vege": "20260323002500 +0000",
+    "csatorna": "MOZIVERZUM",
+    "kezdes": "20260323180000 +0000",
+    "vege": "20260323200000 +0000",
     "cim": "Rampage - Tombolás"
   },
   {
     "csatorna": "MOZIVERZUM",
-    "kezdes": "20260322130000 +0000",
-    "vege": "20260322144500 +0000",
-    "cim": "Minyonok"
+    "kezdes": "20260323200000 +0000",
+    "vege": "20260323215500 +0000",
+    "cim": "Elvetemült gyilkos"
   },
   {
     "csatorna": "MOZIVERZUM",
-    "kezdes": "20260322144500 +0000",
-    "vege": "20260322164500 +0000",
-    "cim": "Az arany iránytű"
+    "kezdes": "20260323215500 +0000",
+    "vege": "20260323233000 +0000",
+    "cim": "Jackie Chan: Balhé Bronxban"
   },
   {
     "csatorna": "MOZIVERZUM",
-    "kezdes": "20260322164500 +0000",
-    "vege": "20260322182000 +0000",
-    "cim": "Scooby-Doo - A nagy csapat"
-  },
-  {
-    "csatorna": "MOZIVERZUM",
-    "kezdes": "20260322182000 +0000",
-    "vege": "20260322200000 +0000",
-    "cim": "Gru"
-  },
-  {
-    "csatorna": "MOZIVERZUM",
-    "kezdes": "20260322200000 +0000",
-    "vege": "20260322214000 +0000",
-    "cim": "Harold és a varázsceruza"
-  },
-  {
-    "csatorna": "MOZIVERZUM",
-    "kezdes": "20260322214000 +0000",
-    "vege": "20260322233000 +0000",
-    "cim": "Ördögi csapda"
-  },
-  {
-    "csatorna": "MOZIVERZUM",
-    "kezdes": "20260322233000 +0000",
-    "vege": "20260323013000 +0000",
-    "cim": "A csempész"
+    "kezdes": "20260323233000 +0000",
+    "vege": "20260324020000 +0000",
+    "cim": "13 óra: Bengázi titkos katonái"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322120000 +0000",
-    "vege": "20260322122500 +0000",
-    "cim": "Veszélyes Osztag"
-  },
-  {
-    "csatorna": "NICKELODEON",
-    "kezdes": "20260322122500 +0000",
-    "vege": "20260322125000 +0000",
-    "cim": "Veszélyes Osztag"
-  },
-  {
-    "csatorna": "NICKELODEON",
-    "kezdes": "20260322125000 +0000",
-    "vege": "20260322131000 +0000",
+    "kezdes": "20260323120000 +0000",
+    "vege": "20260323122500 +0000",
     "cim": "Veszélyes Henry"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322131000 +0000",
-    "vege": "20260322133500 +0000",
-    "cim": "Veszélyes Henry"
-  },
-  {
-    "csatorna": "NICKELODEON",
-    "kezdes": "20260322133500 +0000",
-    "vege": "20260322135500 +0000",
-    "cim": "Mesék a Tini Nindzsa Teknőcökről"
-  },
-  {
-    "csatorna": "NICKELODEON",
-    "kezdes": "20260322135500 +0000",
-    "vege": "20260322142000 +0000",
-    "cim": "Mesék a Tini Nindzsa Teknőcökről"
-  },
-  {
-    "csatorna": "NICKELODEON",
-    "kezdes": "20260322142000 +0000",
-    "vege": "20260322144500 +0000",
+    "kezdes": "20260323122500 +0000",
+    "vege": "20260323125000 +0000",
     "cim": "A Lármás család"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322144500 +0000",
-    "vege": "20260322150500 +0000",
+    "kezdes": "20260323125000 +0000",
+    "vege": "20260323131500 +0000",
     "cim": "A Lármás család"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322150500 +0000",
-    "vege": "20260322152000 +0000",
-    "cim": "A Lármás család"
-  },
-  {
-    "csatorna": "NICKELODEON",
-    "kezdes": "20260322152000 +0000",
-    "vege": "20260322154000 +0000",
+    "kezdes": "20260323131500 +0000",
+    "vege": "20260323133500 +0000",
     "cim": "Wylde-Pak bagázs"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322154000 +0000",
-    "vege": "20260322160500 +0000",
-    "cim": "Wylde-Pak bagázs"
-  },
-  {
-    "csatorna": "NICKELODEON",
-    "kezdes": "20260322160500 +0000",
-    "vege": "20260322163000 +0000",
+    "kezdes": "20260323133500 +0000",
+    "vege": "20260323140000 +0000",
     "cim": "SpongyaBob KockaNadrág"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322163000 +0000",
-    "vege": "20260322165000 +0000",
+    "kezdes": "20260323140000 +0000",
+    "vege": "20260323142000 +0000",
+    "cim": "Csillag Patrik műsora"
+  },
+  {
+    "csatorna": "NICKELODEON",
+    "kezdes": "20260323142000 +0000",
+    "vege": "20260323143500 +0000",
+    "cim": "Csillag Patrik műsora"
+  },
+  {
+    "csatorna": "NICKELODEON",
+    "kezdes": "20260323143500 +0000",
+    "vege": "20260323145500 +0000",
+    "cim": "A Lármás család"
+  },
+  {
+    "csatorna": "NICKELODEON",
+    "kezdes": "20260323145500 +0000",
+    "vege": "20260323152000 +0000",
+    "cim": "A Lármás család"
+  },
+  {
+    "csatorna": "NICKELODEON",
+    "kezdes": "20260323152000 +0000",
+    "vege": "20260323154500 +0000",
+    "cim": "Wylde-Pak bagázs"
+  },
+  {
+    "csatorna": "NICKELODEON",
+    "kezdes": "20260323154500 +0000",
+    "vege": "20260323160500 +0000",
+    "cim": "Wylde-Pak bagázs"
+  },
+  {
+    "csatorna": "NICKELODEON",
+    "kezdes": "20260323160500 +0000",
+    "vege": "20260323163000 +0000",
+    "cim": "SpongyaBob Kockanadrág"
+  },
+  {
+    "csatorna": "NICKELODEON",
+    "kezdes": "20260323163000 +0000",
+    "vege": "20260323165500 +0000",
     "cim": "A Marsupilamik"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322165000 +0000",
-    "vege": "20260322171500 +0000",
-    "cim": "SpongyaBob KockaNadrág"
+    "kezdes": "20260323165500 +0000",
+    "vege": "20260323170500 +0000",
+    "cim": "A Lármás család"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322171500 +0000",
-    "vege": "20260322174000 +0000",
-    "cim": "SpongyaBob KockaNadrág"
+    "kezdes": "20260323170500 +0000",
+    "vege": "20260323173000 +0000",
+    "cim": "A Lármás család"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322174000 +0000",
-    "vege": "20260322180500 +0000",
-    "cim": "SpongyaBob KockaNadrág"
+    "kezdes": "20260323173000 +0000",
+    "vege": "20260323175500 +0000",
+    "cim": "A Lármás család"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322180500 +0000",
-    "vege": "20260322182500 +0000",
+    "kezdes": "20260323175500 +0000",
+    "vege": "20260323180500 +0000",
+    "cim": "A Lármás család"
+  },
+  {
+    "csatorna": "NICKELODEON",
+    "kezdes": "20260323180500 +0000",
+    "vege": "20260323183000 +0000",
     "cim": "A Thunderman-család: Beépített küldetés"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322182500 +0000",
-    "vege": "20260322185000 +0000",
+    "kezdes": "20260323183000 +0000",
+    "vege": "20260323185500 +0000",
     "cim": "A Thunderman-család: Beépített küldetés"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322185000 +0000",
-    "vege": "20260322191500 +0000",
+    "kezdes": "20260323185500 +0000",
+    "vege": "20260323191500 +0000",
     "cim": "Veszélyes Henry"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322191500 +0000",
-    "vege": "20260322194000 +0000",
+    "kezdes": "20260323191500 +0000",
+    "vege": "20260323194000 +0000",
     "cim": "Veszélyes Henry"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322194000 +0000",
-    "vege": "20260322200000 +0000",
+    "kezdes": "20260323194000 +0000",
+    "vege": "20260323200500 +0000",
     "cim": "Veszélyes Osztag"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322200000 +0000",
-    "vege": "20260322202500 +0000",
+    "kezdes": "20260323200500 +0000",
+    "vege": "20260323202500 +0000",
     "cim": "iCarly"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322202500 +0000",
-    "vege": "20260322205000 +0000",
+    "kezdes": "20260323202500 +0000",
+    "vege": "20260323205000 +0000",
     "cim": "iCarly"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322205000 +0000",
-    "vege": "20260322211500 +0000",
+    "kezdes": "20260323205000 +0000",
+    "vege": "20260323211500 +0000",
     "cim": "V, mint Viktória"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322211500 +0000",
-    "vege": "20260322214000 +0000",
+    "kezdes": "20260323211500 +0000",
+    "vege": "20260323214000 +0000",
     "cim": "Sam és Cat"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322214000 +0000",
-    "vege": "20260322220000 +0000",
+    "kezdes": "20260323214000 +0000",
+    "vege": "20260323220500 +0000",
     "cim": "Mesék a Tini Nindzsa Teknőcökről"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322220000 +0000",
-    "vege": "20260322222500 +0000",
+    "kezdes": "20260323220500 +0000",
+    "vege": "20260323222500 +0000",
     "cim": "Mesék a Tini Nindzsa Teknőcökről"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322222500 +0000",
-    "vege": "20260322224500 +0000",
+    "kezdes": "20260323222500 +0000",
+    "vege": "20260323225000 +0000",
     "cim": "SpongyaBob KockaNadrág"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322224500 +0000",
-    "vege": "20260322231000 +0000",
+    "kezdes": "20260323225000 +0000",
+    "vege": "20260323231500 +0000",
     "cim": "SpongyaBob KockaNadrág"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322231000 +0000",
-    "vege": "20260322233500 +0000",
+    "kezdes": "20260323231500 +0000",
+    "vege": "20260323234000 +0000",
     "cim": "A Marsupilamik"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "20260322233500 +0000",
-    "vege": "20260322235500 +0000",
-    "cim": "Szipi & Szuper"
-  },
-  {
-    "csatorna": "NICKELODEON",
-    "kezdes": "20260322235500 +0000",
-    "vege": "20260323002000 +0000",
+    "kezdes": "20260323234000 +0000",
+    "vege": "20260324000000 +0000",
     "cim": "Szipi & Szuper"
   },
   {
     "csatorna": "OZONETV",
-    "kezdes": "20260322120000 +0000",
-    "vege": "20260322123000 +0000",
-    "cim": "Garázs"
+    "kezdes": "20260323120000 +0000",
+    "vege": "20260323123000 +0000",
+    "cim": "Raktárvadászok"
   },
   {
     "csatorna": "OZONETV",
-    "kezdes": "20260322123000 +0000",
-    "vege": "20260322130000 +0000",
-    "cim": "Garázs"
+    "kezdes": "20260323123000 +0000",
+    "vege": "20260323130000 +0000",
+    "cim": "Raktárvadászok"
   },
   {
     "csatorna": "OZONETV",
-    "kezdes": "20260322130000 +0000",
-    "vege": "20260322133000 +0000",
-    "cim": "Garázs"
+    "kezdes": "20260323130000 +0000",
+    "vege": "20260323133000 +0000",
+    "cim": "Raktárvadászok"
   },
   {
     "csatorna": "OZONETV",
-    "kezdes": "20260322133000 +0000",
-    "vege": "20260322140000 +0000",
-    "cim": "Garázs"
+    "kezdes": "20260323133000 +0000",
+    "vege": "20260323140000 +0000",
+    "cim": "Raktárvadászok"
   },
   {
     "csatorna": "OZONETV",
-    "kezdes": "20260322140000 +0000",
-    "vege": "20260322150000 +0000",
-    "cim": "Ozone utazás"
+    "kezdes": "20260323140000 +0000",
+    "vege": "20260323143000 +0000",
+    "cim": "Zálogcsillagok"
   },
   {
     "csatorna": "OZONETV",
-    "kezdes": "20260322150000 +0000",
-    "vege": "20260322153000 +0000",
+    "kezdes": "20260323143000 +0000",
+    "vege": "20260323150000 +0000",
+    "cim": "Zálogcsillagok"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "20260323150000 +0000",
+    "vege": "20260323153000 +0000",
+    "cim": "Zálogkirályok"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "20260323153000 +0000",
+    "vege": "20260323160000 +0000",
+    "cim": "Zálogkirályok"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "20260323160000 +0000",
+    "vege": "20260323170000 +0000",
+    "cim": "Tűzben edzett"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "20260323170000 +0000",
+    "vege": "20260323180000 +0000",
+    "cim": "Tűzben edzett"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "20260323180000 +0000",
+    "vege": "20260323183000 +0000",
+    "cim": "Raktárvadászok"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "20260323183000 +0000",
+    "vege": "20260323190000 +0000",
+    "cim": "Raktárvadászok"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "20260323190000 +0000",
+    "vege": "20260323193000 +0000",
+    "cim": "Raktárvadászok"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "20260323193000 +0000",
+    "vege": "20260323200000 +0000",
+    "cim": "Raktárvadászok"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "20260323200000 +0000",
+    "vege": "20260323203000 +0000",
+    "cim": "Texasi raktárvadászok"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "20260323203000 +0000",
+    "vege": "20260323210000 +0000",
+    "cim": "Texasi raktárvadászok"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "20260323210000 +0000",
+    "vege": "20260323213000 +0000",
+    "cim": "Texasi raktárvadászok"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "20260323213000 +0000",
+    "vege": "20260323220000 +0000",
+    "cim": "Texasi raktárvadászok"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "20260323220000 +0000",
+    "vege": "20260323230000 +0000",
+    "cim": "Tűzben edzett"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "20260323230000 +0000",
+    "vege": "20260323233000 +0000",
     "cim": "Hogyan készül? Megmutatjuk!"
   },
   {
     "csatorna": "OZONETV",
-    "kezdes": "20260322153000 +0000",
-    "vege": "20260322160000 +0000",
+    "kezdes": "20260323233000 +0000",
+    "vege": "20260324000000 +0000",
     "cim": "Hogyan készül? Megmutatjuk!"
   },
   {
-    "csatorna": "OZONETV",
-    "kezdes": "20260322160000 +0000",
-    "vege": "20260322163000 +0000",
-    "cim": "Raktárvadászok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "20260322163000 +0000",
-    "vege": "20260322170000 +0000",
-    "cim": "Raktárvadászok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "20260322170000 +0000",
-    "vege": "20260322173000 +0000",
-    "cim": "Raktárvadászok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "20260322173000 +0000",
-    "vege": "20260322180000 +0000",
-    "cim": "Raktárvadászok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "20260322180000 +0000",
-    "vege": "20260322183000 +0000",
-    "cim": "Zálogkirályok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "20260322183000 +0000",
-    "vege": "20260322190000 +0000",
-    "cim": "Zálogkirályok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "20260322190000 +0000",
-    "vege": "20260322193000 +0000",
-    "cim": "Zálogkirályok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "20260322193000 +0000",
-    "vege": "20260322200000 +0000",
-    "cim": "Zálogkirályok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "20260322200000 +0000",
-    "vege": "20260322203000 +0000",
-    "cim": "Raktárvadászok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "20260322203000 +0000",
-    "vege": "20260322210000 +0000",
-    "cim": "Raktárvadászok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "20260322210000 +0000",
-    "vege": "20260322213000 +0000",
-    "cim": "Raktárvadászok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "20260322213000 +0000",
-    "vege": "20260322220000 +0000",
-    "cim": "Raktárvadászok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "20260322220000 +0000",
-    "vege": "20260322223000 +0000",
-    "cim": "Raktárvadászok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "20260322223000 +0000",
-    "vege": "20260322230000 +0000",
-    "cim": "Raktárvadászok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "20260322230000 +0000",
-    "vege": "20260322233000 +0000",
-    "cim": "Zálogkirályok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "20260322233000 +0000",
-    "vege": "20260323000000 +0000",
-    "cim": "Zálogkirályok"
+    "csatorna": "RTL",
+    "kezdes": "20260323120000 +0000",
+    "vege": "20260323123500 +0000",
+    "cim": "RTL Híradó 1 órakor"
   },
   {
     "csatorna": "RTL",
-    "kezdes": "20260322122000 +0000",
-    "vege": "20260322144500 +0000",
-    "cim": "Futni mentem"
+    "kezdes": "20260323123500 +0000",
+    "vege": "20260323135000 +0000",
+    "cim": "Dr. House"
   },
   {
     "csatorna": "RTL",
-    "kezdes": "20260322144500 +0000",
-    "vege": "20260322170000 +0000",
-    "cim": "Az 50 első randi"
+    "kezdes": "20260323135000 +0000",
+    "vege": "20260323142500 +0000",
+    "cim": "Barátok közt"
   },
   {
     "csatorna": "RTL",
-    "kezdes": "20260322170000 +0000",
-    "vege": "20260322175000 +0000",
+    "kezdes": "20260323142500 +0000",
+    "vege": "20260323153000 +0000",
+    "cim": "Castle"
+  },
+  {
+    "csatorna": "RTL",
+    "kezdes": "20260323153000 +0000",
+    "vege": "20260323170000 +0000",
+    "cim": "Drága örökösök - A visszatérés"
+  },
+  {
+    "csatorna": "RTL",
+    "kezdes": "20260323170000 +0000",
+    "vege": "20260323175500 +0000",
     "cim": "RTL Híradó - Esti kiadás"
   },
   {
     "csatorna": "RTL",
-    "kezdes": "20260322175000 +0000",
-    "vege": "20260322190000 +0000",
-    "cim": "Házon kívül"
+    "kezdes": "20260323175500 +0000",
+    "vege": "20260323185500 +0000",
+    "cim": "Fókusz"
   },
   {
     "csatorna": "RTL",
-    "kezdes": "20260322190000 +0000",
-    "vege": "20260322204000 +0000",
-    "cim": "Cápák között"
+    "kezdes": "20260323185500 +0000",
+    "vege": "20260323200500 +0000",
+    "cim": "Pokoli rokonok"
   },
   {
     "csatorna": "RTL",
-    "kezdes": "20260322204000 +0000",
-    "vege": "20260322231000 +0000",
-    "cim": "Tango és Cash"
+    "kezdes": "20260323200500 +0000",
+    "vege": "20260323212500 +0000",
+    "cim": "A legjobb ajánlat"
   },
   {
     "csatorna": "RTL",
-    "kezdes": "20260322231000 +0000",
-    "vege": "20260323014000 +0000",
-    "cim": "Tűnj el!"
+    "kezdes": "20260323212500 +0000",
+    "vege": "20260323220000 +0000",
+    "cim": "RTL Híradó - Késő esti kiadás"
+  },
+  {
+    "csatorna": "RTL",
+    "kezdes": "20260323220000 +0000",
+    "vege": "20260323223500 +0000",
+    "cim": "XXI. század - A legendák velünk élnek"
+  },
+  {
+    "csatorna": "RTL",
+    "kezdes": "20260323223500 +0000",
+    "vege": "20260323234500 +0000",
+    "cim": "CSI: New York-i helyszínelők"
+  },
+  {
+    "csatorna": "RTL",
+    "kezdes": "20260323234500 +0000",
+    "vege": "20260324010000 +0000",
+    "cim": "CSI: New York-i helyszínelők"
   },
   {
     "csatorna": "RTL_HAROM",
-    "kezdes": "20260322125000 +0000",
-    "vege": "20260322152000 +0000",
-    "cim": "Patch Adams"
+    "kezdes": "20260323132000 +0000",
+    "vege": "20260323152000 +0000",
+    "cim": "Sárkányszív: Bosszú"
   },
   {
     "csatorna": "RTL_HAROM",
-    "kezdes": "20260322152000 +0000",
-    "vege": "20260322175000 +0000",
-    "cim": "Jó reggelt, Vietnam!"
+    "kezdes": "20260323152000 +0000",
+    "vege": "20260323172500 +0000",
+    "cim": "A Skorpiókirály 4.: Harc a hatalomért"
   },
   {
     "csatorna": "RTL_HAROM",
-    "kezdes": "20260322175000 +0000",
-    "vege": "20260322200000 +0000",
-    "cim": "Különben dühbe jövünk"
+    "kezdes": "20260323172500 +0000",
+    "vege": "20260323200000 +0000",
+    "cim": "Artúr király - A kard legendája"
   },
   {
     "csatorna": "RTL_HAROM",
-    "kezdes": "20260322200000 +0000",
-    "vege": "20260322220000 +0000",
+    "kezdes": "20260323200000 +0000",
+    "vege": "20260323223000 +0000",
+    "cim": "Bad boys - Mire jók a rosszfiúk?"
+  },
+  {
+    "csatorna": "RTL_HAROM",
+    "kezdes": "20260323223000 +0000",
+    "vege": "20260324004000 +0000",
     "cim": "Tökéletes célpont"
   },
   {
-    "csatorna": "RTL_HAROM",
-    "kezdes": "20260322220000 +0000",
-    "vege": "20260323000000 +0000",
-    "cim": "Bölcsőd lesz a koporsód"
-  },
-  {
     "csatorna": "SUPERTV2",
-    "kezdes": "20260322142000 +0000",
-    "vege": "20260322152500 +0000",
-    "cim": "Kincsvadászok"
-  },
-  {
-    "csatorna": "SUPERTV2",
-    "kezdes": "20260322152500 +0000",
-    "vege": "20260322164000 +0000",
-    "cim": "Kincsvadászok"
-  },
-  {
-    "csatorna": "SUPERTV2",
-    "kezdes": "20260322164000 +0000",
-    "vege": "20260322175000 +0000",
-    "cim": "Kincsvadászok"
-  },
-  {
-    "csatorna": "SUPERTV2",
-    "kezdes": "20260322175000 +0000",
-    "vege": "20260322190000 +0000",
-    "cim": "Kincsvadászok"
-  },
-  {
-    "csatorna": "SUPERTV2",
-    "kezdes": "20260322190000 +0000",
-    "vege": "20260322211500 +0000",
-    "cim": "Fák jú Tanár úr! 2"
-  },
-  {
-    "csatorna": "SUPERTV2",
-    "kezdes": "20260322211500 +0000",
-    "vege": "20260322231500 +0000",
-    "cim": "Birkanyírás"
-  },
-  {
-    "csatorna": "SUPERTV2",
-    "kezdes": "20260322231500 +0000",
-    "vege": "20260323010000 +0000",
-    "cim": "Hősnők"
-  },
-  {
-    "csatorna": "TV2",
-    "kezdes": "20260322123500 +0000",
-    "vege": "20260322134000 +0000",
+    "kezdes": "20260323121500 +0000",
+    "vege": "20260323131500 +0000",
     "cim": "Családi titkok"
   },
   {
-    "csatorna": "TV2",
-    "kezdes": "20260322134000 +0000",
-    "vege": "20260322170000 +0000",
-    "cim": "Transformers: Az utolsó lovag"
+    "csatorna": "SUPERTV2",
+    "kezdes": "20260323131500 +0000",
+    "vege": "20260323145000 +0000",
+    "cim": "Kincsvadászok"
+  },
+  {
+    "csatorna": "SUPERTV2",
+    "kezdes": "20260323145000 +0000",
+    "vege": "20260323152000 +0000",
+    "cim": "STV2 Tények 2026"
+  },
+  {
+    "csatorna": "SUPERTV2",
+    "kezdes": "20260323152000 +0000",
+    "vege": "20260323180000 +0000",
+    "cim": "Séfek Séfe"
+  },
+  {
+    "csatorna": "SUPERTV2",
+    "kezdes": "20260323180000 +0000",
+    "vege": "20260323190000 +0000",
+    "cim": "Újratervezés"
+  },
+  {
+    "csatorna": "SUPERTV2",
+    "kezdes": "20260323190000 +0000",
+    "vege": "20260323201500 +0000",
+    "cim": "Hal a tortán"
+  },
+  {
+    "csatorna": "SUPERTV2",
+    "kezdes": "20260323201500 +0000",
+    "vege": "20260323215000 +0000",
+    "cim": "Kincsvadászok"
+  },
+  {
+    "csatorna": "SUPERTV2",
+    "kezdes": "20260323215000 +0000",
+    "vege": "20260324001000 +0000",
+    "cim": "Ünneprontók ünnepe"
   },
   {
     "csatorna": "TV2",
-    "kezdes": "20260322170000 +0000",
-    "vege": "20260322175500 +0000",
+    "kezdes": "20260323121500 +0000",
+    "vege": "20260323132500 +0000",
+    "cim": "Walker, a texasi kopó"
+  },
+  {
+    "csatorna": "TV2",
+    "kezdes": "20260323132500 +0000",
+    "vege": "20260323143500 +0000",
+    "cim": "Aurora angyala"
+  },
+  {
+    "csatorna": "TV2",
+    "kezdes": "20260323143500 +0000",
+    "vege": "20260323154000 +0000",
+    "cim": "Isztambuli árvák"
+  },
+  {
+    "csatorna": "TV2",
+    "kezdes": "20260323154000 +0000",
+    "vege": "20260323170000 +0000",
+    "cim": "Távoli város"
+  },
+  {
+    "csatorna": "TV2",
+    "kezdes": "20260323170000 +0000",
+    "vege": "20260323174500 +0000",
     "cim": "Tények"
   },
   {
     "csatorna": "TV2",
-    "kezdes": "20260322175500 +0000",
-    "vege": "20260322221500 +0000",
-    "cim": "A Nagy Duett"
+    "kezdes": "20260323174500 +0000",
+    "vege": "20260323190000 +0000",
+    "cim": "Tények Plusz"
   },
   {
     "csatorna": "TV2",
-    "kezdes": "20260322221500 +0000",
-    "vege": "20260323011500 +0000",
-    "cim": "Furiosa: Történet a Mad Maxből"
+    "kezdes": "20260323190000 +0000",
+    "vege": "20260323213500 +0000",
+    "cim": "Exatlon Hungary"
+  },
+  {
+    "csatorna": "TV2",
+    "kezdes": "20260323213500 +0000",
+    "vege": "20260323225000 +0000",
+    "cim": "Újratervezés"
+  },
+  {
+    "csatorna": "TV2",
+    "kezdes": "20260323225000 +0000",
+    "vege": "20260323232500 +0000",
+    "cim": "Tények extra"
+  },
+  {
+    "csatorna": "TV2",
+    "kezdes": "20260323232500 +0000",
+    "vege": "20260324002500 +0000",
+    "cim": "NCIS: Sydney"
   },
   {
     "csatorna": "VIASAT3",
-    "kezdes": "20260322120000 +0000",
-    "vege": "20260322130000 +0000",
+    "kezdes": "20260323121500 +0000",
+    "vege": "20260323131500 +0000",
+    "cim": "Beverly Hills 90210"
+  },
+  {
+    "csatorna": "VIASAT3",
+    "kezdes": "20260323131500 +0000",
+    "vege": "20260323141500 +0000",
     "cim": "Szívek szállodája"
   },
   {
     "csatorna": "VIASAT3",
-    "kezdes": "20260322130000 +0000",
-    "vege": "20260322140500 +0000",
+    "kezdes": "20260323141500 +0000",
+    "vege": "20260323151000 +0000",
+    "cim": "Szívek szállodája"
+  },
+  {
+    "csatorna": "VIASAT3",
+    "kezdes": "20260323151000 +0000",
+    "vege": "20260323160500 +0000",
+    "cim": "A Grace klinika"
+  },
+  {
+    "csatorna": "VIASAT3",
+    "kezdes": "20260323160500 +0000",
+    "vege": "20260323170000 +0000",
+    "cim": "A Grace klinika"
+  },
+  {
+    "csatorna": "VIASAT3",
+    "kezdes": "20260323170000 +0000",
+    "vege": "20260323180000 +0000",
+    "cim": "A Grace klinika"
+  },
+  {
+    "csatorna": "VIASAT3",
+    "kezdes": "20260323180000 +0000",
+    "vege": "20260323190500 +0000",
     "cim": "Cyla Call Center"
   },
   {
     "csatorna": "VIASAT3",
-    "kezdes": "20260322140500 +0000",
-    "vege": "20260322151000 +0000",
-    "cim": "Pop, kaja satöbbi"
-  },
-  {
-    "csatorna": "VIASAT3",
-    "kezdes": "20260322151000 +0000",
-    "vege": "20260322161000 +0000",
-    "cim": "Az újonc"
-  },
-  {
-    "csatorna": "VIASAT3",
-    "kezdes": "20260322161000 +0000",
-    "vege": "20260322170500 +0000",
-    "cim": "Az újonc"
-  },
-  {
-    "csatorna": "VIASAT3",
-    "kezdes": "20260322170500 +0000",
-    "vege": "20260322180000 +0000",
-    "cim": "Az újonc"
-  },
-  {
-    "csatorna": "VIASAT3",
-    "kezdes": "20260322180000 +0000",
-    "vege": "20260322190000 +0000",
-    "cim": "Az újonc"
-  },
-  {
-    "csatorna": "VIASAT3",
-    "kezdes": "20260322190000 +0000",
-    "vege": "20260322200000 +0000",
-    "cim": "Az újonc"
-  },
-  {
-    "csatorna": "VIASAT3",
-    "kezdes": "20260322200000 +0000",
-    "vege": "20260322224000 +0000",
-    "cim": "Bad Boys - Mindörökké rosszfiúk"
-  },
-  {
-    "csatorna": "VIASAT3",
-    "kezdes": "20260322224000 +0000",
-    "vege": "20260322235000 +0000",
-    "cim": "A kegyetlen - Magda Marinko rémtörténete"
-  },
-  {
-    "csatorna": "VIASAT3",
-    "kezdes": "20260322235000 +0000",
-    "vege": "20260323004500 +0000",
+    "kezdes": "20260323190500 +0000",
+    "vege": "20260323200500 +0000",
     "cim": "Lucifer"
   },
   {
-    "csatorna": "VIASAT6",
-    "kezdes": "20260322121500 +0000",
-    "vege": "20260322125000 +0000",
-    "cim": "A Comedy Central bemutatja"
+    "csatorna": "VIASAT3",
+    "kezdes": "20260323200500 +0000",
+    "vege": "20260323210500 +0000",
+    "cim": "Lucifer"
+  },
+  {
+    "csatorna": "VIASAT3",
+    "kezdes": "20260323210500 +0000",
+    "vege": "20260323220500 +0000",
+    "cim": "Kés/Alatt"
+  },
+  {
+    "csatorna": "VIASAT3",
+    "kezdes": "20260323220500 +0000",
+    "vege": "20260323231500 +0000",
+    "cim": "Dexter"
+  },
+  {
+    "csatorna": "VIASAT3",
+    "kezdes": "20260323231500 +0000",
+    "vege": "20260324001500 +0000",
+    "cim": "Cyla Call Center"
   },
   {
     "csatorna": "VIASAT6",
-    "kezdes": "20260322125000 +0000",
-    "vege": "20260322132000 +0000",
-    "cim": "A Comedy Central bemutatja"
-  },
-  {
-    "csatorna": "VIASAT6",
-    "kezdes": "20260322132000 +0000",
-    "vege": "20260322141500 +0000",
-    "cim": "Psych - Dilis detektívek"
-  },
-  {
-    "csatorna": "VIASAT6",
-    "kezdes": "20260322141500 +0000",
-    "vege": "20260322151500 +0000",
-    "cim": "Psych - Dilis detektívek"
-  },
-  {
-    "csatorna": "VIASAT6",
-    "kezdes": "20260322151500 +0000",
-    "vege": "20260322161000 +0000",
-    "cim": "Psych - Dilis detektívek"
-  },
-  {
-    "csatorna": "VIASAT6",
-    "kezdes": "20260322161000 +0000",
-    "vege": "20260322170500 +0000",
-    "cim": "Psych - Dilis detektívek"
-  },
-  {
-    "csatorna": "VIASAT6",
-    "kezdes": "20260322170500 +0000",
-    "vege": "20260322180000 +0000",
-    "cim": "Psych - Dilis detektívek"
-  },
-  {
-    "csatorna": "VIASAT6",
-    "kezdes": "20260322180000 +0000",
-    "vege": "20260322190000 +0000",
+    "kezdes": "20260323125500 +0000",
+    "vege": "20260323135500 +0000",
     "cim": "Duma Aktuál"
   },
   {
     "csatorna": "VIASAT6",
-    "kezdes": "20260322190000 +0000",
-    "vege": "20260322200000 +0000",
-    "cim": "Duma Aktuál"
-  },
-  {
-    "csatorna": "VIASAT6",
-    "kezdes": "20260322200000 +0000",
-    "vege": "20260322211000 +0000",
+    "kezdes": "20260323135500 +0000",
+    "vege": "20260323145500 +0000",
     "cim": "Dumaszínház"
   },
   {
     "csatorna": "VIASAT6",
-    "kezdes": "20260322211000 +0000",
-    "vege": "20260322221500 +0000",
+    "kezdes": "20260323145500 +0000",
+    "vege": "20260323152500 +0000",
     "cim": "A Comedy Central bemutatja"
   },
   {
     "csatorna": "VIASAT6",
-    "kezdes": "20260322221500 +0000",
-    "vege": "20260322225000 +0000",
-    "cim": "Tömény történelem"
+    "kezdes": "20260323152500 +0000",
+    "vege": "20260323155500 +0000",
+    "cim": "A Comedy Central bemutatja"
   },
   {
     "csatorna": "VIASAT6",
-    "kezdes": "20260322225000 +0000",
-    "vege": "20260322232000 +0000",
-    "cim": "Tömény történelem"
+    "kezdes": "20260323155500 +0000",
+    "vege": "20260323170000 +0000",
+    "cim": "Észbontók"
   },
   {
     "csatorna": "VIASAT6",
-    "kezdes": "20260322232000 +0000",
-    "vege": "20260323002500 +0000",
-    "cim": "Best of Észbontók"
+    "kezdes": "20260323170000 +0000",
+    "vege": "20260323180000 +0000",
+    "cim": "Észbontók"
+  },
+  {
+    "csatorna": "VIASAT6",
+    "kezdes": "20260323180000 +0000",
+    "vege": "20260323183000 +0000",
+    "cim": "A Comedy Central bemutatja"
+  },
+  {
+    "csatorna": "VIASAT6",
+    "kezdes": "20260323183000 +0000",
+    "vege": "20260323190000 +0000",
+    "cim": "A Comedy Central bemutatja"
+  },
+  {
+    "csatorna": "VIASAT6",
+    "kezdes": "20260323190000 +0000",
+    "vege": "20260323200000 +0000",
+    "cim": "Duma Aktuál"
+  },
+  {
+    "csatorna": "VIASAT6",
+    "kezdes": "20260323200000 +0000",
+    "vege": "20260323205500 +0000",
+    "cim": "Dumaszínház"
+  },
+  {
+    "csatorna": "VIASAT6",
+    "kezdes": "20260323205500 +0000",
+    "vege": "20260323213000 +0000",
+    "cim": "A Comedy Central bemutatja"
+  },
+  {
+    "csatorna": "VIASAT6",
+    "kezdes": "20260323213000 +0000",
+    "vege": "20260323215500 +0000",
+    "cim": "A Comedy Central bemutatja"
+  },
+  {
+    "csatorna": "VIASAT6",
+    "kezdes": "20260323215500 +0000",
+    "vege": "20260323225500 +0000",
+    "cim": "KAPóra"
+  },
+  {
+    "csatorna": "VIASAT6",
+    "kezdes": "20260323225500 +0000",
+    "vege": "20260324000000 +0000",
+    "cim": "Anyám szerint vicces vagyok"
   },
   {
     "csatorna": "VIASAT_FILM",
-    "kezdes": "20260322134000 +0000",
-    "vege": "20260322152500 +0000",
-    "cim": "Pokoli futam"
+    "kezdes": "20260323132500 +0000",
+    "vege": "20260323153500 +0000",
+    "cim": "Mia és a fehér oroszlán"
   },
   {
     "csatorna": "VIASAT_FILM",
-    "kezdes": "20260322152500 +0000",
-    "vege": "20260322174500 +0000",
-    "cim": "Gyalogáldozat"
+    "kezdes": "20260323153500 +0000",
+    "vege": "20260323173000 +0000",
+    "cim": "Sarkvidék"
   },
   {
     "csatorna": "VIASAT_FILM",
-    "kezdes": "20260322174500 +0000",
-    "vege": "20260322200000 +0000",
-    "cim": "A három testőr"
-  },
-  {
-    "csatorna": "VIASAT_FILM",
-    "kezdes": "20260322200000 +0000",
-    "vege": "20260322223000 +0000",
+    "kezdes": "20260323173000 +0000",
+    "vege": "20260323200000 +0000",
     "cim": "80 nap alatt a Föld körül"
   },
   {
     "csatorna": "VIASAT_FILM",
-    "kezdes": "20260322223000 +0000",
-    "vege": "20260323010500 +0000",
-    "cim": "Amerikai mesterlövész"
+    "kezdes": "20260323200000 +0000",
+    "vege": "20260323230000 +0000",
+    "cim": "Nagymenők"
+  },
+  {
+    "csatorna": "VIASAT_FILM",
+    "kezdes": "20260323230000 +0000",
+    "vege": "20260324013500 +0000",
+    "cim": "Apocalypto"
   }
 ]
