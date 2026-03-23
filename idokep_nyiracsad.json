@@ -2,10 +2,10 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek",
-  "updated": "2026.03.23. 23:29",
-  "flow_last_run": "2026.03.24. 00:02",
+  "updated": "2026.03.24. 00:46",
+  "flow_last_run": "2026.03.24. 00:46",
   "current": {
-    "temperature": 0,
+    "temperature": -1,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
@@ -13,15 +13,15 @@
     {
       "day": "Kedd",
       "max": 17,
-      "min": 0,
+      "min": -1,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 18,
-      "min": 4,
+      "max": 17,
+      "min": 1,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -29,7 +29,7 @@
     {
       "day": "Csütörtök",
       "max": 19,
-      "min": 7,
+      "min": 2,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
