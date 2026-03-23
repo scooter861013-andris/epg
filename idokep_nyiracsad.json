@@ -2,25 +2,17 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
-  "updated": "2026.03.23. 18:35",
-  "flow_last_run": "2026.03.23. 18:35",
+  "updated": "2026.03.23. 19:32",
+  "flow_last_run": "2026.03.23. 19:32",
   "current": {
-    "temperature": 8,
+    "temperature": 5,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Hétfő",
-      "max": 18,
-      "min": 3,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Kedd",
-      "max": 18,
+      "max": 17,
       "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -29,23 +21,23 @@
     {
       "day": "Szerda",
       "max": 18,
-      "min": 2,
+      "min": 4,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 20,
-      "min": 6,
+      "max": 19,
+      "min": 7,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 11,
-      "min": 4,
+      "max": 10,
+      "min": 9,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
       "alert": null
@@ -62,6 +54,14 @@
       "day": "Vasárnap",
       "max": 11,
       "min": 4,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 12,
+      "min": 5,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
