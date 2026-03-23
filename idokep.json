@@ -2,10 +2,10 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek",
-  "updated": "2026.03.23. 22:19",
-  "flow_last_run": "2026.03.23. 22:53",
+  "updated": "2026.03.23. 23:23",
+  "flow_last_run": "2026.03.23. 23:23",
   "current": {
-    "temperature": 4,
+    "temperature": 3,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
@@ -13,7 +13,7 @@
     {
       "day": "Kedd",
       "max": 17,
-      "min": 4,
+      "min": 3,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
