@@ -3,8 +3,8 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek",
   "focim": "Már nem sokáig marad a nyugodt, többnyire napos idő",
-  "updated": "2026.03.24. 12:31",
-  "flow_last_run": "2026.03.24. 12:31",
+  "updated": "2026.03.24. 13:33",
+  "flow_last_run": "2026.03.24. 13:33",
   "current": {
     "temperature": 18,
     "condition": "Közepesen felhős",
@@ -13,7 +13,7 @@
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 18,
+      "max": 19,
       "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -22,7 +22,7 @@
     {
       "day": "Szerda",
       "max": 16,
-      "min": 3,
+      "min": 4,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
