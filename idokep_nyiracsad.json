@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Melegfronti jellegű tünetek",
-  "focim": "Már nem sokáig marad a nyugodt, többnyire napos idő",
-  "updated": "2026.03.24. 16:19",
-  "flow_last_run": "2026.03.24. 16:19",
+  "fronthatas": "Melegfronti jellegű tünetek, majd erős hidegfront jön",
+  "focim": "Kissé szeles tavaszi idő",
+  "updated": "2026.03.24. 17:35",
+  "flow_last_run": "2026.03.24. 17:35",
   "current": {
-    "temperature": 15,
-    "condition": "Erősen felhős",
+    "temperature": 13,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Kedd",
-      "max": 17,
-      "min": -1,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Szerda",
       "max": 17,
@@ -31,14 +23,14 @@
       "day": "Csütörtök",
       "max": 19,
       "min": 2,
-      "condition": "erősen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Péntek",
       "max": 19,
-      "min": 7,
+      "min": 6,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -46,7 +38,7 @@
     {
       "day": "Szombat",
       "max": 14,
-      "min": 5,
+      "min": 7,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -54,7 +46,7 @@
     {
       "day": "Vasárnap",
       "max": 13,
-      "min": 6,
+      "min": 5,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -62,7 +54,15 @@
     {
       "day": "Hétfő",
       "max": 13,
-      "min": 4,
+      "min": 3,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Kedd",
+      "max": 12,
+      "min": 3,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
