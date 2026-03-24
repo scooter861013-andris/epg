@@ -308,6 +308,7 @@ if sunrise and sunset:
 data = {
     "source": "idokep.hu",
     "location": LOCATION,
+    "hourly": hourly,
     "fronthatas": fronthatas,
     "focim": focim,
     "updated": (
@@ -333,7 +334,6 @@ data = {
     "sunset": sunset,
     "is_night": is_night
 },
-    "hourly": hourly,
 }
 
 with open("idokep.json", "w", encoding="utf-8") as f:
