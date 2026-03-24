@@ -14,9 +14,7 @@ LOCATION = os.getenv("IDOKEP_LOCATION", "Hajduhadhaz")
 URL = f"https://www.idokep.hu/idojaras/{LOCATION}"
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-    "Accept-Language": "hu-HU,hu;q=0.9",
-    "Accept": "text/html",
+    "User-Agent": "Mozilla/5.0 (GitHubActions)"
 }
 
 # -------------------------------------------------
@@ -24,8 +22,6 @@ HEADERS = {
 # -------------------------------------------------
 resp = requests.get(URL, headers=HEADERS, timeout=15)
 resp.raise_for_status()
-print("hourlyForecast benne:", "hourlyForecast" in resp.text)
-print("wide-hourly benne:", "wide-hourly-forecast-card" in resp.text)
 soup = BeautifulSoup(resp.text, "html.parser")
 
 # -------------------------------------------------
@@ -263,48 +259,26 @@ for card in cards:
     })
 
 # -------------------------------------------------
-# ÓRÁS ELŐREJELZÉS
+# ÓRÁS ELŐREJELZÉS (API-ból)
 # -------------------------------------------------
 hourly = []
 
-container = soup.select_one("#hourlyForecast")
+try:
+    api_url = f"https://www.idokep.hu/api/forecast/{LOCATION}"
+    api_resp = requests.get(api_url, headers=HEADERS, timeout=10)
+    api_resp.raise_for_status()
+    api_data = api_resp.json()
 
-if container:
-    cards = container.select(".wide-hourly-forecast-card")[:12]
-else:
-    cards = []
+    if "hourly" in api_data:
+        for h in api_data["hourly"][:12]:
+            hourly.append({
+                "ido": h.get("time"),
+                "varhato_homerseklet": h.get("temp"),
+                "korulmeny": h.get("weather")
+            })
 
-for card in cards:
-    ido = None
-    homerseklet = None
-    korulmeny = None
-
-    # --- IDŐ ---
-    time_el = card.select_one(".wide-hourly-forecast-hour")
-    if time_el:
-        ido = time_el.get_text(strip=True)
-
-    # --- KÖRÜLMÉNY ---
-    icon_a = card.select_one(".forecast-icon-container a")
-    if icon_a and icon_a.has_attr("data-bs-content"):
-        korulmeny = icon_a["data-bs-content"].strip()
-
-    # --- HŐMÉRSÉKLET ---
-    temp_a = card.select_one(".tempValue a")
-    if temp_a and temp_a.has_attr("data-bs-content"):
-        txt = temp_a["data-bs-content"]
-
-        m = re.search(r"(-?\d+)", txt)
-        if m:
-            homerseklet = int(m.group())
-
-    # --- CSAK HA VAN IDŐ (biztonság)
-    if ido:
-        hourly.append({
-            "ido": ido,
-            "varhato_homerseklet": homerseklet,
-            "korulmeny": korulmeny
-        })
+except Exception as e:
+    print("Hourly API hiba:", e)
         
 # -------------------------------------------------
 # JSON KIMENET
