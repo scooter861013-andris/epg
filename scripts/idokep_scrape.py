@@ -14,7 +14,9 @@ LOCATION = os.getenv("IDOKEP_LOCATION", "Hajduhadhaz")
 URL = f"https://www.idokep.hu/idojaras/{LOCATION}"
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (GitHubActions)"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "Accept-Language": "hu-HU,hu;q=0.9",
+    "Accept": "text/html",
 }
 
 # -------------------------------------------------
@@ -22,6 +24,8 @@ HEADERS = {
 # -------------------------------------------------
 resp = requests.get(URL, headers=HEADERS, timeout=15)
 resp.raise_for_status()
+print("hourlyForecast benne:", "hourlyForecast" in resp.text)
+print("wide-hourly benne:", "wide-hourly-forecast-card" in resp.text)
 soup = BeautifulSoup(resp.text, "html.parser")
 
 # -------------------------------------------------
