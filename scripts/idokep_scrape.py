@@ -259,6 +259,45 @@ for card in cards:
     })
 
 # -------------------------------------------------
+# ÓRÁS ELŐREJELZÉS
+# -------------------------------------------------
+hourly = []
+
+cards = soup.select(".wide-hourly-forecast-card")
+
+for card in cards:
+    ido = None
+    homerseklet = None
+    korulmeny = None
+
+    # --- IDŐ ---
+    time_el = card.select_one(".wide-hourly-forecast-hour")
+    if time_el:
+        ido = time_el.get_text(strip=True)
+
+    # --- KÖRÜLMÉNY ---
+    icon_a = card.select_one(".forecast-icon-container a")
+    if icon_a and icon_a.has_attr("data-bs-content"):
+        korulmeny = icon_a["data-bs-content"].strip()
+
+    # --- HŐMÉRSÉKLET ---
+    temp_a = card.select_one(".tempValue a")
+    if temp_a and temp_a.has_attr("data-bs-content"):
+        txt = temp_a["data-bs-content"]
+
+        m = re.search(r"(-?\d+)", txt)
+        if m:
+            homerseklet = int(m.group())
+
+    # --- CSAK HA VAN IDŐ (biztonság)
+    if ido:
+        hourly.append({
+            "ido": ido,
+            "varhato_homerseklet": homerseklet,
+            "korulmeny": korulmeny
+        })
+        
+# -------------------------------------------------
 # JSON KIMENET
 # -------------------------------------------------
 
@@ -305,6 +344,7 @@ data = {
     "sunset": sunset,
     "is_night": is_night
 },
+    "hourly": hourly,
 }
 
 with open("idokep.json", "w", encoding="utf-8") as f:
