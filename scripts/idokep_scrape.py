@@ -108,7 +108,7 @@ if front_el:
 # -------------------------------------------------
 focim = None
 
-focim_el = soup.select_one(".weatherNowContainer .shortWeatherTitle")
+focim_el = soup.select_one(".shortWeatherTitle")
 
 if focim_el:
     focim = focim_el.get_text(strip=True)
