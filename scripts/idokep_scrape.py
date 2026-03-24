@@ -272,6 +272,7 @@ try:
     r = requests.get(api_url, timeout=10)
     r.raise_for_status()
     data_api = r.json()
+    print("API KEYS:", data_api.keys())
 
     if "hourly" in data_api:
         for h in data_api["hourly"][:12]:
