@@ -23,7 +23,6 @@ HEADERS = {
 resp = requests.get(URL, headers=HEADERS, timeout=15)
 resp.raise_for_status()
 soup = BeautifulSoup(resp.text, "html.parser")
-print("benne van:", "wide-hourly-forecast-card" in resp.text)
 
 # -------------------------------------------------
 # AKTUÁLIS HŐMÉRSÉKLET
@@ -261,77 +260,50 @@ for card in cards:
 
 
 # -------------------------------------------------
-# ÓRÁS ELŐREJELZÉS (7 napos logika alapján)
+# ÓRÁS ELŐREJELZÉS (külön lekérésből)
 # -------------------------------------------------
 hourly = []
 
-container = soup.select_one("#hourlyForecast")
+try:
+    hourly_url = f"https://www.idokep.hu/idojaras/{LOCATION}?ajax=1"
+    resp2 = requests.get(hourly_url, headers=HEADERS, timeout=10)
+    resp2.raise_for_status()
 
-if container:
-    cards = container.select(".wide-hourly-forecast-card")[:12]
+    soup2 = BeautifulSoup(resp2.text, "html.parser")
+
+    cards = soup2.select(".wide-hourly-forecast-card")[:12]
 
     for card in cards:
         ido = None
         homerseklet = None
         korulmeny = None
 
-        # -------------------------
-        # IDŐ (egyszerű)
-        # -------------------------
+        # IDŐ
         time_el = card.select_one(".wide-hourly-forecast-hour")
         if time_el:
             ido = time_el.get_text(strip=True)
 
-        # -------------------------
-        # HŐMÉRSÉKLET (FALLBACK!)
-        # -------------------------
-        # 1. normál (tooltipből)
+        # HŐMÉRSÉKLET
         temp_a = card.select_one(".tempValue a")
-        if temp_a and temp_a.has_attr("data-bs-content"):
-            m = re.search(r"(-?\d+)", temp_a["data-bs-content"])
+        if temp_a:
+            m = re.search(r"(-?\d+)", temp_a.get_text(strip=True))
             if m:
                 homerseklet = int(m.group())
 
-        # 2. fallback (sima text)
-        if homerseklet is None and temp_a:
-            txt = temp_a.get_text(strip=True)
-            if re.fullmatch(r"-?\d+", txt):
-                homerseklet = int(txt)
-
-        # 3. ultimate fallback (összes szám)
-        if homerseklet is None:
-            vals = []
-            for a in card.select("a"):
-                txt = a.get_text(strip=True)
-                if re.fullmatch(r"-?\d+", txt):
-                    vals.append(int(txt))
-            if vals:
-                homerseklet = vals[0]
-
-        # -------------------------
-        # KÖRÜLMÉNY (FALLBACK!)
-        # -------------------------
+        # KÖRÜLMÉNY
         icon_a = card.select_one(".forecast-icon-container a")
-
-        # 1. tooltip
         if icon_a and icon_a.has_attr("data-bs-content"):
             korulmeny = icon_a["data-bs-content"].strip()
 
-        # 2. fallback (img alt)
-        if korulmeny is None:
-            img = card.select_one(".forecast-icon")
-            if img and img.has_attr("alt"):
-                korulmeny = img["alt"].strip()
-
-        # -------------------------
-        # MENTÉS
-        # -------------------------
         if ido:
             hourly.append({
                 "ido": ido,
                 "varhato_homerseklet": homerseklet,
                 "korulmeny": korulmeny
             })
+
+except Exception as e:
+    print("Hourly hiba:", e)
 
 
 # -------------------------------------------------
@@ -353,11 +325,7 @@ if sunrise and sunset:
     # nappal: napkelte <= most < napnyugta
     is_night = not (sr <= now_t < ss)
     
-debug_cards = len(soup.select(".wide-hourly-forecast-card"))
-debug_daily = len(soup.select(".ik.dailyForecastCol"))
 data = {
-    "debug_cards": debug_cards,
-    "debug_daily": debug_daily,   # 👈 EZT ADD HOZZÁ
     "source": "idokep.hu",
     "location": LOCATION,
     "fronthatas": fronthatas,
