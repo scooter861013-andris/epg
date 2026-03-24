@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek",
   "focim": "Már nem sokáig marad a nyugodt, többnyire napos idő",
-  "updated": "2026.03.24. 13:04",
-  "flow_last_run": "2026.03.24. 13:04",
+  "updated": "2026.03.24. 14:49",
+  "flow_last_run": "2026.03.24. 14:49",
   "current": {
-    "temperature": 17,
-    "condition": "Közepesen felhős",
+    "temperature": 16,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 17,
-      "min": 5,
+      "max": 16,
+      "min": 1,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -22,15 +22,15 @@
     {
       "day": "Szerda",
       "max": 17,
-      "min": 4,
+      "min": 1,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 19,
-      "min": 7,
+      "max": 18,
+      "min": 3,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
