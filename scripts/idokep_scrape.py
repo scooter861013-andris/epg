@@ -103,6 +103,16 @@ front_el = soup.select_one(".scTextDescription")
 if front_el:
     fronthatas = front_el.get_text(strip=True)
 
+# -------------------------------------------------
+# FŐCÍM
+# -------------------------------------------------
+focim = None
+
+focim_el = soup.select_one(".weatherNowContainer .shortWeatherTitle")
+
+if focim_el:
+    focim = focim_el.get_text(strip=True)
+
 
 # -------------------------------------------------
 # 7 NAPOS ELŐREJELZÉS  ✅ HELYES IDŐKÉP DOM
