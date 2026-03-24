@@ -258,35 +258,6 @@ for card in cards:
         "alert": alert
     })
 
-
-# -------------------------------------------------
-# ÓRÁS ELŐREJELZÉS (külön lekérésből)
-# -------------------------------------------------
-# -------------------------------------------------
-# ÓRÁS ELŐREJELZÉS (VALÓDI FORRÁS)
-# -------------------------------------------------
-hourly = []
-
-try:
-    api_url = f"https://www.idokep.hu/api/forecast/{LOCATION}"
-    r = requests.get(api_url, timeout=10)
-    r.raise_for_status()
-    data_api = r.json()
-
-    print("API KEYS:", data_api.keys())  # debug
-
-    if "hourly" in data_api:
-        for h in data_api["hourly"][:12]:
-            hourly.append({
-                "ido": h.get("time"),
-                "varhato_homerseklet": h.get("temp"),
-                "korulmeny": h.get("weather")
-            })
-
-except Exception as e:
-    print("API hiba:", e)
-
-
 # -------------------------------------------------
 # JSON KIMENET
 # -------------------------------------------------
@@ -309,7 +280,6 @@ if sunrise and sunset:
 data = {
     "source": "idokep.hu",
     "location": LOCATION,
-    "hourly": hourly,
     "fronthatas": fronthatas,
     "focim": focim,
     "updated": (
