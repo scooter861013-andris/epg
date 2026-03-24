@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek",
   "focim": "Már nem sokáig marad a nyugodt, többnyire napos idő",
-  "updated": "2026.03.24. 15:51",
-  "flow_last_run": "2026.03.24. 15:51",
+  "updated": "2026.03.24. 16:58",
+  "flow_last_run": "2026.03.24. 16:58",
   "current": {
-    "temperature": 16,
-    "condition": "Erősen felhős",
+    "temperature": 15,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -22,7 +22,7 @@
     {
       "day": "Szerda",
       "max": 17,
-      "min": 1,
+      "min": 2,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
