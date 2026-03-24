@@ -354,8 +354,10 @@ if sunrise and sunset:
     is_night = not (sr <= now_t < ss)
     
 debug_cards = len(soup.select(".wide-hourly-forecast-card"))
+debug_daily = len(soup.select(".ik.dailyForecastCol"))
 data = {
     "debug_cards": debug_cards,
+    "debug_daily": debug_daily,   # 👈 EZT ADD HOZZÁ
     "source": "idokep.hu",
     "location": LOCATION,
     "fronthatas": fronthatas,
