@@ -106,6 +106,18 @@ if front_el:
 
 
 # -------------------------------------------------
+# FŐCÍM
+# -------------------------------------------------
+focim = None
+
+focim_el = soup.select_one(".shortWeatherTitle")
+
+if focim_el:
+    focim = focim_el.get_text(strip=True)
+
+
+
+# -------------------------------------------------
 # 7 NAPOS ELŐREJELZÉS  ✅ HELYES IDŐKÉP DOM
 # -------------------------------------------------
 def parse_temp(card, cls):
@@ -273,6 +285,7 @@ data = {
     "source": "idokep.hu",
     "location": LOCATION,
     "fronthatas": fronthatas,
+    "focim": focim,
     "updated": (
         old_data.get("updated")
         if old_data
