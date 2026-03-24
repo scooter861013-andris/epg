@@ -268,17 +268,18 @@ for card in cards:
 hourly = []
 
 try:
-    api_url = f"https://api.idokep.hu/forecast?name={LOCATION}"
+    api_url = f"https://www.idokep.hu/api/forecast/{LOCATION}"
     r = requests.get(api_url, timeout=10)
     r.raise_for_status()
     data_api = r.json()
-    print("API KEYS:", data_api.keys())
+
+    print("API KEYS:", data_api.keys())  # debug
 
     if "hourly" in data_api:
         for h in data_api["hourly"][:12]:
             hourly.append({
                 "ido": h.get("time"),
-                "varhato_homerseklet": h.get("temperature"),
+                "varhato_homerseklet": h.get("temp"),
                 "korulmeny": h.get("weather")
             })
 
