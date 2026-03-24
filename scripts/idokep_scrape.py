@@ -258,28 +258,81 @@ for card in cards:
         "alert": alert
     })
 
+
 # -------------------------------------------------
-# ÓRÁS ELŐREJELZÉS (API-ból)
+# ÓRÁS ELŐREJELZÉS (7 napos logika alapján)
 # -------------------------------------------------
 hourly = []
 
-try:
-    api_url = f"https://www.idokep.hu/api/forecast/{LOCATION}"
-    api_resp = requests.get(api_url, headers=HEADERS, timeout=10)
-    api_resp.raise_for_status()
-    api_data = api_resp.json()
+container = soup.select_one("#hourlyForecast")
 
-    if "hourly" in api_data:
-        for h in api_data["hourly"][:12]:
+if container:
+    cards = container.select(".wide-hourly-forecast-card")[:12]
+
+    for card in cards:
+        ido = None
+        homerseklet = None
+        korulmeny = None
+
+        # -------------------------
+        # IDŐ (egyszerű)
+        # -------------------------
+        time_el = card.select_one(".wide-hourly-forecast-hour")
+        if time_el:
+            ido = time_el.get_text(strip=True)
+
+        # -------------------------
+        # HŐMÉRSÉKLET (FALLBACK!)
+        # -------------------------
+        # 1. normál (tooltipből)
+        temp_a = card.select_one(".tempValue a")
+        if temp_a and temp_a.has_attr("data-bs-content"):
+            m = re.search(r"(-?\d+)", temp_a["data-bs-content"])
+            if m:
+                homerseklet = int(m.group())
+
+        # 2. fallback (sima text)
+        if homerseklet is None and temp_a:
+            txt = temp_a.get_text(strip=True)
+            if re.fullmatch(r"-?\d+", txt):
+                homerseklet = int(txt)
+
+        # 3. ultimate fallback (összes szám)
+        if homerseklet is None:
+            vals = []
+            for a in card.select("a"):
+                txt = a.get_text(strip=True)
+                if re.fullmatch(r"-?\d+", txt):
+                    vals.append(int(txt))
+            if vals:
+                homerseklet = vals[0]
+
+        # -------------------------
+        # KÖRÜLMÉNY (FALLBACK!)
+        # -------------------------
+        icon_a = card.select_one(".forecast-icon-container a")
+
+        # 1. tooltip
+        if icon_a and icon_a.has_attr("data-bs-content"):
+            korulmeny = icon_a["data-bs-content"].strip()
+
+        # 2. fallback (img alt)
+        if korulmeny is None:
+            img = card.select_one(".forecast-icon")
+            if img and img.has_attr("alt"):
+                korulmeny = img["alt"].strip()
+
+        # -------------------------
+        # MENTÉS
+        # -------------------------
+        if ido:
             hourly.append({
-                "ido": h.get("time"),
-                "varhato_homerseklet": h.get("temp"),
-                "korulmeny": h.get("weather")
+                "ido": ido,
+                "varhato_homerseklet": homerseklet,
+                "korulmeny": korulmeny
             })
 
-except Exception as e:
-    print("Hourly API hiba:", e)
-        
+
 # -------------------------------------------------
 # JSON KIMENET
 # -------------------------------------------------
