@@ -262,48 +262,27 @@ for card in cards:
 # -------------------------------------------------
 # ÓRÁS ELŐREJELZÉS (külön lekérésből)
 # -------------------------------------------------
+# -------------------------------------------------
+# ÓRÁS ELŐREJELZÉS (VALÓDI FORRÁS)
+# -------------------------------------------------
 hourly = []
 
 try:
-    hourly_url = f"https://www.idokep.hu/idojaras/{LOCATION}?ajax=1"
-    resp2 = requests.get(hourly_url, headers=HEADERS, timeout=10)
-    resp2.raise_for_status()
+    api_url = f"https://api.idokep.hu/forecast?name={LOCATION}"
+    r = requests.get(api_url, timeout=10)
+    r.raise_for_status()
+    data_api = r.json()
 
-    soup2 = BeautifulSoup(resp2.text, "html.parser")
-
-    cards = soup2.select(".wide-hourly-forecast-card")[:12]
-
-    for card in cards:
-        ido = None
-        homerseklet = None
-        korulmeny = None
-
-        # IDŐ
-        time_el = card.select_one(".wide-hourly-forecast-hour")
-        if time_el:
-            ido = time_el.get_text(strip=True)
-
-        # HŐMÉRSÉKLET
-        temp_a = card.select_one(".tempValue a")
-        if temp_a:
-            m = re.search(r"(-?\d+)", temp_a.get_text(strip=True))
-            if m:
-                homerseklet = int(m.group())
-
-        # KÖRÜLMÉNY
-        icon_a = card.select_one(".forecast-icon-container a")
-        if icon_a and icon_a.has_attr("data-bs-content"):
-            korulmeny = icon_a["data-bs-content"].strip()
-
-        if ido:
+    if "hourly" in data_api:
+        for h in data_api["hourly"][:12]:
             hourly.append({
-                "ido": ido,
-                "varhato_homerseklet": homerseklet,
-                "korulmeny": korulmeny
+                "ido": h.get("time"),
+                "varhato_homerseklet": h.get("temperature"),
+                "korulmeny": h.get("weather")
             })
 
 except Exception as e:
-    print("Hourly hiba:", e)
+    print("API hiba:", e)
 
 
 # -------------------------------------------------
