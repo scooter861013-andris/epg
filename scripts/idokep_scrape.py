@@ -352,8 +352,10 @@ if sunrise and sunset:
 
     # nappal: napkelte <= most < napnyugta
     is_night = not (sr <= now_t < ss)
-
+    
+debug_cards = len(soup.select(".wide-hourly-forecast-card"))
 data = {
+    "debug_cards": debug_cards,
     "source": "idokep.hu",
     "location": LOCATION,
     "fronthatas": fronthatas,
