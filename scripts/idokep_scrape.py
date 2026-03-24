@@ -281,6 +281,7 @@ data = {
     "source": "idokep.hu",
     "location": LOCATION,
     "fronthatas": fronthatas,
+    "focim": focim,
     "updated": (
         old_data.get("updated")
         if old_data
