@@ -263,7 +263,12 @@ for card in cards:
 # -------------------------------------------------
 hourly = []
 
-cards = soup.select(".wide-hourly-forecast-card")[:12]
+container = soup.select_one("#hourlyForecast")
+
+if container:
+    cards = container.select(".wide-hourly-forecast-card")[:12]
+else:
+    cards = []
 
 for card in cards:
     ido = None
