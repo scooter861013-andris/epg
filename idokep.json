@@ -1,15 +1,14 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "hourly": [],
   "fronthatas": "Melegfronti jellegű tünetek",
   "focim": "Már nem sokáig marad a nyugodt, többnyire napos idő",
-  "updated": "2026.03.24. 12:29",
-  "flow_last_run": "2026.03.24. 12:29",
+  "updated": "2026.03.24. 12:41",
+  "flow_last_run": "2026.03.24. 12:41",
   "current": {
-    "temperature": 18,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 17,
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
