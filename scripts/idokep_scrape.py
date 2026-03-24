@@ -23,6 +23,7 @@ HEADERS = {
 resp = requests.get(URL, headers=HEADERS, timeout=15)
 resp.raise_for_status()
 soup = BeautifulSoup(resp.text, "html.parser")
+print("cards:", len(soup.select(".wide-hourly-forecast-card")))  # ✅ IDE!
 
 # -------------------------------------------------
 # AKTUÁLIS HŐMÉRSÉKLET
