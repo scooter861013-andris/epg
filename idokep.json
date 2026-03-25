@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek, majd erős hidegfront jön",
   "focim": "Kissé szeles tavaszi idő",
-  "updated": "2026.03.25. 04:57",
-  "flow_last_run": "2026.03.25. 04:57",
+  "updated": "2026.03.25. 06:21",
+  "flow_last_run": "2026.03.25. 06:21",
   "current": {
-    "temperature": 2,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 1,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:25",
     "sunset": "17:52",
-    "is_night": true
+    "is_night": false
   }
 }
