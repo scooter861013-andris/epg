@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Markáns kettősfronti tünetek",
   "focim": "Szeles, de enyhe idő, helyenként eshet",
-  "updated": "2026.03.25. 23:06",
-  "flow_last_run": "2026.03.25. 23:06",
+  "updated": "2026.03.25. 23:54",
+  "flow_last_run": "2026.03.25. 23:54",
   "current": {
-    "temperature": 11,
+    "temperature": 10,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Csütörtök",
       "max": 17,
-      "min": 4,
+      "min": 3,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
