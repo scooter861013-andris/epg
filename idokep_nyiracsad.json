@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek, majd erős hidegfront jön",
   "focim": "Kissé szeles tavaszi idő",
-  "updated": "2026.03.25. 03:00",
-  "flow_last_run": "2026.03.25. 03:00",
+  "updated": "2026.03.25. 05:26",
+  "flow_last_run": "2026.03.25. 05:26",
   "current": {
     "temperature": -2,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 16,
+      "max": 15,
       "min": -2,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -22,7 +22,7 @@
     {
       "day": "Csütörtök",
       "max": 17,
-      "min": 6,
+      "min": 7,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -30,7 +30,7 @@
     {
       "day": "Péntek",
       "max": 19,
-      "min": 8,
+      "min": 7,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:24",
     "sunset": "17:51",
-    "is_night": true
+    "is_night": false
   }
 }
