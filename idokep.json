@@ -3,8 +3,8 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Markáns kettősfronti tünetek",
   "focim": "Feltámad a szél, de marad az enyheség",
-  "updated": "2026.03.26. 13:38",
-  "flow_last_run": "2026.03.26. 13:38",
+  "updated": "2026.03.26. 15:09",
+  "flow_last_run": "2026.03.26. 15:09",
   "current": {
     "temperature": 17,
     "condition": "Borult",
@@ -12,43 +12,35 @@
   },
   "forecast_7d": [
     {
-      "day": "Csütörtök",
-      "max": 17,
-      "min": 4,
-      "condition": "zápor",
-      "icon": "🌧️",
-      "alert": null
-    },
-    {
       "day": "Péntek",
       "max": 18,
       "min": 7,
-      "condition": "erősen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Szombat",
       "max": 19,
       "min": 5,
-      "condition": "közepesen felhős",
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
       "max": 14,
-      "min": 8,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "min": 6,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 12,
-      "min": 3,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "max": 14,
+      "min": 8,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
@@ -64,6 +56,14 @@
       "max": 13,
       "min": 2,
       "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "max": 13,
+      "min": 3,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     }
