@@ -3,8 +3,8 @@
   "location": "Nyiracsad",
   "fronthatas": "Markáns kettősfronti tünetek",
   "focim": "Feltámad a szél, de marad az enyheség",
-  "updated": "2026.03.26. 10:59",
-  "flow_last_run": "2026.03.26. 10:59",
+  "updated": "2026.03.26. 12:03",
+  "flow_last_run": "2026.03.26. 12:03",
   "current": {
     "temperature": 16,
     "condition": "Erősen felhős",
@@ -13,7 +13,7 @@
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "max": 17,
+      "max": 16,
       "min": 2,
       "condition": "zápor",
       "icon": "🌧️",
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "5:22",
+    "sunrise": "5:20",
     "sunset": "17:52",
     "is_night": false
   }
