@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Markáns kettősfronti tünetek",
   "focim": "Feltámad a szél, de marad az enyheség",
-  "updated": "2026.03.26. 17:43",
-  "flow_last_run": "2026.03.26. 17:43",
+  "updated": "2026.03.26. 18:43",
+  "flow_last_run": "2026.03.26. 18:43",
   "current": {
-    "temperature": 15,
-    "condition": "Borult",
-    "icon": "☁️"
+    "temperature": 13,
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 18,
-      "min": 7,
+      "max": 17,
+      "min": 6,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:21",
     "sunset": "17:54",
-    "is_night": false
+    "is_night": true
   }
 }
