@@ -2,9 +2,9 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Markáns kettősfronti tünetek",
-  "focim": "Szeles, de enyhe idő, helyenként eshet",
-  "updated": "2026.03.26. 09:30",
-  "flow_last_run": "2026.03.26. 09:30",
+  "focim": "Feltámad a szél, de marad az enyheség",
+  "updated": "2026.03.26. 10:42",
+  "flow_last_run": "2026.03.26. 10:42",
   "current": {
     "temperature": 14,
     "condition": "Erősen felhős",
@@ -13,8 +13,8 @@
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "max": 16,
-      "min": 2,
+      "max": 17,
+      "min": 4,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
