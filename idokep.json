@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Markáns kettősfronti tünetek",
   "focim": "Kitart az enyhe idő",
-  "updated": "2026.03.26. 23:54",
-  "flow_last_run": "2026.03.26. 23:54",
+  "updated": "2026.03.27. 00:23",
+  "flow_last_run": "2026.03.27. 00:23",
   "current": {
     "temperature": 7,
-    "condition": "Gyengén felhős",
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "5:21",
-    "sunset": "17:54",
+    "sunset": "17:55",
     "is_night": true
   }
 }
