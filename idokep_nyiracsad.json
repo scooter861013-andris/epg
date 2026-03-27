@@ -2,67 +2,67 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Markáns kettősfronti tünetek",
-  "focim": "Kitart az enyhe idő",
-  "updated": "2026.03.27. 19:04",
-  "flow_last_run": "2026.03.27. 19:04",
+  "focim": "Záporok is lehetnek a szeles időben",
+  "updated": "2026.03.27. 20:11",
+  "flow_last_run": "2026.03.27. 20:11",
   "current": {
-    "temperature": 9,
+    "temperature": 8,
     "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Péntek",
-      "max": 18,
-      "min": 5,
-      "condition": "erősen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Szombat",
       "max": 17,
-      "min": 4,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "min": 3,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Vasárnap",
       "max": 16,
       "min": 6,
-      "condition": "zápor",
+      "condition": "gyenge eső",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 13,
-      "min": 5,
-      "condition": "zápor",
+      "max": 11,
+      "min": 6,
+      "condition": "eső viharos széllel",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Kedd",
       "max": 12,
-      "min": 3,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
-      "day": "Szerda",
-      "max": 13,
-      "min": 2,
+      "min": 4,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
-      "day": "Csütörtök",
-      "max": 15,
+      "day": "Szerda",
+      "max": 14,
       "min": 2,
+      "condition": "erősen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "max": 14,
+      "min": 4,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Péntek",
+      "max": 16,
+      "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
