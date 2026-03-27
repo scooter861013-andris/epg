@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Markáns kettősfronti tünetek",
   "focim": "Kitart az enyhe idő",
-  "updated": "2026.03.27. 10:55",
-  "flow_last_run": "2026.03.27. 10:55",
+  "updated": "2026.03.27. 11:40",
+  "flow_last_run": "2026.03.27. 11:40",
   "current": {
-    "temperature": 12,
-    "condition": "Gyengén felhős",
+    "temperature": 13,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 16,
+      "max": 15,
       "min": 5,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -46,24 +46,24 @@
     {
       "day": "Kedd",
       "max": 12,
+      "min": 3,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 12,
       "min": 2,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
-      "day": "Szerda",
+      "day": "Csütörtök",
       "max": 13,
       "min": 2,
       "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
-      "day": "Csütörtök",
-      "max": 13,
-      "min": 3,
-      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     }
