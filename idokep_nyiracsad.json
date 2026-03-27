@@ -3,26 +3,26 @@
   "location": "Nyiracsad",
   "fronthatas": "Markáns kettősfronti tünetek",
   "focim": "Kitart az enyhe idő",
-  "updated": "2026.03.27. 00:47",
-  "flow_last_run": "2026.03.27. 00:47",
+  "updated": "2026.03.27. 03:07",
+  "flow_last_run": "2026.03.27. 03:07",
   "current": {
     "temperature": 7,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
       "max": 18,
-      "min": 6,
+      "min": 7,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 19,
-      "min": 4,
+      "max": 20,
+      "min": 5,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
