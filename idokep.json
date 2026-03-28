@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Markáns kettősfronti tünetek",
   "focim": "Eső, záporok várhatók a szeles időben",
-  "updated": "2026.03.28. 08:32",
-  "flow_last_run": "2026.03.28. 08:32",
+  "updated": "2026.03.28. 09:05",
+  "flow_last_run": "2026.03.28. 09:05",
   "current": {
-    "temperature": 9,
-    "condition": "Borult",
-    "icon": "☁️"
+    "temperature": 10,
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
-      "max": 18,
+      "max": 17,
       "min": 4,
       "condition": "zápor",
       "icon": "🌧️",
@@ -21,8 +21,8 @@
     },
     {
       "day": "Vasárnap",
-      "max": 17,
-      "min": 8,
+      "max": 16,
+      "min": 9,
       "condition": "gyenge eső",
       "icon": "🌧️",
       "alert": null
