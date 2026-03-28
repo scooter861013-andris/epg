@@ -1,10 +1,10 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Kettősfronti jellegű tünetek jelentkezhetnek",
+  "fronthatas": "Kettősfronti jellegű tünetek előfordulhatnak",
   "focim": "Csapadékos, szeles idő",
-  "updated": "2026.03.28. 18:53",
-  "flow_last_run": "2026.03.28. 18:53",
+  "updated": "2026.03.28. 19:28",
+  "flow_last_run": "2026.03.28. 19:28",
   "current": {
     "temperature": 12,
     "condition": "Borult",
@@ -13,7 +13,7 @@
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 15,
+      "max": 16,
       "min": 8,
       "condition": "zápor",
       "icon": "🌧️",
@@ -30,14 +30,14 @@
     {
       "day": "Kedd",
       "max": 7,
-      "min": 5,
+      "min": 6,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 13,
+      "max": 12,
       "min": 4,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -45,17 +45,17 @@
     },
     {
       "day": "Csütörtök",
-      "max": 15,
-      "min": 4,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "max": 14,
+      "min": 2,
+      "condition": "erősen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 16,
-      "min": 4,
-      "condition": "közepesen felhős",
+      "max": 15,
+      "min": 3,
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
