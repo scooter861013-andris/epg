@@ -3,26 +3,26 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Markáns kettősfronti tünetek",
   "focim": "Záporok is lehetnek a szeles időben",
-  "updated": "2026.03.28. 00:58",
-  "flow_last_run": "2026.03.28. 00:58",
+  "updated": "2026.03.28. 03:24",
+  "flow_last_run": "2026.03.28. 03:24",
   "current": {
-    "temperature": 7,
-    "condition": "Erősen felhős",
+    "temperature": 6,
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
       "max": 18,
-      "min": 4,
+      "min": 5,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 16,
-      "min": 8,
+      "max": 17,
+      "min": 9,
       "condition": "gyenge eső",
       "icon": "🌧️",
       "alert": null
