@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Markáns kettősfronti tünetek",
   "focim": "Záporok is lehetnek a szeles időben",
-  "updated": "2026.03.28. 02:58",
-  "flow_last_run": "2026.03.28. 02:58",
+  "updated": "2026.03.28. 05:26",
+  "flow_last_run": "2026.03.28. 05:26",
   "current": {
     "temperature": 5,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "condition": "Pára",
+    "icon": null
   },
   "forecast_7d": [
     {
       "day": "Szombat",
-      "max": 17,
-      "min": 4,
+      "max": 16,
+      "min": 3,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:18",
     "sunset": "17:55",
-    "is_night": true
+    "is_night": false
   }
 }
