@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Markáns kettősfronti tünetek",
-  "focim": "Eső, záporok várhatók a szeles időben",
-  "updated": "2026.03.28. 17:57",
-  "flow_last_run": "2026.03.28. 18:26",
+  "fronthatas": "Kettősfronti jellegű tünetek jelentkezhetnek",
+  "focim": "Csapadékos, szeles idő",
+  "updated": "2026.03.28. 18:53",
+  "flow_last_run": "2026.03.28. 18:53",
   "current": {
-    "temperature": 13,
+    "temperature": 12,
     "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Szombat",
-      "max": 16,
-      "min": 4,
-      "condition": "zápor",
-      "icon": "🌧️",
-      "alert": null
-    },
     {
       "day": "Vasárnap",
       "max": 15,
@@ -46,7 +38,7 @@
     {
       "day": "Szerda",
       "max": 13,
-      "min": 3,
+      "min": 4,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -62,6 +54,14 @@
     {
       "day": "Péntek",
       "max": 16,
+      "min": 4,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szombat",
+      "max": 17,
       "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
