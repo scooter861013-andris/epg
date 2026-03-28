@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Markáns kettősfronti tünetek",
   "focim": "Eső, záporok várhatók a szeles időben",
-  "updated": "2026.03.28. 10:03",
-  "flow_last_run": "2026.03.28. 10:03",
+  "updated": "2026.03.28. 10:52",
+  "flow_last_run": "2026.03.28. 10:52",
   "current": {
-    "temperature": 12,
-    "condition": "Pára",
-    "icon": null
+    "temperature": 13,
+    "condition": "Borult",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "day": "Hétfő",
-      "max": 11,
+      "max": 9,
       "min": 7,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
