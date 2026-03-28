@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Markáns kettősfronti tünetek",
-  "focim": "Eső, záporok várhatók a szeles időben",
-  "updated": "2026.03.28. 18:03",
-  "flow_last_run": "2026.03.28. 18:03",
+  "fronthatas": "Kettősfronti jellegű tünetek jelentkezhetnek",
+  "focim": "Csapadékos, szeles idő",
+  "updated": "2026.03.28. 18:45",
+  "flow_last_run": "2026.03.28. 18:45",
   "current": {
-    "temperature": 12,
+    "temperature": 11,
     "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Szombat",
-      "max": 16,
-      "min": 4,
-      "condition": "zápor",
-      "icon": "🌧️",
-      "alert": null
-    },
     {
       "day": "Vasárnap",
       "max": 16,
@@ -46,7 +38,7 @@
     {
       "day": "Szerda",
       "max": 13,
-      "min": 3,
+      "min": 4,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -62,6 +54,14 @@
     {
       "day": "Péntek",
       "max": 16,
+      "min": 4,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szombat",
+      "max": 17,
       "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
