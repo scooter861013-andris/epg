@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Kettősfronti jellegű tünetek előfordulhatnak",
   "focim": "Csapadékos, szeles idő",
-  "updated": "2026.03.29. 08:56",
-  "flow_last_run": "2026.03.29. 08:56",
+  "updated": "2026.03.29. 09:50",
+  "flow_last_run": "2026.03.29. 09:50",
   "current": {
-    "temperature": 9,
+    "temperature": 10,
     "condition": "Eső",
     "icon": "🌧️"
   },
@@ -29,8 +29,8 @@
     },
     {
       "day": "Kedd",
-      "max": 7,
-      "min": 7,
+      "max": 8,
+      "min": 8,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
       "alert": null
@@ -38,7 +38,7 @@
     {
       "day": "Szerda",
       "max": 12,
-      "min": 4,
+      "min": 5,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
