@@ -4,7 +4,7 @@
   "fronthatas": "Kettősfronti jellegű tünetek előfordulhatnak",
   "focim": "Csapadékos, szeles idő",
   "updated": "2026.03.29. 18:50",
-  "flow_last_run": "2026.03.29. 18:50",
+  "flow_last_run": "2026.03.29. 19:23",
   "current": {
     "temperature": 11,
     "condition": "Borult",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:15",
     "sunset": "18:58",
-    "is_night": false
+    "is_night": true
   }
 }
