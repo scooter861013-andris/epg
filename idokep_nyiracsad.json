@@ -2,26 +2,18 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti jellegű tünetek előfordulhatnak",
-  "focim": "Csapadékos, szeles idő",
-  "updated": "2026.03.29. 19:48",
-  "flow_last_run": "2026.03.29. 19:48",
+  "focim": "Nem tágít a szeles idő",
+  "updated": "2026.03.29. 20:38",
+  "flow_last_run": "2026.03.29. 20:38",
   "current": {
-    "temperature": 11,
-    "condition": "Eső",
+    "temperature": 10,
+    "condition": "Gyenge eső",
     "icon": "🌧️"
   },
   "forecast_7d": [
     {
-      "day": "Vasárnap",
-      "max": 11,
-      "min": 8,
-      "condition": "zápor",
-      "icon": "🌧️",
-      "alert": null
-    },
-    {
       "day": "Hétfő",
-      "max": 10,
+      "max": 11,
       "min": 7,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
@@ -38,7 +30,7 @@
     {
       "day": "Szerda",
       "max": 12,
-      "min": 5,
+      "min": 4,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -46,7 +38,7 @@
     {
       "day": "Csütörtök",
       "max": 14,
-      "min": 2,
+      "min": 5,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -64,6 +56,14 @@
       "max": 17,
       "min": 4,
       "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Vasárnap",
+      "max": 18,
+      "min": 5,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     }
