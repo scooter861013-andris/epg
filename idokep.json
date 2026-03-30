@@ -4,7 +4,7 @@
   "fronthatas": "Hidegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Esős, szeles idő",
   "updated": "2026.03.30. 18:48",
-  "flow_last_run": "2026.03.30. 18:48",
+  "flow_last_run": "2026.03.30. 19:45",
   "current": {
     "temperature": 8,
     "condition": "Eső",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:13",
     "sunset": "18:59",
-    "is_night": false
+    "is_night": true
   }
 }
