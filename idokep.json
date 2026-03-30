@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Kettősfronti jellegű tünetek előfordulhatnak",
   "focim": "Nem tágít a szeles idő",
-  "updated": "2026.03.30. 06:52",
-  "flow_last_run": "2026.03.30. 06:52",
+  "updated": "2026.03.30. 08:25",
+  "flow_last_run": "2026.03.30. 08:25",
   "current": {
     "temperature": 8,
-    "condition": "Gyenge eső",
-    "icon": "🌧️"
+    "condition": "Borult",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 9,
+      "max": 10,
       "min": 7,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
