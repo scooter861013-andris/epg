@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Esős, szeles idő",
-  "updated": "2026.03.30. 18:39",
-  "flow_last_run": "2026.03.30. 18:39",
+  "updated": "2026.03.30. 19:36",
+  "flow_last_run": "2026.03.30. 19:36",
   "current": {
-    "temperature": 9,
+    "temperature": 8,
     "condition": "Eső",
     "icon": "🌧️"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Kedd",
       "max": 9,
-      "min": 5,
+      "min": 4,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:12",
     "sunset": "18:58",
-    "is_night": false
+    "is_night": true
   }
 }
