@@ -3,11 +3,11 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti jellegű tünetek előfordulhatnak",
   "focim": "Nem tágít a szeles idő",
-  "updated": "2026.03.30. 07:50",
-  "flow_last_run": "2026.03.30. 07:50",
+  "updated": "2026.03.30. 09:24",
+  "flow_last_run": "2026.03.30. 09:24",
   "current": {
-    "temperature": 7,
-    "condition": "Erősen felhős",
+    "temperature": 9,
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -15,8 +15,8 @@
       "day": "Hétfő",
       "max": 10,
       "min": 7,
-      "condition": "eső viharos széllel",
-      "icon": "🌧️",
+      "condition": "borult",
+      "icon": "☁️",
       "alert": null
     },
     {
@@ -31,16 +31,16 @@
       "day": "Szerda",
       "max": 14,
       "min": 5,
-      "condition": "erősen felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 14,
+      "max": 15,
       "min": 5,
-      "condition": "erősen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
