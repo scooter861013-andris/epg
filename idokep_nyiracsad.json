@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás",
   "focim": "Esős, szeles idő",
-  "updated": "2026.03.31. 17:37",
-  "flow_last_run": "2026.03.31. 17:37",
+  "updated": "2026.03.31. 18:39",
+  "flow_last_run": "2026.03.31. 18:39",
   "current": {
-    "temperature": 7,
-    "condition": "Borult",
-    "icon": "☁️"
+    "temperature": 6,
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 10,
+      "max": 8,
       "min": 3,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
