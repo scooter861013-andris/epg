@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás",
   "focim": "Esős, szeles idő",
-  "updated": "2026.03.31. 11:16",
-  "flow_last_run": "2026.03.31. 11:16",
+  "updated": "2026.03.31. 12:33",
+  "flow_last_run": "2026.03.31. 12:33",
   "current": {
-    "temperature": 5,
-    "condition": "Pára",
-    "icon": null
+    "temperature": 6,
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "6:12",
+    "sunrise": "6:10",
     "sunset": "19:00",
     "is_night": false
   }
