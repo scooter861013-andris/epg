@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás",
   "focim": "Esős, szeles idő",
-  "updated": "2026.03.31. 18:37",
-  "flow_last_run": "2026.03.31. 18:37",
+  "updated": "2026.03.31. 19:37",
+  "flow_last_run": "2026.03.31. 19:37",
   "current": {
     "temperature": 7,
-    "condition": "Gyenge eső",
-    "icon": "🌧️"
+    "condition": "Erősen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "day": "Szerda",
-      "max": 13,
+      "max": 14,
       "min": 4,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:11",
     "sunset": "19:01",
-    "is_night": false
+    "is_night": true
   }
 }
