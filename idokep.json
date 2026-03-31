@@ -3,8 +3,8 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás",
   "focim": "Esős, szeles idő",
-  "updated": "2026.03.31. 13:32",
-  "flow_last_run": "2026.03.31. 14:39",
+  "updated": "2026.03.31. 16:12",
+  "flow_last_run": "2026.03.31. 16:12",
   "current": {
     "temperature": 7,
     "condition": "Gyenge eső",
@@ -30,7 +30,7 @@
     {
       "day": "Csütörtök",
       "max": 18,
-      "min": 5,
+      "min": 4,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
