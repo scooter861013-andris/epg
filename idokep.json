@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás",
   "focim": "Esős, szeles idő",
-  "updated": "2026.03.31. 12:38",
-  "flow_last_run": "2026.03.31. 12:38",
+  "updated": "2026.03.31. 13:32",
+  "flow_last_run": "2026.03.31. 13:32",
   "current": {
     "temperature": 7,
-    "condition": "Borult",
-    "icon": "☁️"
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 10,
+      "max": 9,
       "min": 4,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
