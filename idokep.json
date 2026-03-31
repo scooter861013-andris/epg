@@ -2,9 +2,9 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás",
-  "focim": "Esős, szeles idő",
-  "updated": "2026.03.31. 19:37",
-  "flow_last_run": "2026.03.31. 19:37",
+  "focim": "Javulás áll be időjárásunkban",
+  "updated": "2026.03.31. 20:36",
+  "flow_last_run": "2026.03.31. 20:36",
   "current": {
     "temperature": 7,
     "condition": "Erősen felhős",
@@ -12,24 +12,16 @@
   },
   "forecast_7d": [
     {
-      "day": "Kedd",
-      "max": 8,
-      "min": 4,
-      "condition": "eső viharos széllel",
-      "icon": "🌧️",
-      "alert": null
-    },
-    {
       "day": "Szerda",
       "max": 14,
       "min": 4,
-      "condition": "erősen felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 18,
+      "max": 19,
       "min": 4,
       "condition": "zápor",
       "icon": "🌧️",
@@ -46,7 +38,7 @@
     {
       "day": "Szombat",
       "max": 17,
-      "min": 3,
+      "min": 4,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -61,10 +53,18 @@
     },
     {
       "day": "Hétfő",
-      "max": 22,
+      "max": 21,
       "min": 6,
       "condition": "gyengén felhős",
       "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Kedd",
+      "max": 22,
+      "min": 7,
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     }
   ],
