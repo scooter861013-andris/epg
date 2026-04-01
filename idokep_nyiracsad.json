@@ -3,8 +3,8 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Szeles idő helyenként záporokkal",
-  "updated": "2026.04.01. 22:55",
-  "flow_last_run": "2026.04.01. 22:55",
+  "updated": "2026.04.01. 23:39",
+  "flow_last_run": "2026.04.01. 23:39",
   "current": {
     "temperature": 3,
     "condition": "Derült",
@@ -14,7 +14,7 @@
     {
       "day": "Csütörtök",
       "max": 19,
-      "min": 3,
+      "min": 2,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
