@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Javulás áll be időjárásunkban",
-  "updated": "2026.04.01. 14:40",
-  "flow_last_run": "2026.04.01. 14:40",
+  "updated": "2026.04.01. 16:15",
+  "flow_last_run": "2026.04.01. 16:15",
   "current": {
-    "temperature": 12,
-    "condition": "Közepesen felhős",
+    "temperature": 11,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -29,8 +29,8 @@
     },
     {
       "day": "Péntek",
-      "max": 17,
-      "min": 9,
+      "max": 18,
+      "min": 10,
       "condition": "gyenge eső",
       "icon": "🌧️",
       "alert": null
