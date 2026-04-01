@@ -3,25 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Szeles idő helyenként záporokkal",
-  "updated": "2026.04.01. 19:36",
-  "flow_last_run": "2026.04.01. 19:36",
+  "updated": "2026.04.01. 20:36",
+  "flow_last_run": "2026.04.01. 20:36",
   "current": {
-    "temperature": 6,
+    "temperature": 5,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
-      "day": "Szerda",
-      "max": 12,
-      "min": 3,
-      "condition": "erősen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Csütörtök",
-      "max": 19,
+      "max": 18,
       "min": 3,
       "condition": "zápor",
       "icon": "🌧️",
@@ -31,22 +23,22 @@
       "day": "Péntek",
       "max": 18,
       "min": 10,
-      "condition": "gyenge eső",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 15,
+      "max": 18,
       "min": 4,
-      "condition": "derült",
-      "icon": "🌙",
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 19,
-      "min": 4,
+      "max": 20,
+      "min": 5,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -54,15 +46,23 @@
     {
       "day": "Hétfő",
       "max": 21,
-      "min": 5,
+      "min": 8,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 20,
-      "min": 6,
+      "max": 18,
+      "min": 5,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 19,
+      "min": 4,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
