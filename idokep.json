@@ -2,19 +2,19 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
-  "focim": "Javulás áll be időjárásunkban",
-  "updated": "2026.04.01. 17:49",
-  "flow_last_run": "2026.04.01. 17:49",
+  "focim": "Szeles idő helyenként záporokkal",
+  "updated": "2026.04.01. 18:44",
+  "flow_last_run": "2026.04.01. 18:44",
   "current": {
-    "temperature": 10,
+    "temperature": 8,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 13,
-      "min": 3,
+      "max": 12,
+      "min": 4,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -30,7 +30,7 @@
     {
       "day": "Péntek",
       "max": 18,
-      "min": 10,
+      "min": 8,
       "condition": "gyenge eső",
       "icon": "🌧️",
       "alert": null
