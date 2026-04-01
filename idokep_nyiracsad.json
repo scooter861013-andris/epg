@@ -2,19 +2,19 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
-  "focim": "Javulás áll be időjárásunkban",
-  "updated": "2026.04.01. 17:51",
-  "flow_last_run": "2026.04.01. 17:51",
+  "focim": "Szeles idő helyenként záporokkal",
+  "updated": "2026.04.01. 18:51",
+  "flow_last_run": "2026.04.01. 18:51",
   "current": {
-    "temperature": 11,
+    "temperature": 8,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 14,
-      "min": 2,
+      "max": 13,
+      "min": 3,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -30,7 +30,7 @@
     {
       "day": "Péntek",
       "max": 19,
-      "min": 9,
+      "min": 8,
       "condition": "gyenge eső",
       "icon": "🌧️",
       "alert": null
