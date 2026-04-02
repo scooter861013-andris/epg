@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Szeles idő helyenként záporokkal",
-  "updated": "2026.04.02. 01:54",
-  "flow_last_run": "2026.04.02. 01:54",
+  "updated": "2026.04.02. 03:26",
+  "flow_last_run": "2026.04.02. 03:26",
   "current": {
     "temperature": 5,
-    "condition": "Erősen felhős",
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
       "max": 18,
-      "min": 3,
+      "min": 4,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
