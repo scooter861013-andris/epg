@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Szeles idő sok napsütéssel",
-  "updated": "2026.04.03. 09:01",
-  "flow_last_run": "2026.04.03. 09:01",
+  "updated": "2026.04.03. 09:35",
+  "flow_last_run": "2026.04.03. 09:35",
   "current": {
-    "temperature": 13,
-    "condition": "Gyengén felhős",
+    "temperature": 14,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -21,38 +21,6 @@
     },
     {
       "day": "Szombat",
-      "max": 17,
-      "min": 4,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
-      "day": "Vasárnap",
-      "max": 20,
-      "min": 5,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
-      "day": "Hétfő",
-      "max": 21,
-      "min": 8,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
-      "day": "Kedd",
-      "max": 20,
-      "min": 5,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
-      "day": "Szerda",
       "max": 19,
       "min": 4,
       "condition": "gyengén felhős",
@@ -60,9 +28,41 @@
       "alert": null
     },
     {
-      "day": "Csütörtök",
-      "max": 18,
+      "day": "Vasárnap",
+      "max": 19,
+      "min": 5,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 21,
+      "min": 8,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Kedd",
+      "max": 17,
       "min": 4,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 16,
+      "min": 2,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "max": 14,
+      "min": 1,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
