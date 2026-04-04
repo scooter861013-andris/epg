@@ -1,10 +1,10 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Nem lesz front felettünk",
-  "focim": "Szeles szombat sok napsütéssel",
-  "updated": "2026.04.04. 14:35",
-  "flow_last_run": "2026.04.04. 16:18",
+  "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
+  "focim": "Kissé szeles tavaszi idő",
+  "updated": "2026.04.04. 16:57",
+  "flow_last_run": "2026.04.04. 16:57",
   "current": {
     "temperature": 19,
     "condition": "Derült",
@@ -12,17 +12,9 @@
   },
   "forecast_7d": [
     {
-      "day": "Szombat",
-      "max": 19,
-      "min": 2,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Vasárnap",
-      "max": 19,
-      "min": 5,
+      "max": 21,
+      "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -30,23 +22,23 @@
     {
       "day": "Hétfő",
       "max": 21,
-      "min": 8,
-      "condition": "gyengén felhős",
+      "min": 9,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
       "max": 16,
-      "min": 4,
+      "min": 1,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 16,
-      "min": 2,
+      "max": 14,
+      "min": 3,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -54,16 +46,24 @@
     {
       "day": "Csütörtök",
       "max": 14,
-      "min": 1,
-      "condition": "közepesen felhős",
+      "min": 0,
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 12,
-      "min": 3,
-      "condition": "gyenge eső",
+      "max": 11,
+      "min": 1,
+      "condition": "eső",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Szombat",
+      "max": 13,
+      "min": 2,
+      "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     }
