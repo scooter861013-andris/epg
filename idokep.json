@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Szeles szombat sok napsütéssel",
-  "updated": "2026.04.04. 05:14",
-  "flow_last_run": "2026.04.04. 05:14",
+  "updated": "2026.04.04. 07:01",
+  "flow_last_run": "2026.04.04. 07:01",
   "current": {
-    "temperature": 6,
+    "temperature": 5,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:05",
     "sunset": "19:06",
-    "is_night": true
+    "is_night": false
   }
 }
