@@ -3,33 +3,33 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
   "focim": "Kissé szeles tavaszi idő",
-  "updated": "2026.04.05. 08:13",
-  "flow_last_run": "2026.04.05. 08:13",
+  "updated": "2026.04.05. 09:33",
+  "flow_last_run": "2026.04.05. 09:33",
   "current": {
-    "temperature": 10,
+    "temperature": 15,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 21,
-      "min": 4,
+      "max": 19,
+      "min": 3,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 21,
-      "min": 9,
-      "condition": "közepesen felhős",
+      "max": 20,
+      "min": 8,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 16,
+      "max": 15,
       "min": 1,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -37,33 +37,33 @@
     },
     {
       "day": "Szerda",
-      "max": 14,
+      "max": 13,
       "min": 3,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 14,
+      "max": 13,
       "min": 0,
-      "condition": "erősen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Péntek",
       "max": 11,
       "min": 1,
-      "condition": "eső",
+      "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 13,
-      "min": 2,
-      "condition": "zápor",
+      "max": 12,
+      "min": 3,
+      "condition": "eső viharos széllel",
       "icon": "🌧️",
       "alert": null
     }
