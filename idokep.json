@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás várható",
   "focim": "Hidegfront hoz erős szelet",
-  "updated": "2026.04.05. 18:52",
-  "flow_last_run": "2026.04.05. 18:52",
+  "updated": "2026.04.05. 19:22",
+  "flow_last_run": "2026.04.05. 19:22",
   "current": {
-    "temperature": 18,
+    "temperature": 17,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:01",
     "sunset": "19:08",
-    "is_night": false
+    "is_night": true
   }
 }
