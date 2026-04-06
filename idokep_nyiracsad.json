@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás várható",
   "focim": "Hidegfront hoz erős szelet",
-  "updated": "2026.04.06. 13:12",
-  "flow_last_run": "2026.04.06. 13:12",
+  "updated": "2026.04.06. 13:58",
+  "flow_last_run": "2026.04.06. 13:58",
   "current": {
     "temperature": 22,
-    "condition": "Borult",
-    "icon": "☁️"
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
@@ -22,7 +22,7 @@
     {
       "day": "Kedd",
       "max": 15,
-      "min": 0,
+      "min": 1,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
