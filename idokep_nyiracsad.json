@@ -1,29 +1,21 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Hidegfronti hatás várható",
-  "focim": "Hidegfront hoz erős szelet",
-  "updated": "2026.04.06. 17:31",
-  "flow_last_run": "2026.04.06. 17:31",
+  "fronthatas": "Nem lesz front felettünk",
+  "focim": "Szeles idő sok napsütéssel",
+  "updated": "2026.04.06. 18:28",
+  "flow_last_run": "2026.04.06. 18:28",
   "current": {
-    "temperature": 19,
-    "condition": "Közepesen felhős",
+    "temperature": 17,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Hétfő",
-      "max": 20,
-      "min": 5,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Kedd",
       "max": 15,
       "min": 0,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -31,14 +23,14 @@
       "day": "Szerda",
       "max": 11,
       "min": 1,
-      "condition": "közepesen felhős",
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
       "max": 11,
-      "min": 1,
+      "min": 0,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -46,23 +38,31 @@
     {
       "day": "Péntek",
       "max": 11,
-      "min": -1,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "min": -2,
+      "condition": "erősen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 13,
-      "min": 1,
-      "condition": "közepesen felhős",
+      "max": 12,
+      "min": -1,
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 14,
-      "min": 2,
+      "max": 13,
+      "min": 1,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 15,
+      "min": 3,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
