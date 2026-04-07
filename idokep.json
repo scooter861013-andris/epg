@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Szeles idő sok napsütéssel",
-  "updated": "2026.04.07. 06:18",
-  "flow_last_run": "2026.04.07. 06:18",
+  "updated": "2026.04.07. 08:01",
+  "flow_last_run": "2026.04.07. 08:01",
   "current": {
-    "temperature": 0,
+    "temperature": 7,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 14,
+      "max": 15,
       "min": 1,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -22,7 +22,7 @@
     {
       "day": "Szerda",
       "max": 11,
-      "min": 2,
+      "min": 1,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
