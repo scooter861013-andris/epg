@@ -3,25 +3,25 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti tünetek",
   "focim": "Szeles, gomolyfelhős idő",
-  "updated": "2026.04.08. 08:56",
-  "flow_last_run": "2026.04.08. 08:56",
+  "updated": "2026.04.08. 10:12",
+  "flow_last_run": "2026.04.08. 10:12",
   "current": {
-    "temperature": 7,
-    "condition": "Erősen felhős",
+    "temperature": 9,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 10,
-      "min": 2,
+      "max": 11,
+      "min": -1,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 10,
+      "max": 11,
       "min": 0,
       "condition": "zápor",
       "icon": "🌧️",
@@ -29,8 +29,8 @@
     },
     {
       "day": "Péntek",
-      "max": 9,
-      "min": -2,
+      "max": 11,
+      "min": -3,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
