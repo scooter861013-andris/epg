@@ -3,8 +3,8 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti tünetek",
   "focim": "Szeles, gomolyfelhős idő",
-  "updated": "2026.04.08. 11:17",
-  "flow_last_run": "2026.04.08. 11:17",
+  "updated": "2026.04.08. 12:33",
+  "flow_last_run": "2026.04.08. 12:33",
   "current": {
     "temperature": 12,
     "condition": "Gyengén felhős",
@@ -13,7 +13,7 @@
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 12,
+      "max": 13,
       "min": 1,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "5:57",
+    "sunrise": "5:55",
     "sunset": "19:12",
     "is_night": false
   }
