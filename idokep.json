@@ -1,19 +1,19 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Hidegfronti tünetek",
-  "focim": "Szeles, gomolyfelhős idő",
-  "updated": "2026.04.08. 16:15",
-  "flow_last_run": "2026.04.08. 16:15",
+  "fronthatas": "Nem érkezik front",
+  "focim": "Hajnali fagy után szeles, erősen gomolyos idő",
+  "updated": "2026.04.08. 17:46",
+  "flow_last_run": "2026.04.08. 17:46",
   "current": {
-    "temperature": 11,
+    "temperature": 9,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 12,
+      "max": 11,
       "min": 1,
       "condition": "közepesen felhős",
       "icon": "☁️",
