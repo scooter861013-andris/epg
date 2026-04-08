@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem érkezik front",
   "focim": "Hajnali fagy után szeles, erősen gomolyos idő",
-  "updated": "2026.04.08. 23:50",
-  "flow_last_run": "2026.04.08. 23:50",
+  "updated": "2026.04.09. 00:31",
+  "flow_last_run": "2026.04.09. 00:31",
   "current": {
-    "temperature": 5,
+    "temperature": 4,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Csütörtök",
       "max": 10,
-      "min": 1,
+      "min": 2,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "5:55",
-    "sunset": "19:12",
+    "sunset": "19:14",
     "is_night": true
   }
 }
