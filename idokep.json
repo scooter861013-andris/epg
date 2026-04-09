@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem érkezik front",
   "focim": "Szeles, erősen gomolyos idő",
-  "updated": "2026.04.09. 09:53",
-  "flow_last_run": "2026.04.09. 10:59",
+  "updated": "2026.04.09. 12:14",
+  "flow_last_run": "2026.04.09. 12:14",
   "current": {
-    "temperature": 9,
+    "temperature": 10,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "max": 12,
+      "max": 11,
       "min": 1,
       "condition": "zápor",
       "icon": "🌧️",
@@ -29,10 +29,10 @@
     },
     {
       "day": "Szombat",
-      "max": 12,
-      "min": 2,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "max": 11,
+      "min": 0,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "5:55",
+    "sunrise": "5:53",
     "sunset": "19:14",
     "is_night": false
   }
