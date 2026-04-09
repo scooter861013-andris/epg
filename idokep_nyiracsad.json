@@ -3,11 +3,11 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem érkezik front",
   "focim": "Szeles, erősen gomolyos idő",
-  "updated": "2026.04.09. 10:21",
-  "flow_last_run": "2026.04.09. 10:21",
+  "updated": "2026.04.09. 11:48",
+  "flow_last_run": "2026.04.09. 11:48",
   "current": {
     "temperature": 9,
-    "condition": "Közepesen felhős",
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -31,8 +31,8 @@
       "day": "Szombat",
       "max": 12,
       "min": 2,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
