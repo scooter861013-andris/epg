@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Nem érkezik front",
-  "focim": "Szeles, erősen gomolyos idő",
-  "updated": "2026.04.09. 15:23",
-  "flow_last_run": "2026.04.09. 15:23",
+  "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
+  "focim": "Reggel több helyen fagyhat",
+  "updated": "2026.04.09. 17:06",
+  "flow_last_run": "2026.04.09. 17:06",
   "current": {
-    "temperature": 12,
-    "condition": "Erősen felhős",
+    "temperature": 11,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Csütörtök",
-      "max": 12,
-      "min": 2,
-      "condition": "zápor",
-      "icon": "🌧️",
-      "alert": null
-    },
     {
       "day": "Péntek",
       "max": 12,
@@ -31,40 +23,48 @@
       "day": "Szombat",
       "max": 11,
       "min": 0,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
-      "day": "Vasárnap",
-      "max": 13,
-      "min": -1,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
-      "day": "Hétfő",
-      "max": 15,
-      "min": 2,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
-      "day": "Kedd",
-      "max": 17,
-      "min": 3,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
-      "day": "Szerda",
+      "day": "Vasárnap",
+      "max": 15,
+      "min": -1,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
       "max": 18,
-      "min": 4,
+      "min": 0,
+      "condition": "erősen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Kedd",
+      "max": 18,
+      "min": 6,
       "condition": "zápor",
       "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 19,
+      "min": 8,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "max": 20,
+      "min": 8,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
