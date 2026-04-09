@@ -2,12 +2,12 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Nem érkezik front",
-  "focim": "Hajnali fagy után szeles, erősen gomolyos idő",
-  "updated": "2026.04.09. 08:57",
-  "flow_last_run": "2026.04.09. 08:57",
+  "focim": "Szeles, erősen gomolyos idő",
+  "updated": "2026.04.09. 10:21",
+  "flow_last_run": "2026.04.09. 10:21",
   "current": {
-    "temperature": 7,
-    "condition": "Erősen felhős",
+    "temperature": 9,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -22,7 +22,7 @@
     {
       "day": "Péntek",
       "max": 13,
-      "min": 0,
+      "min": -1,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -39,7 +39,7 @@
       "day": "Vasárnap",
       "max": 13,
       "min": -1,
-      "condition": "erősen felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
