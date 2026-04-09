@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Reggel több helyen fagyhat",
-  "updated": "2026.04.09. 18:58",
-  "flow_last_run": "2026.04.09. 18:58",
+  "updated": "2026.04.09. 19:59",
+  "flow_last_run": "2026.04.09. 19:59",
   "current": {
-    "temperature": 8,
-    "condition": "Közepesen felhős",
+    "temperature": 7,
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:53",
     "sunset": "19:14",
-    "is_night": false
+    "is_night": true
   }
 }
