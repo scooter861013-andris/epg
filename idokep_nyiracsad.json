@@ -3,34 +3,34 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem érkezik front",
   "focim": "Hajnali fagy után szeles, erősen gomolyos idő",
-  "updated": "2026.04.09. 07:28",
-  "flow_last_run": "2026.04.09. 07:28",
+  "updated": "2026.04.09. 08:57",
+  "flow_last_run": "2026.04.09. 08:57",
   "current": {
-    "temperature": 4,
-    "condition": "Borult",
+    "temperature": 7,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "max": 10,
-      "min": -2,
+      "max": 12,
+      "min": 2,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 11,
-      "min": -4,
+      "max": 13,
+      "min": 0,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 10,
-      "min": -2,
+      "max": 12,
+      "min": 2,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
