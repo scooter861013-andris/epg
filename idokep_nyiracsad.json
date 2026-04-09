@@ -3,11 +3,11 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Reggel több helyen fagyhat",
-  "updated": "2026.04.09. 18:42",
-  "flow_last_run": "2026.04.09. 18:42",
+  "updated": "2026.04.09. 19:45",
+  "flow_last_run": "2026.04.09. 19:45",
   "current": {
-    "temperature": 8,
-    "condition": "Közepesen felhős",
+    "temperature": 5,
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:52",
     "sunset": "19:12",
-    "is_night": false
+    "is_night": true
   }
 }
