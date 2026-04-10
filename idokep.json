@@ -2,35 +2,27 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
-  "focim": "Napos péntek",
-  "updated": "2026.04.10. 17:04",
-  "flow_last_run": "2026.04.10. 17:04",
+  "focim": "Fagyos reggel, majd napközben megélénkül a szél",
+  "updated": "2026.04.10. 18:06",
+  "flow_last_run": "2026.04.10. 18:06",
   "current": {
     "temperature": 11,
-    "condition": "Közepesen felhős",
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Péntek",
-      "max": 12,
-      "min": 1,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Szombat",
-      "max": 14,
-      "min": 4,
+      "max": 13,
+      "min": -5,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 17,
-      "min": 3,
+      "max": 15,
+      "min": -2,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -38,31 +30,39 @@
     {
       "day": "Hétfő",
       "max": 17,
-      "min": 0,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "min": -1,
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     },
     {
       "day": "Kedd",
       "max": 18,
-      "min": 6,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "min": 3,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
       "max": 19,
-      "min": 8,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "min": 5,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
       "max": 20,
-      "min": 8,
+      "min": 6,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Péntek",
+      "max": 20,
+      "min": 6,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
