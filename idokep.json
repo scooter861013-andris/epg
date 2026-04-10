@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Fagyos reggel, majd napközben megélénkül a szél",
-  "updated": "2026.04.10. 19:05",
-  "flow_last_run": "2026.04.10. 19:05",
+  "updated": "2026.04.10. 20:02",
+  "flow_last_run": "2026.04.10. 20:02",
   "current": {
-    "temperature": 8,
-    "condition": "Erősen felhős",
+    "temperature": 6,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:51",
     "sunset": "19:15",
-    "is_night": false
+    "is_night": true
   }
 }
