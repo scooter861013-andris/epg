@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Fagyos reggel, majd napközben megélénkül a szél",
-  "updated": "2026.04.10. 23:20",
-  "flow_last_run": "2026.04.10. 23:20",
+  "updated": "2026.04.11. 00:02",
+  "flow_last_run": "2026.04.11. 00:02",
   "current": {
-    "temperature": -1,
+    "temperature": -2,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "5:50",
-    "sunset": "19:14",
+    "sunset": "19:15",
     "is_night": true
   }
 }
