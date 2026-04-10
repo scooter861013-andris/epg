@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Reggel több helyen fagyhat",
-  "updated": "2026.04.10. 01:58",
-  "flow_last_run": "2026.04.10. 01:58",
+  "updated": "2026.04.10. 04:34",
+  "flow_last_run": "2026.04.10. 04:34",
   "current": {
-    "temperature": 4,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "temperature": 2,
+    "condition": "Pára",
+    "icon": null
   },
   "forecast_7d": [
     {
       "day": "Péntek",
       "max": 12,
-      "min": 0,
+      "min": 1,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -22,7 +22,7 @@
     {
       "day": "Szombat",
       "max": 14,
-      "min": 1,
+      "min": 2,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
