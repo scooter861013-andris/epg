@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Fagyos reggel, majd napközben megélénkül a szél",
-  "updated": "2026.04.11. 08:36",
-  "flow_last_run": "2026.04.11. 08:36",
+  "updated": "2026.04.11. 09:36",
+  "flow_last_run": "2026.04.11. 09:36",
   "current": {
-    "temperature": 7,
-    "condition": "Közepesen felhős",
-    "icon": "☁️"
+    "temperature": 11,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
-      "max": 14,
-      "min": -5,
+      "max": 15,
+      "min": -3,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -23,23 +23,23 @@
       "day": "Vasárnap",
       "max": 15,
       "min": -2,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     },
     {
       "day": "Hétfő",
       "max": 17,
       "min": -1,
-      "condition": "derült",
-      "icon": "🌙",
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
       "max": 18,
       "min": 3,
-      "condition": "közepesen felhős",
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
