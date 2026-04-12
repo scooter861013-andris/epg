@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Újabb csípős reggel, de lassan melegszik az idő",
-  "updated": "2026.04.12. 04:24",
-  "flow_last_run": "2026.04.12. 04:24",
+  "updated": "2026.04.12. 07:09",
+  "flow_last_run": "2026.04.12. 07:09",
   "current": {
-    "temperature": -3,
+    "temperature": -2,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Vasárnap",
       "max": 15,
-      "min": -3,
+      "min": -2,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:48",
     "sunset": "19:17",
-    "is_night": true
+    "is_night": false
   }
 }
