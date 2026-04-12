@@ -3,44 +3,44 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Lassan melegszik az idő",
-  "updated": "2026.04.12. 08:48",
-  "flow_last_run": "2026.04.12. 08:48",
+  "updated": "2026.04.12. 10:01",
+  "flow_last_run": "2026.04.12. 10:01",
   "current": {
-    "temperature": 10,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 14,
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 15,
-      "min": -2,
-      "condition": "derült",
-      "icon": "🌙",
-      "alert": null
-    },
-    {
-      "day": "Hétfő",
-      "max": 18,
-      "min": 2,
+      "max": 16,
+      "min": -1,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
-      "day": "Kedd",
+      "day": "Hétfő",
       "max": 19,
-      "min": 3,
+      "min": 1,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Kedd",
+      "max": 20,
+      "min": 6,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 20,
-      "min": 7,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "max": 22,
+      "min": 6,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
@@ -53,16 +53,16 @@
     },
     {
       "day": "Péntek",
-      "max": 20,
-      "min": 6,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "max": 22,
+      "min": 8,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 21,
-      "min": 6,
+      "max": 20,
+      "min": 8,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
