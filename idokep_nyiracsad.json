@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
   "focim": "Kissé szeles, fátyolfelhős idő",
-  "updated": "2026.04.12. 23:50",
-  "flow_last_run": "2026.04.12. 23:50",
+  "updated": "2026.04.13. 00:31",
+  "flow_last_run": "2026.04.13. 00:31",
   "current": {
-    "temperature": 4,
+    "temperature": 3,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "5:46",
-    "sunset": "19:17",
+    "sunset": "19:18",
     "is_night": true
   }
 }
