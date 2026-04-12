@@ -1,28 +1,20 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
-  "focim": "Lassan melegszik az idő",
-  "updated": "2026.04.12. 17:57",
-  "flow_last_run": "2026.04.12. 17:57",
+  "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
+  "focim": "Kissé szeles, fátyolfelhős idő",
+  "updated": "2026.04.12. 18:35",
+  "flow_last_run": "2026.04.12. 18:35",
   "current": {
-    "temperature": 14,
+    "temperature": 13,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Vasárnap",
-      "max": 15,
-      "min": -1,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Hétfő",
       "max": 19,
-      "min": 1,
+      "min": -1,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -31,14 +23,14 @@
       "day": "Kedd",
       "max": 20,
       "min": 6,
-      "condition": "közepesen felhős",
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 22,
-      "min": 6,
+      "max": 23,
+      "min": 5,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -46,7 +38,7 @@
     {
       "day": "Csütörtök",
       "max": 21,
-      "min": 7,
+      "min": 5,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -64,6 +56,14 @@
       "max": 20,
       "min": 8,
       "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Vasárnap",
+      "max": 20,
+      "min": 7,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     }
