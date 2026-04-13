@@ -3,26 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Felhős, tavaszi idő",
-  "updated": "2026.04.13. 18:21",
-  "flow_last_run": "2026.04.13. 18:21",
+  "updated": "2026.04.13. 19:35",
+  "flow_last_run": "2026.04.13. 19:35",
   "current": {
-    "temperature": 16,
+    "temperature": 14,
     "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Hétfő",
-      "max": 19,
-      "min": 1,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Kedd",
-      "max": 20,
-      "min": 6,
+      "max": 21,
+      "min": 7,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -30,15 +22,15 @@
     {
       "day": "Szerda",
       "max": 22,
-      "min": 5,
+      "min": 7,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 21,
-      "min": 5,
+      "max": 23,
+      "min": 7,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -46,31 +38,39 @@
     {
       "day": "Péntek",
       "max": 22,
-      "min": 7,
+      "min": 9,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 21,
-      "min": 6,
+      "max": 22,
+      "min": 8,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 21,
-      "min": 6,
+      "max": 23,
+      "min": 8,
       "condition": "közepesen felhős",
       "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 19,
+      "min": 8,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     }
   ],
   "sun": {
     "sunrise": "5:46",
     "sunset": "19:19",
-    "is_night": false
+    "is_night": true
   }
 }
