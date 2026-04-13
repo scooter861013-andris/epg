@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
   "focim": "Kissé szeles, fátyolfelhős idő",
-  "updated": "2026.04.13. 03:55",
-  "flow_last_run": "2026.04.13. 03:55",
+  "updated": "2026.04.13. 06:53",
+  "flow_last_run": "2026.04.13. 06:53",
   "current": {
-    "temperature": 5,
-    "condition": "Közepesen felhős",
+    "temperature": 8,
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
       "max": 19,
-      "min": 5,
+      "min": -1,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:47",
     "sunset": "19:19",
-    "is_night": true
+    "is_night": false
   }
 }
