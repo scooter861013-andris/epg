@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Felhős, tavaszi idő",
-  "updated": "2026.04.13. 23:01",
-  "flow_last_run": "2026.04.13. 23:01",
+  "updated": "2026.04.14. 00:00",
+  "flow_last_run": "2026.04.14. 00:00",
   "current": {
     "temperature": 11,
-    "condition": "Borult",
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "5:46",
-    "sunset": "19:19",
+    "sunset": "19:21",
     "is_night": true
   }
 }
