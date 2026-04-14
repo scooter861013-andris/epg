@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Felhős, tavaszi idő",
-  "updated": "2026.04.14. 04:27",
-  "flow_last_run": "2026.04.14. 04:27",
+  "updated": "2026.04.14. 07:09",
+  "flow_last_run": "2026.04.14. 07:09",
   "current": {
-    "temperature": 11,
+    "temperature": 10,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Kedd",
       "max": 21,
-      "min": 11,
+      "min": 7,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:46",
     "sunset": "19:21",
-    "is_night": true
+    "is_night": false
   }
 }
