@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Felhős, tavaszi idő",
-  "updated": "2026.04.14. 02:07",
-  "flow_last_run": "2026.04.14. 02:07",
+  "updated": "2026.04.14. 05:41",
+  "flow_last_run": "2026.04.14. 05:41",
   "current": {
-    "temperature": 10,
-    "condition": "Borult",
+    "temperature": 9,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
       "max": 21,
-      "min": 8,
+      "min": 7,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
