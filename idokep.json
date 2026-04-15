@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Felhős idő kevés napsütéssel",
-  "updated": "2026.04.15. 01:58",
-  "flow_last_run": "2026.04.15. 01:58",
+  "updated": "2026.04.15. 04:40",
+  "flow_last_run": "2026.04.15. 04:40",
   "current": {
     "temperature": 9,
-    "condition": "Borult",
-    "icon": "☁️"
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
       "max": 23,
-      "min": 8,
+      "min": 9,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
