@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Többnyire felhős idő záporokkal",
-  "updated": "2026.04.16. 00:04",
-  "flow_last_run": "2026.04.16. 00:04",
+  "updated": "2026.04.16. 01:02",
+  "flow_last_run": "2026.04.16. 01:02",
   "current": {
-    "temperature": 11,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 9,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
       "max": 21,
-      "min": 7,
+      "min": 8,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
