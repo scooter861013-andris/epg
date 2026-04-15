@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Felhős idő kevés napsütéssel",
-  "updated": "2026.04.15. 14:10",
-  "flow_last_run": "2026.04.15. 14:10",
+  "updated": "2026.04.15. 16:04",
+  "flow_last_run": "2026.04.15. 16:04",
   "current": {
-    "temperature": 22,
-    "condition": "Borult",
-    "icon": "☁️"
+    "temperature": 23,
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 22,
+      "max": 20,
       "min": 8,
       "condition": "erősen felhős",
       "icon": "☁️",
