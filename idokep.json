@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Záport, zivatart hozhat a péntek",
-  "updated": "2026.04.17. 00:40",
-  "flow_last_run": "2026.04.17. 00:40",
+  "updated": "2026.04.17. 01:24",
+  "flow_last_run": "2026.04.17. 01:24",
   "current": {
-    "temperature": 15,
-    "condition": "Közepesen felhős",
+    "temperature": 14,
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
       "max": 22,
-      "min": 7,
+      "min": 8,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
