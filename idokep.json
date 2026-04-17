@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Záport, zivatart hozhat a péntek",
-  "updated": "2026.04.17. 07:53",
-  "flow_last_run": "2026.04.17. 07:53",
+  "updated": "2026.04.17. 09:21",
+  "flow_last_run": "2026.04.17. 09:21",
   "current": {
-    "temperature": 15,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 18,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 20,
+      "max": 21,
       "min": 6,
       "condition": "zápor",
       "icon": "🌧️",
@@ -31,22 +31,22 @@
       "day": "Vasárnap",
       "max": 19,
       "min": 3,
-      "condition": "erősen felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 17,
-      "min": 9,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "max": 19,
+      "min": 10,
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Kedd",
       "max": 15,
-      "min": 6,
+      "min": 5,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -54,17 +54,17 @@
     {
       "day": "Szerda",
       "max": 14,
-      "min": 5,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "min": 4,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 15,
+      "max": 16,
       "min": 4,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
