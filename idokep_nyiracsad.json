@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Záport, zivatart hozhat a péntek",
-  "updated": "2026.04.17. 08:19",
-  "flow_last_run": "2026.04.17. 08:19",
+  "updated": "2026.04.17. 10:11",
+  "flow_last_run": "2026.04.17. 10:11",
   "current": {
-    "temperature": 15,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 19,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
@@ -31,22 +31,22 @@
       "day": "Vasárnap",
       "max": 20,
       "min": 3,
-      "condition": "erősen felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 17,
-      "min": 9,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "max": 19,
+      "min": 10,
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Kedd",
       "max": 15,
-      "min": 6,
+      "min": 5,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -54,17 +54,17 @@
     {
       "day": "Szerda",
       "max": 14,
-      "min": 5,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "min": 4,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 15,
+      "max": 16,
       "min": 4,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
