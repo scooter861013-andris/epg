@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Sok napsütés, de kissé szeles idő",
-  "updated": "2026.04.17. 18:45",
-  "flow_last_run": "2026.04.17. 18:45",
+  "updated": "2026.04.17. 19:41",
+  "flow_last_run": "2026.04.17. 19:41",
   "current": {
-    "temperature": 19,
-    "condition": "Közepesen felhős",
-    "icon": "☁️"
+    "temperature": 16,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
@@ -39,14 +39,14 @@
       "day": "Kedd",
       "max": 15,
       "min": 5,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 14,
-      "min": 4,
+      "max": 15,
+      "min": 2,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -54,16 +54,16 @@
     {
       "day": "Csütörtök",
       "max": 16,
-      "min": 4,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "min": 3,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 17,
-      "min": 5,
-      "condition": "erősen felhős",
+      "max": 16,
+      "min": 4,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     }
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:38",
     "sunset": "19:25",
-    "is_night": false
+    "is_night": true
   }
 }
