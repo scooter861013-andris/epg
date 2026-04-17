@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Sok napsütés, de kissé szeles idő",
-  "updated": "2026.04.17. 20:35",
-  "flow_last_run": "2026.04.17. 20:35",
+  "updated": "2026.04.17. 21:44",
+  "flow_last_run": "2026.04.17. 21:44",
   "current": {
-    "temperature": 15,
+    "temperature": 13,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -30,7 +30,7 @@
     {
       "day": "Hétfő",
       "max": 19,
-      "min": 9,
+      "min": 8,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
