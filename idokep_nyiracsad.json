@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Záport, zivatart hozhat a péntek",
-  "updated": "2026.04.17. 03:09",
-  "flow_last_run": "2026.04.17. 03:09",
+  "updated": "2026.04.17. 06:21",
+  "flow_last_run": "2026.04.17. 06:21",
   "current": {
-    "temperature": 12,
-    "condition": "Erősen felhős",
+    "temperature": 8,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
       "max": 22,
-      "min": 10,
+      "min": 7,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:39",
     "sunset": "19:24",
-    "is_night": true
+    "is_night": false
   }
 }
