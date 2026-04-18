@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
-  "focim": "Sok napsütés, de kissé szeles idő",
-  "updated": "2026.04.18. 19:21",
-  "flow_last_run": "2026.04.18. 19:21",
+  "focim": "Még élvezhetjük a jó időt",
+  "updated": "2026.04.18. 20:00",
+  "flow_last_run": "2026.04.18. 20:00",
   "current": {
-    "temperature": 16,
+    "temperature": 13,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Szombat",
-      "max": 18,
-      "min": 5,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Vasárnap",
       "max": 20,
@@ -38,22 +30,22 @@
     {
       "day": "Kedd",
       "max": 13,
-      "min": 5,
+      "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 14,
-      "min": 2,
-      "condition": "erősen felhős",
+      "max": 15,
+      "min": 1,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 16,
+      "max": 17,
       "min": 3,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -61,8 +53,16 @@
     },
     {
       "day": "Péntek",
-      "max": 17,
-      "min": 4,
+      "max": 18,
+      "min": 5,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szombat",
+      "max": 19,
+      "min": 6,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:35",
     "sunset": "19:25",
-    "is_night": false
+    "is_night": true
   }
 }
