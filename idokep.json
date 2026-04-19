@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfront érkezik",
   "focim": "Még élvezhetjük a jó időt",
-  "updated": "2026.04.19. 13:04",
-  "flow_last_run": "2026.04.19. 13:04",
+  "updated": "2026.04.19. 13:49",
+  "flow_last_run": "2026.04.19. 13:49",
   "current": {
     "temperature": 22,
-    "condition": "Erősen felhős",
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 22,
+      "max": 23,
       "min": 3,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -21,8 +21,8 @@
     },
     {
       "day": "Hétfő",
-      "max": 16,
-      "min": 11,
+      "max": 17,
+      "min": 9,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
