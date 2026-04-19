@@ -3,11 +3,11 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás várható",
   "focim": "Szeles idő helyenként záporral, zivatarral",
-  "updated": "2026.04.19. 19:52",
-  "flow_last_run": "2026.04.19. 19:52",
+  "updated": "2026.04.19. 20:45",
+  "flow_last_run": "2026.04.19. 20:45",
   "current": {
-    "temperature": 15,
-    "condition": "Erősen felhős",
+    "temperature": 12,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -22,7 +22,7 @@
     {
       "day": "Kedd",
       "max": 16,
-      "min": 3,
+      "min": 2,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
