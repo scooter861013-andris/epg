@@ -3,25 +3,25 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfront érkezik",
   "focim": "Még élvezhetjük a jó időt",
-  "updated": "2026.04.19. 01:59",
-  "flow_last_run": "2026.04.19. 01:59",
+  "updated": "2026.04.19. 05:43",
+  "flow_last_run": "2026.04.19. 05:43",
   "current": {
-    "temperature": 3,
+    "temperature": 0,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 20,
-      "min": 1,
+      "max": 19,
+      "min": 0,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 18,
+      "max": 15,
       "min": 9,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:35",
     "sunset": "19:26",
-    "is_night": true
+    "is_night": false
   }
 }
