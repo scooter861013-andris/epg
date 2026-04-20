@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás várható",
   "focim": "Szeles idő helyenként záporral, zivatarral",
-  "updated": "2026.04.20. 05:22",
-  "flow_last_run": "2026.04.20. 05:22",
+  "updated": "2026.04.20. 07:59",
+  "flow_last_run": "2026.04.20. 07:59",
   "current": {
-    "temperature": 12,
-    "condition": "Borult",
-    "icon": "☁️"
+    "temperature": 13,
+    "condition": "Eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 15,
+      "max": 16,
       "min": 10,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:34",
     "sunset": "19:29",
-    "is_night": true
+    "is_night": false
   }
 }
