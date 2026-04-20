@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás érvényesül",
   "focim": "Marad a szeles idő",
-  "updated": "2026.04.20. 23:00",
-  "flow_last_run": "2026.04.20. 23:00",
+  "updated": "2026.04.21. 00:02",
+  "flow_last_run": "2026.04.21. 00:02",
   "current": {
     "temperature": 7,
-    "condition": "Közepesen felhős",
-    "icon": "☁️"
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
       "max": 13,
-      "min": 1,
+      "min": 2,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "5:31",
-    "sunset": "19:28",
+    "sunset": "19:29",
     "is_night": true
   }
 }
