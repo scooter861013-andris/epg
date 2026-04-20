@@ -1,20 +1,20 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Hidegfronti hatás várható",
+  "fronthatas": "Hidegfronti hatás érvényesül",
   "focim": "Szeles idő helyenként záporral, zivatarral",
-  "updated": "2026.04.20. 17:43",
-  "flow_last_run": "2026.04.20. 17:43",
+  "updated": "2026.04.20. 18:45",
+  "flow_last_run": "2026.04.20. 18:45",
   "current": {
-    "temperature": 15,
-    "condition": "Közepesen felhős",
-    "icon": "☁️"
+    "temperature": 14,
+    "condition": "Száraz zivatar",
+    "icon": "⛈️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
       "max": 18,
-      "min": 5,
+      "min": 6,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
