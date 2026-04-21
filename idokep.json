@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás érvényesül",
   "focim": "Marad a szeles idő",
-  "updated": "2026.04.21. 14:44",
-  "flow_last_run": "2026.04.21. 14:44",
+  "updated": "2026.04.21. 16:21",
+  "flow_last_run": "2026.04.21. 16:21",
   "current": {
-    "temperature": 13,
+    "temperature": 12,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 13,
+      "max": 15,
       "min": 3,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -22,7 +22,7 @@
     {
       "day": "Szerda",
       "max": 16,
-      "min": 1,
+      "min": -1,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
