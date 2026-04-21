@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Kissé szeles idő",
-  "updated": "2026.04.22. 00:35",
-  "flow_last_run": "2026.04.22. 00:35",
+  "updated": "2026.04.22. 01:21",
+  "flow_last_run": "2026.04.22. 01:21",
   "current": {
-    "temperature": 4,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 3,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
       "max": 16,
-      "min": -2,
+      "min": 0,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
