@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Kissé szeles idő",
-  "updated": "2026.04.21. 17:49",
-  "flow_last_run": "2026.04.21. 18:50",
+  "updated": "2026.04.21. 19:53",
+  "flow_last_run": "2026.04.21. 19:53",
   "current": {
-    "temperature": 12,
+    "temperature": 11,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:31",
     "sunset": "19:31",
-    "is_night": false
+    "is_night": true
   }
 }
