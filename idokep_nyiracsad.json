@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás érvényesül",
   "focim": "Marad a szeles idő",
-  "updated": "2026.04.21. 09:13",
-  "flow_last_run": "2026.04.21. 09:13",
+  "updated": "2026.04.21. 11:03",
+  "flow_last_run": "2026.04.21. 11:03",
   "current": {
-    "temperature": 10,
-    "condition": "Borult",
+    "temperature": 11,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 15,
+      "max": 14,
       "min": 1,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -29,15 +29,15 @@
     },
     {
       "day": "Csütörtök",
-      "max": 18,
-      "min": 1,
+      "max": 19,
+      "min": 3,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 18,
+      "max": 17,
       "min": 3,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -45,7 +45,7 @@
     },
     {
       "day": "Szombat",
-      "max": 19,
+      "max": 22,
       "min": 4,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -53,16 +53,16 @@
     },
     {
       "day": "Vasárnap",
-      "max": 16,
-      "min": 6,
-      "condition": "gyengén felhős",
+      "max": 18,
+      "min": 8,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 17,
-      "min": 4,
+      "max": 16,
+      "min": 3,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
