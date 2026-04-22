@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Az erős szél okozhat kellemetlen tüneteket",
   "focim": "Szeles, de pár fokkal melegebb idő",
-  "updated": "2026.04.22. 18:50",
-  "flow_last_run": "2026.04.22. 18:50",
+  "updated": "2026.04.22. 19:53",
+  "flow_last_run": "2026.04.22. 19:53",
   "current": {
-    "temperature": 14,
-    "condition": "Pára",
-    "icon": null
+    "temperature": 11,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
       "max": 19,
-      "min": 0,
+      "min": -1,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -22,7 +22,7 @@
     {
       "day": "Péntek",
       "max": 18,
-      "min": 4,
+      "min": 2,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -30,7 +30,7 @@
     {
       "day": "Szombat",
       "max": 22,
-      "min": 4,
+      "min": 2,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:29",
     "sunset": "19:32",
-    "is_night": false
+    "is_night": true
   }
 }
