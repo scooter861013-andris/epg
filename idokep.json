@@ -1,29 +1,21 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Az erős szél okozhat kellemetlen tüneteket",
-  "focim": "Szeles, de pár fokkal melegebb idő",
-  "updated": "2026.04.23. 17:20",
-  "flow_last_run": "2026.04.23. 17:20",
+  "fronthatas": "Nem lesz front felettünk",
+  "focim": "Kissé szeles tavaszi idő",
+  "updated": "2026.04.23. 18:56",
+  "flow_last_run": "2026.04.23. 18:56",
   "current": {
-    "temperature": 20,
-    "condition": "Erősen felhős",
+    "temperature": 18,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Csütörtök",
-      "max": 19,
-      "min": 0,
-      "condition": "erősen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Péntek",
       "max": 18,
-      "min": 3,
-      "condition": "közepesen felhős",
+      "min": 2,
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -38,31 +30,39 @@
     {
       "day": "Vasárnap",
       "max": 16,
-      "min": 9,
-      "condition": "erősen felhős",
+      "min": 6,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 16,
-      "min": 3,
+      "max": 17,
+      "min": 0,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 17,
-      "min": 3,
-      "condition": "közepesen felhős",
+      "max": 18,
+      "min": 2,
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 17,
-      "min": 4,
+      "max": 15,
+      "min": 5,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "max": 14,
+      "min": 3,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
