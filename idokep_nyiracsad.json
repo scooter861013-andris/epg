@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Az erős szél okozhat kellemetlen tüneteket",
   "focim": "Szeles, de pár fokkal melegebb idő",
-  "updated": "2026.04.23. 02:03",
-  "flow_last_run": "2026.04.23. 02:03",
+  "updated": "2026.04.23. 05:46",
+  "flow_last_run": "2026.04.23. 05:46",
   "current": {
-    "temperature": 0,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": -2,
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "max": 19,
+      "max": 17,
       "min": -2,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -30,7 +30,7 @@
     {
       "day": "Szombat",
       "max": 22,
-      "min": 5,
+      "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:28",
     "sunset": "19:32",
-    "is_night": true
+    "is_night": false
   }
 }
