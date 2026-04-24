@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Kissé szeles tavaszi idő",
-  "updated": "2026.04.24. 12:02",
-  "flow_last_run": "2026.04.24. 12:02",
+  "updated": "2026.04.24. 13:32",
+  "flow_last_run": "2026.04.24. 13:32",
   "current": {
-    "temperature": 17,
-    "condition": "Erősen felhős",
+    "temperature": 18,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 20,
+      "max": 19,
       "min": 2,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -22,7 +22,7 @@
     {
       "day": "Szombat",
       "max": 21,
-      "min": 4,
+      "min": 3,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
