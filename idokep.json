@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Kellemes tavaszi idő",
-  "updated": "2026.04.25. 00:00",
-  "flow_last_run": "2026.04.25. 00:00",
+  "updated": "2026.04.25. 00:56",
+  "flow_last_run": "2026.04.25. 00:56",
   "current": {
-    "temperature": 12,
-    "condition": "Erősen felhős",
+    "temperature": 11,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
       "max": 21,
-      "min": 3,
+      "min": 5,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
