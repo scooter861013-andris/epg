@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Kellemes tavaszi idő",
-  "updated": "2026.04.25. 06:43",
-  "flow_last_run": "2026.04.25. 06:43",
+  "updated": "2026.04.25. 08:11",
+  "flow_last_run": "2026.04.25. 08:11",
   "current": {
-    "temperature": 6,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 15,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -22,8 +22,8 @@
     {
       "day": "Vasárnap",
       "max": 16,
-      "min": 1,
-      "condition": "közepesen felhős",
+      "min": 2,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -31,15 +31,15 @@
       "day": "Hétfő",
       "max": 16,
       "min": 1,
-      "condition": "erősen felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 19,
+      "max": 17,
       "min": 4,
-      "condition": "közepesen felhős",
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
