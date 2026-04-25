@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Hidegfront érkezik erős, viharos széllel",
-  "updated": "2026.04.25. 18:38",
-  "flow_last_run": "2026.04.25. 18:38",
+  "updated": "2026.04.25. 19:23",
+  "flow_last_run": "2026.04.25. 19:23",
   "current": {
-    "temperature": 21,
+    "temperature": 19,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Vasárnap",
       "max": 16,
-      "min": 2,
+      "min": 3,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
