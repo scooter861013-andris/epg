@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Hidegfront érkezik erős, viharos széllel",
-  "updated": "2026.04.25. 19:00",
-  "flow_last_run": "2026.04.25. 19:00",
+  "updated": "2026.04.25. 19:55",
+  "flow_last_run": "2026.04.25. 19:55",
   "current": {
-    "temperature": 20,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "temperature": 18,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:24",
     "sunset": "19:36",
-    "is_night": false
+    "is_night": true
   }
 }
