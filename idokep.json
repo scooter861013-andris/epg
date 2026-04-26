@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Változóan felhős-napos idő",
-  "updated": "2026.04.26. 17:48",
-  "flow_last_run": "2026.04.26. 17:48",
+  "updated": "2026.04.26. 18:33",
+  "flow_last_run": "2026.04.26. 18:33",
   "current": {
-    "temperature": 15,
+    "temperature": 14,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 16,
-      "min": 3,
+      "max": 17,
+      "min": -1,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -22,7 +22,7 @@
     {
       "day": "Kedd",
       "max": 18,
-      "min": 4,
+      "min": 1,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -53,17 +53,17 @@
     },
     {
       "day": "Szombat",
-      "max": 19,
+      "max": 20,
       "min": 2,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 21,
+      "max": 22,
       "min": 4,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     }
