@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Változóan felhős-napos idő",
-  "updated": "2026.04.26. 19:22",
-  "flow_last_run": "2026.04.26. 19:22",
+  "updated": "2026.04.26. 20:02",
+  "flow_last_run": "2026.04.26. 20:02",
   "current": {
-    "temperature": 13,
+    "temperature": 12,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:22",
     "sunset": "19:38",
-    "is_night": false
+    "is_night": true
   }
 }
