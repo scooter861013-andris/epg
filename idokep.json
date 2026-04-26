@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás várható",
   "focim": "Hidegfront érkezik erős, viharos széllel",
-  "updated": "2026.04.26. 08:57",
-  "flow_last_run": "2026.04.26. 08:57",
+  "updated": "2026.04.26. 10:14",
+  "flow_last_run": "2026.04.26. 10:14",
   "current": {
-    "temperature": 19,
+    "temperature": 17,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -31,30 +31,30 @@
       "day": "Kedd",
       "max": 18,
       "min": 4,
-      "condition": "erősen felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
       "max": 15,
-      "min": 5,
-      "condition": "közepesen felhős",
+      "min": 3,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 14,
-      "min": 3,
-      "condition": "közepesen felhős",
+      "max": 15,
+      "min": 1,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 16,
-      "min": 3,
+      "max": 17,
+      "min": 0,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -62,8 +62,8 @@
     {
       "day": "Szombat",
       "max": 19,
-      "min": 4,
-      "condition": "közepesen felhős",
+      "min": 2,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     }
