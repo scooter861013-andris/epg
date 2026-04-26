@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Változóan felhős-napos idő",
-  "updated": "2026.04.26. 18:48",
-  "flow_last_run": "2026.04.26. 18:48",
+  "updated": "2026.04.26. 19:36",
+  "flow_last_run": "2026.04.26. 19:36",
   "current": {
-    "temperature": 13,
+    "temperature": 11,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:21",
     "sunset": "19:36",
-    "is_night": false
+    "is_night": true
   }
 }
