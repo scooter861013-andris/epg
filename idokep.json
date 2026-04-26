@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás várható",
   "focim": "Hidegfront érkezik erős, viharos széllel",
-  "updated": "2026.04.26. 13:53",
-  "flow_last_run": "2026.04.26. 13:53",
+  "updated": "2026.04.26. 14:45",
+  "flow_last_run": "2026.04.26. 14:45",
   "current": {
-    "temperature": 18,
+    "temperature": 17,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 18,
-      "min": 10,
+      "max": 17,
+      "min": 8,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
