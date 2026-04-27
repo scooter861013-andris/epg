@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Gyakrabban megnövekszik a felhőzet",
-  "updated": "2026.04.28. 00:12",
-  "flow_last_run": "2026.04.28. 00:12",
+  "updated": "2026.04.28. 01:11",
+  "flow_last_run": "2026.04.28. 01:11",
   "current": {
     "temperature": 1,
-    "condition": "Derült",
-    "icon": "🌙"
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
       "max": 18,
-      "min": -1,
+      "min": 1,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
