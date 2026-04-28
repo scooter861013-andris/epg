@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Gyakrabban megnövekszik a felhőzet",
-  "updated": "2026.04.28. 09:26",
-  "flow_last_run": "2026.04.28. 09:26",
+  "updated": "2026.04.28. 11:39",
+  "flow_last_run": "2026.04.28. 11:39",
   "current": {
-    "temperature": 15,
-    "condition": "Erősen felhős",
+    "temperature": 19,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 18,
+      "max": 19,
       "min": -1,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -30,7 +30,7 @@
     {
       "day": "Csütörtök",
       "max": 14,
-      "min": -1,
+      "min": -4,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
