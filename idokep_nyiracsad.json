@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Gyakrabban megnövekszik a felhőzet",
-  "updated": "2026.04.28. 08:43",
-  "flow_last_run": "2026.04.28. 08:43",
+  "updated": "2026.04.28. 11:09",
+  "flow_last_run": "2026.04.28. 11:09",
   "current": {
-    "temperature": 14,
+    "temperature": 19,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 18,
+      "max": 20,
       "min": 0,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -30,16 +30,16 @@
     {
       "day": "Csütörtök",
       "max": 14,
-      "min": -1,
-      "condition": "gyengén felhős",
+      "min": -2,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 17,
-      "min": 1,
-      "condition": "közepesen felhős",
+      "max": 16,
+      "min": -1,
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -53,17 +53,17 @@
     },
     {
       "day": "Vasárnap",
-      "max": 22,
+      "max": 23,
       "min": 4,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 23,
+      "max": 25,
       "min": 6,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     }
