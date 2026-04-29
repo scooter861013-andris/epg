@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti tünetek előfordulhatnak",
   "focim": "Napos, de szeles idő",
-  "updated": "2026.04.29. 23:53",
-  "flow_last_run": "2026.04.29. 23:53",
+  "updated": "2026.04.30. 00:50",
+  "flow_last_run": "2026.04.30. 00:50",
   "current": {
-    "temperature": 8,
-    "condition": "Erősen felhős",
+    "temperature": 6,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "5:17",
-    "sunset": "19:42",
+    "sunset": "19:43",
     "is_night": true
   }
 }
