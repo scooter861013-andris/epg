@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Picit hűvösebb lesz a szerda",
-  "updated": "2026.04.29. 03:23",
-  "flow_last_run": "2026.04.29. 03:23",
+  "updated": "2026.04.29. 06:49",
+  "flow_last_run": "2026.04.29. 06:49",
   "current": {
-    "temperature": 5,
-    "condition": "Erősen felhős",
+    "temperature": 6,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
       "max": 15,
-      "min": 5,
+      "min": -1,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:18",
     "sunset": "19:40",
-    "is_night": true
+    "is_night": false
   }
 }
