@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Picit hűvösebb lesz a szerda",
-  "updated": "2026.04.29. 01:35",
-  "flow_last_run": "2026.04.29. 01:35",
+  "updated": "2026.04.29. 03:22",
+  "flow_last_run": "2026.04.29. 03:22",
   "current": {
-    "temperature": 8,
-    "condition": "Gyengén felhős",
+    "temperature": 7,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
       "max": 15,
-      "min": 0,
+      "min": 3,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -22,7 +22,7 @@
     {
       "day": "Csütörtök",
       "max": 15,
-      "min": -1,
+      "min": -2,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
