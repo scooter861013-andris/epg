@@ -3,41 +3,41 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti tünetek előfordulhatnak",
   "focim": "Napos, de szeles idő",
-  "updated": "2026.04.30. 06:53",
-  "flow_last_run": "2026.04.30. 06:53",
+  "updated": "2026.04.30. 09:26",
+  "flow_last_run": "2026.04.30. 09:26",
   "current": {
-    "temperature": 4,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 11,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "max": 14,
-      "min": 0,
+      "max": 16,
+      "min": 2,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 17,
-      "min": -3,
-      "condition": "erősen felhős",
+      "max": 18,
+      "min": 2,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 21,
-      "min": 1,
+      "max": 20,
+      "min": 7,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 23,
+      "max": 21,
       "min": 3,
       "condition": "derült",
       "icon": "🌙",
