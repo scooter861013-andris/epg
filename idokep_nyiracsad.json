@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti tünetek előfordulhatnak",
   "focim": "Napos, de szeles idő",
-  "updated": "2026.04.30. 17:21",
-  "flow_last_run": "2026.04.30. 17:21",
+  "updated": "2026.04.30. 18:55",
+  "flow_last_run": "2026.04.30. 18:55",
   "current": {
-    "temperature": 16,
+    "temperature": 13,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -30,7 +30,7 @@
     {
       "day": "Szombat",
       "max": 20,
-      "min": 5,
+      "min": 6,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
