@@ -3,26 +3,26 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti tünetek előfordulhatnak",
   "focim": "Napos, de szeles idő",
-  "updated": "2026.04.30. 07:38",
-  "flow_last_run": "2026.04.30. 07:38",
+  "updated": "2026.04.30. 09:52",
+  "flow_last_run": "2026.04.30. 09:52",
   "current": {
-    "temperature": 6,
+    "temperature": 11,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "max": 14,
-      "min": -1,
+      "max": 16,
+      "min": 3,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 17,
-      "min": -5,
+      "max": 18,
+      "min": 2,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -30,7 +30,7 @@
     {
       "day": "Szombat",
       "max": 20,
-      "min": 0,
+      "min": 10,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
