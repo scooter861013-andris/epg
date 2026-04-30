@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
   "focim": "Hideg idővel indul a péntek",
-  "updated": "2026.04.30. 23:50",
-  "flow_last_run": "2026.04.30. 23:50",
+  "updated": "2026.05.01. 00:42",
+  "flow_last_run": "2026.05.01. 00:42",
   "current": {
-    "temperature": 7,
+    "temperature": 4,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 17,
+      "max": 18,
       "min": 2,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "5:15",
-    "sunset": "19:43",
+    "sunset": "19:45",
     "is_night": true
   }
 }
