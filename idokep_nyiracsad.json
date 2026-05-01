@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
   "focim": "Melegszik az idő a hosszú hétvégén",
-  "updated": "2026.05.01. 09:11",
-  "flow_last_run": "2026.05.01. 09:11",
+  "updated": "2026.05.01. 11:09",
+  "flow_last_run": "2026.05.01. 11:09",
   "current": {
-    "temperature": 14,
+    "temperature": 16,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -45,7 +45,7 @@
     },
     {
       "day": "Kedd",
-      "max": 25,
+      "max": 26,
       "min": 8,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -53,16 +53,16 @@
     },
     {
       "day": "Szerda",
-      "max": 24,
-      "min": 10,
+      "max": 25,
+      "min": 11,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 21,
-      "min": 10,
+      "max": 20,
+      "min": 12,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
