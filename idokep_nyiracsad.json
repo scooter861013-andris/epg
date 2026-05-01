@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
   "focim": "Hideg idővel indul a péntek",
-  "updated": "2026.05.01. 02:04",
-  "flow_last_run": "2026.05.01. 02:04",
+  "updated": "2026.05.01. 06:15",
+  "flow_last_run": "2026.05.01. 06:15",
   "current": {
     "temperature": 0,
-    "condition": "Közepesen felhős",
-    "icon": "☁️"
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
       "max": 19,
-      "min": 0,
+      "min": -2,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -22,7 +22,7 @@
     {
       "day": "Szombat",
       "max": 21,
-      "min": 3,
+      "min": 2,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:14",
     "sunset": "19:43",
-    "is_night": true
+    "is_night": false
   }
 }
