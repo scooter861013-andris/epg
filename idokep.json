@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Szeles májusi idő",
-  "updated": "2026.05.01. 19:39",
-  "flow_last_run": "2026.05.01. 19:39",
+  "updated": "2026.05.01. 20:44",
+  "flow_last_run": "2026.05.01. 20:44",
   "current": {
-    "temperature": 15,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 13,
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:14",
     "sunset": "19:45",
-    "is_night": false
+    "is_night": true
   }
 }
