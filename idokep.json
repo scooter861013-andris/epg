@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
   "focim": "Melegszik az idő a hosszú hétvégén",
-  "updated": "2026.05.01. 11:20",
-  "flow_last_run": "2026.05.01. 11:20",
+  "updated": "2026.05.01. 12:50",
+  "flow_last_run": "2026.05.01. 12:50",
   "current": {
-    "temperature": 16,
-    "condition": "Erősen felhős",
+    "temperature": 18,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -21,8 +21,8 @@
     },
     {
       "day": "Szombat",
-      "max": 20,
-      "min": 5,
+      "max": 21,
+      "min": 6,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -30,7 +30,7 @@
     {
       "day": "Vasárnap",
       "max": 20,
-      "min": 5,
+      "min": 6,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "5:15",
+    "sunrise": "5:14",
     "sunset": "19:45",
     "is_night": false
   }
