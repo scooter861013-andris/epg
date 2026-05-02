@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek",
   "focim": "Kora nyárias meleg jön",
-  "updated": "2026.05.02. 19:25",
-  "flow_last_run": "2026.05.02. 19:25",
+  "updated": "2026.05.02. 20:09",
+  "flow_last_run": "2026.05.02. 20:09",
   "current": {
-    "temperature": 17,
+    "temperature": 14,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:11",
     "sunset": "19:45",
-    "is_night": false
+    "is_night": true
   }
 }
