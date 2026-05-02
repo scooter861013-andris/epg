@@ -3,20 +3,20 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Szeles májusi idő",
-  "updated": "2026.05.02. 08:29",
-  "flow_last_run": "2026.05.02. 08:29",
+  "updated": "2026.05.02. 10:10",
+  "flow_last_run": "2026.05.02. 10:10",
   "current": {
-    "temperature": 16,
-    "condition": "Közepesen felhős",
-    "icon": "☁️"
+    "temperature": 19,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
-      "max": 23,
+      "max": 22,
       "min": 2,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     },
     {
@@ -30,16 +30,16 @@
     {
       "day": "Hétfő",
       "max": 24,
-      "min": 3,
+      "min": 2,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 26,
+      "max": 24,
       "min": 7,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -63,7 +63,7 @@
       "day": "Péntek",
       "max": 20,
       "min": 8,
-      "condition": "erősen felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     }
