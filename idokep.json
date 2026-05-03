@@ -3,22 +3,14 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Napos, nyárias idővel indul a hét",
-  "updated": "2026.05.03. 20:01",
-  "flow_last_run": "2026.05.03. 20:01",
+  "updated": "2026.05.03. 21:16",
+  "flow_last_run": "2026.05.03. 21:16",
   "current": {
-    "temperature": 17,
+    "temperature": 13,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Vasárnap",
-      "max": 21,
-      "min": 6,
-      "condition": "derült",
-      "icon": "🌙",
-      "alert": null
-    },
     {
       "day": "Hétfő",
       "max": 25,
@@ -37,24 +29,24 @@
     },
     {
       "day": "Szerda",
-      "max": 25,
+      "max": 26,
       "min": 13,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 23,
-      "min": 12,
+      "max": 24,
+      "min": 14,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 21,
-      "min": 8,
+      "max": 23,
+      "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -62,9 +54,17 @@
     {
       "day": "Szombat",
       "max": 23,
-      "min": 8,
+      "min": 10,
       "condition": "közepesen felhős",
       "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Vasárnap",
+      "max": 25,
+      "min": 11,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     }
   ],
