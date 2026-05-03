@@ -1,12 +1,12 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Melegfronti jellegű tünetek",
-  "focim": "Kora nyárias meleg jön",
-  "updated": "2026.05.03. 19:06",
-  "flow_last_run": "2026.05.03. 19:06",
+  "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
+  "focim": "Napos, nyárias idővel indul a hét",
+  "updated": "2026.05.03. 20:01",
+  "flow_last_run": "2026.05.03. 20:01",
   "current": {
-    "temperature": 19,
+    "temperature": 17,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:10",
     "sunset": "19:47",
-    "is_night": false
+    "is_night": true
   }
 }
