@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek",
   "focim": "Kora nyárias meleg jön",
-  "updated": "2026.05.03. 15:47",
-  "flow_last_run": "2026.05.03. 17:29",
+  "updated": "2026.05.03. 18:10",
+  "flow_last_run": "2026.05.03. 18:10",
   "current": {
-    "temperature": 22,
+    "temperature": 21,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 23,
+      "max": 21,
       "min": 6,
       "condition": "derült",
       "icon": "🌙",
@@ -22,15 +22,15 @@
     {
       "day": "Hétfő",
       "max": 25,
-      "min": 7,
+      "min": 8,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 26,
-      "min": 7,
+      "max": 28,
+      "min": 9,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
