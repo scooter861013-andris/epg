@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek",
   "focim": "Kora nyárias meleg jön",
-  "updated": "2026.05.03. 08:40",
-  "flow_last_run": "2026.05.03. 08:40",
+  "updated": "2026.05.03. 10:25",
+  "flow_last_run": "2026.05.03. 10:25",
   "current": {
-    "temperature": 15,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 18,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -21,8 +21,8 @@
     },
     {
       "day": "Hétfő",
-      "max": 24,
-      "min": 4,
+      "max": 25,
+      "min": 3,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -30,8 +30,8 @@
     {
       "day": "Kedd",
       "max": 26,
-      "min": 6,
-      "condition": "közepesen felhős",
+      "min": 7,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -39,8 +39,8 @@
       "day": "Szerda",
       "max": 25,
       "min": 13,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
