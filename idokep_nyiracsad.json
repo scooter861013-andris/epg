@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
-  "focim": "Kora nyárias meleg jön",
-  "updated": "2026.05.03. 19:43",
-  "flow_last_run": "2026.05.03. 19:43",
+  "focim": "Napos, nyárias idővel indul a hét",
+  "updated": "2026.05.03. 20:36",
+  "flow_last_run": "2026.05.03. 20:36",
   "current": {
-    "temperature": 17,
+    "temperature": 13,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Vasárnap",
-      "max": 21,
-      "min": 6,
-      "condition": "derült",
-      "icon": "🌙",
-      "alert": null
-    },
     {
       "day": "Hétfő",
       "max": 25,
@@ -66,11 +58,19 @@
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
+    },
+    {
+      "day": "Vasárnap",
+      "max": 25,
+      "min": 9,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
     }
   ],
   "sun": {
     "sunrise": "5:09",
     "sunset": "19:46",
-    "is_night": false
+    "is_night": true
   }
 }
