@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Újabb nyárias nap élénk déli széllel",
-  "updated": "2026.05.04. 22:10",
-  "flow_last_run": "2026.05.04. 22:10",
+  "updated": "2026.05.04. 23:18",
+  "flow_last_run": "2026.05.04. 23:18",
   "current": {
-    "temperature": 13,
+    "temperature": 11,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -22,7 +22,7 @@
     {
       "day": "Szerda",
       "max": 26,
-      "min": 13,
+      "min": 11,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
