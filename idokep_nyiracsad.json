@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Újabb nyárias nap élénk déli széllel",
-  "updated": "2026.05.04. 21:50",
-  "flow_last_run": "2026.05.04. 21:50",
+  "updated": "2026.05.04. 23:06",
+  "flow_last_run": "2026.05.04. 23:06",
   "current": {
-    "temperature": 11,
+    "temperature": 9,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,15 +14,15 @@
     {
       "day": "Kedd",
       "max": 28,
-      "min": 9,
+      "min": 7,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 26,
-      "min": 13,
+      "max": 25,
+      "min": 11,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
