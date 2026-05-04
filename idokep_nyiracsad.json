@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Napos, nyárias idővel indul a hét",
-  "updated": "2026.05.04. 01:41",
-  "flow_last_run": "2026.05.04. 01:41",
+  "updated": "2026.05.04. 03:20",
+  "flow_last_run": "2026.05.04. 03:20",
   "current": {
-    "temperature": 4,
+    "temperature": 3,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Hétfő",
       "max": 25,
-      "min": 4,
+      "min": 3,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -22,7 +22,7 @@
     {
       "day": "Kedd",
       "max": 28,
-      "min": 10,
+      "min": 9,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
