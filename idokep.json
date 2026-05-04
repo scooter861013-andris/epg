@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Napos, nyárias idővel indul a hét",
-  "updated": "2026.05.04. 06:06",
-  "flow_last_run": "2026.05.04. 06:06",
+  "updated": "2026.05.04. 09:21",
+  "flow_last_run": "2026.05.04. 09:21",
   "current": {
-    "temperature": 4,
+    "temperature": 20,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 24,
-      "min": 6,
+      "max": 25,
+      "min": 8,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -37,10 +37,10 @@
     },
     {
       "day": "Csütörtök",
-      "max": 24,
+      "max": 23,
       "min": 14,
-      "condition": "zivatar",
-      "icon": "⛈️",
+      "condition": "erősen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
