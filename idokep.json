@@ -2,27 +2,19 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
-  "focim": "Napos, nyárias idővel indul a hét",
-  "updated": "2026.05.04. 19:08",
-  "flow_last_run": "2026.05.04. 19:08",
+  "focim": "Újabb nyárias nap élénk déli széllel",
+  "updated": "2026.05.04. 20:53",
+  "flow_last_run": "2026.05.04. 20:53",
   "current": {
-    "temperature": 23,
+    "temperature": 16,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
-      "day": "Hétfő",
-      "max": 25,
-      "min": 8,
-      "condition": "derült",
-      "icon": "🌙",
-      "alert": null
-    },
-    {
       "day": "Kedd",
       "max": 28,
-      "min": 8,
+      "min": 9,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -31,30 +23,30 @@
       "day": "Szerda",
       "max": 26,
       "min": 13,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
       "max": 23,
-      "min": 14,
-      "condition": "erősen felhős",
-      "icon": "☁️",
+      "min": 12,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Péntek",
       "max": 23,
-      "min": 11,
+      "min": 10,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 23,
-      "min": 10,
+      "max": 24,
+      "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -63,14 +55,22 @@
       "day": "Vasárnap",
       "max": 25,
       "min": 11,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 27,
+      "min": 12,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
   "sun": {
     "sunrise": "5:09",
     "sunset": "19:49",
-    "is_night": false
+    "is_night": true
   }
 }
