@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Marad a szeles, nyáriasan meleg idő",
-  "updated": "2026.05.05. 23:13",
-  "flow_last_run": "2026.05.05. 23:13",
+  "updated": "2026.05.06. 00:13",
+  "flow_last_run": "2026.05.06. 00:13",
   "current": {
-    "temperature": 11,
+    "temperature": 10,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Szerda",
       "max": 26,
-      "min": 9,
+      "min": 8,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -22,7 +22,7 @@
     {
       "day": "Csütörtök",
       "max": 23,
-      "min": 14,
+      "min": 13,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "5:06",
-    "sunset": "19:49",
+    "sunset": "19:50",
     "is_night": true
   }
 }
