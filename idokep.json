@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Marad a szeles, nyáriasan meleg idő",
-  "updated": "2026.05.05. 23:31",
-  "flow_last_run": "2026.05.05. 23:31",
+  "updated": "2026.05.06. 00:35",
+  "flow_last_run": "2026.05.06. 00:35",
   "current": {
-    "temperature": 15,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 14,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "5:07",
-    "sunset": "19:50",
+    "sunset": "19:52",
     "is_night": true
   }
 }
