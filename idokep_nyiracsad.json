@@ -2,11 +2,11 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
-  "focim": "Újabb nyárias nap élénk déli széllel",
-  "updated": "2026.05.05. 08:13",
-  "flow_last_run": "2026.05.05. 08:13",
+  "focim": "Élénk déli széllel kísért nyárias nap",
+  "updated": "2026.05.05. 10:27",
+  "flow_last_run": "2026.05.05. 10:27",
   "current": {
-    "temperature": 19,
+    "temperature": 25,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
@@ -22,7 +22,7 @@
     {
       "day": "Szerda",
       "max": 26,
-      "min": 10,
+      "min": 9,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -30,17 +30,17 @@
     {
       "day": "Csütörtök",
       "max": 23,
-      "min": 12,
+      "min": 14,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 23,
+      "max": 22,
       "min": 10,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
