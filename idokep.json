@@ -2,9 +2,9 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
-  "focim": "Marad a szeles, nyáriasan meleg idő",
-  "updated": "2026.05.06. 14:03",
-  "flow_last_run": "2026.05.06. 14:03",
+  "focim": "Eső, záporok, zivatarok tarkítják az időt",
+  "updated": "2026.05.06. 16:43",
+  "flow_last_run": "2026.05.06. 16:43",
   "current": {
     "temperature": 26,
     "condition": "Erősen felhős",
@@ -21,8 +21,8 @@
     },
     {
       "day": "Csütörtök",
-      "max": 19,
-      "min": 14,
+      "max": 20,
+      "min": 15,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
