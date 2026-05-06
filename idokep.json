@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Marad a szeles, nyáriasan meleg idő",
-  "updated": "2026.05.06. 01:30",
-  "flow_last_run": "2026.05.06. 01:30",
+  "updated": "2026.05.06. 03:15",
+  "flow_last_run": "2026.05.06. 03:15",
   "current": {
-    "temperature": 13,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 10,
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
       "max": 26,
-      "min": 11,
+      "min": 10,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
