@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Marad a szeles, nyáriasan meleg idő",
-  "updated": "2026.05.06. 06:49",
-  "flow_last_run": "2026.05.06. 06:49",
+  "updated": "2026.05.06. 09:30",
+  "flow_last_run": "2026.05.06. 09:30",
   "current": {
-    "temperature": 13,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 22,
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 25,
+      "max": 26,
       "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -23,14 +23,14 @@
       "day": "Csütörtök",
       "max": 20,
       "min": 15,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 22,
-      "min": 12,
+      "max": 23,
+      "min": 11,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -38,7 +38,7 @@
     {
       "day": "Szombat",
       "max": 24,
-      "min": 13,
+      "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -55,16 +55,16 @@
       "day": "Hétfő",
       "max": 27,
       "min": 12,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Kedd",
       "max": 26,
       "min": 13,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     }
   ],
