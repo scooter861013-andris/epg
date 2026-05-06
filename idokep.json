@@ -3,34 +3,26 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Eső, záporok, zivatarok tarkítják az időt",
-  "updated": "2026.05.06. 16:43",
-  "flow_last_run": "2026.05.06. 16:43",
+  "updated": "2026.05.06. 18:18",
+  "flow_last_run": "2026.05.06. 18:18",
   "current": {
-    "temperature": 26,
-    "condition": "Erősen felhős",
+    "temperature": 25,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Szerda",
-      "max": 26,
-      "min": 11,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Csütörtök",
-      "max": 20,
-      "min": 15,
-      "condition": "zivatar",
-      "icon": "⛈️",
+      "max": 22,
+      "min": 14,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Péntek",
       "max": 23,
-      "min": 14,
+      "min": 13,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -38,7 +30,7 @@
     {
       "day": "Szombat",
       "max": 24,
-      "min": 11,
+      "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -65,6 +57,14 @@
       "min": 13,
       "condition": "zivatar",
       "icon": "⛈️",
+      "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 22,
+      "min": 12,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     }
   ],
