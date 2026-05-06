@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Marad a szeles, nyáriasan meleg idő",
-  "updated": "2026.05.06. 06:04",
-  "flow_last_run": "2026.05.06. 06:04",
+  "updated": "2026.05.06. 08:44",
+  "flow_last_run": "2026.05.06. 08:44",
   "current": {
-    "temperature": 6,
-    "condition": "Gyengén felhős",
+    "temperature": 20,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 25,
+      "max": 26,
       "min": 9,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -21,16 +21,16 @@
     },
     {
       "day": "Csütörtök",
-      "max": 19,
+      "max": 20,
       "min": 14,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 22,
-      "min": 12,
+      "max": 23,
+      "min": 11,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -38,7 +38,7 @@
     {
       "day": "Szombat",
       "max": 24,
-      "min": 13,
+      "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -55,16 +55,16 @@
       "day": "Hétfő",
       "max": 27,
       "min": 12,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Kedd",
       "max": 26,
       "min": 13,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     }
   ],
