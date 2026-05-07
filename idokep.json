@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Eső, záporok, zivatarok tarkítják az időt",
-  "updated": "2026.05.07. 09:37",
-  "flow_last_run": "2026.05.07. 09:37",
+  "updated": "2026.05.07. 12:06",
+  "flow_last_run": "2026.05.07. 12:06",
   "current": {
     "temperature": 20,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "max": 20,
+      "max": 23,
       "min": 14,
       "condition": "zápor",
       "icon": "🌧️",
@@ -22,7 +22,7 @@
     {
       "day": "Péntek",
       "max": 23,
-      "min": 12,
+      "min": 13,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "5:06",
+    "sunrise": "5:04",
     "sunset": "19:53",
     "is_night": false
   }
