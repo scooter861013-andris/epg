@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Eső, záporok, zivatarok tarkítják az időt",
-  "updated": "2026.05.07. 04:39",
-  "flow_last_run": "2026.05.07. 04:39",
+  "updated": "2026.05.07. 07:48",
+  "flow_last_run": "2026.05.07. 07:48",
   "current": {
-    "temperature": 10,
-    "condition": "Gyenge eső",
-    "icon": "🌧️"
+    "temperature": 16,
+    "condition": "Szitálás",
+    "icon": null
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
       "max": 21,
-      "min": 10,
+      "min": 13,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:05",
     "sunset": "19:51",
-    "is_night": true
+    "is_night": false
   }
 }
