@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
-  "focim": "Elszórtan zápor, zivatar kialakulhat",
-  "updated": "2026.05.08. 18:43",
-  "flow_last_run": "2026.05.08. 18:43",
+  "focim": "Kellemes májusi idő élénk széllel",
+  "updated": "2026.05.08. 19:57",
+  "flow_last_run": "2026.05.08. 19:57",
   "current": {
-    "temperature": 22,
-    "condition": "Erősen felhős",
+    "temperature": 19,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Péntek",
-      "max": 22,
-      "min": 12,
-      "condition": "zápor",
-      "icon": "🌧️",
-      "alert": null
-    },
     {
       "day": "Szombat",
       "max": 22,
@@ -37,8 +29,8 @@
     },
     {
       "day": "Hétfő",
-      "max": 23,
-      "min": 11,
+      "max": 22,
+      "min": 13,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
@@ -46,31 +38,39 @@
     {
       "day": "Kedd",
       "max": 17,
-      "min": 10,
+      "min": 12,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 18,
-      "min": 4,
+      "max": 17,
+      "min": 3,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
+      "max": 19,
+      "min": 6,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Péntek",
       "max": 20,
       "min": 7,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     }
   ],
   "sun": {
     "sunrise": "5:03",
     "sunset": "19:54",
-    "is_night": false
+    "is_night": true
   }
 }
