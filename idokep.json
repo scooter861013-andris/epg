@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Elszórtan zápor, zivatar kialakulhat",
-  "updated": "2026.05.08. 09:17",
-  "flow_last_run": "2026.05.08. 09:17",
+  "updated": "2026.05.08. 10:52",
+  "flow_last_run": "2026.05.08. 10:52",
   "current": {
-    "temperature": 18,
-    "condition": "Borult",
+    "temperature": 20,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -45,16 +45,16 @@
     },
     {
       "day": "Kedd",
-      "max": 19,
-      "min": 12,
-      "condition": "zivatar",
-      "icon": "⛈️",
+      "max": 17,
+      "min": 10,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 19,
-      "min": 6,
+      "max": 18,
+      "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
