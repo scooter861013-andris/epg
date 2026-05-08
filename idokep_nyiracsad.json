@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Elszórtan zápor, zivatar kialakulhat",
-  "updated": "2026.05.08. 03:24",
-  "flow_last_run": "2026.05.08. 03:24",
+  "updated": "2026.05.08. 06:33",
+  "flow_last_run": "2026.05.08. 06:33",
   "current": {
     "temperature": 13,
-    "condition": "Eső",
-    "icon": "🌧️"
+    "condition": "Köd",
+    "icon": "🌫️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 22,
+      "max": 21,
       "min": 13,
       "condition": "zápor",
       "icon": "🌧️",
@@ -21,8 +21,8 @@
     },
     {
       "day": "Szombat",
-      "max": 23,
-      "min": 11,
+      "max": 21,
+      "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:03",
     "sunset": "19:53",
-    "is_night": true
+    "is_night": false
   }
 }
