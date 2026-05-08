@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
-  "focim": "Elszórtan zápor, zivatar kialakulhat",
-  "updated": "2026.05.08. 17:57",
-  "flow_last_run": "2026.05.08. 17:57",
+  "focim": "Kellemes májusi idő élénk széllel",
+  "updated": "2026.05.08. 19:23",
+  "flow_last_run": "2026.05.08. 19:23",
   "current": {
-    "temperature": 21,
+    "temperature": 19,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Péntek",
-      "max": 21,
-      "min": 13,
-      "condition": "zápor",
-      "icon": "🌧️",
-      "alert": null
-    },
     {
       "day": "Szombat",
       "max": 22,
@@ -37,7 +29,7 @@
     },
     {
       "day": "Hétfő",
-      "max": 23,
+      "max": 22,
       "min": 11,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -46,25 +38,33 @@
     {
       "day": "Kedd",
       "max": 17,
-      "min": 10,
+      "min": 12,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 18,
-      "min": 4,
+      "max": 17,
+      "min": 3,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
+      "max": 19,
+      "min": 6,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Péntek",
       "max": 20,
       "min": 7,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     }
   ],
