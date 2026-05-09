@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Kellemes májusi idő élénk széllel",
-  "updated": "2026.05.09. 11:43",
-  "flow_last_run": "2026.05.09. 11:43",
+  "updated": "2026.05.09. 12:38",
+  "flow_last_run": "2026.05.09. 12:38",
   "current": {
-    "temperature": 20,
-    "condition": "Pára",
-    "icon": null
+    "temperature": 22,
+    "condition": "Erősen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
-      "max": 21,
+      "max": 22,
       "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "5:02",
+    "sunrise": "5:01",
     "sunset": "19:54",
     "is_night": false
   }
