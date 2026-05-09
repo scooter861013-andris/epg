@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
-  "focim": "Kellemes májusi idő élénk széllel",
-  "updated": "2026.05.09. 18:06",
-  "flow_last_run": "2026.05.09. 18:06",
+  "focim": "Kellemes májusi idővel búcsúzik a hét",
+  "updated": "2026.05.09. 19:10",
+  "flow_last_run": "2026.05.09. 19:10",
   "current": {
-    "temperature": 22,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "temperature": 20,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Szombat",
-      "max": 22,
-      "min": 11,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Vasárnap",
       "max": 22,
@@ -29,7 +21,7 @@
     },
     {
       "day": "Hétfő",
-      "max": 23,
+      "max": 25,
       "min": 12,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -46,7 +38,7 @@
     {
       "day": "Szerda",
       "max": 17,
-      "min": 4,
+      "min": 3,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -65,6 +57,14 @@
       "min": 9,
       "condition": "zápor",
       "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Szombat",
+      "max": 21,
+      "min": 10,
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     }
   ],
