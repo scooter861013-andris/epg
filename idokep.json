@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Kellemes májusi idő élénk széllel",
-  "updated": "2026.05.09. 13:42",
-  "flow_last_run": "2026.05.09. 13:42",
+  "updated": "2026.05.09. 14:41",
+  "flow_last_run": "2026.05.09. 14:41",
   "current": {
-    "temperature": 23,
-    "condition": "Borult",
-    "icon": "☁️"
+    "temperature": 24,
+    "condition": "Pára",
+    "icon": null
   },
   "forecast_7d": [
     {
       "day": "Szombat",
-      "max": 23,
+      "max": 24,
       "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
