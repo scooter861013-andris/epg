@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Kellemes májusi idővel búcsúzik a hét",
-  "updated": "2026.05.10. 03:24",
-  "flow_last_run": "2026.05.10. 03:24",
+  "updated": "2026.05.10. 06:58",
+  "flow_last_run": "2026.05.10. 06:58",
   "current": {
-    "temperature": 10,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 11,
+    "condition": "Erősen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 23,
+      "max": 21,
       "min": 10,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:02",
     "sunset": "19:57",
-    "is_night": true
+    "is_night": false
   }
 }
