@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Jön az év eddigi legzivatarosabb napja",
-  "updated": "2026.05.10. 23:04",
-  "flow_last_run": "2026.05.10. 23:04",
+  "updated": "2026.05.11. 00:02",
+  "flow_last_run": "2026.05.11. 00:02",
   "current": {
-    "temperature": 12,
+    "temperature": 11,
     "condition": "Közepesen felhős",
     "icon": "☁️"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Hétfő",
       "max": 23,
-      "min": 12,
+      "min": 11,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "5:00",
-    "sunset": "19:57",
+    "sunset": "19:58",
     "is_night": true
   }
 }
