@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Jön az év eddigi legzivatarosabb napja",
-  "updated": "2026.05.10. 22:01",
-  "flow_last_run": "2026.05.10. 22:01",
+  "updated": "2026.05.10. 23:05",
+  "flow_last_run": "2026.05.10. 23:05",
   "current": {
-    "temperature": 12,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 10,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
       "max": 24,
-      "min": 12,
+      "min": 10,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
