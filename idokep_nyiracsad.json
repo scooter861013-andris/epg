@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Kellemes májusi idővel búcsúzik a hét",
-  "updated": "2026.05.10. 08:45",
-  "flow_last_run": "2026.05.10. 08:45",
+  "updated": "2026.05.10. 10:51",
+  "flow_last_run": "2026.05.10. 10:51",
   "current": {
-    "temperature": 17,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 21,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 22,
+      "max": 23,
       "min": 10,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -30,17 +30,17 @@
     {
       "day": "Kedd",
       "max": 17,
-      "min": 13,
+      "min": 15,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 17,
+      "max": 15,
       "min": 3,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
@@ -55,8 +55,8 @@
       "day": "Péntek",
       "max": 21,
       "min": 7,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
