@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
-  "focim": "Kellemes májusi idővel búcsúzik a hét",
-  "updated": "2026.05.10. 18:52",
-  "flow_last_run": "2026.05.10. 18:52",
+  "focim": "Jön az év eddigi legzivatarosabb napja",
+  "updated": "2026.05.10. 19:49",
+  "flow_last_run": "2026.05.10. 19:49",
   "current": {
-    "temperature": 23,
+    "temperature": 20,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Vasárnap",
-      "max": 23,
-      "min": 10,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Hétfő",
       "max": 23,
@@ -29,7 +21,7 @@
     },
     {
       "day": "Kedd",
-      "max": 17,
+      "max": 18,
       "min": 15,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -37,15 +29,15 @@
     },
     {
       "day": "Szerda",
-      "max": 15,
-      "min": 3,
+      "max": 17,
+      "min": 7,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 19,
+      "max": 20,
       "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -55,7 +47,7 @@
       "day": "Péntek",
       "max": 21,
       "min": 7,
-      "condition": "közepesen felhős",
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -65,6 +57,14 @@
       "min": 9,
       "condition": "zivatar",
       "icon": "⛈️",
+      "alert": null
+    },
+    {
+      "day": "Vasárnap",
+      "max": 21,
+      "min": 10,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     }
   ],
