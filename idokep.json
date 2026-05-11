@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Markáns hidegfronti hatás",
   "focim": "Erős hidegfront érkezik",
-  "updated": "2026.05.11. 23:41",
-  "flow_last_run": "2026.05.11. 23:41",
+  "updated": "2026.05.12. 00:38",
+  "flow_last_run": "2026.05.12. 00:38",
   "current": {
     "temperature": 15,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "condition": "Eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "4:59",
-    "sunset": "19:58",
+    "sunset": "20:00",
     "is_night": true
   }
 }
