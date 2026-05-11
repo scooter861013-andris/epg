@@ -1,27 +1,19 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
-  "focim": "Jön az év eddigi legzivatarosabb napja",
-  "updated": "2026.05.11. 18:44",
-  "flow_last_run": "2026.05.11. 18:44",
+  "fronthatas": "Markáns hidegfronti hatás",
+  "focim": "Erős hidegfront érkezik",
+  "updated": "2026.05.11. 20:26",
+  "flow_last_run": "2026.05.11. 20:26",
   "current": {
-    "temperature": 21,
+    "temperature": 18,
     "condition": "Száraz zivatar",
     "icon": "⛈️"
   },
   "forecast_7d": [
     {
-      "day": "Hétfő",
-      "max": 23,
-      "min": 12,
-      "condition": "zivatar",
-      "icon": "⛈️",
-      "alert": null
-    },
-    {
       "day": "Kedd",
-      "max": 18,
+      "max": 19,
       "min": 14,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -29,10 +21,10 @@
     },
     {
       "day": "Szerda",
-      "max": 18,
-      "min": 8,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "max": 17,
+      "min": 9,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
@@ -46,31 +38,39 @@
     {
       "day": "Péntek",
       "max": 21,
-      "min": 7,
-      "condition": "erősen felhős",
-      "icon": "☁️",
+      "min": 6,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 20,
-      "min": 9,
+      "max": 21,
+      "min": 10,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 21,
-      "min": 10,
+      "max": 17,
+      "min": 9,
       "condition": "zápor",
       "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 18,
+      "min": 8,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
   "sun": {
     "sunrise": "4:59",
     "sunset": "19:58",
-    "is_night": false
+    "is_night": true
   }
 }
