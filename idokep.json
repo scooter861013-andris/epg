@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Markáns hidegfronti hatás",
   "focim": "Erős hidegfront érkezik",
-  "updated": "2026.05.12. 01:38",
-  "flow_last_run": "2026.05.12. 01:38",
+  "updated": "2026.05.12. 03:22",
+  "flow_last_run": "2026.05.12. 03:22",
   "current": {
-    "temperature": 15,
-    "condition": "Zápor",
+    "temperature": 14,
+    "condition": "Eső",
     "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 19,
+      "max": 18,
       "min": 14,
       "condition": "zivatar",
       "icon": "⛈️",
