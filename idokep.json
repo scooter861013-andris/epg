@@ -1,35 +1,27 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Markáns hidegfronti hatás",
-  "focim": "Erős hidegfront érkezik",
-  "updated": "2026.05.12. 17:17",
-  "flow_last_run": "2026.05.12. 17:17",
+  "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
+  "focim": "Hűvös idő elszórtan esővel, záporral",
+  "updated": "2026.05.12. 19:30",
+  "flow_last_run": "2026.05.12. 19:30",
   "current": {
-    "temperature": 15,
+    "temperature": 12,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Kedd",
-      "max": 17,
-      "min": 10,
-      "condition": "zivatar",
-      "icon": "⛈️",
-      "alert": null
-    },
-    {
       "day": "Szerda",
       "max": 17,
-      "min": 9,
-      "condition": "erősen felhős",
+      "min": 8,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 20,
+      "max": 19,
       "min": 5,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -37,8 +29,8 @@
     },
     {
       "day": "Péntek",
-      "max": 22,
-      "min": 5,
+      "max": 21,
+      "min": 8,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -63,6 +55,14 @@
       "day": "Hétfő",
       "max": 18,
       "min": 8,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Kedd",
+      "max": 20,
+      "min": 9,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
