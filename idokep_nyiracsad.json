@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Markáns hidegfronti hatás",
   "focim": "Erős hidegfront érkezik",
-  "updated": "2026.05.12. 13:33",
-  "flow_last_run": "2026.05.12. 13:33",
+  "updated": "2026.05.12. 15:25",
+  "flow_last_run": "2026.05.12. 15:25",
   "current": {
-    "temperature": 18,
-    "condition": "Eső",
-    "icon": "🌧️"
+    "temperature": 11,
+    "condition": "Zivatar",
+    "icon": "⛈️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
       "max": 17,
-      "min": 11,
+      "min": 9,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
