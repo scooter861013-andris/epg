@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Hűvös idő elszórtan esővel, záporral",
-  "updated": "2026.05.12. 19:30",
-  "flow_last_run": "2026.05.12. 19:30",
+  "updated": "2026.05.12. 21:18",
+  "flow_last_run": "2026.05.12. 21:18",
   "current": {
-    "temperature": 12,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "temperature": 11,
+    "condition": "Eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 17,
+      "max": 16,
       "min": 8,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -37,7 +37,7 @@
     },
     {
       "day": "Szombat",
-      "max": 21,
+      "max": 22,
       "min": 10,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -45,32 +45,32 @@
     },
     {
       "day": "Vasárnap",
-      "max": 17,
-      "min": 9,
-      "condition": "zápor",
+      "max": 19,
+      "min": 10,
+      "condition": "eső viharos széllel",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 18,
-      "min": 8,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "max": 20,
+      "min": 11,
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Kedd",
       "max": 20,
       "min": 9,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     }
   ],
   "sun": {
     "sunrise": "4:57",
     "sunset": "20:00",
-    "is_night": false
+    "is_night": true
   }
 }
