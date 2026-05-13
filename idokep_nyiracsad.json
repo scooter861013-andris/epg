@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Hűvös idő elszórtan esővel, záporral",
-  "updated": "2026.05.13. 10:23",
-  "flow_last_run": "2026.05.13. 10:23",
+  "updated": "2026.05.13. 13:05",
+  "flow_last_run": "2026.05.13. 13:05",
   "current": {
-    "temperature": 10,
+    "temperature": 13,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
@@ -21,8 +21,8 @@
     },
     {
       "day": "Csütörtök",
-      "max": 19,
-      "min": 5,
+      "max": 18,
+      "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -30,7 +30,7 @@
     {
       "day": "Péntek",
       "max": 20,
-      "min": 7,
+      "min": 8,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "4:57",
+    "sunrise": "4:55",
     "sunset": "19:59",
     "is_night": false
   }
