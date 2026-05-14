@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Nyugodt, napos csütörtök",
-  "updated": "2026.05.14. 12:39",
-  "flow_last_run": "2026.05.14. 12:39",
+  "updated": "2026.05.14. 14:16",
+  "flow_last_run": "2026.05.14. 14:16",
   "current": {
     "temperature": 20,
-    "condition": "Erősen felhős",
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -21,15 +21,15 @@
     },
     {
       "day": "Péntek",
-      "max": 22,
-      "min": 8,
+      "max": 24,
+      "min": 7,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 23,
+      "max": 25,
       "min": 11,
       "condition": "zivatar",
       "icon": "⛈️",
