@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
-  "focim": "Nyugodt, napos csütörtök",
-  "updated": "2026.05.14. 17:40",
-  "flow_last_run": "2026.05.14. 17:40",
+  "fronthatas": "Nem lesz front felettünk",
+  "focim": "Többfelé számíthatunk záporra, zivatarra",
+  "updated": "2026.05.14. 19:26",
+  "flow_last_run": "2026.05.14. 19:26",
   "current": {
-    "temperature": 19,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 16,
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Csütörtök",
-      "max": 19,
-      "min": 2,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Péntek",
       "max": 23,
@@ -37,8 +29,8 @@
     },
     {
       "day": "Vasárnap",
-      "max": 21,
-      "min": 11,
+      "max": 22,
+      "min": 12,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
@@ -46,7 +38,7 @@
     {
       "day": "Hétfő",
       "max": 18,
-      "min": 9,
+      "min": 12,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -65,6 +57,14 @@
       "min": 11,
       "condition": "zápor",
       "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "max": 24,
+      "min": 12,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
