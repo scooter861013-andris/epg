@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Többfelé számíthatunk záporra, zivatarra",
-  "updated": "2026.05.14. 19:26",
-  "flow_last_run": "2026.05.14. 19:26",
+  "updated": "2026.05.14. 21:17",
+  "flow_last_run": "2026.05.14. 21:17",
   "current": {
-    "temperature": 16,
+    "temperature": 9,
     "condition": "Közepesen felhős",
     "icon": "☁️"
   },
@@ -21,7 +21,7 @@
     },
     {
       "day": "Szombat",
-      "max": 25,
+      "max": 24,
       "min": 11,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -45,8 +45,8 @@
     },
     {
       "day": "Kedd",
-      "max": 20,
-      "min": 9,
+      "max": 18,
+      "min": 7,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -54,23 +54,23 @@
     {
       "day": "Szerda",
       "max": 22,
-      "min": 11,
+      "min": 8,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 24,
-      "min": 12,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "max": 23,
+      "min": 10,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     }
   ],
   "sun": {
     "sunrise": "4:54",
     "sunset": "20:01",
-    "is_night": false
+    "is_night": true
   }
 }
