@@ -1,27 +1,19 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
-  "focim": "Nyugodt, napos csütörtök",
-  "updated": "2026.05.14. 19:07",
-  "flow_last_run": "2026.05.14. 19:07",
+  "fronthatas": "Nem lesz front felettünk",
+  "focim": "Többfelé számíthatunk záporra, zivatarra",
+  "updated": "2026.05.14. 21:04",
+  "flow_last_run": "2026.05.14. 21:04",
   "current": {
-    "temperature": 17,
-    "condition": "Erősen felhős",
+    "temperature": 11,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Csütörtök",
-      "max": 20,
-      "min": 2,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Péntek",
-      "max": 24,
+      "max": 23,
       "min": 7,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -37,8 +29,8 @@
     },
     {
       "day": "Vasárnap",
-      "max": 21,
-      "min": 11,
+      "max": 22,
+      "min": 12,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
@@ -46,15 +38,15 @@
     {
       "day": "Hétfő",
       "max": 18,
-      "min": 9,
+      "min": 12,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 20,
-      "min": 9,
+      "max": 18,
+      "min": 7,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -62,7 +54,15 @@
     {
       "day": "Szerda",
       "max": 22,
-      "min": 11,
+      "min": 8,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "max": 23,
+      "min": 10,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:55",
     "sunset": "20:02",
-    "is_night": false
+    "is_night": true
   }
 }
