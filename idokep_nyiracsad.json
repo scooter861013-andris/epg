@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Nem lesz front felettünk",
-  "focim": "Többfelé számíthatunk záporra, zivatarra",
-  "updated": "2026.05.15. 18:25",
-  "flow_last_run": "2026.05.15. 18:25",
+  "fronthatas": "Kettősfronti hatás várható",
+  "focim": "Mediterrán ciklon hoz csapadékos időt",
+  "updated": "2026.05.15. 20:05",
+  "flow_last_run": "2026.05.15. 20:05",
   "current": {
-    "temperature": 21,
-    "condition": "Gyengén felhős",
+    "temperature": 17,
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Péntek",
-      "max": 23,
-      "min": 6,
-      "condition": "zivatar",
-      "icon": "⛈️",
-      "alert": null
-    },
     {
       "day": "Szombat",
       "max": 24,
@@ -37,23 +29,23 @@
     },
     {
       "day": "Hétfő",
-      "max": 18,
-      "min": 12,
+      "max": 21,
+      "min": 10,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 18,
-      "min": 7,
+      "max": 20,
+      "min": 9,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 22,
+      "max": 23,
       "min": 8,
       "condition": "zápor",
       "icon": "🌧️",
@@ -61,16 +53,24 @@
     },
     {
       "day": "Csütörtök",
-      "max": 23,
+      "max": 24,
       "min": 10,
       "condition": "zápor",
       "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Péntek",
+      "max": 25,
+      "min": 12,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
   "sun": {
     "sunrise": "4:53",
     "sunset": "20:02",
-    "is_night": false
+    "is_night": true
   }
 }
