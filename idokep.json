@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Mediterrán ciklon hoz csapadékos időt",
-  "updated": "2026.05.15. 19:13",
-  "flow_last_run": "2026.05.15. 19:13",
+  "updated": "2026.05.15. 20:53",
+  "flow_last_run": "2026.05.15. 20:53",
   "current": {
-    "temperature": 21,
-    "condition": "Erősen felhős",
+    "temperature": 17,
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:54",
     "sunset": "20:03",
-    "is_night": false
+    "is_night": true
   }
 }
