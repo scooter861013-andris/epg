@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Többfelé számíthatunk záporra, zivatarra",
-  "updated": "2026.05.15. 04:26",
-  "flow_last_run": "2026.05.15. 04:26",
+  "updated": "2026.05.15. 08:07",
+  "flow_last_run": "2026.05.15. 08:07",
   "current": {
-    "temperature": 9,
-    "condition": "Erősen felhős",
+    "temperature": 14,
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
       "max": 23,
-      "min": 9,
+      "min": 7,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:55",
     "sunset": "20:03",
-    "is_night": true
+    "is_night": false
   }
 }
