@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Mediterrán ciklon hoz csapadékos időt",
-  "updated": "2026.05.16. 11:57",
-  "flow_last_run": "2026.05.16. 11:57",
+  "updated": "2026.05.16. 13:03",
+  "flow_last_run": "2026.05.16. 13:03",
   "current": {
     "temperature": 21,
-    "condition": "Borult",
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
-      "max": 23,
+      "max": 21,
       "min": 10,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "4:53",
+    "sunrise": "4:52",
     "sunset": "20:03",
     "is_night": false
   }
