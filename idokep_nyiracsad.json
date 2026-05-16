@@ -3,11 +3,11 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Mediterrán ciklon hoz csapadékos időt",
-  "updated": "2026.05.16. 08:34",
-  "flow_last_run": "2026.05.16. 08:34",
+  "updated": "2026.05.16. 10:27",
+  "flow_last_run": "2026.05.16. 10:27",
   "current": {
-    "temperature": 16,
-    "condition": "Borult",
+    "temperature": 19,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -22,14 +22,14 @@
     {
       "day": "Vasárnap",
       "max": 21,
-      "min": 13,
+      "min": 12,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 21,
+      "max": 17,
       "min": 7,
       "condition": "zápor",
       "icon": "🌧️",
@@ -37,33 +37,33 @@
     },
     {
       "day": "Kedd",
-      "max": 20,
-      "min": 9,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "max": 21,
+      "min": 8,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
       "max": 23,
       "min": 8,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
       "max": 24,
       "min": 10,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 25,
+      "max": 26,
       "min": 12,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     }
