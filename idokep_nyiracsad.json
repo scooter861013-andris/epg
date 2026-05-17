@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Szeles idő esővel, záporral, néhol zivatarral",
-  "updated": "2026.05.17. 15:45",
-  "flow_last_run": "2026.05.17. 15:45",
+  "updated": "2026.05.17. 16:53",
+  "flow_last_run": "2026.05.17. 16:53",
   "current": {
     "temperature": 23,
-    "condition": "Borult",
-    "icon": "☁️"
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 25,
-      "min": 12,
+      "max": 24,
+      "min": 11,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
