@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Frontmentes hétkezdés",
   "focim": "Esővel, záporral, egy-egy zivatarral indul a hét",
-  "updated": "2026.05.17. 21:48",
-  "flow_last_run": "2026.05.17. 22:39",
+  "updated": "2026.05.17. 23:37",
+  "flow_last_run": "2026.05.17. 23:37",
   "current": {
-    "temperature": 14,
+    "temperature": 13,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 16,
+      "max": 15,
       "min": 9,
       "condition": "zápor",
       "icon": "🌧️",
@@ -21,8 +21,8 @@
     },
     {
       "day": "Kedd",
-      "max": 21,
-      "min": 9,
+      "max": 20,
+      "min": 7,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -30,7 +30,7 @@
     {
       "day": "Szerda",
       "max": 23,
-      "min": 9,
+      "min": 10,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
