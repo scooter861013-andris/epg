@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Frontmentes hétkezdés",
   "focim": "Esővel, záporral, egy-egy zivatarral indul a hét",
-  "updated": "2026.05.18. 03:35",
-  "flow_last_run": "2026.05.18. 03:35",
+  "updated": "2026.05.18. 07:57",
+  "flow_last_run": "2026.05.18. 07:57",
   "current": {
-    "temperature": 9,
-    "condition": "Borult",
+    "temperature": 15,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 16,
+      "max": 17,
       "min": 9,
       "condition": "zápor",
       "icon": "🌧️",
@@ -21,7 +21,7 @@
     },
     {
       "day": "Kedd",
-      "max": 21,
+      "max": 20,
       "min": 8,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -30,7 +30,7 @@
     {
       "day": "Szerda",
       "max": 23,
-      "min": 10,
+      "min": 11,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:50",
     "sunset": "20:06",
-    "is_night": true
+    "is_night": false
   }
 }
