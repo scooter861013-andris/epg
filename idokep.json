@@ -1,35 +1,27 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Frontmentes hétkezdés",
-  "focim": "Még jöhet kisebb eső, zápor",
-  "updated": "2026.05.18. 14:55",
-  "flow_last_run": "2026.05.18. 14:55",
+  "fronthatas": "Nem lesz front felettünk",
+  "focim": "Többórás napsütés helyenként futó záporral",
+  "updated": "2026.05.18. 18:18",
+  "flow_last_run": "2026.05.18. 18:18",
   "current": {
-    "temperature": 15,
+    "temperature": 14,
     "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Hétfő",
-      "max": 15,
+      "day": "Kedd",
+      "max": 20,
       "min": 9,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
-      "day": "Kedd",
-      "max": 20,
-      "min": 9,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Szerda",
-      "max": 23,
+      "max": 24,
       "min": 10,
       "condition": "zápor",
       "icon": "🌧️",
@@ -37,16 +29,16 @@
     },
     {
       "day": "Csütörtök",
-      "max": 24,
-      "min": 13,
-      "condition": "közepesen felhős",
+      "max": 25,
+      "min": 12,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
       "max": 25,
-      "min": 12,
+      "min": 14,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -64,6 +56,14 @@
       "max": 28,
       "min": 13,
       "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 29,
+      "min": 14,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     }
