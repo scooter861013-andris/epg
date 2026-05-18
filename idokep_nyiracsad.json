@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Frontmentes hétkezdés",
   "focim": "Még jöhet kisebb eső, zápor",
-  "updated": "2026.05.18. 12:09",
-  "flow_last_run": "2026.05.18. 12:09",
+  "updated": "2026.05.18. 16:00",
+  "flow_last_run": "2026.05.18. 16:00",
   "current": {
-    "temperature": 15,
+    "temperature": 13,
     "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 14,
+      "max": 17,
       "min": 9,
       "condition": "zápor",
       "icon": "🌧️",
@@ -21,7 +21,7 @@
     },
     {
       "day": "Kedd",
-      "max": 20,
+      "max": 21,
       "min": 9,
       "condition": "közepesen felhős",
       "icon": "☁️",
