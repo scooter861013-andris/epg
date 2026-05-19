@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Többórás napsütés helyenként futó záporral",
-  "updated": "2026.05.19. 01:43",
-  "flow_last_run": "2026.05.19. 01:43",
+  "updated": "2026.05.19. 03:34",
+  "flow_last_run": "2026.05.19. 03:34",
   "current": {
-    "temperature": 12,
-    "condition": "Borult",
-    "icon": "☁️"
+    "temperature": 11,
+    "condition": "Eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
       "max": 20,
-      "min": 10,
+      "min": 11,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
