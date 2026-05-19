@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Többórás napsütés helyenként futó záporral",
-  "updated": "2026.05.19. 13:31",
-  "flow_last_run": "2026.05.19. 13:31",
+  "updated": "2026.05.19. 16:15",
+  "flow_last_run": "2026.05.19. 16:15",
   "current": {
-    "temperature": 21,
-    "condition": "Eső",
-    "icon": "🌧️"
+    "temperature": 23,
+    "condition": "Erősen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 22,
+      "max": 23,
       "min": 9,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -21,7 +21,7 @@
     },
     {
       "day": "Szerda",
-      "max": 24,
+      "max": 23,
       "min": 10,
       "condition": "zápor",
       "icon": "🌧️",
