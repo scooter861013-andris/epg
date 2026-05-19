@@ -2,19 +2,19 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek",
-  "focim": "Egy nyáriasabbá válik az idő",
-  "updated": "2026.05.19. 21:50",
-  "flow_last_run": "2026.05.19. 21:50",
+  "focim": "Egyre nyáriasabbá válik az idő",
+  "updated": "2026.05.19. 23:12",
+  "flow_last_run": "2026.05.19. 23:12",
   "current": {
-    "temperature": 14,
-    "condition": "Közepesen felhős",
+    "temperature": 13,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
       "max": 24,
-      "min": 11,
+      "min": 8,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -22,7 +22,7 @@
     {
       "day": "Csütörtök",
       "max": 25,
-      "min": 12,
+      "min": 10,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -30,7 +30,7 @@
     {
       "day": "Péntek",
       "max": 25,
-      "min": 15,
+      "min": 14,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
