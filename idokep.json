@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
-  "focim": "Egyre nyáriasabbá válik az idő",
-  "updated": "2026.05.20. 17:54",
-  "flow_last_run": "2026.05.20. 17:54",
+  "focim": "Folytatódik a melegedés",
+  "updated": "2026.05.20. 20:10",
+  "flow_last_run": "2026.05.20. 20:10",
   "current": {
-    "temperature": 24,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "temperature": 21,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Szerda",
-      "max": 24,
-      "min": 9,
-      "condition": "zápor",
-      "icon": "🌧️",
-      "alert": null
-    },
     {
       "day": "Csütörtök",
       "max": 25,
@@ -31,8 +23,8 @@
       "day": "Péntek",
       "max": 25,
       "min": 15,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
@@ -66,11 +58,19 @@
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 28,
+      "min": 15,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
     }
   ],
   "sun": {
     "sunrise": "4:48",
     "sunset": "20:10",
-    "is_night": false
+    "is_night": true
   }
 }
