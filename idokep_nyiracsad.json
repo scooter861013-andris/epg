@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
   "focim": "Egyre nyáriasabbá válik az idő",
-  "updated": "2026.05.20. 14:07",
-  "flow_last_run": "2026.05.20. 14:07",
+  "updated": "2026.05.20. 17:55",
+  "flow_last_run": "2026.05.20. 17:55",
   "current": {
     "temperature": 25,
-    "condition": "Gyengén felhős",
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 26,
+      "max": 25,
       "min": 8,
       "condition": "zápor",
       "icon": "🌧️",
@@ -22,7 +22,7 @@
     {
       "day": "Csütörtök",
       "max": 26,
-      "min": 11,
+      "min": 10,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
