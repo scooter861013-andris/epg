@@ -2,27 +2,19 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
-  "focim": "Egyre nyáriasabbá válik az idő",
-  "updated": "2026.05.20. 17:55",
-  "flow_last_run": "2026.05.20. 17:55",
+  "focim": "Folytatódik a melegedés",
+  "updated": "2026.05.20. 20:14",
+  "flow_last_run": "2026.05.20. 20:14",
   "current": {
-    "temperature": 25,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "temperature": 20,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
-      "day": "Szerda",
-      "max": 25,
-      "min": 8,
-      "condition": "zápor",
-      "icon": "🌧️",
-      "alert": null
-    },
-    {
       "day": "Csütörtök",
       "max": 26,
-      "min": 10,
+      "min": 11,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -31,8 +23,8 @@
       "day": "Péntek",
       "max": 26,
       "min": 15,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
@@ -66,11 +58,19 @@
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 28,
+      "min": 15,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
     }
   ],
   "sun": {
     "sunrise": "4:47",
     "sunset": "20:08",
-    "is_night": false
+    "is_night": true
   }
 }
