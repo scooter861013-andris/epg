@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
   "focim": "Folytatódik a melegedés",
-  "updated": "2026.05.21. 10:58",
-  "flow_last_run": "2026.05.21. 10:58",
+  "updated": "2026.05.21. 14:14",
+  "flow_last_run": "2026.05.21. 14:14",
   "current": {
-    "temperature": 24,
-    "condition": "Közepesen felhős",
+    "temperature": 25,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "4:48",
+    "sunrise": "4:47",
     "sunset": "20:11",
     "is_night": false
   }
