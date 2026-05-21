@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
-  "focim": "Folytatódik a melegedés",
-  "updated": "2026.05.21. 18:01",
-  "flow_last_run": "2026.05.21. 18:01",
+  "focim": "Nyárias meleg sok napsütéssel",
+  "updated": "2026.05.21. 20:12",
+  "flow_last_run": "2026.05.21. 20:12",
   "current": {
-    "temperature": 24,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 21,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Csütörtök",
-      "max": 25,
-      "min": 9,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Péntek",
       "max": 26,
@@ -30,7 +22,7 @@
     {
       "day": "Szombat",
       "max": 27,
-      "min": 13,
+      "min": 14,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -38,22 +30,22 @@
     {
       "day": "Vasárnap",
       "max": 27,
-      "min": 12,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
-      "day": "Hétfő",
-      "max": 27,
       "min": 13,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
+      "day": "Hétfő",
+      "max": 29,
+      "min": 16,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
       "day": "Kedd",
-      "max": 28,
+      "max": 30,
       "min": 14,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -61,9 +53,17 @@
     },
     {
       "day": "Szerda",
-      "max": 28,
+      "max": 27,
       "min": 15,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "max": 24,
+      "min": 13,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     }
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:46",
     "sunset": "20:09",
-    "is_night": false
+    "is_night": true
   }
 }
