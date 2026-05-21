@@ -3,11 +3,11 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
   "focim": "Folytatódik a melegedés",
-  "updated": "2026.05.21. 07:53",
-  "flow_last_run": "2026.05.21. 07:53",
+  "updated": "2026.05.21. 11:35",
+  "flow_last_run": "2026.05.21. 11:35",
   "current": {
-    "temperature": 18,
-    "condition": "Gyengén felhős",
+    "temperature": 24,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -23,8 +23,8 @@
       "day": "Péntek",
       "max": 27,
       "min": 15,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
