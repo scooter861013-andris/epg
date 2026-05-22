@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
   "focim": "Nyárias meleg sok napsütéssel",
-  "updated": "2026.05.22. 01:54",
-  "flow_last_run": "2026.05.22. 01:54",
+  "updated": "2026.05.22. 04:35",
+  "flow_last_run": "2026.05.22. 04:35",
   "current": {
     "temperature": 17,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
       "max": 25,
-      "min": 16,
+      "min": 17,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
