@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
   "focim": "Nyárias meleg sok napsütéssel",
-  "updated": "2026.05.22. 06:38",
-  "flow_last_run": "2026.05.22. 06:38",
+  "updated": "2026.05.22. 10:01",
+  "flow_last_run": "2026.05.22. 10:01",
   "current": {
-    "temperature": 16,
+    "temperature": 22,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 26,
-      "min": 14,
+      "max": 25,
+      "min": 15,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -23,7 +23,7 @@
       "day": "Szombat",
       "max": 27,
       "min": 14,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -39,13 +39,13 @@
       "day": "Hétfő",
       "max": 29,
       "min": 16,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 30,
+      "max": 31,
       "min": 14,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -54,7 +54,7 @@
     {
       "day": "Szerda",
       "max": 27,
-      "min": 15,
+      "min": 16,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -62,8 +62,8 @@
     {
       "day": "Csütörtök",
       "max": 24,
-      "min": 13,
-      "condition": "gyengén felhős",
+      "min": 11,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     }
