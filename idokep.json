@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
   "focim": "Nyárias időt hoz a hosszú hétvége",
-  "updated": "2026.05.22. 19:22",
-  "flow_last_run": "2026.05.22. 19:22",
+  "updated": "2026.05.22. 21:10",
+  "flow_last_run": "2026.05.22. 21:10",
   "current": {
-    "temperature": 23,
+    "temperature": 21,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:46",
     "sunset": "20:12",
-    "is_night": false
+    "is_night": true
   }
 }
