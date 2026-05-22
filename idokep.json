@@ -2,28 +2,20 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
-  "focim": "Nyárias meleg sok napsütéssel",
-  "updated": "2026.05.22. 14:24",
-  "flow_last_run": "2026.05.22. 14:24",
+  "focim": "Nyárias időt hoz a hosszú hétvége",
+  "updated": "2026.05.22. 17:28",
+  "flow_last_run": "2026.05.22. 17:28",
   "current": {
-    "temperature": 26,
-    "condition": "Erősen felhős",
+    "temperature": 25,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Péntek",
-      "max": 26,
-      "min": 16,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Szombat",
       "max": 26,
       "min": 14,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -31,14 +23,14 @@
       "day": "Vasárnap",
       "max": 28,
       "min": 13,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     },
     {
       "day": "Hétfő",
       "max": 29,
-      "min": 16,
+      "min": 17,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -46,14 +38,14 @@
     {
       "day": "Kedd",
       "max": 31,
-      "min": 14,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "min": 15,
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 27,
+      "max": 30,
       "min": 16,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -61,9 +53,17 @@
     },
     {
       "day": "Csütörtök",
-      "max": 24,
-      "min": 11,
-      "condition": "közepesen felhős",
+      "max": 25,
+      "min": 12,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Péntek",
+      "max": 26,
+      "min": 10,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     }
