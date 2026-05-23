@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
   "focim": "Kánikula jön pünkösdkor",
-  "updated": "2026.05.23. 23:51",
-  "flow_last_run": "2026.05.23. 23:51",
+  "updated": "2026.05.24. 00:50",
+  "flow_last_run": "2026.05.24. 00:50",
   "current": {
-    "temperature": 17,
+    "temperature": 16,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "4:44",
-    "sunset": "20:12",
+    "sunset": "20:13",
     "is_night": true
   }
 }
