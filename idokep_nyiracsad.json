@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
-  "focim": "Nyárias időt hoz a hosszú hétvége",
-  "updated": "2026.05.23. 16:16",
-  "flow_last_run": "2026.05.23. 16:16",
+  "focim": "Kánikula jön pünkösdkor",
+  "updated": "2026.05.23. 17:39",
+  "flow_last_run": "2026.05.23. 17:39",
   "current": {
-    "temperature": 29,
+    "temperature": 28,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Szombat",
-      "max": 28,
-      "min": 14,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Vasárnap",
       "max": 27,
@@ -31,7 +23,7 @@
       "day": "Hétfő",
       "max": 29,
       "min": 17,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -45,8 +37,8 @@
     },
     {
       "day": "Szerda",
-      "max": 30,
-      "min": 16,
+      "max": 31,
+      "min": 15,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -54,7 +46,7 @@
     {
       "day": "Csütörtök",
       "max": 25,
-      "min": 12,
+      "min": 11,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -62,7 +54,15 @@
     {
       "day": "Péntek",
       "max": 26,
-      "min": 11,
+      "min": 12,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szombat",
+      "max": 28,
+      "min": 12,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
