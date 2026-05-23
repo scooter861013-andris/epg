@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
   "focim": "Nyárias időt hoz a hosszú hétvége",
-  "updated": "2026.05.23. 06:08",
-  "flow_last_run": "2026.05.23. 06:08",
+  "updated": "2026.05.23. 08:44",
+  "flow_last_run": "2026.05.23. 08:44",
   "current": {
-    "temperature": 16,
+    "temperature": 21,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
@@ -23,13 +23,13 @@
       "day": "Vasárnap",
       "max": 27,
       "min": 13,
-      "condition": "derült",
-      "icon": "🌙",
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 29,
+      "max": 28,
       "min": 16,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -39,8 +39,8 @@
       "day": "Kedd",
       "max": 31,
       "min": 15,
-      "condition": "derült",
-      "icon": "🌙",
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
@@ -62,7 +62,7 @@
     {
       "day": "Péntek",
       "max": 26,
-      "min": 10,
+      "min": 11,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
