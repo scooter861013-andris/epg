@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
   "focim": "Nyárias időt hoz a hosszú hétvége",
-  "updated": "2026.05.23. 04:45",
-  "flow_last_run": "2026.05.23. 04:45",
+  "updated": "2026.05.23. 08:10",
+  "flow_last_run": "2026.05.23. 08:10",
   "current": {
-    "temperature": 12,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 21,
+    "condition": "Erősen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
       "max": 26,
-      "min": 12,
+      "min": 14,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -29,8 +29,8 @@
     },
     {
       "day": "Hétfő",
-      "max": 29,
-      "min": 17,
+      "max": 28,
+      "min": 16,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
