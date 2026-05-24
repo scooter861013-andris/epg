@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
   "focim": "Kánikula jön pünkösdkor",
-  "updated": "2026.05.24. 17:00",
-  "flow_last_run": "2026.05.24. 17:00",
+  "updated": "2026.05.24. 18:13",
+  "flow_last_run": "2026.05.24. 18:13",
   "current": {
-    "temperature": 29,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 28,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 29,
+      "max": 28,
       "min": 14,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -21,7 +21,7 @@
     },
     {
       "day": "Hétfő",
-      "max": 29,
+      "max": 30,
       "min": 17,
       "condition": "zápor",
       "icon": "🌧️",
