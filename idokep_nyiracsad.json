@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
   "focim": "Kevés zápor hűsíthet",
-  "updated": "2026.05.25. 06:24",
-  "flow_last_run": "2026.05.25. 06:24",
+  "updated": "2026.05.25. 10:44",
+  "flow_last_run": "2026.05.25. 10:44",
   "current": {
-    "temperature": 14,
-    "condition": "Közepesen felhős",
-    "icon": "☁️"
+    "temperature": 29,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 29,
-      "min": 15,
+      "max": 30,
+      "min": 17,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
