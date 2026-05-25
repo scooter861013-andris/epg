@@ -2,12 +2,12 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
-  "focim": "Kevés zápor hűsíthet",
-  "updated": "2026.05.25. 10:51",
-  "flow_last_run": "2026.05.25. 10:51",
+  "focim": "Hőségnapok jönnek",
+  "updated": "2026.05.25. 14:20",
+  "flow_last_run": "2026.05.25. 14:20",
   "current": {
-    "temperature": 29,
-    "condition": "Közepesen felhős",
+    "temperature": 30,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -15,8 +15,8 @@
       "day": "Hétfő",
       "max": 30,
       "min": 17,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
@@ -29,8 +29,8 @@
     },
     {
       "day": "Szerda",
-      "max": 31,
-      "min": 15,
+      "max": 32,
+      "min": 17,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -39,13 +39,13 @@
       "day": "Csütörtök",
       "max": 24,
       "min": 11,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 25,
+      "max": 26,
       "min": 12,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -53,7 +53,7 @@
     },
     {
       "day": "Szombat",
-      "max": 28,
+      "max": 29,
       "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "4:44",
+    "sunrise": "4:43",
     "sunset": "20:15",
     "is_night": false
   }
