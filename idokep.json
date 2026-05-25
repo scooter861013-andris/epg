@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
-  "focim": "Hőségnapok jönnek",
-  "updated": "2026.05.25. 17:33",
-  "flow_last_run": "2026.05.25. 17:33",
+  "fronthatas": "A kánikula okozhat panaszokat",
+  "focim": "Kánikula sok napsütéssel",
+  "updated": "2026.05.25. 19:21",
+  "flow_last_run": "2026.05.25. 19:21",
   "current": {
-    "temperature": 29,
-    "condition": "Közepesen felhős",
+    "temperature": 26,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Hétfő",
-      "max": 29,
-      "min": 17,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Kedd",
       "max": 30,
@@ -38,7 +30,7 @@
     {
       "day": "Csütörtök",
       "max": 24,
-      "min": 11,
+      "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -46,24 +38,32 @@
     {
       "day": "Péntek",
       "max": 26,
-      "min": 12,
+      "min": 9,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 29,
-      "min": 12,
+      "max": 28,
+      "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 28,
+      "max": 29,
       "min": 13,
       "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 28,
+      "min": 14,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     }
