@@ -1,35 +1,27 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "A kánikula okozhat panaszokat",
-  "focim": "Kánikula sok napsütéssel",
-  "updated": "2026.05.26. 16:57",
-  "flow_last_run": "2026.05.26. 16:57",
+  "fronthatas": "A kánikula, majd egy hidegfront okozhat panaszokat",
+  "focim": "Kánikula, majd hidegfront jön",
+  "updated": "2026.05.26. 19:54",
+  "flow_last_run": "2026.05.26. 19:54",
   "current": {
-    "temperature": 31,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 27,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Kedd",
-      "max": 31,
-      "min": 16,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Szerda",
       "max": 32,
       "min": 17,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 24,
+      "max": 22,
       "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -37,25 +29,25 @@
     },
     {
       "day": "Péntek",
-      "max": 24,
-      "min": 9,
-      "condition": "gyengén felhős",
+      "max": 25,
+      "min": 10,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 28,
-      "min": 11,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "max": 30,
+      "min": 10,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Vasárnap",
       "max": 29,
       "min": 13,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -63,6 +55,14 @@
       "day": "Hétfő",
       "max": 28,
       "min": 14,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Kedd",
+      "max": 28,
+      "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
