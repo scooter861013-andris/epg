@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "A kánikula, majd egy hidegfront okozhat panaszokat",
   "focim": "Kánikula, majd hidegfront jön",
-  "updated": "2026.05.26. 19:54",
-  "flow_last_run": "2026.05.26. 19:54",
+  "updated": "2026.05.26. 21:58",
+  "flow_last_run": "2026.05.26. 21:58",
   "current": {
-    "temperature": 27,
+    "temperature": 23,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:42",
     "sunset": "20:17",
-    "is_night": false
+    "is_night": true
   }
 }
