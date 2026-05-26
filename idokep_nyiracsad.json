@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "A kánikula, majd egy hidegfront okozhat panaszokat",
   "focim": "Kánikula, majd hidegfront jön",
-  "updated": "2026.05.26. 23:10",
-  "flow_last_run": "2026.05.26. 23:10",
+  "updated": "2026.05.27. 00:38",
+  "flow_last_run": "2026.05.27. 00:38",
   "current": {
-    "temperature": 17,
+    "temperature": 15,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Szerda",
       "max": 32,
-      "min": 16,
+      "min": 15,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "4:41",
-    "sunset": "20:15",
+    "sunset": "20:16",
     "is_night": true
   }
 }
