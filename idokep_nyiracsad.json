@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "A kánikula okozhat panaszokat",
   "focim": "Kánikula sok napsütéssel",
-  "updated": "2026.05.26. 08:43",
-  "flow_last_run": "2026.05.26. 08:43",
+  "updated": "2026.05.26. 12:37",
+  "flow_last_run": "2026.05.26. 12:37",
   "current": {
-    "temperature": 25,
+    "temperature": 30,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 30,
+      "max": 31,
       "min": 15,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -22,7 +22,7 @@
     {
       "day": "Szerda",
       "max": 32,
-      "min": 16,
+      "min": 17,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -37,7 +37,7 @@
     },
     {
       "day": "Péntek",
-      "max": 26,
+      "max": 24,
       "min": 9,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "4:42",
+    "sunrise": "4:41",
     "sunset": "20:15",
     "is_night": false
   }
