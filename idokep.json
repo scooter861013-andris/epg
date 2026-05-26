@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "A kánikula okozhat panaszokat",
   "focim": "Kánikula sok napsütéssel",
-  "updated": "2026.05.26. 07:42",
-  "flow_last_run": "2026.05.26. 07:42",
+  "updated": "2026.05.26. 10:54",
+  "flow_last_run": "2026.05.26. 10:54",
   "current": {
-    "temperature": 22,
+    "temperature": 28,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 30,
+      "max": 31,
       "min": 16,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -37,7 +37,7 @@
     },
     {
       "day": "Péntek",
-      "max": 26,
+      "max": 24,
       "min": 9,
       "condition": "gyengén felhős",
       "icon": "☁️",
