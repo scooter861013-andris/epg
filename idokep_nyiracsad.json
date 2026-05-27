@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "A kánikula, majd egy hidegfront okozhat panaszokat",
   "focim": "Kánikula, majd hidegfront jön",
-  "updated": "2026.05.27. 05:33",
-  "flow_last_run": "2026.05.27. 05:33",
+  "updated": "2026.05.27. 09:49",
+  "flow_last_run": "2026.05.27. 09:49",
   "current": {
-    "temperature": 11,
+    "temperature": 28,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 30,
-      "min": 11,
+      "max": 32,
+      "min": 16,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
@@ -22,14 +22,14 @@
     {
       "day": "Csütörtök",
       "max": 21,
-      "min": 13,
+      "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 25,
+      "max": 24,
       "min": 9,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -37,7 +37,7 @@
     },
     {
       "day": "Szombat",
-      "max": 30,
+      "max": 27,
       "min": 10,
       "condition": "zápor",
       "icon": "🌧️",
@@ -46,15 +46,15 @@
     {
       "day": "Vasárnap",
       "max": 29,
-      "min": 13,
+      "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 28,
-      "min": 14,
+      "max": 27,
+      "min": 16,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
