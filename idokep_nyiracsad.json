@@ -1,27 +1,19 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "A kánikula, majd egy hidegfront okozhat panaszokat",
-  "focim": "Kánikula, majd hidegfront jön",
-  "updated": "2026.05.27. 16:43",
-  "flow_last_run": "2026.05.27. 16:43",
+  "fronthatas": "Gyenge hidegfronti hatás",
+  "focim": "Hőségmentes csütörtök",
+  "updated": "2026.05.27. 19:44",
+  "flow_last_run": "2026.05.27. 19:44",
   "current": {
-    "temperature": 32,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 23,
+    "condition": "Eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
-      "day": "Szerda",
-      "max": 32,
-      "min": 16,
-      "condition": "zivatar",
-      "icon": "⛈️",
-      "alert": null
-    },
-    {
       "day": "Csütörtök",
-      "max": 22,
+      "max": 23,
       "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -29,7 +21,7 @@
     },
     {
       "day": "Péntek",
-      "max": 24,
+      "max": 23,
       "min": 9,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -46,7 +38,7 @@
     {
       "day": "Vasárnap",
       "max": 29,
-      "min": 15,
+      "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -65,6 +57,14 @@
       "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 28,
+      "min": 15,
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     }
   ],
