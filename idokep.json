@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Gyenge hidegfronti hatás",
-  "focim": "Kánikula, majd hidegfront jön",
-  "updated": "2026.05.27. 17:34",
-  "flow_last_run": "2026.05.27. 17:34",
+  "focim": "Hőségmentes csütörtök",
+  "updated": "2026.05.27. 20:12",
+  "flow_last_run": "2026.05.27. 20:12",
   "current": {
-    "temperature": 32,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 20,
+    "condition": "Zivatar",
+    "icon": "⛈️"
   },
   "forecast_7d": [
-    {
-      "day": "Szerda",
-      "max": 32,
-      "min": 17,
-      "condition": "zivatar",
-      "icon": "⛈️",
-      "alert": null
-    },
     {
       "day": "Csütörtök",
       "max": 23,
@@ -46,7 +38,7 @@
     {
       "day": "Vasárnap",
       "max": 29,
-      "min": 15,
+      "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -65,6 +57,14 @@
       "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 28,
+      "min": 15,
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     }
   ],
