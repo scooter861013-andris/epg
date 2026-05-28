@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Gyenge hidegfronti hatás",
   "focim": "Hőségmentes csütörtök",
-  "updated": "2026.05.28. 10:40",
-  "flow_last_run": "2026.05.28. 10:40",
+  "updated": "2026.05.28. 14:05",
+  "flow_last_run": "2026.05.28. 14:05",
   "current": {
-    "temperature": 22,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 24,
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "4:41",
+    "sunrise": "4:40",
     "sunset": "20:17",
     "is_night": false
   }
