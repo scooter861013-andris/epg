@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Gyenge hidegfronti hatás",
-  "focim": "Hőségmentes csütörtök",
-  "updated": "2026.05.28. 18:33",
-  "flow_last_run": "2026.05.28. 18:33",
+  "fronthatas": "Melegfronti tünetek",
+  "focim": "Lassan visszatér a kánikula",
+  "updated": "2026.05.28. 21:21",
+  "flow_last_run": "2026.05.28. 21:21",
   "current": {
-    "temperature": 21,
-    "condition": "Közepesen felhős",
+    "temperature": 16,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Csütörtök",
-      "max": 23,
-      "min": 12,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Péntek",
       "max": 23,
@@ -29,7 +21,7 @@
     },
     {
       "day": "Szombat",
-      "max": 26,
+      "max": 25,
       "min": 11,
       "condition": "zápor",
       "icon": "🌧️",
@@ -38,7 +30,7 @@
     {
       "day": "Vasárnap",
       "max": 27,
-      "min": 12,
+      "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -54,7 +46,7 @@
     {
       "day": "Kedd",
       "max": 28,
-      "min": 14,
+      "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -62,15 +54,23 @@
     {
       "day": "Szerda",
       "max": 27,
-      "min": 15,
+      "min": 14,
       "condition": "zivatar",
       "icon": "⛈️",
+      "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "max": 26,
+      "min": 14,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
   "sun": {
     "sunrise": "4:40",
     "sunset": "20:17",
-    "is_night": false
+    "is_night": true
   }
 }
