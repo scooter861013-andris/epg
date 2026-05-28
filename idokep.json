@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Gyenge hidegfronti hatás",
   "focim": "Hőségmentes csütörtök",
-  "updated": "2026.05.28. 07:41",
-  "flow_last_run": "2026.05.28. 07:41",
+  "updated": "2026.05.28. 11:03",
+  "flow_last_run": "2026.05.28. 11:03",
   "current": {
-    "temperature": 18,
+    "temperature": 23,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "max": 23,
+      "max": 24,
       "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -29,24 +29,24 @@
     },
     {
       "day": "Szombat",
-      "max": 27,
-      "min": 10,
+      "max": 26,
+      "min": 9,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 29,
-      "min": 11,
+      "max": 27,
+      "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 27,
-      "min": 16,
+      "max": 26,
+      "min": 15,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -54,14 +54,14 @@
     {
       "day": "Kedd",
       "max": 28,
-      "min": 15,
+      "min": 14,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 28,
+      "max": 27,
       "min": 15,
       "condition": "zivatar",
       "icon": "⛈️",
