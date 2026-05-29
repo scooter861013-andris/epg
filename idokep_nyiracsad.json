@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
   "focim": "Napos májusi idő",
-  "updated": "2026.05.29. 10:30",
-  "flow_last_run": "2026.05.29. 10:30",
+  "updated": "2026.05.29. 13:55",
+  "flow_last_run": "2026.05.29. 13:55",
   "current": {
-    "temperature": 21,
-    "condition": "Közepesen felhős",
+    "temperature": 23,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 23,
+      "max": 24,
       "min": 8,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -21,7 +21,7 @@
     },
     {
       "day": "Szombat",
-      "max": 22,
+      "max": 23,
       "min": 10,
       "condition": "zápor",
       "icon": "🌧️",
@@ -30,7 +30,7 @@
     {
       "day": "Vasárnap",
       "max": 28,
-      "min": 12,
+      "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "4:40",
+    "sunrise": "4:39",
     "sunset": "20:18",
     "is_night": false
   }
