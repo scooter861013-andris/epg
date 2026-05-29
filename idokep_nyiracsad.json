@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti tünetek",
   "focim": "Lassan visszatér a kánikula",
-  "updated": "2026.05.29. 00:54",
-  "flow_last_run": "2026.05.29. 00:54",
+  "updated": "2026.05.29. 02:08",
+  "flow_last_run": "2026.05.29. 02:08",
   "current": {
-    "temperature": 7,
+    "temperature": 5,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Péntek",
       "max": 23,
-      "min": 7,
+      "min": 6,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
