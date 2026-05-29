@@ -1,19 +1,19 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Melegfronti tünetek",
-  "focim": "Lassan visszatér a kánikula",
-  "updated": "2026.05.29. 06:40",
-  "flow_last_run": "2026.05.29. 06:40",
+  "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
+  "focim": "Napos májusi idő",
+  "updated": "2026.05.29. 10:28",
+  "flow_last_run": "2026.05.29. 10:28",
   "current": {
-    "temperature": 10,
-    "condition": "Közepesen felhős",
+    "temperature": 21,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 22,
+      "max": 24,
       "min": 9,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -21,7 +21,7 @@
     },
     {
       "day": "Szombat",
-      "max": 25,
+      "max": 23,
       "min": 10,
       "condition": "zápor",
       "icon": "🌧️",
@@ -29,22 +29,6 @@
     },
     {
       "day": "Vasárnap",
-      "max": 27,
-      "min": 13,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
-      "day": "Hétfő",
-      "max": 26,
-      "min": 15,
-      "condition": "zápor",
-      "icon": "🌧️",
-      "alert": null
-    },
-    {
-      "day": "Kedd",
       "max": 28,
       "min": 13,
       "condition": "közepesen felhős",
@@ -52,8 +36,24 @@
       "alert": null
     },
     {
-      "day": "Szerda",
+      "day": "Hétfő",
+      "max": 24,
+      "min": 14,
+      "condition": "zivatar",
+      "icon": "⛈️",
+      "alert": null
+    },
+    {
+      "day": "Kedd",
       "max": 27,
+      "min": 12,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 26,
       "min": 14,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -61,10 +61,10 @@
     },
     {
       "day": "Csütörtök",
-      "max": 26,
+      "max": 27,
       "min": 14,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     }
   ],
