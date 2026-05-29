@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
-  "focim": "Napos májusi idő",
-  "updated": "2026.05.29. 17:26",
-  "flow_last_run": "2026.05.29. 17:26",
+  "fronthatas": "Hidegfront érkezik",
+  "focim": "Záporokat, kisebb esőt hozhat a hidegfront",
+  "updated": "2026.05.29. 20:18",
+  "flow_last_run": "2026.05.29. 20:18",
   "current": {
-    "temperature": 25,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 17,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Péntek",
-      "max": 25,
-      "min": 8,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Szombat",
       "max": 22,
@@ -30,9 +22,9 @@
     {
       "day": "Vasárnap",
       "max": 28,
-      "min": 13,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "min": 12,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
@@ -46,7 +38,7 @@
     {
       "day": "Kedd",
       "max": 27,
-      "min": 12,
+      "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -66,11 +58,19 @@
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
+    },
+    {
+      "day": "Péntek",
+      "max": 27,
+      "min": 15,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
     }
   ],
   "sun": {
     "sunrise": "4:39",
     "sunset": "20:18",
-    "is_night": false
+    "is_night": true
   }
 }
