@@ -1,27 +1,19 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
-  "focim": "Napos májusi idő",
-  "updated": "2026.05.29. 19:56",
-  "flow_last_run": "2026.05.29. 19:56",
+  "fronthatas": "Hidegfront érkezik",
+  "focim": "Záporokat, kisebb esőt hozhat a hidegfront",
+  "updated": "2026.05.29. 22:12",
+  "flow_last_run": "2026.05.29. 22:12",
   "current": {
-    "temperature": 20,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 15,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Péntek",
-      "max": 23,
-      "min": 9,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Szombat",
-      "max": 22,
+      "max": 21,
       "min": 11,
       "condition": "zápor",
       "icon": "🌧️",
@@ -31,8 +23,8 @@
       "day": "Vasárnap",
       "max": 28,
       "min": 12,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
@@ -46,7 +38,7 @@
     {
       "day": "Kedd",
       "max": 27,
-      "min": 12,
+      "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -66,11 +58,19 @@
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
+    },
+    {
+      "day": "Péntek",
+      "max": 27,
+      "min": 15,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
     }
   ],
   "sun": {
     "sunrise": "4:40",
     "sunset": "20:20",
-    "is_night": false
+    "is_night": true
   }
 }
