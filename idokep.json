@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Megszűnik a hidegfronti hatás",
-  "focim": "Záporokat, kisebb esőt hozhat a hidegfront",
-  "updated": "2026.05.30. 18:43",
-  "flow_last_run": "2026.05.30. 18:43",
+  "focim": "Mozgalmasabb napok jönnek",
+  "updated": "2026.05.30. 21:00",
+  "flow_last_run": "2026.05.30. 21:00",
   "current": {
-    "temperature": 21,
+    "temperature": 18,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Szombat",
-      "max": 25,
-      "min": 10,
-      "condition": "zápor",
-      "icon": "🌧️",
-      "alert": null
-    },
     {
       "day": "Vasárnap",
       "max": 28,
@@ -31,16 +23,16 @@
       "day": "Hétfő",
       "max": 24,
       "min": 14,
-      "condition": "erősen felhős",
-      "icon": "☁️",
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 27,
+      "max": 23,
       "min": 15,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     },
     {
@@ -55,8 +47,8 @@
       "day": "Csütörtök",
       "max": 27,
       "min": 14,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     },
     {
@@ -66,11 +58,19 @@
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
+    },
+    {
+      "day": "Szombat",
+      "max": 28,
+      "min": 15,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
     }
   ],
   "sun": {
     "sunrise": "4:39",
     "sunset": "20:21",
-    "is_night": false
+    "is_night": true
   }
 }
