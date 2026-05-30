@@ -1,14 +1,14 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Hidegfront érkezik",
+  "fronthatas": "Megszűnik a hidegfronti hatás",
   "focim": "Záporokat, kisebb esőt hozhat a hidegfront",
-  "updated": "2026.05.30. 17:35",
-  "flow_last_run": "2026.05.30. 17:35",
+  "updated": "2026.05.30. 18:42",
+  "flow_last_run": "2026.05.30. 18:42",
   "current": {
     "temperature": 22,
-    "condition": "Borult",
-    "icon": "☁️"
+    "condition": "Eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
