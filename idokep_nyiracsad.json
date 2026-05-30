@@ -3,22 +3,14 @@
   "location": "Nyiracsad",
   "fronthatas": "Megszűnik a hidegfronti hatás",
   "focim": "Mozgalmasabb napok jönnek",
-  "updated": "2026.05.30. 19:46",
-  "flow_last_run": "2026.05.30. 19:46",
+  "updated": "2026.05.30. 21:08",
+  "flow_last_run": "2026.05.30. 21:08",
   "current": {
-    "temperature": 18,
-    "condition": "Gyenge eső",
-    "icon": "🌧️"
+    "temperature": 16,
+    "condition": "Erősen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Szombat",
-      "max": 25,
-      "min": 9,
-      "condition": "zápor",
-      "icon": "🌧️",
-      "alert": null
-    },
     {
       "day": "Vasárnap",
       "max": 28,
@@ -31,16 +23,16 @@
       "day": "Hétfő",
       "max": 24,
       "min": 14,
-      "condition": "erősen felhős",
-      "icon": "☁️",
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 27,
+      "max": 23,
       "min": 15,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     },
     {
@@ -55,8 +47,8 @@
       "day": "Csütörtök",
       "max": 27,
       "min": 14,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     },
     {
@@ -66,11 +58,19 @@
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
+    },
+    {
+      "day": "Szombat",
+      "max": 28,
+      "min": 15,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
     }
   ],
   "sun": {
     "sunrise": "4:38",
     "sunset": "20:19",
-    "is_night": false
+    "is_night": true
   }
 }
