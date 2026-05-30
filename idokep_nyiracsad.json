@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfront érkezik",
   "focim": "Záporokat, kisebb esőt hozhat a hidegfront",
-  "updated": "2026.05.30. 04:49",
-  "flow_last_run": "2026.05.30. 04:49",
+  "updated": "2026.05.30. 08:21",
+  "flow_last_run": "2026.05.30. 08:21",
   "current": {
-    "temperature": 5,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 16,
+    "condition": "Borult",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
-      "max": 23,
-      "min": 5,
+      "max": 24,
+      "min": 9,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -22,7 +22,7 @@
     {
       "day": "Vasárnap",
       "max": 28,
-      "min": 14,
+      "min": 12,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -31,16 +31,16 @@
       "day": "Hétfő",
       "max": 24,
       "min": 14,
-      "condition": "zivatar",
-      "icon": "⛈️",
+      "condition": "erősen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
       "max": 27,
       "min": 15,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
