@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfront érkezik",
   "focim": "Záporokat, kisebb esőt hozhat a hidegfront",
-  "updated": "2026.05.30. 08:21",
-  "flow_last_run": "2026.05.30. 08:21",
+  "updated": "2026.05.30. 10:59",
+  "flow_last_run": "2026.05.30. 10:59",
   "current": {
-    "temperature": 16,
+    "temperature": 23,
     "condition": "Borult",
     "icon": "☁️"
   },
@@ -22,7 +22,7 @@
     {
       "day": "Vasárnap",
       "max": 28,
-      "min": 12,
+      "min": 13,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
