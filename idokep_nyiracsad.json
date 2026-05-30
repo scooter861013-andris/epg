@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Megszűnik a hidegfronti hatás",
   "focim": "Mozgalmasabb napok jönnek",
-  "updated": "2026.05.30. 23:31",
-  "flow_last_run": "2026.05.30. 23:31",
+  "updated": "2026.05.31. 00:37",
+  "flow_last_run": "2026.05.31. 00:37",
   "current": {
     "temperature": 15,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "condition": "Zivatar",
+    "icon": "⛈️"
   },
   "forecast_7d": [
     {
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "4:38",
-    "sunset": "20:19",
+    "sunset": "20:20",
     "is_night": true
   }
 }
