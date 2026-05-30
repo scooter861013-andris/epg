@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfront érkezik",
   "focim": "Záporokat, kisebb esőt hozhat a hidegfront",
-  "updated": "2026.05.30. 16:24",
-  "flow_last_run": "2026.05.30. 16:24",
+  "updated": "2026.05.30. 17:44",
+  "flow_last_run": "2026.05.30. 17:44",
   "current": {
-    "temperature": 23,
-    "condition": "Erősen felhős",
+    "temperature": 22,
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -22,7 +22,7 @@
     {
       "day": "Vasárnap",
       "max": 28,
-      "min": 14,
+      "min": 13,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
