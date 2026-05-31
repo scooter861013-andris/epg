@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás érvényesül",
   "focim": "Záporokkal, zivatarokkal indul a hét",
-  "updated": "2026.05.31. 20:16",
-  "flow_last_run": "2026.05.31. 20:16",
+  "updated": "2026.05.31. 21:48",
+  "flow_last_run": "2026.05.31. 21:48",
   "current": {
-    "temperature": 20,
+    "temperature": 18,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:38",
     "sunset": "20:20",
-    "is_night": false
+    "is_night": true
   }
 }
