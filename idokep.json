@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás érvényesül",
   "focim": "Záporokkal, zivatarokkal indul a hét",
-  "updated": "2026.05.31. 22:40",
-  "flow_last_run": "2026.05.31. 22:40",
+  "updated": "2026.05.31. 23:38",
+  "flow_last_run": "2026.05.31. 23:38",
   "current": {
-    "temperature": 20,
+    "temperature": 19,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Hétfő",
       "max": 26,
-      "min": 12,
+      "min": 14,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
