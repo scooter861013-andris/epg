@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Megszűnik a hidegfronti hatás",
   "focim": "Mozgalmasabb napok jönnek",
-  "updated": "2026.05.31. 13:12",
-  "flow_last_run": "2026.05.31. 13:12",
+  "updated": "2026.05.31. 14:20",
+  "flow_last_run": "2026.05.31. 14:20",
   "current": {
-    "temperature": 26,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "temperature": 24,
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 27,
+      "max": 26,
       "min": 13,
       "condition": "zápor",
       "icon": "🌧️",
