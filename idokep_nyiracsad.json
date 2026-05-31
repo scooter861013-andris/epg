@@ -1,50 +1,58 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Megszűnik a hidegfronti hatás",
-  "focim": "Mozgalmasabb napok jönnek",
-  "updated": "2026.05.31. 19:04",
-  "flow_last_run": "2026.05.31. 19:04",
+  "fronthatas": "Hidegfronti hatás érvényesül",
+  "focim": "Záporokkal, zivatarokkal indul a hét",
+  "updated": "2026.05.31. 20:16",
+  "flow_last_run": "2026.05.31. 20:16",
   "current": {
-    "temperature": 23,
-    "condition": "Közepesen felhős",
+    "temperature": 20,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Vasárnap",
-      "max": 24,
-      "min": 13,
-      "condition": "zápor",
-      "icon": "🌧️",
-      "alert": null
-    },
-    {
       "day": "Hétfő",
-      "max": 19,
-      "min": 16,
+      "max": 25,
+      "min": 13,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 20,
-      "min": 15,
+      "max": 26,
+      "min": 13,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 26,
-      "min": 14,
+      "max": 27,
+      "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
+      "max": 25,
+      "min": 15,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Péntek",
+      "max": 26,
+      "min": 13,
+      "condition": "erősen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szombat",
       "max": 27,
       "min": 14,
       "condition": "zápor",
@@ -52,19 +60,11 @@
       "alert": null
     },
     {
-      "day": "Péntek",
+      "day": "Vasárnap",
       "max": 27,
-      "min": 15,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
-      "day": "Szombat",
-      "max": 28,
-      "min": 15,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "min": 14,
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     }
   ],
