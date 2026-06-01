@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás érvényesül",
   "focim": "Záporokkal, zivatarokkal indul a hét",
-  "updated": "2026.06.01. 07:24",
-  "flow_last_run": "2026.06.01. 07:24",
+  "updated": "2026.06.01. 12:36",
+  "flow_last_run": "2026.06.01. 12:36",
   "current": {
-    "temperature": 17,
-    "condition": "Borult",
-    "icon": "☁️"
+    "temperature": 20,
+    "condition": "Eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
@@ -22,7 +22,7 @@
     {
       "day": "Kedd",
       "max": 27,
-      "min": 14,
+      "min": 16,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "4:38",
+    "sunrise": "4:37",
     "sunset": "20:21",
     "is_night": false
   }
