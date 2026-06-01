@@ -1,28 +1,20 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Hidegfronti hatás érvényesül",
-  "focim": "Záporokkal, zivatarokkal indul a hét",
-  "updated": "2026.06.01. 18:28",
-  "flow_last_run": "2026.06.01. 18:28",
+  "fronthatas": "Frontmentes kedd",
+  "focim": "Záporok, egy-egy zivatar kialakulhat",
+  "updated": "2026.06.01. 22:43",
+  "flow_last_run": "2026.06.01. 22:43",
   "current": {
-    "temperature": 18,
-    "condition": "Eső",
-    "icon": "🌧️"
+    "temperature": 16,
+    "condition": "Erősen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Hétfő",
-      "max": 24,
-      "min": 13,
-      "condition": "zivatar",
-      "icon": "⛈️",
-      "alert": null
-    },
-    {
       "day": "Kedd",
-      "max": 26,
-      "min": 15,
+      "max": 25,
+      "min": 14,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -30,7 +22,7 @@
     {
       "day": "Szerda",
       "max": 27,
-      "min": 13,
+      "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -66,11 +58,19 @@
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 28,
+      "min": 15,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
     }
   ],
   "sun": {
     "sunrise": "4:37",
     "sunset": "20:21",
-    "is_night": false
+    "is_night": true
   }
 }
