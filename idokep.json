@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Frontmentes kedd",
   "focim": "Záporok, egy-egy zivatar kialakulhat",
-  "updated": "2026.06.01. 23:52",
-  "flow_last_run": "2026.06.01. 23:52",
+  "updated": "2026.06.02. 01:21",
+  "flow_last_run": "2026.06.02. 01:21",
   "current": {
-    "temperature": 16,
-    "condition": "Eső",
+    "temperature": 15,
+    "condition": "Gyenge eső",
     "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
       "max": 26,
-      "min": 15,
+      "min": 14,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "4:38",
-    "sunset": "20:23",
+    "sunset": "20:24",
     "is_night": true
   }
 }
