@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Hidegfronti hatás érvényesül",
-  "focim": "Záporokkal, zivatarokkal indul a hét",
-  "updated": "2026.06.01. 14:48",
-  "flow_last_run": "2026.06.01. 14:48",
+  "fronthatas": "Frontmentes kedd",
+  "focim": "Záporok, egy-egy zivatar kialakulhat",
+  "updated": "2026.06.01. 20:32",
+  "flow_last_run": "2026.06.01. 20:32",
   "current": {
-    "temperature": 22,
-    "condition": "Borult",
-    "icon": "☁️"
+    "temperature": 17,
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
-    {
-      "day": "Hétfő",
-      "max": 21,
-      "min": 13,
-      "condition": "zivatar",
-      "icon": "⛈️",
-      "alert": null
-    },
     {
       "day": "Kedd",
       "max": 26,
@@ -30,7 +22,7 @@
     {
       "day": "Szerda",
       "max": 27,
-      "min": 14,
+      "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -66,11 +58,19 @@
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 28,
+      "min": 15,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
     }
   ],
   "sun": {
     "sunrise": "4:38",
     "sunset": "20:23",
-    "is_night": false
+    "is_night": true
   }
 }
