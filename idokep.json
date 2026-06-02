@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás várható",
   "focim": "Naposabb délelőtt, majd záporok, zivatarok jönnek",
-  "updated": "2026.06.02. 23:42",
-  "flow_last_run": "2026.06.02. 23:42",
+  "updated": "2026.06.03. 01:20",
+  "flow_last_run": "2026.06.03. 01:20",
   "current": {
-    "temperature": 18,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 17,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
       "max": 27,
-      "min": 15,
+      "min": 16,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
