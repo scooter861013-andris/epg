@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás várható",
   "focim": "Naposabb délelőtt, majd záporok, zivatarok jönnek",
-  "updated": "2026.06.02. 20:52",
-  "flow_last_run": "2026.06.02. 20:52",
+  "updated": "2026.06.02. 23:42",
+  "flow_last_run": "2026.06.02. 23:42",
   "current": {
-    "temperature": 20,
-    "condition": "Erősen felhős",
+    "temperature": 18,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -21,8 +21,8 @@
     },
     {
       "day": "Csütörtök",
-      "max": 22,
-      "min": 17,
+      "max": 21,
+      "min": 16,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
@@ -30,7 +30,7 @@
     {
       "day": "Péntek",
       "max": 27,
-      "min": 16,
+      "min": 15,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
