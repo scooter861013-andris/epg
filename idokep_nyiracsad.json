@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás várható",
   "focim": "Naposabb délelőtt, majd záporok, zivatarok jönnek",
-  "updated": "2026.06.02. 22:23",
-  "flow_last_run": "2026.06.02. 22:23",
+  "updated": "2026.06.03. 00:33",
+  "flow_last_run": "2026.06.03. 00:33",
   "current": {
-    "temperature": 15,
+    "temperature": 14,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
@@ -21,7 +21,7 @@
     },
     {
       "day": "Csütörtök",
-      "max": 22,
+      "max": 21,
       "min": 17,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "4:37",
-    "sunset": "20:22",
+    "sunset": "20:23",
     "is_night": true
   }
 }
