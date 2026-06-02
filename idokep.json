@@ -1,30 +1,22 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Frontmentes kedd",
-  "focim": "Záporok, egy-egy zivatar kialakulhat",
-  "updated": "2026.06.02. 17:07",
-  "flow_last_run": "2026.06.02. 17:07",
+  "fronthatas": "Hidegfronti hatás várható",
+  "focim": "Naposabb délelőtt, majd záporok, zivatarok jönnek",
+  "updated": "2026.06.02. 20:52",
+  "flow_last_run": "2026.06.02. 20:52",
   "current": {
-    "temperature": 25,
-    "condition": "Közepesen felhős",
+    "temperature": 20,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Kedd",
-      "max": 25,
-      "min": 14,
+      "day": "Szerda",
+      "max": 27,
+      "min": 15,
       "condition": "zápor",
       "icon": "🌧️",
-      "alert": null
-    },
-    {
-      "day": "Szerda",
-      "max": 26,
-      "min": 15,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
       "alert": null
     },
     {
@@ -37,24 +29,24 @@
     },
     {
       "day": "Péntek",
-      "max": 26,
-      "min": 13,
+      "max": 27,
+      "min": 16,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 27,
-      "min": 14,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "max": 26,
+      "min": 13,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
       "max": 27,
-      "min": 14,
+      "min": 12,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -62,15 +54,23 @@
     {
       "day": "Hétfő",
       "max": 28,
-      "min": 15,
+      "min": 13,
       "condition": "zápor",
       "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Kedd",
+      "max": 28,
+      "min": 14,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
   "sun": {
     "sunrise": "4:38",
     "sunset": "20:24",
-    "is_night": false
+    "is_night": true
   }
 }
