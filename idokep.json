@@ -1,12 +1,12 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Hidegfronti hatás várható",
-  "focim": "Naposabb délelőtt, majd záporok, zivatarok jönnek",
-  "updated": "2026.06.03. 04:03",
-  "flow_last_run": "2026.06.03. 04:03",
+  "fronthatas": "Kettősfronti hatás várható",
+  "focim": "Ma még kitart a napsütés",
+  "updated": "2026.06.03. 09:05",
+  "flow_last_run": "2026.06.03. 09:05",
   "current": {
-    "temperature": 16,
+    "temperature": 23,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
@@ -14,14 +14,14 @@
     {
       "day": "Szerda",
       "max": 27,
-      "min": 16,
+      "min": 15,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 21,
+      "max": 22,
       "min": 16,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:38",
     "sunset": "20:24",
-    "is_night": true
+    "is_night": false
   }
 }
