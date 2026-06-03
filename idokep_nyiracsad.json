@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás várható",
   "focim": "Naposabb délelőtt, majd záporok, zivatarok jönnek",
-  "updated": "2026.06.03. 00:33",
-  "flow_last_run": "2026.06.03. 00:33",
+  "updated": "2026.06.03. 02:16",
+  "flow_last_run": "2026.06.03. 02:16",
   "current": {
-    "temperature": 14,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 13,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
       "max": 27,
-      "min": 14,
+      "min": 13,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
