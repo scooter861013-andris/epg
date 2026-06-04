@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás várható",
   "focim": "Kissé szeles idő elszórt záporokkal",
-  "updated": "2026.06.04. 18:52",
-  "flow_last_run": "2026.06.04. 18:52",
+  "updated": "2026.06.04. 21:21",
+  "flow_last_run": "2026.06.04. 21:21",
   "current": {
-    "temperature": 24,
-    "condition": "Zápor",
-    "icon": "🌧️"
+    "temperature": 20,
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -30,31 +30,31 @@
     {
       "day": "Vasárnap",
       "max": 28,
-      "min": 16,
+      "min": 17,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 30,
+      "max": 29,
       "min": 15,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
       "max": 31,
-      "min": 16,
+      "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 25,
-      "min": 17,
+      "max": 26,
+      "min": 15,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
@@ -63,14 +63,14 @@
       "day": "Csütörtök",
       "max": 26,
       "min": 13,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     }
   ],
   "sun": {
     "sunrise": "4:36",
     "sunset": "20:24",
-    "is_night": false
+    "is_night": true
   }
 }
