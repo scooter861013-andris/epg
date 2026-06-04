@@ -2,11 +2,11 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
-  "focim": "Eső, zápor, zivatar még több helyen előfordulhat",
-  "updated": "2026.06.04. 07:18",
-  "flow_last_run": "2026.06.04. 07:18",
+  "focim": "Gomolyos idő helyenként záporokkal",
+  "updated": "2026.06.04. 11:07",
+  "flow_last_run": "2026.06.04. 11:07",
   "current": {
-    "temperature": 20,
+    "temperature": 23,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
@@ -15,8 +15,8 @@
       "day": "Csütörtök",
       "max": 24,
       "min": 16,
-      "condition": "zivatar",
-      "icon": "⛈️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "day": "Szombat",
-      "max": 26,
+      "max": 25,
       "min": 13,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -37,10 +37,10 @@
     },
     {
       "day": "Vasárnap",
-      "max": 28,
+      "max": 27,
       "min": 13,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
