@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás várható",
   "focim": "Kissé szeles idő elszórt záporokkal",
-  "updated": "2026.06.04. 20:09",
-  "flow_last_run": "2026.06.04. 20:09",
+  "updated": "2026.06.04. 22:21",
+  "flow_last_run": "2026.06.04. 22:21",
   "current": {
-    "temperature": 22,
-    "condition": "Száraz zivatar",
-    "icon": "⛈️"
+    "temperature": 19,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:37",
     "sunset": "20:25",
-    "is_night": false
+    "is_night": true
   }
 }
