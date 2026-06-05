@@ -2,21 +2,21 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás várható",
-  "focim": "Kissé szeles idő elszórt záporokkal",
-  "updated": "2026.06.05. 06:53",
-  "flow_last_run": "2026.06.05. 06:53",
+  "focim": "Felhősebb, kissé szeles idő",
+  "updated": "2026.06.05. 10:38",
+  "flow_last_run": "2026.06.05. 10:38",
   "current": {
-    "temperature": 18,
+    "temperature": 25,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 25,
+      "max": 26,
       "min": 15,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
@@ -39,7 +39,7 @@
       "day": "Hétfő",
       "max": 29,
       "min": 15,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -54,15 +54,15 @@
     {
       "day": "Szerda",
       "max": 26,
-      "min": 15,
+      "min": 16,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 26,
-      "min": 13,
+      "max": 25,
+      "min": 14,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
