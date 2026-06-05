@@ -3,11 +3,11 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás várható",
   "focim": "Felhősebb, kissé szeles idő",
-  "updated": "2026.06.05. 09:54",
-  "flow_last_run": "2026.06.05. 09:54",
+  "updated": "2026.06.05. 13:25",
+  "flow_last_run": "2026.06.05. 13:25",
   "current": {
-    "temperature": 24,
-    "condition": "Erősen felhős",
+    "temperature": 25,
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -21,7 +21,7 @@
     },
     {
       "day": "Szombat",
-      "max": 22,
+      "max": 23,
       "min": 17,
       "condition": "zápor",
       "icon": "🌧️",
@@ -63,13 +63,13 @@
       "day": "Csütörtök",
       "max": 25,
       "min": 14,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     }
   ],
   "sun": {
-    "sunrise": "4:36",
+    "sunrise": "4:35",
     "sunset": "20:25",
     "is_night": false
   }
