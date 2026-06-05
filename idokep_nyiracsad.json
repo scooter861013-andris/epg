@@ -2,21 +2,21 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás várható",
-  "focim": "Kissé szeles idő elszórt záporokkal",
-  "updated": "2026.06.05. 05:31",
-  "flow_last_run": "2026.06.05. 05:31",
+  "focim": "Felhősebb, kissé szeles idő",
+  "updated": "2026.06.05. 09:54",
+  "flow_last_run": "2026.06.05. 09:54",
   "current": {
-    "temperature": 14,
-    "condition": "Gyengén felhős",
+    "temperature": 24,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 23,
-      "min": 14,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "max": 26,
+      "min": 15,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
@@ -39,7 +39,7 @@
       "day": "Hétfő",
       "max": 29,
       "min": 15,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -54,17 +54,17 @@
     {
       "day": "Szerda",
       "max": 26,
-      "min": 15,
+      "min": 16,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 26,
-      "min": 13,
-      "condition": "zivatar",
-      "icon": "⛈️",
+      "max": 25,
+      "min": 14,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     }
   ],
