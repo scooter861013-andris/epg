@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Elszórtan zápor, zivatar kialakulhat",
-  "updated": "2026.06.06. 12:19",
-  "flow_last_run": "2026.06.06. 12:19",
+  "updated": "2026.06.06. 13:50",
+  "flow_last_run": "2026.06.06. 13:50",
   "current": {
-    "temperature": 18,
-    "condition": "Gyenge eső",
-    "icon": "🌧️"
+    "temperature": 21,
+    "condition": "Erősen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
-      "max": 26,
+      "max": 24,
       "min": 14,
       "condition": "zápor",
       "icon": "🌧️",
