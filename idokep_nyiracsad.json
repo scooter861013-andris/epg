@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Frontmentes idő",
   "focim": "Medárd ezúttal nem hoz esőt",
-  "updated": "2026.06.08. 00:17",
-  "flow_last_run": "2026.06.08. 00:17",
+  "updated": "2026.06.08. 01:34",
+  "flow_last_run": "2026.06.08. 01:34",
   "current": {
-    "temperature": 13,
+    "temperature": 12,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Hétfő",
       "max": 27,
-      "min": 13,
+      "min": 12,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
