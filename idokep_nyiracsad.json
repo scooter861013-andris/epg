@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Frontmentes idő",
   "focim": "Medárd ezúttal nem hoz esőt",
-  "updated": "2026.06.07. 20:01",
-  "flow_last_run": "2026.06.07. 20:01",
+  "updated": "2026.06.07. 21:45",
+  "flow_last_run": "2026.06.07. 21:45",
   "current": {
-    "temperature": 22,
-    "condition": "Közepesen felhős",
-    "icon": "☁️"
+    "temperature": 16,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 27,
-      "min": 15,
+      "max": 28,
+      "min": 14,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -29,7 +29,7 @@
     },
     {
       "day": "Szerda",
-      "max": 27,
+      "max": 32,
       "min": 17,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -37,24 +37,24 @@
     },
     {
       "day": "Csütörtök",
-      "max": 24,
-      "min": 13,
-      "condition": "zivatar",
-      "icon": "⛈️",
+      "max": 23,
+      "min": 17,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 26,
+      "max": 24,
       "min": 12,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 27,
-      "min": 14,
+      "max": 25,
+      "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -62,15 +62,15 @@
     {
       "day": "Vasárnap",
       "max": 27,
-      "min": 15,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "min": 13,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
   "sun": {
     "sunrise": "4:34",
     "sunset": "20:26",
-    "is_night": false
+    "is_night": true
   }
 }
