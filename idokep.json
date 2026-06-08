@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hideg- és melegfronti tünetek",
   "focim": "Kánikula, gomolyfelhős idő a közeledő front előtt",
-  "updated": "2026.06.08. 23:05",
-  "flow_last_run": "2026.06.08. 23:05",
+  "updated": "2026.06.09. 00:47",
+  "flow_last_run": "2026.06.09. 00:47",
   "current": {
-    "temperature": 18,
+    "temperature": 16,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 30,
-      "min": 16,
+      "max": 31,
+      "min": 14,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -29,8 +29,8 @@
     },
     {
       "day": "Csütörtök",
-      "max": 25,
-      "min": 17,
+      "max": 21,
+      "min": 18,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "4:35",
-    "sunset": "20:28",
+    "sunset": "20:29",
     "is_night": true
   }
 }
