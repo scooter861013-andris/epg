@@ -1,35 +1,27 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Frontmentes idő",
-  "focim": "Medárd ezúttal nem hoz esőt",
-  "updated": "2026.06.08. 18:17",
-  "flow_last_run": "2026.06.08. 18:17",
+  "fronthatas": "Hideg- és melegfronti tünetek",
+  "focim": "Kánikula, gomolyfelhős idő a közeledő front előtt",
+  "updated": "2026.06.08. 20:40",
+  "flow_last_run": "2026.06.08. 20:40",
   "current": {
-    "temperature": 27,
+    "temperature": 22,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
-      "day": "Hétfő",
-      "max": 27,
-      "min": 15,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Kedd",
       "max": 30,
-      "min": 15,
+      "min": 16,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 32,
+      "max": 30,
       "min": 18,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -45,24 +37,32 @@
     },
     {
       "day": "Péntek",
-      "max": 23,
+      "max": 22,
       "min": 12,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 22,
-      "min": 12,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "max": 23,
+      "min": 11,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 23,
-      "min": 11,
+      "max": 24,
+      "min": 12,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 25,
+      "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:35",
     "sunset": "20:28",
-    "is_night": false
+    "is_night": true
   }
 }
