@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Hideg- és melegfronti tünetek",
   "focim": "Kánikula, gomolyfelhős idő a közeledő front előtt",
-  "updated": "2026.06.09. 00:14",
-  "flow_last_run": "2026.06.09. 00:14",
+  "updated": "2026.06.09. 01:38",
+  "flow_last_run": "2026.06.09. 01:38",
   "current": {
-    "temperature": 13,
+    "temperature": 12,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Kedd",
       "max": 30,
-      "min": 13,
+      "min": 12,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
