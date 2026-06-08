@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Frontmentes idő",
   "focim": "Medárd ezúttal nem hoz esőt",
-  "updated": "2026.06.08. 14:07",
-  "flow_last_run": "2026.06.08. 14:07",
+  "updated": "2026.06.08. 18:17",
+  "flow_last_run": "2026.06.08. 18:17",
   "current": {
-    "temperature": 28,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "temperature": 27,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 28,
+      "max": 27,
       "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
