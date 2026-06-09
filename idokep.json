@@ -2,29 +2,21 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Egyre inkább hidegfronti tünetek",
-  "focim": "Kánikula, gomolyfelhős idő a közeledő front előtt",
-  "updated": "2026.06.09. 18:19",
-  "flow_last_run": "2026.06.09. 18:19",
+  "focim": "Hullámot vet felettünk a front",
+  "updated": "2026.06.09. 20:27",
+  "flow_last_run": "2026.06.09. 20:27",
   "current": {
-    "temperature": 29,
-    "condition": "Erősen felhős",
+    "temperature": 25,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Kedd",
-      "max": 30,
-      "min": 14,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Szerda",
       "max": 29,
       "min": 18,
-      "condition": "zivatar",
-      "icon": "⛈️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
@@ -62,6 +54,14 @@
     {
       "day": "Hétfő",
       "max": 24,
+      "min": 12,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Kedd",
+      "max": 26,
       "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
