@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Egyre inkább hidegfronti tünetek",
   "focim": "Hullámot vet felettünk a front",
-  "updated": "2026.06.09. 22:26",
-  "flow_last_run": "2026.06.09. 22:26",
+  "updated": "2026.06.10. 00:03",
+  "flow_last_run": "2026.06.10. 00:03",
   "current": {
-    "temperature": 21,
-    "condition": "Erősen felhős",
+    "temperature": 19,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "4:35",
-    "sunset": "20:29",
+    "sunset": "20:30",
     "is_night": true
   }
 }
