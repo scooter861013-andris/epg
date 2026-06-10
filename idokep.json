@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Egyre inkább hidegfronti tünetek",
   "focim": "Hullámot vet felettünk a front",
-  "updated": "2026.06.10. 12:38",
-  "flow_last_run": "2026.06.10. 12:38",
+  "updated": "2026.06.10. 15:59",
+  "flow_last_run": "2026.06.10. 15:59",
   "current": {
-    "temperature": 31,
+    "temperature": 27,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 32,
+      "max": 31,
       "min": 14,
       "condition": "zápor",
       "icon": "🌧️",
@@ -22,7 +22,7 @@
     {
       "day": "Csütörtök",
       "max": 26,
-      "min": 15,
+      "min": 16,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
