@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti tünetek",
   "focim": "Szeles csütörtök záporokkal",
-  "updated": "2026.06.10. 21:57",
-  "flow_last_run": "2026.06.10. 21:57",
+  "updated": "2026.06.11. 00:04",
+  "flow_last_run": "2026.06.11. 00:04",
   "current": {
-    "temperature": 20,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 19,
+    "condition": "Eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
       "max": 25,
-      "min": 15,
+      "min": 16,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "4:34",
-    "sunset": "20:28",
+    "sunset": "20:29",
     "is_night": true
   }
 }
