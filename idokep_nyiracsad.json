@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Egyre inkább hidegfronti tünetek",
   "focim": "Hullámot vet felettünk a front",
-  "updated": "2026.06.10. 12:31",
-  "flow_last_run": "2026.06.10. 12:31",
+  "updated": "2026.06.10. 16:01",
+  "flow_last_run": "2026.06.10. 16:01",
   "current": {
-    "temperature": 32,
-    "condition": "Közepesen felhős",
-    "icon": "☁️"
+    "temperature": 23,
+    "condition": "Eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 33,
+      "max": 31,
       "min": 14,
       "condition": "zápor",
       "icon": "🌧️",
@@ -22,7 +22,7 @@
     {
       "day": "Csütörtök",
       "max": 25,
-      "min": 17,
+      "min": 16,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
