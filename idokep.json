@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Elszórtan zápor, esetleg zivatar kialakulhat",
-  "updated": "2026.06.11. 22:41",
-  "flow_last_run": "2026.06.11. 22:41",
+  "updated": "2026.06.12. 00:27",
+  "flow_last_run": "2026.06.12. 00:27",
   "current": {
-    "temperature": 17,
-    "condition": "Borult",
-    "icon": "☁️"
+    "temperature": 15,
+    "condition": "Eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "4:34",
-    "sunset": "20:30",
+    "sunset": "20:31",
     "is_night": true
   }
 }
