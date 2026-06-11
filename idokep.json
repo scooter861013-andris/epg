@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti tünetek",
   "focim": "Szeles csütörtök záporokkal",
-  "updated": "2026.06.11. 06:46",
-  "flow_last_run": "2026.06.11. 06:46",
+  "updated": "2026.06.11. 08:47",
+  "flow_last_run": "2026.06.11. 08:47",
   "current": {
-    "temperature": 18,
-    "condition": "Zivatar",
-    "icon": "⛈️"
+    "temperature": 16,
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "max": 22,
+      "max": 25,
       "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -37,10 +37,10 @@
     },
     {
       "day": "Vasárnap",
-      "max": 25,
+      "max": 26,
       "min": 13,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "day": "Szerda",
-      "max": 29,
+      "max": 30,
       "min": 14,
       "condition": "gyengén felhős",
       "icon": "☁️",
