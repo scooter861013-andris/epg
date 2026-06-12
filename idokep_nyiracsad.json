@@ -3,11 +3,11 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Elszórtan zápor, esetleg zivatar kialakulhat",
-  "updated": "2026.06.12. 08:18",
-  "flow_last_run": "2026.06.12. 08:18",
+  "updated": "2026.06.12. 12:47",
+  "flow_last_run": "2026.06.12. 12:47",
   "current": {
-    "temperature": 16,
-    "condition": "Gyengén felhős",
+    "temperature": 22,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -21,7 +21,7 @@
     },
     {
       "day": "Szombat",
-      "max": 25,
+      "max": 24,
       "min": 8,
       "condition": "zápor",
       "icon": "🌧️",
@@ -39,8 +39,8 @@
       "day": "Hétfő",
       "max": 24,
       "min": 10,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
