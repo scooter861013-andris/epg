@@ -2,34 +2,26 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
-  "focim": "Elszórtan zápor, esetleg zivatar kialakulhat",
-  "updated": "2026.06.12. 17:45",
-  "flow_last_run": "2026.06.12. 17:45",
+  "focim": "Elszórtan futó zápor kialakulhat",
+  "updated": "2026.06.12. 19:59",
+  "flow_last_run": "2026.06.12. 19:59",
   "current": {
-    "temperature": 20,
-    "condition": "Közepesen felhős",
+    "temperature": 19,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Péntek",
-      "max": 23,
-      "min": 11,
-      "condition": "zápor",
-      "icon": "🌧️",
-      "alert": null
-    },
-    {
       "day": "Szombat",
       "max": 25,
-      "min": 9,
+      "min": 8,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 27,
+      "max": 28,
       "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -37,7 +29,7 @@
     },
     {
       "day": "Hétfő",
-      "max": 24,
+      "max": 25,
       "min": 10,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -46,16 +38,16 @@
     {
       "day": "Kedd",
       "max": 26,
-      "min": 11,
-      "condition": "gyengén felhős",
+      "min": 9,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
       "max": 29,
-      "min": 13,
-      "condition": "közepesen felhős",
+      "min": 12,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -65,6 +57,14 @@
       "min": 15,
       "condition": "gyengén felhős",
       "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Péntek",
+      "max": 34,
+      "min": 18,
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     }
   ],
