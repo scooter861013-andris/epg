@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás",
   "focim": "Hidegfront hoz helyenként záport",
-  "updated": "2026.06.13. 23:51",
-  "flow_last_run": "2026.06.13. 23:51",
+  "updated": "2026.06.14. 00:55",
+  "flow_last_run": "2026.06.14. 00:55",
   "current": {
-    "temperature": 17,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 16,
+    "condition": "Száraz zivatar",
+    "icon": "⛈️"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
       "max": 27,
-      "min": 11,
+      "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
