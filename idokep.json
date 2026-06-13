@@ -1,19 +1,19 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
+  "fronthatas": "Hidegfronti hatás",
   "focim": "Helyenként zápor, zivatar kialakulhat",
-  "updated": "2026.06.13. 17:08",
-  "flow_last_run": "2026.06.13. 17:08",
+  "updated": "2026.06.13. 18:43",
+  "flow_last_run": "2026.06.13. 18:43",
   "current": {
-    "temperature": 25,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "temperature": 24,
+    "condition": "Száraz zivatar",
+    "icon": "⛈️"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
-      "max": 26,
+      "max": 25,
       "min": 8,
       "condition": "zivatar",
       "icon": "⛈️",
