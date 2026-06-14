@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Megszűnő hidegfronti hatás",
   "focim": "Szeles, mérsékelten meleg hétfő",
-  "updated": "2026.06.15. 00:20",
-  "flow_last_run": "2026.06.15. 00:20",
+  "updated": "2026.06.15. 01:43",
+  "flow_last_run": "2026.06.15. 01:43",
   "current": {
     "temperature": 13,
-    "condition": "Derült",
-    "icon": "🌙"
+    "condition": "Köd",
+    "icon": "🌫️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
       "max": 24,
-      "min": 11,
+      "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
