@@ -3,25 +3,25 @@
   "location": "Nyiracsad",
   "fronthatas": "Megszűnő hidegfronti hatás",
   "focim": "Szeles, mérsékelten meleg hétfő",
-  "updated": "2026.06.15. 04:04",
-  "flow_last_run": "2026.06.15. 04:04",
+  "updated": "2026.06.15. 09:37",
+  "flow_last_run": "2026.06.15. 09:37",
   "current": {
-    "temperature": 10,
-    "condition": "Borult",
+    "temperature": 18,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
       "max": 24,
-      "min": 10,
+      "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 26,
+      "max": 27,
       "min": 13,
       "condition": "derült",
       "icon": "🌙",
@@ -37,7 +37,7 @@
     },
     {
       "day": "Csütörtök",
-      "max": 31,
+      "max": 29,
       "min": 15,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:33",
     "sunset": "20:31",
-    "is_night": true
+    "is_night": false
   }
 }
