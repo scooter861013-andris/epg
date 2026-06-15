@@ -1,36 +1,28 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Megszűnő hidegfronti hatás",
-  "focim": "Szeles, mérsékelten meleg hétfő",
-  "updated": "2026.06.15. 15:37",
-  "flow_last_run": "2026.06.15. 15:37",
+  "fronthatas": "Nem várható fronthatás",
+  "focim": "Kellemes nyári időt hoz a kedd",
+  "updated": "2026.06.15. 20:13",
+  "flow_last_run": "2026.06.15. 20:13",
   "current": {
-    "temperature": 24,
-    "condition": "Közepesen felhős",
+    "temperature": 19,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Hétfő",
-      "max": 24,
-      "min": 11,
-      "condition": "közepesen felhős",
+      "day": "Kedd",
+      "max": 27,
+      "min": 13,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
-      "day": "Kedd",
-      "max": 27,
-      "min": 13,
-      "condition": "derült",
-      "icon": "🌙",
-      "alert": null
-    },
-    {
       "day": "Szerda",
-      "max": 29,
-      "min": 13,
+      "max": 26,
+      "min": 16,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
@@ -38,30 +30,38 @@
     {
       "day": "Csütörtök",
       "max": 29,
-      "min": 15,
-      "condition": "gyengén felhős",
+      "min": 14,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
       "max": 33,
-      "min": 16,
-      "condition": "derült",
-      "icon": "🌙",
+      "min": 15,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 35,
-      "min": 18,
+      "max": 34,
+      "min": 17,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 36,
+      "max": 35,
+      "min": 19,
+      "condition": "derült",
+      "icon": "🌙",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 35,
       "min": 20,
       "condition": "gyengén felhős",
       "icon": "☁️",
