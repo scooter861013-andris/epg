@@ -2,26 +2,18 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
-  "focim": "Kellemes nyári időt hoz a kedd",
-  "updated": "2026.06.16. 14:24",
-  "flow_last_run": "2026.06.16. 14:24",
+  "focim": "Záporok, zivatarok frissíthetnek",
+  "updated": "2026.06.16. 19:28",
+  "flow_last_run": "2026.06.16. 19:28",
   "current": {
-    "temperature": 28,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 25,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
-      "day": "Kedd",
-      "max": 29,
-      "min": 14,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Szerda",
-      "max": 27,
+      "max": 26,
       "min": 16,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -30,7 +22,7 @@
     {
       "day": "Csütörtök",
       "max": 29,
-      "min": 15,
+      "min": 16,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -55,13 +47,21 @@
       "day": "Vasárnap",
       "max": 35,
       "min": 19,
-      "condition": "derült",
-      "icon": "🌙",
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
       "max": 35,
+      "min": 20,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Kedd",
+      "max": 34,
       "min": 20,
       "condition": "gyengén felhős",
       "icon": "☁️",
