@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Kellemes nyári időt hoz a kedd",
-  "updated": "2026.06.16. 09:41",
-  "flow_last_run": "2026.06.16. 09:41",
+  "updated": "2026.06.16. 14:31",
+  "flow_last_run": "2026.06.16. 14:31",
   "current": {
-    "temperature": 20,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 26,
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -30,7 +30,7 @@
     {
       "day": "Csütörtök",
       "max": 29,
-      "min": 15,
+      "min": 14,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
