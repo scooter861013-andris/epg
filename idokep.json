@@ -3,26 +3,26 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Kellemes nyári időt hoz a kedd",
-  "updated": "2026.06.16. 03:47",
-  "flow_last_run": "2026.06.16. 03:47",
+  "updated": "2026.06.16. 09:15",
+  "flow_last_run": "2026.06.16. 09:15",
   "current": {
-    "temperature": 15,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 23,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
       "max": 27,
-      "min": 15,
+      "min": 14,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 25,
-      "min": 15,
+      "max": 26,
+      "min": 16,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:34",
     "sunset": "20:33",
-    "is_night": true
+    "is_night": false
   }
 }
