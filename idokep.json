@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Záporok, zivatarok frissíthetnek",
-  "updated": "2026.06.17. 22:54",
-  "flow_last_run": "2026.06.17. 22:54",
+  "updated": "2026.06.18. 00:40",
+  "flow_last_run": "2026.06.18. 00:40",
   "current": {
-    "temperature": 18,
-    "condition": "Erősen felhős",
+    "temperature": 16,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "4:34",
-    "sunset": "20:33",
+    "sunset": "20:34",
     "is_night": true
   }
 }
