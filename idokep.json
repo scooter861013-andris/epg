@@ -3,26 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Záporok, zivatarok frissíthetnek",
-  "updated": "2026.06.17. 14:33",
-  "flow_last_run": "2026.06.17. 14:33",
+  "updated": "2026.06.17. 18:26",
+  "flow_last_run": "2026.06.17. 18:26",
   "current": {
-    "temperature": 28,
+    "temperature": 23,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Szerda",
-      "max": 29,
-      "min": 12,
-      "condition": "zivatar",
-      "icon": "⛈️",
-      "alert": null
-    },
-    {
       "day": "Csütörtök",
       "max": 29,
-      "min": 12,
+      "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -30,7 +22,7 @@
     {
       "day": "Péntek",
       "max": 31,
-      "min": 13,
+      "min": 16,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -46,7 +38,7 @@
     {
       "day": "Vasárnap",
       "max": 35,
-      "min": 19,
+      "min": 18,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -65,6 +57,14 @@
       "min": 19,
       "condition": "gyengén felhős",
       "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 35,
+      "min": 19,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     }
   ],
