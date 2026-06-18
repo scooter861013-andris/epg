@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Tovább fokozódik a kánikula",
-  "updated": "2026.06.18. 21:39",
-  "flow_last_run": "2026.06.18. 21:39",
+  "updated": "2026.06.18. 23:49",
+  "flow_last_run": "2026.06.18. 23:49",
   "current": {
-    "temperature": 17,
+    "temperature": 15,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Péntek",
       "max": 31,
-      "min": 13,
+      "min": 12,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
