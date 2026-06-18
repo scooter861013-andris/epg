@@ -2,50 +2,42 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
-  "focim": "Záporok, zivatarok frissíthetnek",
-  "updated": "2026.06.18. 16:07",
-  "flow_last_run": "2026.06.18. 16:07",
+  "focim": "Tovább fokozódik a kánikula",
+  "updated": "2026.06.18. 19:28",
+  "flow_last_run": "2026.06.18. 19:28",
   "current": {
-    "temperature": 28,
-    "condition": "Erősen felhős",
+    "temperature": 25,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Csütörtök",
-      "max": 29,
-      "min": 14,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Péntek",
       "max": 31,
-      "min": 16,
+      "min": 13,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 34,
-      "min": 17,
-      "condition": "közepesen felhős",
+      "max": 33,
+      "min": 16,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
       "max": 35,
-      "min": 18,
+      "min": 17,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 33,
+      "max": 34,
       "min": 19,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -53,8 +45,8 @@
     },
     {
       "day": "Kedd",
-      "max": 34,
-      "min": 19,
+      "max": 33,
+      "min": 18,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -62,9 +54,17 @@
     {
       "day": "Szerda",
       "max": 35,
-      "min": 19,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "min": 17,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "max": 34,
+      "min": 18,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
