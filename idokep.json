@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Tovább fokozódik a kánikula",
-  "updated": "2026.06.18. 23:10",
-  "flow_last_run": "2026.06.18. 23:10",
+  "updated": "2026.06.19. 01:02",
+  "flow_last_run": "2026.06.19. 01:02",
   "current": {
-    "temperature": 18,
+    "temperature": 17,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Péntek",
       "max": 31,
-      "min": 13,
+      "min": 15,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
