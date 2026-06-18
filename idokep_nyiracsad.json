@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Záporok, zivatarok frissíthetnek",
-  "updated": "2026.06.18. 01:07",
-  "flow_last_run": "2026.06.18. 01:07",
+  "updated": "2026.06.18. 03:41",
+  "flow_last_run": "2026.06.18. 03:41",
   "current": {
-    "temperature": 16,
+    "temperature": 13,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Csütörtök",
       "max": 29,
-      "min": 14,
+      "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
