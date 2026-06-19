@@ -3,25 +3,25 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Tovább fokozódik a kánikula",
-  "updated": "2026.06.19. 04:31",
-  "flow_last_run": "2026.06.19. 04:31",
+  "updated": "2026.06.19. 10:18",
+  "flow_last_run": "2026.06.19. 10:18",
   "current": {
-    "temperature": 13,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 29,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 31,
-      "min": 13,
-      "condition": "gyengén felhős",
+      "max": 32,
+      "min": 15,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 33,
+      "max": 34,
       "min": 16,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -31,16 +31,16 @@
       "day": "Vasárnap",
       "max": 35,
       "min": 17,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 34,
+      "max": 33,
       "min": 19,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     },
     {
@@ -54,7 +54,7 @@
     {
       "day": "Szerda",
       "max": 35,
-      "min": 17,
+      "min": 18,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -62,15 +62,15 @@
     {
       "day": "Csütörtök",
       "max": 34,
-      "min": 18,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "min": 19,
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     }
   ],
   "sun": {
     "sunrise": "4:33",
     "sunset": "20:33",
-    "is_night": true
+    "is_night": false
   }
 }
