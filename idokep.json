@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
-  "focim": "Tovább fokozódik a kánikula",
-  "updated": "2026.06.19. 18:45",
-  "flow_last_run": "2026.06.19. 18:45",
+  "focim": "Hőséget és zivatarokat tartogat a hétvége",
+  "updated": "2026.06.19. 20:28",
+  "flow_last_run": "2026.06.19. 20:28",
   "current": {
-    "temperature": 30,
-    "condition": "Erősen felhős",
+    "temperature": 26,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Péntek",
-      "max": 32,
-      "min": 15,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Szombat",
       "max": 34,
@@ -53,7 +45,7 @@
     },
     {
       "day": "Szerda",
-      "max": 35,
+      "max": 34,
       "min": 18,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -61,8 +53,16 @@
     },
     {
       "day": "Csütörtök",
-      "max": 34,
+      "max": 35,
       "min": 19,
+      "condition": "derült",
+      "icon": "🌙",
+      "alert": null
+    },
+    {
+      "day": "Péntek",
+      "max": 34,
+      "min": 18,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
