@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Hőséget és zivatarokat tartogat a hétvége",
-  "updated": "2026.06.19. 21:46",
-  "flow_last_run": "2026.06.19. 21:46",
+  "updated": "2026.06.19. 23:07",
+  "flow_last_run": "2026.06.19. 23:07",
   "current": {
-    "temperature": 19,
+    "temperature": 18,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Szombat",
       "max": 34,
-      "min": 16,
+      "min": 15,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
