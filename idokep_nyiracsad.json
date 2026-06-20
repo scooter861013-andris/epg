@@ -3,11 +3,11 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Kánikula és zivatarok zárják a hetet",
-  "updated": "2026.06.20. 20:08",
-  "flow_last_run": "2026.06.20. 20:08",
+  "updated": "2026.06.20. 23:18",
+  "flow_last_run": "2026.06.20. 23:18",
   "current": {
-    "temperature": 26,
-    "condition": "Erősen felhős",
+    "temperature": 22,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:34",
     "sunset": "20:33",
-    "is_night": false
+    "is_night": true
   }
 }
