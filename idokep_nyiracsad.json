@@ -3,26 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Forró, de frontmentes idő",
   "focim": "Kánikula és zivatarok nyitják a hetet",
-  "updated": "2026.06.21. 19:02",
-  "flow_last_run": "2026.06.21. 19:02",
+  "updated": "2026.06.21. 20:49",
+  "flow_last_run": "2026.06.21. 20:49",
   "current": {
-    "temperature": 26,
-    "condition": "Borult",
-    "icon": "☁️"
+    "temperature": 24,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
-      "day": "Vasárnap",
-      "max": 34,
-      "min": 18,
-      "condition": "zápor",
-      "icon": "🌧️",
-      "alert": null
-    },
-    {
       "day": "Hétfő",
       "max": 33,
-      "min": 19,
+      "min": 17,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
@@ -31,8 +23,8 @@
       "day": "Kedd",
       "max": 32,
       "min": 18,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
@@ -61,8 +53,16 @@
     },
     {
       "day": "Szombat",
-      "max": 34,
+      "max": 35,
       "min": 19,
+      "condition": "derült",
+      "icon": "🌙",
+      "alert": null
+    },
+    {
+      "day": "Vasárnap",
+      "max": 36,
+      "min": 18,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:34",
     "sunset": "20:33",
-    "is_night": false
+    "is_night": true
   }
 }
