@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Kánikula és zivatarok zárják a hetet",
-  "updated": "2026.06.21. 04:04",
-  "flow_last_run": "2026.06.21. 04:04",
+  "updated": "2026.06.21. 09:05",
+  "flow_last_run": "2026.06.21. 09:05",
   "current": {
-    "temperature": 20,
+    "temperature": 30,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 34,
-      "min": 21,
+      "max": 35,
+      "min": 17,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:35",
     "sunset": "20:35",
-    "is_night": true
+    "is_night": false
   }
 }
