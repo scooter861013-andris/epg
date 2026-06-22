@@ -3,22 +3,14 @@
   "location": "Nyiracsad",
   "fronthatas": "A kánikula okozhat panaszokat",
   "focim": "Már csak néhol lehet frissítő zápor, zivatar",
-  "updated": "2026.06.22. 19:48",
-  "flow_last_run": "2026.06.22. 19:48",
+  "updated": "2026.06.22. 22:42",
+  "flow_last_run": "2026.06.22. 22:42",
   "current": {
-    "temperature": 22,
-    "condition": "Erősen felhős",
+    "temperature": 19,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Hétfő",
-      "max": 30,
-      "min": 20,
-      "condition": "zivatar",
-      "icon": "⛈️",
-      "alert": null
-    },
     {
       "day": "Kedd",
       "max": 29,
@@ -29,7 +21,7 @@
     },
     {
       "day": "Szerda",
-      "max": 34,
+      "max": 33,
       "min": 18,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -37,8 +29,8 @@
     },
     {
       "day": "Csütörtök",
-      "max": 34,
-      "min": 17,
+      "max": 33,
+      "min": 16,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -46,23 +38,31 @@
     {
       "day": "Péntek",
       "max": 35,
-      "min": 18,
+      "min": 17,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 35,
-      "min": 19,
+      "max": 36,
+      "min": 18,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 36,
-      "min": 18,
+      "max": 37,
+      "min": 19,
+      "condition": "derült",
+      "icon": "🌙",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 38,
+      "min": 20,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:34",
     "sunset": "20:33",
-    "is_night": false
+    "is_night": true
   }
 }
