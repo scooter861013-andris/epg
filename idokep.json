@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Forró, de frontmentes idő",
   "focim": "Kánikula és zivatarok nyitják a hetet",
-  "updated": "2026.06.22. 07:27",
-  "flow_last_run": "2026.06.22. 07:27",
+  "updated": "2026.06.22. 13:12",
+  "flow_last_run": "2026.06.22. 13:12",
   "current": {
-    "temperature": 25,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 30,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 33,
+      "max": 30,
       "min": 16,
       "condition": "zivatar",
       "icon": "⛈️",
