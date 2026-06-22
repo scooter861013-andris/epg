@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Forró, de frontmentes idő",
   "focim": "Kánikula és zivatarok nyitják a hetet",
-  "updated": "2026.06.22. 01:10",
-  "flow_last_run": "2026.06.22. 01:10",
+  "updated": "2026.06.22. 03:40",
+  "flow_last_run": "2026.06.22. 03:40",
   "current": {
-    "temperature": 19,
-    "condition": "Száraz zivatar",
-    "icon": "⛈️"
+    "temperature": 18,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
       "max": 33,
-      "min": 16,
+      "min": 17,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
