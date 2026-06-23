@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "A kánikula okozhat panaszokat",
   "focim": "Már csak néhol lehet frissítő zápor, zivatar",
-  "updated": "2026.06.23. 01:49",
-  "flow_last_run": "2026.06.23. 01:49",
+  "updated": "2026.06.23. 04:56",
+  "flow_last_run": "2026.06.23. 04:56",
   "current": {
-    "temperature": 19,
-    "condition": "Közepesen felhős",
+    "temperature": 17,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 29,
-      "min": 19,
+      "max": 30,
+      "min": 17,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -22,7 +22,7 @@
     {
       "day": "Szerda",
       "max": 33,
-      "min": 17,
+      "min": 18,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:34",
     "sunset": "20:33",
-    "is_night": true
+    "is_night": false
   }
 }
