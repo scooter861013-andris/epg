@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "A kánikula okozhat panaszokat",
   "focim": "Már csak néhol lehet frissítő zápor, zivatar",
-  "updated": "2026.06.23. 07:34",
-  "flow_last_run": "2026.06.23. 07:34",
+  "updated": "2026.06.23. 10:45",
+  "flow_last_run": "2026.06.23. 10:45",
   "current": {
-    "temperature": 23,
+    "temperature": 29,
     "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 29,
-      "min": 20,
+      "max": 32,
+      "min": 18,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -22,7 +22,7 @@
     {
       "day": "Szerda",
       "max": 33,
-      "min": 19,
+      "min": 18,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -39,13 +39,13 @@
       "day": "Péntek",
       "max": 35,
       "min": 17,
-      "condition": "derült",
-      "icon": "🌙",
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 36,
+      "max": 37,
       "min": 18,
       "condition": "derült",
       "icon": "🌙",
