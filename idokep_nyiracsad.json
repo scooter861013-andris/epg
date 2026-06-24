@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "A kánikula okozhat panaszokat",
-  "focim": "Kánikula sok napsütéssel",
-  "updated": "2026.06.24. 18:01",
-  "flow_last_run": "2026.06.24. 18:01",
+  "fronthatas": "A hőség okozhat panaszokat",
+  "focim": "Tovább fokozódik a kánikula",
+  "updated": "2026.06.24. 20:06",
+  "flow_last_run": "2026.06.24. 20:06",
   "current": {
-    "temperature": 32,
+    "temperature": 26,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Szerda",
-      "max": 33,
-      "min": 18,
-      "condition": "derült",
-      "icon": "🌙",
-      "alert": null
-    },
     {
       "day": "Csütörtök",
       "max": 33,
@@ -37,8 +29,8 @@
     },
     {
       "day": "Szombat",
-      "max": 36,
-      "min": 22,
+      "max": 38,
+      "min": 20,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -47,14 +39,14 @@
       "day": "Vasárnap",
       "max": 39,
       "min": 20,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     },
     {
       "day": "Hétfő",
       "max": 39,
-      "min": 21,
+      "min": 22,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -65,6 +57,14 @@
       "min": 22,
       "condition": "közepesen felhős",
       "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 34,
+      "min": 21,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     }
   ],
