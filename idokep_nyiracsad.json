@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "A hőség okozhat panaszokat",
   "focim": "Tovább fokozódik a kánikula",
-  "updated": "2026.06.25. 06:33",
-  "flow_last_run": "2026.06.25. 06:33",
+  "updated": "2026.06.25. 10:03",
+  "flow_last_run": "2026.06.25. 10:03",
   "current": {
-    "temperature": 20,
+    "temperature": 29,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -22,7 +22,7 @@
     {
       "day": "Péntek",
       "max": 35,
-      "min": 18,
+      "min": 17,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
