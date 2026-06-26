@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "A hőség okozhat panaszokat",
   "focim": "Tovább fokozódik a hőség",
-  "updated": "2026.06.26. 19:13",
-  "flow_last_run": "2026.06.26. 19:13",
+  "updated": "2026.06.26. 21:03",
+  "flow_last_run": "2026.06.26. 21:03",
   "current": {
-    "temperature": 32,
+    "temperature": 27,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:37",
     "sunset": "20:35",
-    "is_night": false
+    "is_night": true
   }
 }
