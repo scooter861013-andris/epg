@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "A hőség okozhat panaszokat",
   "focim": "Kánikula perzselő napsütéssel",
-  "updated": "2026.06.26. 01:58",
-  "flow_last_run": "2026.06.26. 01:58",
+  "updated": "2026.06.26. 05:45",
+  "flow_last_run": "2026.06.26. 05:45",
   "current": {
-    "temperature": 20,
+    "temperature": 19,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 35,
+      "max": 34,
       "min": 18,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -22,7 +22,7 @@
     {
       "day": "Szombat",
       "max": 37,
-      "min": 21,
+      "min": 22,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:36",
     "sunset": "20:35",
-    "is_night": true
+    "is_night": false
   }
 }
