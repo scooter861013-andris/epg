@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "A hőség okozhat panaszokat",
-  "focim": "Kánikula perzselő napsütéssel",
-  "updated": "2026.06.26. 17:15",
-  "flow_last_run": "2026.06.26. 17:15",
+  "focim": "Tovább fokozódik a hőség",
+  "updated": "2026.06.26. 19:13",
+  "flow_last_run": "2026.06.26. 19:13",
   "current": {
-    "temperature": 34,
+    "temperature": 32,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Péntek",
-      "max": 35,
-      "min": 18,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Szombat",
       "max": 37,
@@ -31,14 +23,14 @@
       "day": "Vasárnap",
       "max": 40,
       "min": 20,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     },
     {
       "day": "Hétfő",
       "max": 41,
-      "min": 22,
+      "min": 26,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -46,7 +38,7 @@
     {
       "day": "Kedd",
       "max": 39,
-      "min": 21,
+      "min": 22,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -54,17 +46,25 @@
     {
       "day": "Szerda",
       "max": 35,
-      "min": 22,
+      "min": 21,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 31,
+      "max": 29,
       "min": 18,
       "condition": "zivatar",
       "icon": "⛈️",
+      "alert": null
+    },
+    {
+      "day": "Péntek",
+      "max": 30,
+      "min": 17,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     }
   ],
