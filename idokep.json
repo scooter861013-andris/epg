@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "A hőség viselheti meg szervezetünket",
   "focim": "Forró idővel indul a hét",
-  "updated": "2026.06.28. 23:44",
-  "flow_last_run": "2026.06.28. 23:44",
+  "updated": "2026.06.29. 00:43",
+  "flow_last_run": "2026.06.29. 00:43",
   "current": {
-    "temperature": 25,
+    "temperature": 24,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Hétfő",
       "max": 40,
-      "min": 23,
+      "min": 22,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
