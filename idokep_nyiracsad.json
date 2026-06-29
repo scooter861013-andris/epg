@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "A hőség viselheti meg szervezetünket",
   "focim": "Forró idővel indul a hét",
-  "updated": "2026.06.29. 00:34",
-  "flow_last_run": "2026.06.29. 00:34",
+  "updated": "2026.06.29. 05:38",
+  "flow_last_run": "2026.06.29. 05:38",
   "current": {
-    "temperature": 21,
+    "temperature": 20,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 39,
-      "min": 21,
+      "max": 37,
+      "min": 20,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -29,8 +29,8 @@
     },
     {
       "day": "Szerda",
-      "max": 35,
-      "min": 23,
+      "max": 36,
+      "min": 24,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:37",
     "sunset": "20:33",
-    "is_night": true
+    "is_night": false
   }
 }
