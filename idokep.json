@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "A hőség viselheti meg szervezetünket",
   "focim": "Forró idővel indul a hét",
-  "updated": "2026.06.29. 14:10",
-  "flow_last_run": "2026.06.29. 14:10",
+  "updated": "2026.06.29. 18:07",
+  "flow_last_run": "2026.06.29. 18:07",
   "current": {
-    "temperature": 40,
-    "condition": "Közepesen felhős",
+    "temperature": 38,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 40,
+      "max": 39,
       "min": 23,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -21,7 +21,7 @@
     },
     {
       "day": "Kedd",
-      "max": 40,
+      "max": 39,
       "min": 24,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -29,8 +29,8 @@
     },
     {
       "day": "Szerda",
-      "max": 35,
-      "min": 24,
+      "max": 36,
+      "min": 23,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
