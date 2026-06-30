@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "A hőség viselheti meg szervezetünket",
   "focim": "Tovább tombol a hőség",
-  "updated": "2026.06.30. 08:40",
-  "flow_last_run": "2026.06.30. 08:40",
+  "updated": "2026.06.30. 12:18",
+  "flow_last_run": "2026.06.30. 12:18",
   "current": {
-    "temperature": 31,
+    "temperature": 39,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 39,
+      "max": 40,
       "min": 24,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -21,7 +21,7 @@
     },
     {
       "day": "Szerda",
-      "max": 33,
+      "max": 34,
       "min": 23,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "4:38",
+    "sunrise": "4:39",
     "sunset": "20:35",
     "is_night": false
   }
