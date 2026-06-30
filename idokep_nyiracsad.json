@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "A hőség viselheti meg szervezetünket",
   "focim": "Tovább tombol a hőség",
-  "updated": "2026.06.30. 02:18",
-  "flow_last_run": "2026.06.30. 02:18",
+  "updated": "2026.06.30. 06:42",
+  "flow_last_run": "2026.06.30. 06:42",
   "current": {
-    "temperature": 21,
+    "temperature": 24,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Kedd",
       "max": 39,
-      "min": 21,
+      "min": 22,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:37",
     "sunset": "20:33",
-    "is_night": true
+    "is_night": false
   }
 }
