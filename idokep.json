@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Fülledt meleg után estétől hidegfronti hatás",
   "focim": "Hidegfront közelít záporokkal, zivatarokkal",
-  "updated": "2026.06.30. 23:03",
-  "flow_last_run": "2026.06.30. 23:03",
+  "updated": "2026.07.01. 00:37",
+  "flow_last_run": "2026.07.01. 00:37",
   "current": {
-    "temperature": 25,
-    "condition": "Erősen felhős",
+    "temperature": 22,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 33,
-      "min": 23,
+      "max": 32,
+      "min": 22,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
