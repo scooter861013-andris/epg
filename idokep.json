@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Fülledt meleg után estétől hidegfronti hatás",
   "focim": "Hidegfront közelít záporokkal, zivatarokkal",
-  "updated": "2026.07.01. 08:57",
-  "flow_last_run": "2026.07.01. 08:57",
+  "updated": "2026.07.01. 12:40",
+  "flow_last_run": "2026.07.01. 12:40",
   "current": {
-    "temperature": 30,
-    "condition": "Erősen felhős",
+    "temperature": 35,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -15,8 +15,8 @@
       "day": "Szerda",
       "max": 35,
       "min": 20,
-      "condition": "zivatar",
-      "icon": "⛈️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
@@ -31,14 +31,14 @@
       "day": "Péntek",
       "max": 30,
       "min": 20,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 28,
-      "min": 15,
+      "max": 26,
+      "min": 16,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -54,15 +54,15 @@
     {
       "day": "Hétfő",
       "max": 28,
-      "min": 15,
+      "min": 16,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 27,
-      "min": 15,
+      "max": 29,
+      "min": 16,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
