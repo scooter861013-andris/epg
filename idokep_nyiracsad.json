@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Fülledt meleg után estétől hidegfronti hatás",
   "focim": "Hidegfront közelít záporokkal, zivatarokkal",
-  "updated": "2026.07.01. 17:10",
-  "flow_last_run": "2026.07.01. 17:10",
+  "updated": "2026.07.01. 19:22",
+  "flow_last_run": "2026.07.01. 19:22",
   "current": {
-    "temperature": 35,
-    "condition": "Közepesen felhős",
-    "icon": "☁️"
+    "temperature": 26,
+    "condition": "Eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 36,
+      "max": 35,
       "min": 20,
       "condition": "zápor",
       "icon": "🌧️",
