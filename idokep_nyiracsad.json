@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Fülledt meleg után estétől hidegfronti hatás",
   "focim": "A hőségnek vége, de a zivataroknak még nem",
-  "updated": "2026.07.01. 23:05",
-  "flow_last_run": "2026.07.01. 23:05",
+  "updated": "2026.07.02. 00:39",
+  "flow_last_run": "2026.07.02. 00:39",
   "current": {
-    "temperature": 21,
-    "condition": "Gyenge eső",
+    "temperature": 22,
+    "condition": "Jégeső",
     "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
       "max": 29,
-      "min": 21,
+      "min": 19,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
