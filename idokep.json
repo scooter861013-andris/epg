@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás",
   "focim": "A hőségnek vége, de a zivataroknak még nem",
-  "updated": "2026.07.02. 16:39",
-  "flow_last_run": "2026.07.02. 16:39",
+  "updated": "2026.07.02. 18:25",
+  "flow_last_run": "2026.07.02. 18:25",
   "current": {
-    "temperature": 28,
-    "condition": "Gyengén felhős",
+    "temperature": 25,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -30,7 +30,7 @@
     {
       "day": "Szombat",
       "max": 28,
-      "min": 15,
+      "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
