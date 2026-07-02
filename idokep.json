@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Fülledt meleg után estétől hidegfronti hatás",
   "focim": "A hőségnek vége, de a zivataroknak még nem",
-  "updated": "2026.07.02. 01:04",
-  "flow_last_run": "2026.07.02. 01:04",
+  "updated": "2026.07.02. 02:19",
+  "flow_last_run": "2026.07.02. 02:19",
   "current": {
-    "temperature": 21,
-    "condition": "Zápor",
-    "icon": "🌧️"
+    "temperature": 22,
+    "condition": "Száraz zivatar",
+    "icon": "⛈️"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "max": 28,
-      "min": 19,
+      "max": 29,
+      "min": 20,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
