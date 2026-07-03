@@ -1,29 +1,21 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Hidegfronti hatás",
-  "focim": "Újabb hidegfront jön",
-  "updated": "2026.07.03. 18:11",
-  "flow_last_run": "2026.07.03. 18:11",
+  "fronthatas": "Nem lesz front felettünk",
+  "focim": "Kissé szeles nyári idő",
+  "updated": "2026.07.03. 19:46",
+  "flow_last_run": "2026.07.03. 19:46",
   "current": {
-    "temperature": 27,
+    "temperature": 24,
     "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Péntek",
-      "max": 31,
-      "min": 14,
-      "condition": "zápor",
-      "icon": "🌧️",
-      "alert": null
-    },
-    {
       "day": "Szombat",
       "max": 27,
-      "min": 10,
-      "condition": "gyengén felhős",
+      "min": 11,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -31,40 +23,48 @@
       "day": "Vasárnap",
       "max": 26,
       "min": 14,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 28,
+      "max": 30,
+      "min": 12,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Kedd",
+      "max": 32,
       "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
-      "day": "Kedd",
-      "max": 31,
-      "min": 16,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Szerda",
-      "max": 26,
-      "min": 17,
+      "max": 27,
+      "min": 16,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 27,
-      "min": 14,
+      "max": 25,
+      "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Péntek",
+      "max": 26,
+      "min": 13,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     }
   ],
