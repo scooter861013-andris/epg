@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás",
   "focim": "Újabb hidegfront jön",
-  "updated": "2026.07.03. 15:10",
-  "flow_last_run": "2026.07.03. 15:10",
+  "updated": "2026.07.03. 17:24",
+  "flow_last_run": "2026.07.03. 17:24",
   "current": {
-    "temperature": 30,
+    "temperature": 26,
     "condition": "Közepesen felhős",
     "icon": "☁️"
   },
@@ -21,7 +21,7 @@
     },
     {
       "day": "Szombat",
-      "max": 28,
+      "max": 27,
       "min": 9,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -29,8 +29,8 @@
     },
     {
       "day": "Vasárnap",
-      "max": 28,
-      "min": 14,
+      "max": 26,
+      "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
