@@ -3,11 +3,11 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Kissé szeles nyári idő",
-  "updated": "2026.07.03. 18:52",
-  "flow_last_run": "2026.07.03. 18:52",
+  "updated": "2026.07.03. 20:10",
+  "flow_last_run": "2026.07.03. 20:10",
   "current": {
-    "temperature": 25,
-    "condition": "Közepesen felhős",
+    "temperature": 23,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -30,14 +30,14 @@
     {
       "day": "Hétfő",
       "max": 30,
-      "min": 14,
+      "min": 12,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 31,
+      "max": 32,
       "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -45,26 +45,26 @@
     },
     {
       "day": "Szerda",
-      "max": 26,
-      "min": 17,
+      "max": 27,
+      "min": 16,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 27,
-      "min": 14,
+      "max": 25,
+      "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 29,
-      "min": 14,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "max": 26,
+      "min": 13,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     }
   ],
