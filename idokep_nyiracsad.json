@@ -3,11 +3,11 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Kissé szeles nyári idő",
-  "updated": "2026.07.03. 20:10",
-  "flow_last_run": "2026.07.03. 20:10",
+  "updated": "2026.07.03. 21:48",
+  "flow_last_run": "2026.07.03. 21:48",
   "current": {
-    "temperature": 23,
-    "condition": "Erősen felhős",
+    "temperature": 21,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:40",
     "sunset": "20:33",
-    "is_night": false
+    "is_night": true
   }
 }
