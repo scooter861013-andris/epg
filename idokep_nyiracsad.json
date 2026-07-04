@@ -2,27 +2,19 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
-  "focim": "Kissé szeles nyári idő",
-  "updated": "2026.07.04. 17:59",
-  "flow_last_run": "2026.07.04. 17:59",
+  "focim": "Szeles vasárnap helyenként záporral",
+  "updated": "2026.07.04. 19:15",
+  "flow_last_run": "2026.07.04. 19:15",
   "current": {
-    "temperature": 26,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "temperature": 25,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
-      "day": "Szombat",
-      "max": 27,
-      "min": 10,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Vasárnap",
       "max": 26,
-      "min": 10,
+      "min": 9,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -63,6 +55,14 @@
       "day": "Péntek",
       "max": 28,
       "min": 12,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szombat",
+      "max": 30,
+      "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
