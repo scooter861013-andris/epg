@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
-  "focim": "Kissé szeles nyári idő",
-  "updated": "2026.07.04. 17:30",
-  "flow_last_run": "2026.07.04. 17:30",
+  "focim": "Szeles vasárnap helyenként záporral",
+  "updated": "2026.07.04. 18:39",
+  "flow_last_run": "2026.07.04. 18:39",
   "current": {
-    "temperature": 28,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 27,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Szombat",
-      "max": 28,
-      "min": 11,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Vasárnap",
       "max": 25,
@@ -63,6 +55,14 @@
       "day": "Péntek",
       "max": 28,
       "min": 12,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szombat",
+      "max": 30,
+      "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
