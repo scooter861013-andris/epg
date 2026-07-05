@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Szeles vasárnap helyenként záporral",
-  "updated": "2026.07.05. 14:02",
-  "flow_last_run": "2026.07.05. 14:02",
+  "updated": "2026.07.05. 16:06",
+  "flow_last_run": "2026.07.05. 16:06",
   "current": {
-    "temperature": 27,
-    "condition": "Közepesen felhős",
+    "temperature": 28,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 27,
+      "max": 28,
       "min": 11,
       "condition": "zápor",
       "icon": "🌧️",
