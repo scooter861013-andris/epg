@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Szeles vasárnap helyenként záporral",
-  "updated": "2026.07.05. 13:34",
-  "flow_last_run": "2026.07.05. 13:34",
+  "updated": "2026.07.05. 14:52",
+  "flow_last_run": "2026.07.05. 14:52",
   "current": {
-    "temperature": 27,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "temperature": 26,
+    "condition": "Eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 28,
+      "max": 27,
       "min": 10,
       "condition": "zápor",
       "icon": "🌧️",
