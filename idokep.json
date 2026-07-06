@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Hidegfront súrolja térségünket",
-  "updated": "2026.07.06. 07:47",
-  "flow_last_run": "2026.07.06. 07:47",
+  "updated": "2026.07.06. 11:58",
+  "flow_last_run": "2026.07.06. 11:58",
   "current": {
-    "temperature": 20,
-    "condition": "Közepesen felhős",
+    "temperature": 28,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -22,7 +22,7 @@
     {
       "day": "Kedd",
       "max": 30,
-      "min": 14,
+      "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -37,9 +37,9 @@
     },
     {
       "day": "Csütörtök",
-      "max": 26,
+      "max": 25,
       "min": 11,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
