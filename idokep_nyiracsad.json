@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem érkezik front",
   "focim": "Egy-egy zápor, zivatar előfordulhat",
-  "updated": "2026.07.06. 21:14",
-  "flow_last_run": "2026.07.06. 21:14",
+  "updated": "2026.07.06. 23:01",
+  "flow_last_run": "2026.07.06. 23:01",
   "current": {
-    "temperature": 22,
-    "condition": "Borult",
+    "temperature": 20,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
       "max": 30,
-      "min": 11,
+      "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
