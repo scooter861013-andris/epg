@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Hidegfronti jellegű tünetek jelentkezhetnek",
-  "focim": "Hidegfront súrolja térségünket",
-  "updated": "2026.07.06. 15:44",
-  "flow_last_run": "2026.07.06. 15:44",
+  "fronthatas": "Nem érkezik front",
+  "focim": "Egy-egy zápor, zivatar előfordulhat",
+  "updated": "2026.07.06. 18:44",
+  "flow_last_run": "2026.07.06. 18:44",
   "current": {
-    "temperature": 29,
-    "condition": "Közepesen felhős",
+    "temperature": 26,
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Hétfő",
-      "max": 29,
-      "min": 12,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Kedd",
       "max": 30,
@@ -64,6 +56,14 @@
       "max": 32,
       "min": 16,
       "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 33,
+      "min": 17,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     }
