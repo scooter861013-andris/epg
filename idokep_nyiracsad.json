@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Hidegfront súrolja térségünket",
-  "updated": "2026.07.06. 01:43",
-  "flow_last_run": "2026.07.06. 01:43",
+  "updated": "2026.07.06. 03:25",
+  "flow_last_run": "2026.07.06. 03:25",
   "current": {
     "temperature": 14,
-    "condition": "Derült",
-    "icon": "🌙"
+    "condition": "Erősen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
       "max": 28,
-      "min": 12,
+      "min": 14,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
