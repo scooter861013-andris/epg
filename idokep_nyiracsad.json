@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás",
   "focim": "Hidegfront frissíti fel a levegőt",
-  "updated": "2026.07.08. 15:00",
-  "flow_last_run": "2026.07.08. 15:00",
+  "updated": "2026.07.08. 17:32",
+  "flow_last_run": "2026.07.08. 17:32",
   "current": {
-    "temperature": 27,
-    "condition": "Közepesen felhős",
-    "icon": "☁️"
+    "temperature": 19,
+    "condition": "Szitálás",
+    "icon": null
   },
   "forecast_7d": [
     {
       "day": "Szerda",
       "max": 27,
-      "min": 15,
+      "min": 14,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
