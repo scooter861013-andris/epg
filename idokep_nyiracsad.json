@@ -3,28 +3,28 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás",
   "focim": "Hidegfront frissíti fel a levegőt",
-  "updated": "2026.07.08. 05:45",
-  "flow_last_run": "2026.07.08. 05:45",
+  "updated": "2026.07.08. 08:25",
+  "flow_last_run": "2026.07.08. 08:25",
   "current": {
-    "temperature": 18,
-    "condition": "Borult",
-    "icon": "☁️"
+    "temperature": 19,
+    "condition": "Ködszitálás",
+    "icon": "🌫️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
       "max": 28,
       "min": 18,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Csütörtök",
       "max": 25,
-      "min": 12,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "min": 11,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "day": "Szombat",
-      "max": 29,
-      "min": 14,
+      "max": 28,
+      "min": 13,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -46,7 +46,7 @@
     {
       "day": "Vasárnap",
       "max": 29,
-      "min": 16,
+      "min": 15,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -54,14 +54,14 @@
     {
       "day": "Hétfő",
       "max": 31,
-      "min": 17,
+      "min": 16,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 32,
+      "max": 33,
       "min": 17,
       "condition": "gyengén felhős",
       "icon": "☁️",
