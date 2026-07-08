@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás",
   "focim": "Hidegfront frissíti fel a levegőt",
-  "updated": "2026.07.08. 02:12",
-  "flow_last_run": "2026.07.08. 02:12",
+  "updated": "2026.07.08. 05:45",
+  "flow_last_run": "2026.07.08. 05:45",
   "current": {
     "temperature": 18,
-    "condition": "Száraz zivatar",
-    "icon": "⛈️"
+    "condition": "Borult",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:43",
     "sunset": "20:30",
-    "is_night": true
+    "is_night": false
   }
 }
