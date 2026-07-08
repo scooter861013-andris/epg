@@ -1,35 +1,27 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Hidegfronti hatás",
-  "focim": "Hidegfront frissíti fel a levegőt",
-  "updated": "2026.07.08. 17:32",
-  "flow_last_run": "2026.07.08. 17:32",
+  "fronthatas": "Frontmentes idő",
+  "focim": "Szeles, napos nyári idő",
+  "updated": "2026.07.08. 19:06",
+  "flow_last_run": "2026.07.08. 19:06",
   "current": {
-    "temperature": 19,
-    "condition": "Szitálás",
-    "icon": null
+    "temperature": 20,
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Szerda",
-      "max": 27,
-      "min": 14,
-      "condition": "zápor",
-      "icon": "🌧️",
-      "alert": null
-    },
     {
       "day": "Csütörtök",
       "max": 25,
       "min": 10,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 26,
+      "max": 27,
       "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -62,6 +54,14 @@
     {
       "day": "Kedd",
       "max": 33,
+      "min": 17,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 32,
       "min": 17,
       "condition": "gyengén felhős",
       "icon": "☁️",
