@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás",
   "focim": "Hidegfront frissíti fel a levegőt",
-  "updated": "2026.07.08. 13:46",
-  "flow_last_run": "2026.07.08. 13:46",
+  "updated": "2026.07.08. 15:43",
+  "flow_last_run": "2026.07.08. 15:43",
   "current": {
-    "temperature": 27,
-    "condition": "Gyengén felhős",
+    "temperature": 28,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 27,
-      "min": 18,
+      "max": 28,
+      "min": 16,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
