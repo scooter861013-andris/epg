@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Frontmentes idő",
   "focim": "Szeles, napos nyári idő",
-  "updated": "2026.07.09. 00:41",
-  "flow_last_run": "2026.07.09. 00:41",
+  "updated": "2026.07.09. 01:43",
+  "flow_last_run": "2026.07.09. 01:43",
   "current": {
-    "temperature": 15,
+    "temperature": 13,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "max": 25,
-      "min": 12,
+      "max": 24,
+      "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
