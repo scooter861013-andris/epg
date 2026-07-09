@@ -3,26 +3,26 @@
   "location": "Nyiracsad",
   "fronthatas": "Frontmentes idő",
   "focim": "Szeles, napos nyári idő",
-  "updated": "2026.07.09. 12:04",
-  "flow_last_run": "2026.07.09. 12:04",
+  "updated": "2026.07.09. 17:46",
+  "flow_last_run": "2026.07.09. 17:46",
   "current": {
-    "temperature": 22,
-    "condition": "Erősen felhős",
+    "temperature": 21,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "max": 23,
-      "min": 7,
+      "max": 25,
+      "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 27,
-      "min": 11,
+      "max": 25,
+      "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -30,7 +30,7 @@
     {
       "day": "Szombat",
       "max": 28,
-      "min": 13,
+      "min": 14,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
