@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Nyári idő elszórt záporokkal",
-  "updated": "2026.07.10. 15:33",
-  "flow_last_run": "2026.07.10. 15:33",
+  "updated": "2026.07.10. 18:03",
+  "flow_last_run": "2026.07.10. 18:03",
   "current": {
-    "temperature": 26,
-    "condition": "Borult",
+    "temperature": 25,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 26,
+      "max": 25,
       "min": 14,
       "condition": "zápor",
       "icon": "🌧️",
@@ -21,7 +21,7 @@
     },
     {
       "day": "Szombat",
-      "max": 28,
+      "max": 27,
       "min": 15,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -30,7 +30,7 @@
     {
       "day": "Vasárnap",
       "max": 27,
-      "min": 13,
+      "min": 14,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
