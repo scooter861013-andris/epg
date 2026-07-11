@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Nyári idő helyenként záporral, zivatarral",
-  "updated": "2026.07.11. 03:52",
-  "flow_last_run": "2026.07.11. 03:52",
+  "updated": "2026.07.11. 06:56",
+  "flow_last_run": "2026.07.11. 06:56",
   "current": {
     "temperature": 17,
-    "condition": "Közepesen felhős",
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
-      "max": 28,
-      "min": 17,
+      "max": 27,
+      "min": 15,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:47",
     "sunset": "20:30",
-    "is_night": true
+    "is_night": false
   }
 }
