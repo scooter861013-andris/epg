@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Nem lesz front felettünk",
-  "focim": "Nyári idő helyenként záporral, zivatarral",
-  "updated": "2026.07.11. 17:37",
-  "flow_last_run": "2026.07.11. 17:37",
+  "fronthatas": "Gyenge hidegfronti hatás",
+  "focim": "Elszórtan záporok kialakulhatnak",
+  "updated": "2026.07.11. 18:31",
+  "flow_last_run": "2026.07.11. 18:31",
   "current": {
-    "temperature": 26,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 25,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Szombat",
-      "max": 26,
-      "min": 15,
-      "condition": "zivatar",
-      "icon": "⛈️",
-      "alert": null
-    },
     {
       "day": "Vasárnap",
       "max": 23,
@@ -37,23 +29,23 @@
     },
     {
       "day": "Kedd",
-      "max": 30,
-      "min": 15,
+      "max": 31,
+      "min": 16,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 30,
-      "min": 17,
+      "max": 33,
+      "min": 16,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 30,
+      "max": 29,
       "min": 17,
       "condition": "zápor",
       "icon": "🌧️",
@@ -61,8 +53,16 @@
     },
     {
       "day": "Péntek",
-      "max": 31,
+      "max": 32,
       "min": 16,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Szombat",
+      "max": 33,
+      "min": 17,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
