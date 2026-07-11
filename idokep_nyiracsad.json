@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Gyenge hidegfronti hatás",
   "focim": "Elszórtan záporok kialakulhatnak",
-  "updated": "2026.07.11. 19:52",
-  "flow_last_run": "2026.07.11. 19:52",
+  "updated": "2026.07.11. 20:58",
+  "flow_last_run": "2026.07.11. 20:58",
   "current": {
-    "temperature": 21,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 17,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 23,
+      "max": 25,
       "min": 14,
       "condition": "zápor",
       "icon": "🌧️",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:47",
     "sunset": "20:29",
-    "is_night": false
+    "is_night": true
   }
 }
