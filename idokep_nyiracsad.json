@@ -3,11 +3,11 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Nyári idő helyenként záporral, zivatarral",
-  "updated": "2026.07.11. 06:26",
-  "flow_last_run": "2026.07.11. 06:26",
+  "updated": "2026.07.11. 08:35",
+  "flow_last_run": "2026.07.11. 08:35",
   "current": {
-    "temperature": 15,
-    "condition": "Közepesen felhős",
+    "temperature": 21,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -22,7 +22,7 @@
     {
       "day": "Vasárnap",
       "max": 23,
-      "min": 14,
+      "min": 15,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
