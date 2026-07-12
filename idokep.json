@@ -3,28 +3,20 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Kissé szeles nyári idővel indul a hét",
-  "updated": "2026.07.12. 19:40",
-  "flow_last_run": "2026.07.12. 19:40",
+  "updated": "2026.07.12. 20:34",
+  "flow_last_run": "2026.07.12. 20:34",
   "current": {
-    "temperature": 23,
-    "condition": "Gyenge eső",
-    "icon": "🌧️"
+    "temperature": 21,
+    "condition": "Erősen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Vasárnap",
-      "max": 24,
-      "min": 15,
-      "condition": "zivatar",
-      "icon": "⛈️",
-      "alert": null
-    },
-    {
       "day": "Hétfő",
-      "max": 27,
+      "max": 26,
       "min": 14,
-      "condition": "erősen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
@@ -37,15 +29,15 @@
     },
     {
       "day": "Szerda",
-      "max": 30,
-      "min": 16,
+      "max": 31,
+      "min": 17,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 29,
+      "max": 31,
       "min": 17,
       "condition": "zápor",
       "icon": "🌧️",
@@ -53,10 +45,10 @@
     },
     {
       "day": "Péntek",
-      "max": 31,
+      "max": 33,
       "min": 16,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
@@ -66,11 +58,19 @@
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
+    },
+    {
+      "day": "Vasárnap",
+      "max": 31,
+      "min": 18,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
     }
   ],
   "sun": {
     "sunrise": "4:48",
     "sunset": "20:30",
-    "is_night": false
+    "is_night": true
   }
 }
