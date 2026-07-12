@@ -3,28 +3,20 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Kissé szeles nyári idővel indul a hét",
-  "updated": "2026.07.12. 19:32",
-  "flow_last_run": "2026.07.12. 19:32",
+  "updated": "2026.07.12. 20:37",
+  "flow_last_run": "2026.07.12. 20:37",
   "current": {
-    "temperature": 21,
+    "temperature": 19,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Vasárnap",
-      "max": 25,
-      "min": 15,
-      "condition": "zivatar",
-      "icon": "⛈️",
-      "alert": null
-    },
-    {
       "day": "Hétfő",
       "max": 27,
-      "min": 14,
-      "condition": "erősen felhős",
-      "icon": "☁️",
+      "min": 15,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
@@ -37,15 +29,15 @@
     },
     {
       "day": "Szerda",
-      "max": 30,
-      "min": 16,
+      "max": 31,
+      "min": 17,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 29,
+      "max": 31,
       "min": 17,
       "condition": "zápor",
       "icon": "🌧️",
@@ -53,10 +45,10 @@
     },
     {
       "day": "Péntek",
-      "max": 31,
+      "max": 33,
       "min": 16,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
@@ -66,11 +58,19 @@
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
+    },
+    {
+      "day": "Vasárnap",
+      "max": 31,
+      "min": 18,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
     }
   ],
   "sun": {
     "sunrise": "4:48",
     "sunset": "20:28",
-    "is_night": false
+    "is_night": true
   }
 }
