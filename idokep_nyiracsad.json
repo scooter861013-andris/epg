@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Gyenge hidegfronti hatás",
   "focim": "Elszórtan záporok kialakulhatnak",
-  "updated": "2026.07.12. 05:55",
-  "flow_last_run": "2026.07.12. 05:55",
+  "updated": "2026.07.12. 08:31",
+  "flow_last_run": "2026.07.12. 08:31",
   "current": {
-    "temperature": 14,
-    "condition": "Közepesen felhős",
+    "temperature": 23,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
       "max": 25,
-      "min": 14,
+      "min": 15,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
