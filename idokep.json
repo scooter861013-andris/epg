@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Gyenge hidegfronti hatás",
   "focim": "Elszórtan záporok kialakulhatnak",
-  "updated": "2026.07.12. 12:50",
-  "flow_last_run": "2026.07.12. 12:50",
+  "updated": "2026.07.12. 13:51",
+  "flow_last_run": "2026.07.12. 13:51",
   "current": {
-    "temperature": 26,
-    "condition": "Borult",
-    "icon": "☁️"
+    "temperature": 23,
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 26,
+      "max": 23,
       "min": 15,
       "condition": "zivatar",
       "icon": "⛈️",
