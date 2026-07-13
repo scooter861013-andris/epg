@@ -3,25 +3,25 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Kissé szeles nyári idővel indul a hét",
-  "updated": "2026.07.13. 03:02",
-  "flow_last_run": "2026.07.13. 03:02",
+  "updated": "2026.07.13. 06:43",
+  "flow_last_run": "2026.07.13. 06:43",
   "current": {
-    "temperature": 17,
-    "condition": "Erősen felhős",
+    "temperature": 18,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 26,
-      "min": 17,
+      "max": 25,
+      "min": 15,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 30,
+      "max": 31,
       "min": 17,
       "condition": "zápor",
       "icon": "🌧️",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:48",
     "sunset": "20:29",
-    "is_night": true
+    "is_night": false
   }
 }
