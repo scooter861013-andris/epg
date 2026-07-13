@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
-  "focim": "Kissé szeles nyári idővel indul a hét",
-  "updated": "2026.07.13. 18:29",
-  "flow_last_run": "2026.07.13. 18:29",
+  "focim": "Gomolyfelhős időjárás, zápor, zivatar előfordulhat",
+  "updated": "2026.07.13. 20:17",
+  "flow_last_run": "2026.07.13. 20:17",
   "current": {
-    "temperature": 26,
+    "temperature": 22,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Hétfő",
-      "max": 26,
-      "min": 15,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Kedd",
       "max": 30,
@@ -31,16 +23,16 @@
       "day": "Szerda",
       "max": 29,
       "min": 18,
-      "condition": "zivatar",
-      "icon": "⛈️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
       "max": 32,
-      "min": 17,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "min": 18,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
@@ -65,6 +57,14 @@
       "min": 16,
       "condition": "zápor",
       "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 28,
+      "min": 15,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
