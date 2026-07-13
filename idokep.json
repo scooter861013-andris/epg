@@ -3,20 +3,20 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Kissé szeles nyári idővel indul a hét",
-  "updated": "2026.07.13. 06:43",
-  "flow_last_run": "2026.07.13. 06:43",
+  "updated": "2026.07.13. 09:53",
+  "flow_last_run": "2026.07.13. 09:53",
   "current": {
-    "temperature": 18,
+    "temperature": 23,
     "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 25,
+      "max": 26,
       "min": 15,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "day": "Szerda",
-      "max": 31,
+      "max": 30,
       "min": 17,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 31,
+      "max": 32,
       "min": 17,
       "condition": "zápor",
       "icon": "🌧️",
@@ -46,23 +46,23 @@
     {
       "day": "Péntek",
       "max": 33,
-      "min": 16,
+      "min": 17,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 33,
+      "max": 31,
       "min": 17,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 31,
-      "min": 18,
+      "max": 29,
+      "min": 16,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
