@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Kissé szeles nyári idővel indul a hét",
-  "updated": "2026.07.13. 01:35",
-  "flow_last_run": "2026.07.13. 01:35",
+  "updated": "2026.07.13. 03:13",
+  "flow_last_run": "2026.07.13. 03:13",
   "current": {
-    "temperature": 16,
-    "condition": "Gyengén felhős",
+    "temperature": 14,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 27,
-      "min": 15,
+      "max": 26,
+      "min": 14,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
