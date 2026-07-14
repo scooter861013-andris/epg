@@ -1,10 +1,10 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Nem várható fronthatás",
-  "focim": "Gomolyfelhős időjárás, zápor, zivatar előfordulhat",
-  "updated": "2026.07.14. 15:12",
-  "flow_last_run": "2026.07.14. 15:12",
+  "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
+  "focim": "Helyenként kialakulhat zápor, zivatar",
+  "updated": "2026.07.14. 17:02",
+  "flow_last_run": "2026.07.14. 17:02",
   "current": {
     "temperature": 32,
     "condition": "Gyengén felhős",
@@ -13,7 +13,7 @@
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 32,
+      "max": 31,
       "min": 17,
       "condition": "zápor",
       "icon": "🌧️",
@@ -29,7 +29,7 @@
     },
     {
       "day": "Csütörtök",
-      "max": 32,
+      "max": 31,
       "min": 17,
       "condition": "közepesen felhős",
       "icon": "☁️",
