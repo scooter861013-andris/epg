@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Helyenként kialakulhat zápor, zivatar",
-  "updated": "2026.07.14. 23:28",
-  "flow_last_run": "2026.07.14. 23:28",
+  "updated": "2026.07.15. 00:29",
+  "flow_last_run": "2026.07.15. 00:29",
   "current": {
-    "temperature": 23,
-    "condition": "Gyengén felhős",
+    "temperature": 22,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "4:50",
-    "sunset": "20:28",
+    "sunset": "20:27",
     "is_night": true
   }
 }
