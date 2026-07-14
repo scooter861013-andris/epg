@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Gomolyfelhős időjárás, zápor, zivatar előfordulhat",
-  "updated": "2026.07.14. 13:05",
-  "flow_last_run": "2026.07.14. 13:05",
+  "updated": "2026.07.14. 14:39",
+  "flow_last_run": "2026.07.14. 14:39",
   "current": {
-    "temperature": 32,
-    "condition": "Gyengén felhős",
+    "temperature": 33,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 32,
+      "max": 33,
       "min": 17,
       "condition": "zápor",
       "icon": "🌧️",
