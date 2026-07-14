@@ -1,14 +1,14 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Nem várható fronthatás",
+  "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Gomolyfelhős időjárás, zápor, zivatar előfordulhat",
-  "updated": "2026.07.14. 14:39",
-  "flow_last_run": "2026.07.14. 14:39",
+  "updated": "2026.07.14. 16:28",
+  "flow_last_run": "2026.07.14. 16:28",
   "current": {
     "temperature": 33,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
