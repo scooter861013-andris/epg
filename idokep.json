@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Helyenként kialakulhat zápor, zivatar",
-  "updated": "2026.07.15. 10:06",
-  "flow_last_run": "2026.07.15. 10:06",
+  "updated": "2026.07.15. 12:14",
+  "flow_last_run": "2026.07.15. 12:14",
   "current": {
-    "temperature": 26,
-    "condition": "Erősen felhős",
+    "temperature": 28,
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 25,
+      "max": 28,
       "min": 18,
       "condition": "zápor",
       "icon": "🌧️",
@@ -21,8 +21,8 @@
     },
     {
       "day": "Csütörtök",
-      "max": 32,
-      "min": 17,
+      "max": 33,
+      "min": 18,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "4:50",
+    "sunrise": "4:51",
     "sunset": "20:27",
     "is_night": false
   }
