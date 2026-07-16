@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Fokozódik a kánikula",
-  "updated": "2026.07.16. 10:30",
-  "flow_last_run": "2026.07.16. 10:30",
+  "updated": "2026.07.16. 12:33",
+  "flow_last_run": "2026.07.16. 12:33",
   "current": {
-    "temperature": 30,
-    "condition": "Gyengén felhős",
+    "temperature": 33,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "4:51",
+    "sunrise": "4:52",
     "sunset": "20:26",
     "is_night": false
   }
