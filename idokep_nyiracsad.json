@@ -3,26 +3,26 @@
   "location": "Nyiracsad",
   "fronthatas": "Napközben melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Kánikula néhol záporral",
-  "updated": "2026.07.16. 19:44",
-  "flow_last_run": "2026.07.16. 19:44",
+  "updated": "2026.07.16. 20:47",
+  "flow_last_run": "2026.07.16. 20:47",
   "current": {
-    "temperature": 30,
-    "condition": "Közepesen felhős",
-    "icon": "☁️"
+    "temperature": 25,
+    "condition": "Eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
       "max": 35,
-      "min": 15,
+      "min": 19,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 34,
-      "min": 21,
+      "max": 35,
+      "min": 23,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -30,7 +30,7 @@
     {
       "day": "Vasárnap",
       "max": 32,
-      "min": 18,
+      "min": 19,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -46,31 +46,31 @@
     {
       "day": "Kedd",
       "max": 26,
-      "min": 14,
+      "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 26,
-      "min": 13,
-      "condition": "gyengén felhős",
+      "max": 25,
+      "min": 12,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 27,
-      "min": 13,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "max": 25,
+      "min": 12,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     }
   ],
   "sun": {
     "sunrise": "4:52",
     "sunset": "20:25",
-    "is_night": false
+    "is_night": true
   }
 }
