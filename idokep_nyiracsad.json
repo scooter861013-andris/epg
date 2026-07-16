@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Fokozódik a kánikula",
-  "updated": "2026.07.16. 11:01",
-  "flow_last_run": "2026.07.16. 11:01",
+  "updated": "2026.07.16. 13:11",
+  "flow_last_run": "2026.07.16. 13:11",
   "current": {
-    "temperature": 32,
-    "condition": "Gyengén felhős",
+    "temperature": 31,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "max": 34,
+      "max": 31,
       "min": 17,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -29,8 +29,8 @@
     },
     {
       "day": "Szombat",
-      "max": 33,
-      "min": 22,
+      "max": 34,
+      "min": 23,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "4:51",
+    "sunrise": "4:52",
     "sunset": "20:25",
     "is_night": false
   }
