@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek, majd hidegfront jön",
   "focim": "Északnyugati szél enyhíti a hőséget",
-  "updated": "2026.07.18. 00:28",
-  "flow_last_run": "2026.07.18. 00:28",
+  "updated": "2026.07.18. 01:24",
+  "flow_last_run": "2026.07.18. 01:24",
   "current": {
     "temperature": 23,
-    "condition": "Száraz zivatar",
-    "icon": "⛈️"
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
       "max": 35,
-      "min": 21,
+      "min": 20,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
