@@ -1,12 +1,12 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Napközben melegfronti jellegű tünetek jelentkezhetnek",
+  "fronthatas": "Melegfronti jellegű tünetek, majd hidegfront jön",
   "focim": "Kánikula néhol záporral",
-  "updated": "2026.07.17. 08:34",
-  "flow_last_run": "2026.07.17. 08:34",
+  "updated": "2026.07.17. 10:54",
+  "flow_last_run": "2026.07.17. 10:54",
   "current": {
-    "temperature": 27,
+    "temperature": 33,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -38,22 +38,22 @@
     {
       "day": "Hétfő",
       "max": 28,
-      "min": 18,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "min": 19,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Kedd",
       "max": 26,
-      "min": 13,
+      "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 25,
+      "max": 26,
       "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -62,7 +62,7 @@
     {
       "day": "Csütörtök",
       "max": 25,
-      "min": 12,
+      "min": 13,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
