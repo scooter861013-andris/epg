@@ -3,8 +3,8 @@
   "location": "Nyiracsad",
   "fronthatas": "Napközben melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Kánikula néhol záporral",
-  "updated": "2026.07.17. 01:23",
-  "flow_last_run": "2026.07.17. 01:23",
+  "updated": "2026.07.17. 02:58",
+  "flow_last_run": "2026.07.17. 02:58",
   "current": {
     "temperature": 18,
     "condition": "Derült",
@@ -22,7 +22,7 @@
     {
       "day": "Szombat",
       "max": 35,
-      "min": 23,
+      "min": 22,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
