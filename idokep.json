@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek, majd hidegfront jön",
   "focim": "Kánikula néhol záporral",
-  "updated": "2026.07.17. 10:54",
-  "flow_last_run": "2026.07.17. 10:54",
+  "updated": "2026.07.17. 12:38",
+  "flow_last_run": "2026.07.17. 12:38",
   "current": {
-    "temperature": 33,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 35,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 34,
+      "max": 35,
       "min": 19,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -21,7 +21,7 @@
     },
     {
       "day": "Szombat",
-      "max": 33,
+      "max": 35,
       "min": 23,
       "condition": "zápor",
       "icon": "🌧️",
@@ -30,7 +30,7 @@
     {
       "day": "Vasárnap",
       "max": 31,
-      "min": 20,
+      "min": 21,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "4:52",
+    "sunrise": "4:54",
     "sunset": "20:26",
     "is_night": false
   }
