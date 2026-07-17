@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Napközben melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Kánikula néhol záporral",
-  "updated": "2026.07.17. 00:38",
-  "flow_last_run": "2026.07.17. 01:35",
+  "updated": "2026.07.17. 03:09",
+  "flow_last_run": "2026.07.17. 03:09",
   "current": {
-    "temperature": 22,
+    "temperature": 21,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Péntek",
       "max": 34,
-      "min": 19,
+      "min": 20,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
