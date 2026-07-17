@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Napközben melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Kánikula néhol záporral",
-  "updated": "2026.07.17. 02:58",
-  "flow_last_run": "2026.07.17. 02:58",
+  "updated": "2026.07.17. 06:13",
+  "flow_last_run": "2026.07.17. 06:13",
   "current": {
-    "temperature": 18,
+    "temperature": 17,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,14 +14,14 @@
     {
       "day": "Péntek",
       "max": 34,
-      "min": 18,
+      "min": 19,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 35,
+      "max": 34,
       "min": 22,
       "condition": "zápor",
       "icon": "🌧️",
@@ -29,8 +29,8 @@
     },
     {
       "day": "Vasárnap",
-      "max": 33,
-      "min": 19,
+      "max": 30,
+      "min": 20,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:52",
     "sunset": "20:24",
-    "is_night": true
+    "is_night": false
   }
 }
