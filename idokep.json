@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek, majd hidegfront jön",
   "focim": "Nyári meleg helyenként futó záporral",
-  "updated": "2026.07.18. 20:06",
-  "flow_last_run": "2026.07.18. 20:06",
+  "updated": "2026.07.18. 21:22",
+  "flow_last_run": "2026.07.18. 21:22",
   "current": {
-    "temperature": 30,
-    "condition": "Közepesen felhős",
+    "temperature": 27,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 30,
+      "max": 31,
       "min": 19,
       "condition": "zápor",
       "icon": "🌧️",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:55",
     "sunset": "20:25",
-    "is_night": false
+    "is_night": true
   }
 }
