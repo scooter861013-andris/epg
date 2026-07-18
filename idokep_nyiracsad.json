@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek, majd hidegfront jön",
   "focim": "Északnyugati szél enyhíti a hőséget",
-  "updated": "2026.07.18. 04:09",
-  "flow_last_run": "2026.07.18. 04:09",
+  "updated": "2026.07.18. 07:04",
+  "flow_last_run": "2026.07.18. 07:04",
   "current": {
-    "temperature": 19,
-    "condition": "Eső",
-    "icon": "🌧️"
+    "temperature": 22,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
-      "max": 35,
-      "min": 19,
+      "max": 34,
+      "min": 22,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -22,7 +22,7 @@
     {
       "day": "Vasárnap",
       "max": 31,
-      "min": 20,
+      "min": 19,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:53",
     "sunset": "20:23",
-    "is_night": true
+    "is_night": false
   }
 }
