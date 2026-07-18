@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek, majd hidegfront jön",
   "focim": "Északnyugati szél enyhíti a hőséget",
-  "updated": "2026.07.18. 11:07",
-  "flow_last_run": "2026.07.18. 11:07",
+  "updated": "2026.07.18. 12:39",
+  "flow_last_run": "2026.07.18. 12:39",
   "current": {
-    "temperature": 34,
-    "condition": "Gyengén felhős",
+    "temperature": 35,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "4:54",
+    "sunrise": "4:55",
     "sunset": "20:25",
     "is_night": false
   }
