@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek, majd hidegfront jön",
   "focim": "Nyári meleg helyenként futó záporral",
-  "updated": "2026.07.19. 02:10",
-  "flow_last_run": "2026.07.19. 02:10",
+  "updated": "2026.07.19. 05:52",
+  "flow_last_run": "2026.07.19. 05:52",
   "current": {
-    "temperature": 19,
+    "temperature": 18,
     "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 32,
+      "max": 26,
       "min": 18,
       "condition": "zápor",
       "icon": "🌧️",
@@ -21,7 +21,7 @@
     },
     {
       "day": "Hétfő",
-      "max": 29,
+      "max": 28,
       "min": 18,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -30,7 +30,7 @@
     {
       "day": "Kedd",
       "max": 29,
-      "min": 12,
+      "min": 14,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:54",
     "sunset": "20:22",
-    "is_night": true
+    "is_night": false
   }
 }
