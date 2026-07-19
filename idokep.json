@@ -3,27 +3,27 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek, majd hidegfront jön",
   "focim": "Nyári meleg helyenként futó záporral",
-  "updated": "2026.07.19. 08:23",
-  "flow_last_run": "2026.07.19. 08:23",
+  "updated": "2026.07.19. 10:40",
+  "flow_last_run": "2026.07.19. 10:40",
   "current": {
-    "temperature": 26,
-    "condition": "Gyengén felhős",
+    "temperature": 28,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 30,
+      "max": 29,
       "min": 19,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
       "max": 28,
       "min": 18,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -38,15 +38,15 @@
     {
       "day": "Szerda",
       "max": 26,
-      "min": 13,
+      "min": 14,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 25,
-      "min": 12,
+      "max": 28,
+      "min": 13,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -54,7 +54,7 @@
     {
       "day": "Péntek",
       "max": 25,
-      "min": 12,
+      "min": 14,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -63,7 +63,7 @@
       "day": "Szombat",
       "max": 27,
       "min": 12,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     }
