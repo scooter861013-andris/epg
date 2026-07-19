@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Frontmentesen indul a hét",
   "focim": "Frontmentesen, sok napsütéssel indul a hét",
-  "updated": "2026.07.19. 21:39",
-  "flow_last_run": "2026.07.19. 22:27",
+  "updated": "2026.07.19. 23:25",
+  "flow_last_run": "2026.07.19. 23:25",
   "current": {
     "temperature": 19,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "condition": "Zivatar",
+    "icon": "⛈️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
       "max": 28,
-      "min": 17,
+      "min": 18,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
