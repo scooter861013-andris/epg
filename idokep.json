@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Melegfronti jellegű tünetek, majd hidegfront jön",
-  "focim": "Nyári meleg helyenként futó záporral",
-  "updated": "2026.07.19. 19:01",
-  "flow_last_run": "2026.07.19. 19:01",
+  "fronthatas": "Frontmentesen indul a hét",
+  "focim": "Frontmentesen, sok napsütéssel indul a hét",
+  "updated": "2026.07.19. 20:05",
+  "flow_last_run": "2026.07.19. 20:05",
   "current": {
-    "temperature": 29,
-    "condition": "Gyengén felhős",
+    "temperature": 26,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Vasárnap",
-      "max": 29,
-      "min": 19,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Hétfő",
       "max": 28,
@@ -46,7 +38,7 @@
     {
       "day": "Csütörtök",
       "max": 28,
-      "min": 13,
+      "min": 12,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -63,6 +55,14 @@
       "day": "Szombat",
       "max": 27,
       "min": 12,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Vasárnap",
+      "max": 30,
+      "min": 15,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
