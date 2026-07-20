@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Frontmentesen indul a hét",
   "focim": "Frontmentesen, sok napsütéssel indul a hét",
-  "updated": "2026.07.20. 12:23",
-  "flow_last_run": "2026.07.20. 12:23",
+  "updated": "2026.07.20. 14:28",
+  "flow_last_run": "2026.07.20. 14:28",
   "current": {
-    "temperature": 28,
-    "condition": "Közepesen felhős",
+    "temperature": 30,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -22,7 +22,7 @@
     {
       "day": "Kedd",
       "max": 28,
-      "min": 15,
+      "min": 16,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
