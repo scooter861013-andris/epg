@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Frontmentesen indul a hét",
   "focim": "Frontmentesen, sok napsütéssel indul a hét",
-  "updated": "2026.07.20. 06:00",
-  "flow_last_run": "2026.07.20. 06:00",
+  "updated": "2026.07.20. 09:25",
+  "flow_last_run": "2026.07.20. 09:25",
   "current": {
-    "temperature": 17,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 24,
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 26,
+      "max": 27,
       "min": 17,
       "condition": "közepesen felhős",
       "icon": "☁️",
