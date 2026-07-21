@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Kissé szeles, kellemesen meleg idő",
-  "updated": "2026.07.21. 01:39",
-  "flow_last_run": "2026.07.21. 01:39",
+  "updated": "2026.07.21. 03:07",
+  "flow_last_run": "2026.07.21. 03:07",
   "current": {
     "temperature": 11,
-    "condition": "Köd",
-    "icon": "🌫️"
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
       "max": 29,
-      "min": 11,
+      "min": 12,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -22,7 +22,7 @@
     {
       "day": "Szerda",
       "max": 26,
-      "min": 17,
+      "min": 16,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
