@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Kissé szeles, kellemesen meleg idő",
-  "updated": "2026.07.21. 03:05",
-  "flow_last_run": "2026.07.21. 03:05",
+  "updated": "2026.07.21. 06:28",
+  "flow_last_run": "2026.07.21. 06:28",
   "current": {
-    "temperature": 14,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 15,
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 29,
-      "min": 14,
+      "max": 28,
+      "min": 15,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "4:57",
     "sunset": "20:22",
-    "is_night": true
+    "is_night": false
   }
 }
