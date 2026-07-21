@@ -1,29 +1,21 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Hidegfronti jellegű tünetek jelentkezhetnek",
-  "focim": "Kissé szeles, kellemesen meleg idő",
-  "updated": "2026.07.21. 16:56",
-  "flow_last_run": "2026.07.21. 16:56",
+  "fronthatas": "Hidegfronti jellegű tünetek előfordulhatnak",
+  "focim": "Szeles idő sok napsütéssel",
+  "updated": "2026.07.21. 18:19",
+  "flow_last_run": "2026.07.21. 18:19",
   "current": {
-    "temperature": 30,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 27,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Kedd",
-      "max": 30,
-      "min": 15,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Szerda",
       "max": 25,
-      "min": 15,
-      "condition": "gyengén felhős",
+      "min": 16,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -31,14 +23,14 @@
       "day": "Csütörtök",
       "max": 25,
       "min": 13,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 25,
-      "min": 11,
+      "max": 24,
+      "min": 12,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
@@ -62,6 +54,14 @@
     {
       "day": "Hétfő",
       "max": 30,
+      "min": 16,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Kedd",
+      "max": 31,
       "min": 16,
       "condition": "közepesen felhős",
       "icon": "☁️",
