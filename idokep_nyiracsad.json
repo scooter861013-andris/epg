@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti jellegű tünetek előfordulhatnak",
   "focim": "Szeles idő sok napsütéssel",
-  "updated": "2026.07.22. 08:15",
-  "flow_last_run": "2026.07.22. 08:15",
+  "updated": "2026.07.22. 11:07",
+  "flow_last_run": "2026.07.22. 11:07",
   "current": {
-    "temperature": 19,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "temperature": 21,
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "day": "Péntek",
-      "max": 24,
+      "max": 22,
       "min": 12,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -37,9 +37,9 @@
     },
     {
       "day": "Szombat",
-      "max": 28,
+      "max": 27,
       "min": 12,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -61,7 +61,7 @@
     },
     {
       "day": "Kedd",
-      "max": 30,
+      "max": 29,
       "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
