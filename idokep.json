@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Hidegfronti jellegű tünetek előfordulhatnak",
-  "focim": "Szeles idő sok napsütéssel",
-  "updated": "2026.07.22. 15:08",
-  "flow_last_run": "2026.07.22. 15:08",
+  "fronthatas": "Hidegfronti hatás várható",
+  "focim": "Hidegfront hoz elszórtan záport, zivatart",
+  "updated": "2026.07.22. 17:15",
+  "flow_last_run": "2026.07.22. 17:15",
   "current": {
-    "temperature": 25,
-    "condition": "Közepesen felhős",
+    "temperature": 26,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Szerda",
-      "max": 25,
-      "min": 16,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Csütörtök",
       "max": 25,
@@ -31,8 +23,8 @@
       "day": "Péntek",
       "max": 22,
       "min": 12,
-      "condition": "zivatar",
-      "icon": "⛈️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
@@ -64,6 +56,14 @@
       "max": 29,
       "min": 15,
       "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 30,
+      "min": 16,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     }
