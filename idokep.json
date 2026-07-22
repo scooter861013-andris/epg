@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti jellegű tünetek előfordulhatnak",
   "focim": "Szeles idő sok napsütéssel",
-  "updated": "2026.07.22. 01:38",
-  "flow_last_run": "2026.07.22. 01:38",
+  "updated": "2026.07.22. 03:04",
+  "flow_last_run": "2026.07.22. 03:04",
   "current": {
-    "temperature": 18,
-    "condition": "Erősen felhős",
+    "temperature": 17,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
       "max": 25,
-      "min": 16,
+      "min": 17,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
