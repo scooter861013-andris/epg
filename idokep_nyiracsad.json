@@ -3,33 +3,25 @@
   "location": "Nyiracsad",
   "fronthatas": "Gyenge hidegfronti hatás",
   "focim": "Mérsékelten meleg, kissé szeles idő",
-  "updated": "2026.07.23. 19:18",
-  "flow_last_run": "2026.07.23. 19:18",
+  "updated": "2026.07.23. 20:44",
+  "flow_last_run": "2026.07.23. 20:44",
   "current": {
-    "temperature": 16,
-    "condition": "Borult",
+    "temperature": 15,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Csütörtök",
-      "max": 26,
-      "min": 13,
-      "condition": "zivatar",
-      "icon": "⛈️",
-      "alert": null
-    },
-    {
       "day": "Péntek",
       "max": 22,
-      "min": 13,
+      "min": 12,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 27,
+      "max": 26,
       "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -66,11 +58,19 @@
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "max": 32,
+      "min": 17,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
     }
   ],
   "sun": {
     "sunrise": "4:59",
     "sunset": "20:18",
-    "is_night": false
+    "is_night": true
   }
 }
