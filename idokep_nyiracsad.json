@@ -1,14 +1,14 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Hidegfronti hatás várható",
+  "fronthatas": "Gyenge hidegfronti hatás",
   "focim": "Hidegfront hoz elszórtan záport, zivatart",
-  "updated": "2026.07.23. 15:50",
-  "flow_last_run": "2026.07.23. 15:50",
+  "updated": "2026.07.23. 17:52",
+  "flow_last_run": "2026.07.23. 17:52",
   "current": {
-    "temperature": 25,
-    "condition": "Közepesen felhős",
-    "icon": "☁️"
+    "temperature": 24,
+    "condition": "Száraz zivatar",
+    "icon": "⛈️"
   },
   "forecast_7d": [
     {
@@ -22,7 +22,7 @@
     {
       "day": "Péntek",
       "max": 22,
-      "min": 12,
+      "min": 13,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -30,7 +30,7 @@
     {
       "day": "Szombat",
       "max": 27,
-      "min": 12,
+      "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
