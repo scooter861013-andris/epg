@@ -2,13 +2,13 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Gyenge hidegfronti hatás",
-  "focim": "Hidegfront hoz elszórtan záport, zivatart",
-  "updated": "2026.07.23. 17:22",
-  "flow_last_run": "2026.07.23. 17:22",
+  "focim": "Mérsékelten meleg, kissé szeles idő",
+  "updated": "2026.07.23. 18:53",
+  "flow_last_run": "2026.07.23. 18:53",
   "current": {
-    "temperature": 25,
-    "condition": "Gyenge eső",
-    "icon": "🌧️"
+    "temperature": 21,
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -30,7 +30,7 @@
     {
       "day": "Szombat",
       "max": 27,
-      "min": 11,
+      "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
