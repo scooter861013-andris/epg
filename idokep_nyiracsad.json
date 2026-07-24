@@ -2,29 +2,29 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Gyenge hidegfronti hatás",
-  "focim": "Mérsékelten meleg, kissé szeles idő",
-  "updated": "2026.07.24. 06:21",
-  "flow_last_run": "2026.07.24. 06:21",
+  "focim": "Mérsékelten meleg idő, elszórtan záporokkal",
+  "updated": "2026.07.24. 09:05",
+  "flow_last_run": "2026.07.24. 09:05",
   "current": {
-    "temperature": 9,
-    "condition": "Zápor",
-    "icon": "🌧️"
+    "temperature": 16,
+    "condition": "Borult",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 20,
-      "min": 10,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "max": 21,
+      "min": 12,
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Szombat",
       "max": 25,
       "min": 11,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "day": "Csütörtök",
-      "max": 32,
+      "max": 34,
       "min": 17,
       "condition": "gyengén felhős",
       "icon": "☁️",
