@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Gyenge hidegfronti hatás",
   "focim": "Mérsékelten meleg idő, elszórtan záporokkal",
-  "updated": "2026.07.24. 11:33",
-  "flow_last_run": "2026.07.24. 11:33",
+  "updated": "2026.07.24. 13:24",
+  "flow_last_run": "2026.07.24. 13:24",
   "current": {
-    "temperature": 20,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "temperature": 21,
+    "condition": "Eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "4:59",
+    "sunrise": "5:01",
     "sunset": "20:17",
     "is_night": false
   }
