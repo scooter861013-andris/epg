@@ -3,11 +3,11 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Kellemes nyári idő követi a friss reggelt",
-  "updated": "2026.07.24. 20:00",
-  "flow_last_run": "2026.07.24. 20:00",
+  "updated": "2026.07.24. 21:45",
+  "flow_last_run": "2026.07.24. 21:45",
   "current": {
-    "temperature": 16,
-    "condition": "Erősen felhős",
+    "temperature": 13,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -30,7 +30,7 @@
     {
       "day": "Hétfő",
       "max": 29,
-      "min": 17,
+      "min": 18,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:01",
     "sunset": "20:17",
-    "is_night": false
+    "is_night": true
   }
 }
