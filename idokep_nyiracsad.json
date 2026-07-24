@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Gyenge hidegfronti hatás",
   "focim": "Mérsékelten meleg idő, elszórtan záporokkal",
-  "updated": "2026.07.24. 09:05",
-  "flow_last_run": "2026.07.24. 09:05",
+  "updated": "2026.07.24. 11:33",
+  "flow_last_run": "2026.07.24. 11:33",
   "current": {
-    "temperature": 16,
-    "condition": "Borult",
+    "temperature": 20,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 21,
+      "max": 22,
       "min": 12,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -21,7 +21,7 @@
     },
     {
       "day": "Szombat",
-      "max": 25,
+      "max": 26,
       "min": 11,
       "condition": "zápor",
       "icon": "🌧️",
@@ -30,14 +30,14 @@
     {
       "day": "Vasárnap",
       "max": 30,
-      "min": 14,
+      "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 28,
+      "max": 25,
       "min": 15,
       "condition": "zápor",
       "icon": "🌧️",
@@ -47,7 +47,7 @@
       "day": "Kedd",
       "max": 29,
       "min": 14,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -55,16 +55,16 @@
       "day": "Szerda",
       "max": 32,
       "min": 15,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     },
     {
       "day": "Csütörtök",
       "max": 34,
       "min": 17,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     }
   ],
