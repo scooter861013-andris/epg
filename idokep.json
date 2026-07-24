@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Gyenge hidegfronti hatás",
   "focim": "Mérsékelten meleg, kissé szeles idő",
-  "updated": "2026.07.24. 03:05",
-  "flow_last_run": "2026.07.24. 03:05",
+  "updated": "2026.07.24. 06:29",
+  "flow_last_run": "2026.07.24. 06:29",
   "current": {
     "temperature": 12,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "condition": "Zápor",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 22,
-      "min": 12,
+      "max": 20,
+      "min": 13,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:00",
     "sunset": "20:18",
-    "is_night": true
+    "is_night": false
   }
 }
