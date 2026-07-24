@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Gyenge hidegfronti hatás",
   "focim": "Mérsékelten meleg idő, elszórtan záporokkal",
-  "updated": "2026.07.24. 14:52",
-  "flow_last_run": "2026.07.24. 14:52",
+  "updated": "2026.07.24. 16:46",
+  "flow_last_run": "2026.07.24. 16:46",
   "current": {
-    "temperature": 23,
-    "condition": "Zápor",
-    "icon": "🌧️"
+    "temperature": 21,
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 23,
+      "max": 22,
       "min": 13,
       "condition": "zivatar",
       "icon": "⛈️",
