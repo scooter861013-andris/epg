@@ -1,19 +1,19 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Nem várható fronthatás",
+  "fronthatas": "Melegfronti hatás",
   "focim": "Kellemes nyári idő követi a friss reggelt",
-  "updated": "2026.07.25. 17:38",
-  "flow_last_run": "2026.07.25. 17:38",
+  "updated": "2026.07.25. 18:33",
+  "flow_last_run": "2026.07.25. 18:33",
   "current": {
-    "temperature": 28,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 26,
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
-      "max": 27,
+      "max": 26,
       "min": 10,
       "condition": "közepesen felhős",
       "icon": "☁️",
