@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti hatás",
   "focim": "Kissé szeles idő, kánikula",
-  "updated": "2026.07.26. 00:07",
-  "flow_last_run": "2026.07.26. 00:07",
+  "updated": "2026.07.26. 01:09",
+  "flow_last_run": "2026.07.26. 01:09",
   "current": {
-    "temperature": 15,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 13,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
       "max": 31,
-      "min": 13,
+      "min": 12,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
