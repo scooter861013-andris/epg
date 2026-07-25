@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti hatás",
   "focim": "Kissé szeles idő, kánikula",
-  "updated": "2026.07.25. 23:52",
-  "flow_last_run": "2026.07.25. 23:52",
+  "updated": "2026.07.26. 00:52",
+  "flow_last_run": "2026.07.26. 00:52",
   "current": {
     "temperature": 11,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
       "max": 31,
-      "min": 12,
+      "min": 11,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "5:02",
-    "sunset": "20:16",
+    "sunset": "20:15",
     "is_night": true
   }
 }
