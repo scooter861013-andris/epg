@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Kellemes nyári idő követi a friss reggelt",
-  "updated": "2026.07.25. 00:53",
-  "flow_last_run": "2026.07.25. 01:56",
+  "updated": "2026.07.25. 04:07",
+  "flow_last_run": "2026.07.25. 04:07",
   "current": {
-    "temperature": 12,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 11,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
@@ -22,7 +22,7 @@
     {
       "day": "Vasárnap",
       "max": 31,
-      "min": 14,
+      "min": 13,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
