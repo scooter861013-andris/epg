@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti hatás",
-  "focim": "Kellemes nyári idő követi a friss reggelt",
-  "updated": "2026.07.25. 18:33",
-  "flow_last_run": "2026.07.25. 18:33",
+  "focim": "Kissé szeles idő, kánikula",
+  "updated": "2026.07.25. 19:41",
+  "flow_last_run": "2026.07.25. 19:41",
   "current": {
-    "temperature": 26,
-    "condition": "Közepesen felhős",
+    "temperature": 22,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Szombat",
-      "max": 26,
-      "min": 10,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Vasárnap",
       "max": 31,
@@ -31,14 +23,14 @@
       "day": "Hétfő",
       "max": 26,
       "min": 18,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 28,
-      "min": 14,
+      "max": 27,
+      "min": 16,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -53,7 +45,7 @@
     },
     {
       "day": "Csütörtök",
-      "max": 34,
+      "max": 35,
       "min": 17,
       "condition": "derült",
       "icon": "🌙",
@@ -61,8 +53,16 @@
     },
     {
       "day": "Péntek",
-      "max": 36,
+      "max": 37,
       "min": 18,
+      "condition": "derült",
+      "icon": "🌙",
+      "alert": null
+    },
+    {
+      "day": "Szombat",
+      "max": 38,
+      "min": 19,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
