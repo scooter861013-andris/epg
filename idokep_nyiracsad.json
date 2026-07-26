@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás",
   "focim": "Hidegfront hoz záporokat, zivatarokat",
-  "updated": "2026.07.26. 20:01",
-  "flow_last_run": "2026.07.26. 20:01",
+  "updated": "2026.07.26. 21:33",
+  "flow_last_run": "2026.07.26. 21:33",
   "current": {
-    "temperature": 23,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 19,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
       "max": 30,
-      "min": 20,
+      "min": 19,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:03",
     "sunset": "20:15",
-    "is_night": false
+    "is_night": true
   }
 }
