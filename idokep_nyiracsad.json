@@ -1,36 +1,28 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Hidegfronti hatás",
-  "focim": "Hidegfront hoz záporokat, zivatarokat",
-  "updated": "2026.07.27. 17:22",
-  "flow_last_run": "2026.07.27. 17:22",
+  "fronthatas": "Hideg- és melegfronti tünetek",
+  "focim": "A kedd még elviselhető lesz, utána jön a forróság",
+  "updated": "2026.07.27. 19:16",
+  "flow_last_run": "2026.07.27. 19:16",
   "current": {
-    "temperature": 30,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "temperature": 28,
+    "condition": "Porvihar",
+    "icon": null
   },
   "forecast_7d": [
-    {
-      "day": "Hétfő",
-      "max": 30,
-      "min": 19,
-      "condition": "zivatar",
-      "icon": "⛈️",
-      "alert": null
-    },
     {
       "day": "Kedd",
       "max": 29,
       "min": 16,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 33,
-      "min": 15,
+      "max": 32,
+      "min": 13,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -62,6 +54,14 @@
     {
       "day": "Vasárnap",
       "max": 38,
+      "min": 20,
+      "condition": "derült",
+      "icon": "🌙",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 37,
       "min": 20,
       "condition": "derült",
       "icon": "🌙",
