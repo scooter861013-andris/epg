@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Hideg- és melegfronti tünetek",
   "focim": "A kedd még elviselhető lesz, utána jön a forróság",
-  "updated": "2026.07.27. 19:16",
-  "flow_last_run": "2026.07.27. 19:16",
+  "updated": "2026.07.27. 20:54",
+  "flow_last_run": "2026.07.27. 20:54",
   "current": {
-    "temperature": 28,
-    "condition": "Porvihar",
+    "temperature": 20,
+    "condition": "Pára",
     "icon": null
   },
   "forecast_7d": [
     {
       "day": "Kedd",
       "max": 29,
-      "min": 16,
+      "min": 17,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:04",
     "sunset": "20:13",
-    "is_night": false
+    "is_night": true
   }
 }
