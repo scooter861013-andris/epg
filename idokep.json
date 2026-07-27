@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hideg- és melegfronti tünetek",
   "focim": "A kedd még elviselhető lesz, utána jön a forróság",
-  "updated": "2026.07.27. 22:43",
-  "flow_last_run": "2026.07.27. 22:43",
+  "updated": "2026.07.27. 23:46",
+  "flow_last_run": "2026.07.27. 23:46",
   "current": {
-    "temperature": 20,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 19,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "day": "Csütörtök",
-      "max": 35,
+      "max": 36,
       "min": 17,
       "condition": "derült",
       "icon": "🌙",
