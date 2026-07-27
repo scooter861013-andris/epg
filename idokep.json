@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás",
   "focim": "Hidegfront hoz záporokat, zivatarokat",
-  "updated": "2026.07.27. 05:58",
-  "flow_last_run": "2026.07.27. 05:58",
+  "updated": "2026.07.27. 09:32",
+  "flow_last_run": "2026.07.27. 09:32",
   "current": {
-    "temperature": 20,
-    "condition": "Borult",
+    "temperature": 25,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 28,
+      "max": 30,
       "min": 20,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -23,8 +23,8 @@
       "day": "Kedd",
       "max": 29,
       "min": 16,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
