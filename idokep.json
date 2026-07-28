@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Hideg- és melegfronti tünetek",
-  "focim": "A kedd még elviselhető lesz, utána jön a forróság",
-  "updated": "2026.07.28. 18:37",
-  "flow_last_run": "2026.07.28. 18:37",
+  "fronthatas": "Egyre inkább a hőség terhelheti meg szervezetünket",
+  "focim": "Hosszantartó hőhullám kezdődik",
+  "updated": "2026.07.28. 20:01",
+  "flow_last_run": "2026.07.28. 20:01",
   "current": {
-    "temperature": 29,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 25,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Kedd",
-      "max": 29,
-      "min": 16,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Szerda",
       "max": 31,
@@ -37,8 +29,8 @@
     },
     {
       "day": "Péntek",
-      "max": 37,
-      "min": 18,
+      "max": 38,
+      "min": 20,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -47,22 +39,30 @@
       "day": "Szombat",
       "max": 38,
       "min": 19,
-      "condition": "derült",
-      "icon": "🌙",
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
       "max": 38,
-      "min": 20,
+      "min": 21,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
     },
     {
       "day": "Hétfő",
+      "max": 38,
+      "min": 21,
+      "condition": "derült",
+      "icon": "🌙",
+      "alert": null
+    },
+    {
+      "day": "Kedd",
       "max": 37,
-      "min": 20,
+      "min": 21,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
