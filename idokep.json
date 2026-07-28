@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Egyre inkább a hőség terhelheti meg szervezetünket",
   "focim": "Hosszantartó hőhullám kezdődik",
-  "updated": "2026.07.28. 21:49",
-  "flow_last_run": "2026.07.28. 22:59",
+  "updated": "2026.07.29. 00:08",
+  "flow_last_run": "2026.07.29. 00:08",
   "current": {
-    "temperature": 21,
+    "temperature": 20,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 32,
+      "max": 31,
       "min": 15,
       "condition": "derült",
       "icon": "🌙",
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "5:06",
-    "sunset": "20:14",
+    "sunset": "20:12",
     "is_night": true
   }
 }
