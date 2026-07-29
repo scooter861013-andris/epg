@@ -2,26 +2,18 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Egyre inkább a hőség terhelheti meg szervezetünket",
-  "focim": "Hosszantartó hőhullám kezdődik",
-  "updated": "2026.07.29. 14:20",
-  "flow_last_run": "2026.07.29. 14:20",
+  "focim": "Napról napra fokozódik a hőség",
+  "updated": "2026.07.29. 16:40",
+  "flow_last_run": "2026.07.29. 16:40",
   "current": {
-    "temperature": 31,
+    "temperature": 32,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
-      "day": "Szerda",
-      "max": 31,
-      "min": 14,
-      "condition": "derült",
-      "icon": "🌙",
-      "alert": null
-    },
-    {
       "day": "Csütörtök",
-      "max": 35,
+      "max": 36,
       "min": 16,
       "condition": "derült",
       "icon": "🌙",
@@ -29,16 +21,16 @@
     },
     {
       "day": "Péntek",
-      "max": 37,
+      "max": 36,
       "min": 18,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     },
     {
       "day": "Szombat",
       "max": 38,
-      "min": 19,
+      "min": 18,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -46,14 +38,14 @@
     {
       "day": "Vasárnap",
       "max": 38,
-      "min": 21,
+      "min": 20,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 37,
+      "max": 38,
       "min": 21,
       "condition": "derült",
       "icon": "🌙",
@@ -61,10 +53,18 @@
     },
     {
       "day": "Kedd",
-      "max": 37,
+      "max": 38,
       "min": 21,
       "condition": "derült",
       "icon": "🌙",
+      "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 37,
+      "min": 21,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
