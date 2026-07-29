@@ -3,25 +3,25 @@
   "location": "Nyiracsad",
   "fronthatas": "Egyre inkább a hőség terhelheti meg szervezetünket",
   "focim": "Hosszantartó hőhullám kezdődik",
-  "updated": "2026.07.29. 03:08",
-  "flow_last_run": "2026.07.29. 03:08",
+  "updated": "2026.07.29. 06:30",
+  "flow_last_run": "2026.07.29. 06:30",
   "current": {
-    "temperature": 14,
+    "temperature": 13,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 32,
-      "min": 13,
+      "max": 30,
+      "min": 14,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 35,
+      "max": 36,
       "min": 16,
       "condition": "derült",
       "icon": "🌙",
@@ -30,7 +30,7 @@
     {
       "day": "Péntek",
       "max": 38,
-      "min": 19,
+      "min": 18,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:05",
     "sunset": "20:11",
-    "is_night": true
+    "is_night": false
   }
 }
