@@ -1,20 +1,20 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Egyre inkább a hőség terhelheti meg szervezetünket",
+  "fronthatas": "A kánikula terhelheti meg szervezetünket",
   "focim": "Napról napra fokozódik a hőség",
-  "updated": "2026.07.30. 05:29",
-  "flow_last_run": "2026.07.30. 05:29",
+  "updated": "2026.07.30. 08:08",
+  "flow_last_run": "2026.07.30. 08:08",
   "current": {
-    "temperature": 12,
+    "temperature": 24,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "max": 33,
-      "min": 12,
+      "max": 35,
+      "min": 17,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
