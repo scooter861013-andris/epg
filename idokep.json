@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "A kánikula terhelheti meg szervezetünket",
   "focim": "Napról napra fokozódik a hőség",
-  "updated": "2026.07.30. 11:38",
-  "flow_last_run": "2026.07.30. 11:38",
+  "updated": "2026.07.30. 13:31",
+  "flow_last_run": "2026.07.30. 13:31",
   "current": {
-    "temperature": 33,
+    "temperature": 36,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "max": 35,
+      "max": 36,
       "min": 17,
       "condition": "derült",
       "icon": "🌙",
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "5:08",
+    "sunrise": "5:09",
     "sunset": "20:11",
     "is_night": false
   }
