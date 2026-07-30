@@ -35,7 +35,7 @@ function formatDatum(datum) {
   const ora = alap.slice(8, 10);
   const perc = alap.slice(10, 12);
   const mp = alap.slice(12, 14);
-  return `${ev}.${honap}.${nap}.${ora}:${perc}:${mp}${zona}`;
+  return `${ev}.${honap}.${nap}  -  ${ora}:${perc}:${mp}${zona}`;
 }
 const xml = fs.readFileSync("epg.xml", "utf8")
 const parser = new XMLParser({ ignoreAttributes: false })
