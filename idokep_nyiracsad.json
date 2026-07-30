@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "A kánikula terhelheti meg szervezetünket",
   "focim": "Napról napra fokozódik a hőség",
-  "updated": "2026.07.30. 14:54",
-  "flow_last_run": "2026.07.30. 17:08",
+  "updated": "2026.07.30. 18:48",
+  "flow_last_run": "2026.07.30. 18:48",
   "current": {
-    "temperature": 35,
+    "temperature": 32,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -22,15 +22,15 @@
     {
       "day": "Péntek",
       "max": 37,
-      "min": 16,
+      "min": 17,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 38,
-      "min": 18,
+      "max": 39,
+      "min": 19,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
