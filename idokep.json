@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "A hőség terhelheti meg szervezetünket",
   "focim": "Forró nyári napok jönnek",
-  "updated": "2026.07.30. 20:05",
-  "flow_last_run": "2026.07.30. 20:05",
+  "updated": "2026.07.30. 20:35",
+  "flow_last_run": "2026.07.30. 20:35",
   "current": {
-    "temperature": 29,
+    "temperature": 27,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:09",
     "sunset": "20:11",
-    "is_night": false
+    "is_night": true
   }
 }
