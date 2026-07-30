@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Egyre inkább a hőség terhelheti meg szervezetünket",
   "focim": "Napról napra fokozódik a hőség",
-  "updated": "2026.07.30. 03:00",
-  "flow_last_run": "2026.07.30. 03:00",
+  "updated": "2026.07.30. 06:16",
+  "flow_last_run": "2026.07.30. 06:16",
   "current": {
-    "temperature": 18,
+    "temperature": 17,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "max": 35,
+      "max": 34,
       "min": 17,
       "condition": "derült",
       "icon": "🌙",
@@ -22,7 +22,7 @@
     {
       "day": "Péntek",
       "max": 36,
-      "min": 19,
+      "min": 18,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:08",
     "sunset": "20:11",
-    "is_night": true
+    "is_night": false
   }
 }
