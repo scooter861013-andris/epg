@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "A hőség terhelheti meg szervezetünket",
   "focim": "Száraz, napos idő perzselő hőséggel",
-  "utoljára változott hőmérséklet az időképről": "2026.07.31. 20:05",
-  "flow_last_run": "2026.07.31. 20:05",
+  "utoljára változott hőmérséklet az időképről": "2026.07.31. 20:35",
+  "flow_last_run": "2026.07.31. 20:35",
   "current": {
-    "temperature": 31,
+    "temperature": 28,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:10",
     "sunset": "20:10",
-    "is_night": false
+    "is_night": true
   }
 }
