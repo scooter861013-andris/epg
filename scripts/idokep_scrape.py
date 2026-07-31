@@ -282,8 +282,8 @@ data = {
     "location": LOCATION,
     "fronthatas": fronthatas,
     "focim": focim,
-    "updated": (
-        old_data.get("updated")
+    "utoljára változás az időképről": (
+        old_data.get("utoljára változás az időképről")
         if old_data
         and old_data.get("current") == {
             "temperature": current_temp,
