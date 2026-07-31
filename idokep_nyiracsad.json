@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "A hőség terhelheti meg szervezetünket",
   "focim": "Forró nyári napok jönnek",
-  "updated": "2026.07.31. 16:57",
-  "flow_last_run": "2026.07.31. 16:57",
+  "updated": "2026.07.31. 18:47",
+  "flow_last_run": "2026.07.31. 18:47",
   "current": {
-    "temperature": 38,
+    "temperature": 35,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 38,
+      "max": 37,
       "min": 17,
       "condition": "derült",
       "icon": "🌙",
@@ -21,7 +21,7 @@
     },
     {
       "day": "Szombat",
-      "max": 39,
+      "max": 38,
       "min": 18,
       "condition": "derült",
       "icon": "🌙",
