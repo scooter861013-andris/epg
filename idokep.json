@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "A hőség terhelheti meg szervezetünket",
   "focim": "Hőséggel zárul a hét",
-  "utoljára változott hőmérséklet az időképről": "2026.08.01. 20:05",
-  "flow_last_run": "2026.08.01. 20:05",
+  "utoljára változott hőmérséklet az időképről": "2026.08.01. 20:35",
+  "flow_last_run": "2026.08.01. 20:35",
   "current": {
-    "temperature": 31,
+    "temperature": 29,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:11",
     "sunset": "20:08",
-    "is_night": false
+    "is_night": true
   }
 }
