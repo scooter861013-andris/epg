@@ -2,27 +2,19 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "A hőség terhelheti meg szervezetünket",
-  "focim": "Hőséggel zárul a hét",
-  "updated": "2026.08.02. 19:15",
-  "flow_last_run": "2026.08.02. 19:15",
+  "focim": "Forró idő, néhol esetleg hőzivatarral",
+  "updated": "2026.08.02. 20:28",
+  "flow_last_run": "2026.08.02. 20:28",
   "current": {
-    "temperature": 34,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 30,
+    "condition": "Erősen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Vasárnap",
-      "max": 36,
-      "min": 22,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Hétfő",
       "max": 38,
-      "min": 20,
+      "min": 19,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -37,15 +29,15 @@
     },
     {
       "day": "Szerda",
-      "max": 40,
-      "min": 21,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "max": 41,
+      "min": 20,
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 39,
+      "max": 40,
       "min": 22,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -53,7 +45,7 @@
     },
     {
       "day": "Péntek",
-      "max": 37,
+      "max": 35,
       "min": 22,
       "condition": "zápor",
       "icon": "🌧️",
@@ -61,16 +53,24 @@
     },
     {
       "day": "Szombat",
-      "max": 33,
-      "min": 21,
+      "max": 32,
+      "min": 19,
       "condition": "zápor",
       "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Vasárnap",
+      "max": 31,
+      "min": 18,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
   "sun": {
     "sunrise": "5:12",
     "sunset": "20:05",
-    "is_night": false
+    "is_night": true
   }
 }
