@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "A hőség terhelheti meg szervezetünket",
-  "focim": "Forró idő néhol hőzivatarral",
-  "utoljára változott hőmérséklet az időképről": "2026.08.03. 19:05",
-  "flow_last_run": "2026.08.03. 19:05",
+  "focim": "A hét legforróbb napjai jönnek",
+  "utoljára változott hőmérséklet az időképről": "2026.08.03. 19:35",
+  "flow_last_run": "2026.08.03. 19:35",
   "current": {
-    "temperature": 35,
+    "temperature": 33,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Hétfő",
-      "max": 37,
-      "min": 20,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Kedd",
       "max": 39,
@@ -37,16 +29,16 @@
     },
     {
       "day": "Csütörtök",
-      "max": 41,
+      "max": 39,
       "min": 22,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
       "max": 35,
-      "min": 22,
+      "min": 21,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -62,6 +54,14 @@
     {
       "day": "Vasárnap",
       "max": 32,
+      "min": 18,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 34,
       "min": 18,
       "condition": "gyengén felhős",
       "icon": "☁️",
