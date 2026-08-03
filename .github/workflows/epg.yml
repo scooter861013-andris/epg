@@ -43,4 +43,5 @@ jobs:
           git config user.email "github-actions@github.com"
           git add epg.xml tv2_esti_musor.json
           git commit -m "Update EPG + TV programs" || echo "No changes"
+          git pull --rebase origin main 
           git push
