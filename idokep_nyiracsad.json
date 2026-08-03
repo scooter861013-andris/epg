@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "A hőség terhelheti meg szervezetünket",
   "focim": "Forró idő néhol hőzivatarral",
-  "updated": "2026.08.03. 10:41",
-  "flow_last_run": "2026.08.03. 10:41",
+  "updated": "2026.08.03. 14:01",
+  "flow_last_run": "2026.08.03. 14:01",
   "current": {
-    "temperature": 35,
+    "temperature": 38,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -30,7 +30,7 @@
     {
       "day": "Szerda",
       "max": 40,
-      "min": 22,
+      "min": 21,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "5:12",
+    "sunrise": "5:13",
     "sunset": "20:04",
     "is_night": false
   }
