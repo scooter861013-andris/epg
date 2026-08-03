@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "A hőség terhelheti meg szervezetünket",
   "focim": "A hét legforróbb napjai jönnek",
-  "updated": "2026.08.03. 19:20",
-  "flow_last_run": "2026.08.03. 19:20",
+  "updated": "2026.08.03. 21:04",
+  "flow_last_run": "2026.08.03. 21:04",
   "current": {
-    "temperature": 33,
+    "temperature": 28,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:13",
     "sunset": "20:04",
-    "is_night": false
+    "is_night": true
   }
 }
