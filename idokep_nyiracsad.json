@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "A hőség terhelheti meg szervezetünket",
   "focim": "Tikkasztó forróság",
-  "updated": "2026.08.04. 21:11",
-  "flow_last_run": "2026.08.04. 21:11",
+  "updated": "2026.08.04. 22:42",
+  "flow_last_run": "2026.08.04. 22:42",
   "current": {
-    "temperature": 25,
+    "temperature": 23,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Szerda",
       "max": 40,
-      "min": 22,
+      "min": 21,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
