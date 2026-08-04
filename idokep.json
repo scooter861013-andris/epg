@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "A hőség terhelheti meg szervezetünket",
   "focim": "A hét legforróbb napjai jönnek",
-  "utoljára változott hőmérséklet az időképről": "2026.08.04. 07:35",
-  "flow_last_run": "2026.08.04. 07:35",
+  "utoljára változott hőmérséklet az időképről": "2026.08.04. 08:05",
+  "flow_last_run": "2026.08.04. 08:05",
   "current": {
-    "temperature": 24,
+    "temperature": 26,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -37,10 +37,10 @@
     },
     {
       "day": "Péntek",
-      "max": 35,
+      "max": 33,
       "min": 21,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "zivatar",
+      "icon": "⛈️",
       "alert": null
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "day": "Vasárnap",
-      "max": 32,
+      "max": 33,
       "min": 18,
       "condition": "gyengén felhős",
       "icon": "☁️",
