@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "A hőség terhelheti meg szervezetünket",
-  "focim": "A hét legforróbb napjai jönnek",
-  "updated": "2026.08.04. 17:53",
-  "flow_last_run": "2026.08.04. 17:53",
+  "focim": "Tikkasztó forróság",
+  "updated": "2026.08.04. 19:44",
+  "flow_last_run": "2026.08.04. 19:44",
   "current": {
-    "temperature": 38,
+    "temperature": 31,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Kedd",
-      "max": 39,
-      "min": 19,
-      "condition": "derült",
-      "icon": "🌙",
-      "alert": null
-    },
     {
       "day": "Szerda",
       "max": 39,
@@ -29,15 +21,15 @@
     },
     {
       "day": "Csütörtök",
-      "max": 39,
-      "min": 22,
-      "condition": "gyengén felhős",
+      "max": 40,
+      "min": 21,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 33,
+      "max": 32,
       "min": 21,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -45,24 +37,32 @@
     },
     {
       "day": "Szombat",
-      "max": 32,
+      "max": 31,
       "min": 19,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
       "max": 33,
-      "min": 18,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "min": 16,
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     },
     {
       "day": "Hétfő",
       "max": 34,
       "min": 18,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Kedd",
+      "max": 34,
+      "min": 19,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
