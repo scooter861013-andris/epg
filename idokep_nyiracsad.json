@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "A hőség terhelheti meg szervezetünket",
   "focim": "Tetőzik a hőség",
-  "updated": "2026.08.05. 23:45",
-  "flow_last_run": "2026.08.05. 23:45",
+  "updated": "2026.08.06. 00:44",
+  "flow_last_run": "2026.08.06. 00:44",
   "current": {
-    "temperature": 21,
+    "temperature": 20,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "5:16",
-    "sunset": "20:01",
+    "sunset": "19:59",
     "is_night": true
   }
 }
