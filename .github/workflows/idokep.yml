@@ -3,9 +3,9 @@ name: Idokep JSON generator
 on:
   workflow_dispatch:
 
-concurrency:
-  group: idokep-generator
-  cancel-in-progress: true
+#concurrency:
+#  group: idokep-generator
+#  cancel-in-progress: true
 
 permissions:
   contents: write
