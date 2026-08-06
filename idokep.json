@@ -2,26 +2,18 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "A hőség terhelheti meg szervezetünket",
-  "focim": "Tikkasztó forróság",
-  "utoljára változott hőmérséklet az időképről": "2026.08.05. 18:35",
-  "flow_last_run": "2026.08.05. 18:35",
+  "focim": "Tetőzik a hőség",
+  "utoljára változott hőmérséklet az időképről": "2026.08.06. 08:05",
+  "flow_last_run": "2026.08.06. 08:05",
   "current": {
-    "temperature": 37,
+    "temperature": 27,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
-      "day": "Szerda",
-      "max": 40,
-      "min": 22,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Csütörtök",
-      "max": 40,
+      "max": 39,
       "min": 21,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -29,8 +21,8 @@
     },
     {
       "day": "Péntek",
-      "max": 34,
-      "min": 22,
+      "max": 32,
+      "min": 21,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
@@ -38,7 +30,7 @@
     {
       "day": "Szombat",
       "max": 32,
-      "min": 20,
+      "min": 19,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -46,7 +38,7 @@
     {
       "day": "Vasárnap",
       "max": 33,
-      "min": 16,
+      "min": 17,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -66,11 +58,19 @@
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 35,
+      "min": 20,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
     }
   ],
   "sun": {
     "sunrise": "5:17",
-    "sunset": "20:02",
+    "sunset": "20:01",
     "is_night": false
   }
 }
