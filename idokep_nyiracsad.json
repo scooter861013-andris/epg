@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Szeles szombat",
-  "updated": "2026.08.07. 22:50",
-  "flow_last_run": "2026.08.07. 22:50",
+  "updated": "2026.08.08. 00:17",
+  "flow_last_run": "2026.08.08. 00:17",
   "current": {
-    "temperature": 21,
-    "condition": "Borult",
+    "temperature": 20,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
-      "max": 30,
-      "min": 17,
+      "max": 29,
+      "min": 18,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "5:18",
-    "sunset": "19:58",
+    "sunset": "19:56",
     "is_night": true
   }
 }
