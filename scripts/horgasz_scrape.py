@@ -70,9 +70,6 @@ for kartya in soup.select(".ik.fishing-column"):
     fejlec_el = kartya.select_one(".fishing-column-header")
     idoszak = fejlec_el.get_text(strip=True) if fejlec_el else None
 
-    egkep_img = kartya.select_one(".fishing-column-forecast-icon img")
-    egkep_ikon = kod_kinyerese_src_bol(egkep_img["src"]) if egkep_img and egkep_img.has_attr("src") else None
-
     hold_img = kartya.select_one(".fishing-column-moonphase img")
     holdfazis_kod = kod_kinyerese_src_bol(hold_img["src"]) if hold_img and hold_img.has_attr("src") else None
     holdfazis = egesz_szam(holdfazis_kod) if holdfazis_kod is not None else None
@@ -85,7 +82,6 @@ for kartya in soup.select(".ik.fishing-column"):
 
     elorejelzes.append({
         "időszak": idoszak,
-        "égkép_ikon": egkep_ikon,
         "holdfázis": holdfazis,
         "halikonok_száma": halikonok_szama,
         "minősítés": minosites
