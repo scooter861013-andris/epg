@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Hőség, majd hidegfronti hatás",
   "focim": "Záporok, zivatarok kialakulhatnak",
-  "updated": "2026.08.07. 02:22",
-  "flow_last_run": "2026.08.07. 02:22",
+  "updated": "2026.08.07. 05:26",
+  "flow_last_run": "2026.08.07. 05:26",
   "current": {
-    "temperature": 18,
+    "temperature": 19,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Péntek",
       "max": 34,
-      "min": 18,
+      "min": 19,
       "condition": "zivatar",
       "icon": "⛈️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:17",
     "sunset": "19:58",
-    "is_night": true
+    "is_night": false
   }
 }
