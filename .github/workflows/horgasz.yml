@@ -1,0 +1,40 @@
+name: Horgasz JSON generator
+
+on:
+  workflow_dispatch:
+
+#concurrency:
+#  group: horgasz-generator
+#  cancel-in-progress: true
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  run-horgasz:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Run Horgasz scraper
+        run: python scripts/horgasz_scrape.py
+
+      - name: Commit horgasz.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add horgasz.json
+          git commit -m "Update horgasz.json" || echo "No changes to commit"
+          git push
