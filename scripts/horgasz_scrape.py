@@ -10,7 +10,7 @@ from zoneinfo import ZoneInfo
 # -------------------------------------------------
 # KONFIG
 # -------------------------------------------------
-URL = "https://www.idokep.hu/horgasz"
+URL = "[idokep.hu](https://www.idokep.hu/horgasz)"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (GitHubActions)"
@@ -77,9 +77,6 @@ for kartya in soup.select(".ik.fishing-column"):
     holdfazis_kod = kod_kinyerese_src_bol(hold_img["src"]) if hold_img and hold_img.has_attr("src") else None
     holdfazis = egesz_szam(holdfazis_kod) if holdfazis_kod is not None else None
 
-    kapasindex_el = kartya.select_one(".fishing-column-temperature .tempValue")
-    kapasindex = egesz_szam(kapasindex_el.get_text(strip=True)) if kapasindex_el else None
-
     hal_span = kartya.select_one(".fishing-column-kapasindex span")
     halikonok_szama = hal_span.get_text(strip=True).count("🐟") if hal_span else None
 
@@ -90,7 +87,6 @@ for kartya in soup.select(".ik.fishing-column"):
         "időszak": idoszak,
         "égkép_ikon": egkep_ikon,
         "holdfázis": holdfazis,
-        "kapásindex": kapasindex,
         "halikonok_száma": halikonok_szama,
         "minősítés": minosites
     })
@@ -101,7 +97,7 @@ for kartya in soup.select(".ik.fishing-column"):
 if not napkelte or not napnyugta:
     raise SystemExit("Hiba: nap/hold adatok nem olvashatók, az oldal szerkezete valószínűleg megváltozott. Megszakítva.")
 
-if not elorejelzes or not any(e["kapásindex"] is not None for e in elorejelzes):
+if not elorejelzes or not any(e["minősítés"] is not None for e in elorejelzes):
     raise SystemExit("Hiba: kapásindex adatok nem olvashatók, az oldal szerkezete valószínűleg megváltozott. Megszakítva.")
 
 # -------------------------------------------------
