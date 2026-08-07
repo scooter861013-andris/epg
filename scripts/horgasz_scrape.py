@@ -10,7 +10,7 @@ from zoneinfo import ZoneInfo
 # -------------------------------------------------
 # KONFIG
 # -------------------------------------------------
-URL = "[idokep.hu](https://www.idokep.hu/horgasz)"
+URL = "https://www.idokep.hu/horgasz"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (GitHubActions)"
