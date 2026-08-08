@@ -3,8 +3,8 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Szeles szombat",
-  "updated": "2026.08.08. 05:07",
-  "flow_last_run": "2026.08.08. 05:07",
+  "updated": "2026.08.08. 06:20",
+  "flow_last_run": "2026.08.08. 06:20",
   "current": {
     "temperature": 18,
     "condition": "Derült",
@@ -13,7 +13,7 @@
   "forecast_7d": [
     {
       "day": "Szombat",
-      "max": 27,
+      "max": 28,
       "min": 18,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:18",
     "sunset": "19:56",
-    "is_night": true
+    "is_night": false
   }
 }
