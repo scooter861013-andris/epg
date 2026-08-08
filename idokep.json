@@ -4,7 +4,7 @@
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Strandidővel búcsúzik a hét",
   "utoljára változott hőmérséklet az időképről": "2026.08.08. 19:35",
-  "flow_last_run": "2026.08.08. 19:35",
+  "flow_last_run": "2026.08.08. 20:05",
   "current": {
     "temperature": 26,
     "condition": "Derült",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:21",
     "sunset": "19:58",
-    "is_night": false
+    "is_night": true
   }
 }
