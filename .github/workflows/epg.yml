@@ -29,8 +29,7 @@ jobs:
       - name: Generate epg.xml (tvmusor.hu)
         run: |
           cd epg
-          npm run grab --- --sites=tvmustra.hu --output=../epg.xml
-
+          npm run grab --- --channels=../sajat_tvcsatorna_lista.xml --output=../epg.xml
       - name: Install JSON parser
         run: npm install fast-xml-parser
 
