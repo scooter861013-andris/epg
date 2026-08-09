@@ -1,1 +1,20 @@
-uresss
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="tvmustra.hu" site_id="AMC" lang="hu" xmltv_id="">AMC</channel>
+  <channel site="tvmustra.hu" site_id="AXN" lang="hu" xmltv_id="">AXN</channel>
+  <channel site="tvmustra.hu" site_id="FILM4" lang="hu" xmltv_id="">Film4</channel>
+  <channel site="tvmustra.hu" site_id="FILMCAFE" lang="hu" xmltv_id="">Film Café</channel>
+  <channel site="tvmustra.hu" site_id="FILMMANIA" lang="hu" xmltv_id="">Film Mánia</channel>
+  <channel site="tvmustra.hu" site_id="FILMPLUSSZ" lang="hu" xmltv_id="">Film+</channel>
+  <channel site="tvmustra.hu" site_id="MOZIPLUSZ" lang="hu" xmltv_id="">Mozi+</channel>
+  <channel site="tvmustra.hu" site_id="MOZIVERZUM" lang="hu" xmltv_id="">Moziverzum</channel>
+  <channel site="tvmustra.hu" site_id="NICKELODEON" lang="hu" xmltv_id="">Nickelodeon</channel>
+  <channel site="tvmustra.hu" site_id="OZONETV" lang="hu" xmltv_id="">OzoneTv</channel>
+  <channel site="tvmustra.hu" site_id="RTL" lang="hu" xmltv_id="">RTL</channel>
+  <channel site="tvmustra.hu" site_id="RTL_HAROM" lang="hu" xmltv_id="">RTL HÁROM</channel>
+  <channel site="tvmustra.hu" site_id="SUPERTV2" lang="hu" xmltv_id="">Super TV2</channel>
+  <channel site="tvmustra.hu" site_id="TV2" lang="hu" xmltv_id="">TV2</channel>
+  <channel site="tvmustra.hu" site_id="VIASAT3" lang="hu" xmltv_id="">Viasat 3</channel>
+  <channel site="tvmustra.hu" site_id="VIASAT6" lang="hu" xmltv_id="">Viasat 6</channel>
+  <channel site="tvmustra.hu" site_id="VIASAT_FILM" lang="hu" xmltv_id="">Viasat Film</channel>
+</channels>
