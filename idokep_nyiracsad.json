@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Strandidővel búcsúzik a hét",
-  "updated": "2026.08.09. 03:24",
-  "flow_last_run": "2026.08.09. 03:24",
+  "updated": "2026.08.09. 05:14",
+  "flow_last_run": "2026.08.09. 05:14",
   "current": {
-    "temperature": 17,
-    "condition": "Közepesen felhős",
-    "icon": "☁️"
+    "temperature": 16,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 31,
+      "max": 29,
       "min": 16,
       "condition": "gyengén felhős",
       "icon": "☁️",
