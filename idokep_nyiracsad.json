@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Strandidővel búcsúzik a hét",
-  "updated": "2026.08.09. 08:28",
-  "flow_last_run": "2026.08.09. 08:28",
+  "updated": "2026.08.09. 09:34",
+  "flow_last_run": "2026.08.09. 09:34",
   "current": {
-    "temperature": 22,
+    "temperature": 26,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -23,22 +23,22 @@
       "day": "Hétfő",
       "max": 34,
       "min": 15,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 35,
-      "min": 17,
+      "max": 36,
+      "min": 18,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 31,
-      "min": 16,
+      "max": 30,
+      "min": 17,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -46,7 +46,7 @@
     {
       "day": "Csütörtök",
       "max": 31,
-      "min": 15,
+      "min": 14,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -54,7 +54,7 @@
     {
       "day": "Péntek",
       "max": 32,
-      "min": 15,
+      "min": 14,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -62,7 +62,7 @@
     {
       "day": "Szombat",
       "max": 34,
-      "min": 17,
+      "min": 15,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
