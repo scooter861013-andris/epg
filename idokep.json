@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Strandidővel búcsúzik a hét",
-  "utoljára változott hőmérséklet az időképről": "2026.08.09. 09:05",
-  "flow_last_run": "2026.08.09. 09:05",
+  "utoljára változott hőmérséklet az időképről": "2026.08.09. 09:35",
+  "flow_last_run": "2026.08.09. 09:35",
   "current": {
-    "temperature": 24,
+    "temperature": 25,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -23,8 +23,8 @@
       "day": "Hétfő",
       "max": 34,
       "min": 16,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "day": "Szerda",
-      "max": 31,
-      "min": 16,
+      "max": 30,
+      "min": 17,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -46,7 +46,7 @@
     {
       "day": "Csütörtök",
       "max": 31,
-      "min": 15,
+      "min": 14,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -54,7 +54,7 @@
     {
       "day": "Péntek",
       "max": 32,
-      "min": 15,
+      "min": 14,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -62,7 +62,7 @@
     {
       "day": "Szombat",
       "max": 34,
-      "min": 17,
+      "min": 15,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
