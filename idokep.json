@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Kánikulával indul a hét",
-  "utoljára változott hőmérséklet az időképről": "2026.08.10. 05:05",
-  "flow_last_run": "2026.08.10. 05:05",
+  "utoljára változott hőmérséklet az időképről": "2026.08.10. 05:35",
+  "flow_last_run": "2026.08.10. 05:35",
   "current": {
-    "temperature": 15,
+    "temperature": 14,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,15 +14,15 @@
     {
       "day": "Hétfő",
       "max": 32,
-      "min": 15,
+      "min": 14,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 35,
-      "min": 20,
+      "max": 36,
+      "min": 19,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:22",
     "sunset": "19:55",
-    "is_night": true
+    "is_night": false
   }
 }
