@@ -25,6 +25,10 @@ def letolt(url):
         )
     }
 
+
+    with open("omv.html", "w", encoding="utf-8") as fajl:
+    fajl.write(str(omv))
+    
     valasz = requests.get(url, headers=fejlec, timeout=30)
     valasz.raise_for_status()
 
