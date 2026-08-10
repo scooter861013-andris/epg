@@ -57,3 +57,29 @@ def horoszkop_adatok(leves):
         })
 
     return horoszkopok
+
+def main():
+
+    print("Horoszkóp letöltése...")
+
+    oldal = letolt(URL_HOROSZKOP)
+
+    adatok = {
+        "utolso_frissites": datetime.now().strftime("%Y.%m.%d. %H:%M:%S"),
+
+        "horoszkopok": horoszkop_adatok(oldal)
+    }
+
+    with open("horoszkop.json", "w", encoding="utf-8") as fajl:
+        json.dump(
+            adatok,
+            fajl,
+            ensure_ascii=False,
+            indent=4
+        )
+
+    print("horoszkop.json elkészült.")
+
+
+if __name__ == "__main__":
+    main()
