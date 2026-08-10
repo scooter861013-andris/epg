@@ -1,36 +1,28 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
-  "focim": "Kánikulával indul a hét",
-  "updated": "2026.08.10. 17:40",
-  "flow_last_run": "2026.08.10. 17:40",
+  "fronthatas": "Kánikula, majd hidegfronti hatás",
+  "focim": "Megélénkül az északias szél",
+  "updated": "2026.08.10. 18:31",
+  "flow_last_run": "2026.08.10. 18:31",
   "current": {
-    "temperature": 35,
+    "temperature": 34,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
-      "day": "Hétfő",
-      "max": 35,
-      "min": 15,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Kedd",
-      "max": 36,
-      "min": 17,
+      "max": 32,
+      "min": 16,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 28,
-      "min": 15,
+      "max": 26,
+      "min": 13,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -38,7 +30,7 @@
     {
       "day": "Csütörtök",
       "max": 30,
-      "min": 16,
+      "min": 13,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -46,7 +38,7 @@
     {
       "day": "Péntek",
       "max": 31,
-      "min": 15,
+      "min": 12,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -64,6 +56,14 @@
       "max": 35,
       "min": 17,
       "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 35,
+      "min": 18,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     }
