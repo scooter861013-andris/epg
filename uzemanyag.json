@@ -1,5 +1,5 @@
 {
-    "utolso_frissites": "2026.08.10. 19:36:49",
+    "utolso_frissites": "2026.08.10. 20:02:21",
     "agroinform": {
         "gazolaj": {
             "ar": "657",
@@ -18,5 +18,11 @@
             "irany": "novekedett"
         }
     },
-    "kutak": []
+    "kutak": [
+        {
+            "marka": "OMV",
+            "cim": "Debrecen, Kassai út 92.",
+            "uzemanyagok": []
+        }
+    ]
 }
