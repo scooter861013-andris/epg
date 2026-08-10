@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Kánikula, majd hidegfronti hatás",
   "focim": "Megélénkül az északias szél",
-  "utoljára változott hőmérséklet az időképről": "2026.08.10. 23:35",
-  "flow_last_run": "2026.08.10. 23:35",
+  "utoljára változott hőmérséklet az időképről": "2026.08.11. 00:05",
+  "flow_last_run": "2026.08.11. 00:05",
   "current": {
-    "temperature": 20,
+    "temperature": 19,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Kedd",
       "max": 36,
-      "min": 19,
+      "min": 18,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "5:23",
-    "sunset": "19:55",
+    "sunset": "19:53",
     "is_night": true
   }
 }
