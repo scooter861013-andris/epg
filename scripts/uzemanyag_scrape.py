@@ -159,6 +159,8 @@ def main():
         "kutak": []
     }
 
+    adatok["kutak"].append(kut_adatok(omv))
+    
     with open("uzemanyag.json", "w", encoding="utf-8") as fajl:
         json.dump(
             adatok,
