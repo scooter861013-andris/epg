@@ -3,8 +3,8 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Kánikulával indul a hét",
-  "updated": "2026.08.10. 10:57",
-  "flow_last_run": "2026.08.10. 10:57",
+  "updated": "2026.08.10. 12:17",
+  "flow_last_run": "2026.08.10. 12:17",
   "current": {
     "temperature": 33,
     "condition": "Derült",
@@ -30,7 +30,7 @@
     {
       "day": "Szerda",
       "max": 29,
-      "min": 15,
+      "min": 16,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "5:21",
+    "sunrise": "5:22",
     "sunset": "19:53",
     "is_night": false
   }
