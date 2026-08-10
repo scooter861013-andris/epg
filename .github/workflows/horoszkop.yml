@@ -1,0 +1,43 @@
+name: Horoszkóp JSON generátor
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  horoszkop:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Repository letöltése
+        uses: actions/checkout@v4
+
+      - name: Python telepítése
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Függőségek telepítése
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Horoszkóp letöltése
+        run: |
+          python scripts/horoszkop_scrape.py
+
+      - name: JSON mentése GitHubra
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add horoszkop.json
+
+          git commit -m "Horoszkóp frissítése" || echo "Nincs változás"
+
+          git pull --rebase origin main
+
+          git push
