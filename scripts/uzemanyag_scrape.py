@@ -31,6 +31,80 @@ def letolt(url):
     return BeautifulSoup(valasz.text, "html.parser")
 
 
+def agroinform_adatok(leves):
+
+    adatok = {}
+
+    dobozok = leves.find_all("div", class_="exchange_rate_box")
+
+    for doboz in dobozok:
+
+        szoveg = doboz.get_text(" ", strip=True)
+
+        if "Gázolaj árak" in szoveg:
+
+            ar = doboz.find("div", class_="price").get_text(strip=True)
+            ar = ar.replace("Ft", "").strip()
+
+            if "rate_up" in doboz.get("class", []):
+                irany = "novekedett"
+            else:
+                irany = "csokkent"
+
+            adatok["gazolaj"] = {
+                "ar": ar,
+                "irany": irany
+            }
+
+        elif "Benzin árak" in szoveg:
+
+            ar = doboz.find("div", class_="price").get_text(strip=True)
+            ar = ar.replace("Ft", "").strip()
+
+            if "rate_up" in doboz.get("class", []):
+                irany = "novekedett"
+            else:
+                irany = "csokkent"
+
+            adatok["benzin95"] = {
+                "ar": ar,
+                "irany": irany
+            }
+
+        elif "EUR" in szoveg:
+
+            ar = doboz.find("span", class_="rate").get_text(strip=True)
+            ar = ar.replace("Ft", "").strip()
+
+            if "rate_up" in doboz.get("class", []):
+                irany = "novekedett"
+            else:
+                irany = "csokkent"
+
+            adatok["eur"] = {
+                "ar": ar,
+                "irany": irany
+            }
+
+        elif "USD" in szoveg:
+
+            ar = doboz.find("span", class_="rate").get_text(strip=True)
+            ar = ar.replace("Ft", "").strip()
+
+            if "rate_up" in doboz.get("class", []):
+                irany = "novekedett"
+            else:
+                irany = "csokkent"
+
+            adatok["usd"] = {
+                "ar": ar,
+                "irany": irany
+            }
+
+    return adatok
+
+
+
 def main():
 
     print("Agroinform letöltése...")
@@ -48,7 +122,7 @@ def main():
     adatok = {
         "utolso_frissites": datetime.now().strftime("%Y.%m.%d. %H:%M:%S"),
 
-        "agroinform": {},
+        "agroinform": agroinform_adatok(agro),
 
         "kutak": []
     }
