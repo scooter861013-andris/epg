@@ -146,7 +146,7 @@ def main():
     print("OMV letöltése...")
     omv = letolt(URL_OMV)
     with open("omv.html", "w", encoding="utf-8") as fajl:
-    fajl.write(str(omv))
+        fajl.write(str(omv))
 
     
     print("MOL letöltése...")
