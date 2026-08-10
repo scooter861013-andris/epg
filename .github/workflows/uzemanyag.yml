@@ -1,0 +1,42 @@
+name: Üzemanyag JSON generátor
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  uzemanyag:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Repository letöltése
+        uses: actions/checkout@v4
+
+      - name: Python telepítése
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Python csomagok telepítése
+        run: |
+          pip install requests beautifulsoup4 lxml
+
+      - name: Üzemanyag scraper futtatása
+        run: |
+          python scripts/uzemanyag_scrape.py
+
+      - name: JSON mentése GitHubra
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add uzemanyag.json
+          git commit -m "Üzemanyag JSON frissítése" || echo "Nincs változás"
+
+          git pull --rebase origin main
+          git push
