@@ -135,6 +135,58 @@ def kut_adatok(leves):
         else:
             kut["marka"] = marka
 
+
+
+    
+    sorok = leves.find_all("div", class_="d-flex mb-3")
+
+    for sor in sorok:
+
+        ikon = sor.find("img")
+
+        if not ikon:
+            continue
+
+        kep = ikon.get("src", "")
+
+        if "ua_pin" not in kep:
+            continue
+
+        datum = sor.find("span", class_="badge")
+
+        ar = sor.find("span", class_="ar")
+
+        if not datum or not ar:
+            continue
+
+        datum = datum.get_text(strip=True)
+
+        ar = ar.get_text(" ", strip=True)
+
+        if "premium_gazolaj" in kep:
+            tipus = "Dízel (Premium B7)"
+
+        elif "premium-benzin-e10" in kep:
+            tipus = "95 (Premium E10)"
+
+        elif "100-benzin-e5" in kep:
+            tipus = "100 (E5)"
+
+        elif "95-benzin-e10" in kep:
+            tipus = "95 (E10)"
+
+        elif "gazolaj" in kep:
+            tipus = "Dízel (B7)"
+
+        else:
+            continue
+
+        kut["uzemanyagok"].append({
+            "datum": datum,
+            "tipus": tipus,
+            "ar": ar
+        })
+    
     return kut
     
 
