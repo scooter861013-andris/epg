@@ -25,9 +25,6 @@ def letolt(url):
         )
     }
 
-
-    with open("omv.html", "w", encoding="utf-8") as fajl:
-    fajl.write(str(omv))
     
     valasz = requests.get(url, headers=fejlec, timeout=30)
     valasz.raise_for_status()
@@ -148,7 +145,10 @@ def main():
 
     print("OMV letöltése...")
     omv = letolt(URL_OMV)
+    with open("omv.html", "w", encoding="utf-8") as fajl:
+    fajl.write(str(omv))
 
+    
     print("MOL letöltése...")
     mol = letolt(URL_MOL)
 
