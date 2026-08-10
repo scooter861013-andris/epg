@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Kánikula, majd hidegfronti hatás",
   "focim": "Megélénkül az északias szél",
-  "updated": "2026.08.10. 23:10",
-  "flow_last_run": "2026.08.10. 23:10",
+  "updated": "2026.08.10. 23:57",
+  "flow_last_run": "2026.08.10. 23:57",
   "current": {
-    "temperature": 17,
+    "temperature": 16,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Kedd",
       "max": 36,
-      "min": 17,
+      "min": 16,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
