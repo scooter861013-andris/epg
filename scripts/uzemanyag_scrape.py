@@ -103,7 +103,39 @@ def agroinform_adatok(leves):
 
     return adatok
 
+def kut_adatok(leves):
 
+    kut = {
+        "marka": "",
+        "cim": "",
+        "uzemanyagok": []
+    }
+
+    cim = leves.find("span", class_="subpage")
+
+    if cim:
+        kut["cim"] = cim.get_text(strip=True)
+
+    logo = leves.find("img", src=lambda s: s and "partner_logo" in s)
+
+    if logo:
+
+        marka = logo.get("title", "").strip().upper()
+
+        if marka == "OMV":
+            kut["marka"] = "OMV"
+
+        elif marka == "MOL":
+            kut["marka"] = "MOL"
+
+        elif marka == "SHELL":
+            kut["marka"] = "Shell"
+
+        else:
+            kut["marka"] = marka
+
+    return kut
+    
 
 def main():
 
