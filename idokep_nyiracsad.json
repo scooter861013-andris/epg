@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Kánikula, majd hidegfronti hatás",
   "focim": "Megélénkül az északias szél",
-  "updated": "2026.08.10. 19:35",
-  "flow_last_run": "2026.08.10. 19:35",
+  "updated": "2026.08.10. 20:32",
+  "flow_last_run": "2026.08.10. 20:32",
   "current": {
-    "temperature": 28,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 22,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:22",
     "sunset": "19:53",
-    "is_night": false
+    "is_night": true
   }
 }
