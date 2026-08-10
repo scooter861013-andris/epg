@@ -1,5 +1,5 @@
 {
-    "utolso_frissites": "2026.08.10. 20:02:21",
+    "utolso_frissites": "2026.08.10. 20:08:17",
     "agroinform": {
         "gazolaj": {
             "ar": "657",
@@ -22,7 +22,33 @@
         {
             "marka": "OMV",
             "cim": "Debrecen, Kassai út 92.",
-            "uzemanyagok": []
+            "uzemanyagok": [
+                {
+                    "datum": "2026-08-08",
+                    "tipus": "Dízel (B7)",
+                    "ar": "656.0 Ft/liter"
+                },
+                {
+                    "datum": "2026-08-08",
+                    "tipus": "95 (E10)",
+                    "ar": "572.0 Ft/liter"
+                },
+                {
+                    "datum": "2026-08-08",
+                    "tipus": "Dízel (Premium B7)",
+                    "ar": "755.0 Ft/liter"
+                },
+                {
+                    "datum": "2026-08-08",
+                    "tipus": "100 (E5)",
+                    "ar": "664.0 Ft/liter"
+                },
+                {
+                    "datum": "2026-08-08",
+                    "tipus": "95 (Premium E10)",
+                    "ar": "603.0 Ft/liter"
+                }
+            ]
         }
     ]
 }
