@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Kánikula, majd hidegfronti hatás",
-  "focim": "Megélénkül az északias szél",
-  "utoljára változott hőmérséklet az időképről": "2026.08.11. 17:35",
-  "flow_last_run": "2026.08.11. 17:35",
+  "fronthatas": "Kezdetben hidegfronti hatás várható",
+  "focim": "Napos, de szeles, hőségmentes idő",
+  "utoljára változott hőmérséklet az időképről": "2026.08.11. 18:05",
+  "flow_last_run": "2026.08.11. 18:05",
   "current": {
-    "temperature": 34,
+    "temperature": 32,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Kedd",
-      "max": 35,
-      "min": 19,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Szerda",
       "max": 28,
@@ -38,7 +30,7 @@
     {
       "day": "Péntek",
       "max": 30,
-      "min": 15,
+      "min": 13,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -46,25 +38,33 @@
     {
       "day": "Szombat",
       "max": 33,
-      "min": 15,
+      "min": 13,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 35,
+      "max": 34,
       "min": 16,
+      "condition": "derült",
+      "icon": "🌙",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 35,
+      "min": 17,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
-      "day": "Hétfő",
-      "max": 36,
-      "min": 18,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "day": "Kedd",
+      "max": 32,
+      "min": 17,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     }
   ],
