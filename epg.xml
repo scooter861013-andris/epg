@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260811">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260812">
 <channel id="AMC"><display-name>AMC</display-name></channel>
 <channel id="AXN"><display-name>AXN</display-name></channel>
 <channel id="FILM4"><display-name>Film4</display-name></channel>
@@ -16,220 +16,150 @@
 <channel id="VIASAT3"><display-name>Viasat 3</display-name></channel>
 <channel id="VIASAT6"><display-name>Viasat 6</display-name></channel>
 <channel id="VIASAT_FILM"><display-name>Viasat Film</display-name></channel>
-<programme start="20260810223500 +0000" stop="20260811002000 +0000" channel="AMC"><title lang="hu">Ház az erdő mélyén</title></programme>
-<programme start="20260811002000 +0000" stop="20260811013000 +0000" channel="AMC"><title lang="hu">Piranha 3DD</title></programme>
-<programme start="20260811013000 +0000" stop="20260811031000 +0000" channel="AMC"><title lang="hu">A szörny</title></programme>
-<programme start="20260811031000 +0000" stop="20260811033500 +0000" channel="AMC"><title lang="hu">Close Up</title></programme>
-<programme start="20260811033500 +0000" stop="20260811034500 +0000" channel="AMC"><title lang="hu">Zoom In</title></programme>
-<programme start="20260811034500 +0000" stop="20260811035000 +0000" channel="AMC"><title lang="hu">Zoom In</title></programme>
-<programme start="20260811035000 +0000" stop="20260811040000 +0000" channel="AMC"><title lang="hu">Spotlight</title></programme>
-<programme start="20260811040000 +0000" stop="20260811041000 +0000" channel="AMC"><title lang="hu">Zoom In</title></programme>
-<programme start="20260811041000 +0000" stop="20260811060500 +0000" channel="AMC"><title lang="hu">Salamon király kincse</title></programme>
-<programme start="20260811060500 +0000" stop="20260811075000 +0000" channel="AMC"><title lang="hu">Salamon király kincse</title></programme>
-<programme start="20260811075000 +0000" stop="20260811094500 +0000" channel="AMC"><title lang="hu">Törvényen kívül</title></programme>
-<programme start="20260811094500 +0000" stop="20260811125000 +0000" channel="AMC"><title lang="hu">2012</title></programme>
-<programme start="20260811125000 +0000" stop="20260811145500 +0000" channel="AMC"><title lang="hu">Szellemirtók</title></programme>
-<programme start="20260811145500 +0000" stop="20260811165500 +0000" channel="AMC"><title lang="hu">Ki nevel a végén?</title></programme>
-<programme start="20260811165500 +0000" stop="20260811190000 +0000" channel="AMC"><title lang="hu">Bunyó karácsonyig</title></programme>
-<programme start="20260811190000 +0000" stop="20260811205000 +0000" channel="AMC"><title lang="hu">Az utolsó emberig</title></programme>
-<programme start="20260811205000 +0000" stop="20260811225500 +0000" channel="AMC"><title lang="hu">Desperado</title></programme>
 <programme start="20260811225500 +0000" stop="20260811235500 +0000" channel="AMC"><title lang="hu">Walking Dead: Dead City, The</title></programme>
 <programme start="20260811235500 +0000" stop="20260812014500 +0000" channel="AMC"><title lang="hu">Ítéletnap</title></programme>
-<programme start="20260812014500 +0000" stop="20260812021500 +0000" channel="AMC"><title lang="hu">Colette</title></programme>
-<programme start="20260810225500 +0000" stop="20260810235000 +0000" channel="AXN"><title lang="hu">FBI - New York különleges ügynökei</title></programme>
-<programme start="20260810235000 +0000" stop="20260811003000 +0000" channel="AXN"><title lang="hu">Xena: A harcos hercegnő</title></programme>
-<programme start="20260811003000 +0000" stop="20260811011500 +0000" channel="AXN"><title lang="hu">Xena: A harcos hercegnő</title></programme>
-<programme start="20260811011500 +0000" stop="20260811042000 +0000" channel="AXN"><title lang="hu">Xena: A harcos hercegnő</title></programme>
-<programme start="20260811042000 +0000" stop="20260811050500 +0000" channel="AXN"><title lang="hu">A fejvadász</title></programme>
-<programme start="20260811050500 +0000" stop="20260811055500 +0000" channel="AXN"><title lang="hu">Csillagkapu: Atlantisz</title></programme>
-<programme start="20260811055500 +0000" stop="20260811065500 +0000" channel="AXN"><title lang="hu">Csillagkapu: Atlantisz</title></programme>
-<programme start="20260811065500 +0000" stop="20260811075500 +0000" channel="AXN"><title lang="hu">Csillagkapu</title></programme>
-<programme start="20260811075500 +0000" stop="20260811085500 +0000" channel="AXN"><title lang="hu">Csillagkapu</title></programme>
-<programme start="20260811085500 +0000" stop="20260811095500 +0000" channel="AXN"><title lang="hu">MacGyver</title></programme>
-<programme start="20260811095500 +0000" stop="20260811105500 +0000" channel="AXN"><title lang="hu">MacGyver</title></programme>
-<programme start="20260811105500 +0000" stop="20260811115500 +0000" channel="AXN"><title lang="hu">A fejvadász</title></programme>
-<programme start="20260811115500 +0000" stop="20260811125500 +0000" channel="AXN"><title lang="hu">A fejvadász</title></programme>
-<programme start="20260811125500 +0000" stop="20260811135500 +0000" channel="AXN"><title lang="hu">Csillagkapu: Atlantisz</title></programme>
-<programme start="20260811135500 +0000" stop="20260811145500 +0000" channel="AXN"><title lang="hu">Csillagkapu: Atlantisz</title></programme>
-<programme start="20260811145500 +0000" stop="20260811155500 +0000" channel="AXN"><title lang="hu">Csillagkapu</title></programme>
-<programme start="20260811155500 +0000" stop="20260811170000 +0000" channel="AXN"><title lang="hu">Csillagkapu</title></programme>
-<programme start="20260811170000 +0000" stop="20260811180000 +0000" channel="AXN"><title lang="hu">Monk - A flúgos nyomozó</title></programme>
-<programme start="20260811180000 +0000" stop="20260811190000 +0000" channel="AXN"><title lang="hu">FBI - New York különleges ügynökei</title></programme>
-<programme start="20260811190000 +0000" stop="20260811195500 +0000" channel="AXN"><title lang="hu">NCIS: Hawaii</title></programme>
-<programme start="20260811195500 +0000" stop="20260811225000 +0000" channel="AXN"><title lang="hu">Nagymenők</title></programme>
+<programme start="20260812014500 +0000" stop="20260812040000 +0000" channel="AMC"><title lang="hu">Colette</title></programme>
+<programme start="20260812040000 +0000" stop="20260812040500 +0000" channel="AMC"><title lang="hu">Director&apos;s Short Cut</title></programme>
+<programme start="20260812040500 +0000" stop="20260812042000 +0000" channel="AMC"><title lang="hu">Zoom In</title></programme>
+<programme start="20260812042000 +0000" stop="20260812043500 +0000" channel="AMC"><title lang="hu">Zoom In</title></programme>
+<programme start="20260812043500 +0000" stop="20260812051000 +0000" channel="AMC"><title lang="hu">Close Up</title></programme>
+<programme start="20260812051000 +0000" stop="20260812071500 +0000" channel="AMC"><title lang="hu">Monte Wildhorn csodálatos nyara</title></programme>
+<programme start="20260812071500 +0000" stop="20260812094000 +0000" channel="AMC"><title lang="hu">Lopakodó</title></programme>
+<programme start="20260812094000 +0000" stop="20260812121500 +0000" channel="AMC"><title lang="hu">Batman</title></programme>
+<programme start="20260812121500 +0000" stop="20260812145000 +0000" channel="AMC"><title lang="hu">Willow</title></programme>
+<programme start="20260812145000 +0000" stop="20260812164500 +0000" channel="AMC"><title lang="hu">Bolondos dallamok - Újra bevetésen</title></programme>
+<programme start="20260812164500 +0000" stop="20260812190000 +0000" channel="AMC"><title lang="hu">Pancser police</title></programme>
+<programme start="20260812190000 +0000" stop="20260812210500 +0000" channel="AMC"><title lang="hu">Éli könyve</title></programme>
+<programme start="20260812210500 +0000" stop="20260812230500 +0000" channel="AMC"><title lang="hu">Fűrész</title></programme>
+<programme start="20260812230500 +0000" stop="20260813005000 +0000" channel="AMC"><title lang="hu">Tökéletes katona</title></programme>
+<programme start="20260813005000 +0000" stop="20260813020000 +0000" channel="AMC"><title lang="hu">Piranha 3DD</title></programme>
+<programme start="20260813020000 +0000" stop="20260813032500 +0000" channel="AMC"><title lang="hu">Az elnök különgépe: Halálos játszma</title></programme>
+<programme start="20260813032500 +0000" stop="20260813035500 +0000" channel="AMC"><title lang="hu">Close Up</title></programme>
+<programme start="20260813035500 +0000" stop="20260813042500 +0000" channel="AMC"><title lang="hu">Spotlight</title></programme>
 <programme start="20260811225000 +0000" stop="20260811234500 +0000" channel="AXN"><title lang="hu">FBI - New York különleges ügynökei</title></programme>
 <programme start="20260811234500 +0000" stop="20260812003000 +0000" channel="AXN"><title lang="hu">Xena: A harcos hercegnő</title></programme>
 <programme start="20260812003000 +0000" stop="20260812011500 +0000" channel="AXN"><title lang="hu">Xena: A harcos hercegnő</title></programme>
-<programme start="20260812011500 +0000" stop="20260812014500 +0000" channel="AXN"><title lang="hu">Xena: A harcos hercegnő</title></programme>
-<programme start="20260810233000 +0000" stop="20260811033500 +0000" channel="FILM4"><title lang="hu">Mindent Milesról</title></programme>
-<programme start="20260811033500 +0000" stop="20260811051500 +0000" channel="FILM4"><title lang="hu">Randianyu</title></programme>
-<programme start="20260811051500 +0000" stop="20260811070000 +0000" channel="FILM4"><title lang="hu">Túlélni a vadont</title></programme>
-<programme start="20260811070000 +0000" stop="20260811085000 +0000" channel="FILM4"><title lang="hu">Fizess a gyerekedért!</title></programme>
-<programme start="20260811085000 +0000" stop="20260811104000 +0000" channel="FILM4"><title lang="hu">Jesse Stone: Szükségtelen gyilkosság</title></programme>
-<programme start="20260811104000 +0000" stop="20260811124000 +0000" channel="FILM4"><title lang="hu">A szlogengyáros családanya</title></programme>
-<programme start="20260811124000 +0000" stop="20260811142500 +0000" channel="FILM4"><title lang="hu">Gyilkosságra fókuszálva</title></programme>
-<programme start="20260811142500 +0000" stop="20260811161500 +0000" channel="FILM4"><title lang="hu">Szerelemtérkép</title></programme>
-<programme start="20260811161500 +0000" stop="20260811180000 +0000" channel="FILM4"><title lang="hu">Jesse Stone: Holttest a tóban</title></programme>
-<programme start="20260811180000 +0000" stop="20260811211500 +0000" channel="FILM4"><title lang="hu">New York bandái</title></programme>
-<programme start="20260811211500 +0000" stop="20260811232000 +0000" channel="FILM4"><title lang="hu">A megmentő</title></programme>
+<programme start="20260812011500 +0000" stop="20260812042000 +0000" channel="AXN"><title lang="hu">Xena: A harcos hercegnő</title></programme>
+<programme start="20260812042000 +0000" stop="20260812050500 +0000" channel="AXN"><title lang="hu">A fejvadász</title></programme>
+<programme start="20260812050500 +0000" stop="20260812055500 +0000" channel="AXN"><title lang="hu">Csillagkapu: Atlantisz</title></programme>
+<programme start="20260812055500 +0000" stop="20260812065500 +0000" channel="AXN"><title lang="hu">Csillagkapu: Atlantisz</title></programme>
+<programme start="20260812065500 +0000" stop="20260812075500 +0000" channel="AXN"><title lang="hu">Csillagkapu</title></programme>
+<programme start="20260812075500 +0000" stop="20260812085500 +0000" channel="AXN"><title lang="hu">Csillagkapu</title></programme>
+<programme start="20260812085500 +0000" stop="20260812095500 +0000" channel="AXN"><title lang="hu">MacGyver</title></programme>
+<programme start="20260812095500 +0000" stop="20260812105500 +0000" channel="AXN"><title lang="hu">MacGyver</title></programme>
+<programme start="20260812105500 +0000" stop="20260812115500 +0000" channel="AXN"><title lang="hu">A fejvadász</title></programme>
+<programme start="20260812115500 +0000" stop="20260812125500 +0000" channel="AXN"><title lang="hu">A fejvadász</title></programme>
+<programme start="20260812125500 +0000" stop="20260812135500 +0000" channel="AXN"><title lang="hu">Csillagkapu: Atlantisz</title></programme>
+<programme start="20260812135500 +0000" stop="20260812145500 +0000" channel="AXN"><title lang="hu">Csillagkapu: Atlantisz</title></programme>
+<programme start="20260812145500 +0000" stop="20260812155500 +0000" channel="AXN"><title lang="hu">Csillagkapu</title></programme>
+<programme start="20260812155500 +0000" stop="20260812170000 +0000" channel="AXN"><title lang="hu">Csillagkapu</title></programme>
+<programme start="20260812170000 +0000" stop="20260812180000 +0000" channel="AXN"><title lang="hu">Monk - A flúgos nyomozó</title></programme>
+<programme start="20260812180000 +0000" stop="20260812190000 +0000" channel="AXN"><title lang="hu">FBI - New York különleges ügynökei</title></programme>
+<programme start="20260812190000 +0000" stop="20260812195500 +0000" channel="AXN"><title lang="hu">NCIS: Hawaii</title></programme>
+<programme start="20260812195500 +0000" stop="20260812215000 +0000" channel="AXN"><title lang="hu">Erőszakos múlt</title></programme>
+<programme start="20260812215000 +0000" stop="20260812225000 +0000" channel="AXN"><title lang="hu">Monk - A flúgos nyomozó</title></programme>
+<programme start="20260812225000 +0000" stop="20260812234500 +0000" channel="AXN"><title lang="hu">FBI - New York különleges ügynökei</title></programme>
+<programme start="20260812234500 +0000" stop="20260813003000 +0000" channel="AXN"><title lang="hu">Xena: A harcos hercegnő</title></programme>
+<programme start="20260813003000 +0000" stop="20260813011000 +0000" channel="AXN"><title lang="hu">Xena: A harcos hercegnő</title></programme>
+<programme start="20260813011000 +0000" stop="20260813014000 +0000" channel="AXN"><title lang="hu">Xena: A harcos hercegnő</title></programme>
 <programme start="20260811232000 +0000" stop="20260812010000 +0000" channel="FILM4"><title lang="hu">Shop-stop 2.</title></programme>
 <programme start="20260812010000 +0000" stop="20260812032000 +0000" channel="FILM4"><title lang="hu">Lázongó ifjúság</title></programme>
-<programme start="20260812032000 +0000" stop="20260812035000 +0000" channel="FILM4"><title lang="hu">Szerelemtérkép</title></programme>
-<programme start="20260810225000 +0000" stop="20260811005000 +0000" channel="FILMCAFE"><title lang="hu">A kéz, amely a bölcsőt ringatja</title></programme>
-<programme start="20260811005000 +0000" stop="20260811022500 +0000" channel="FILMCAFE"><title lang="hu">Kéjlak</title></programme>
-<programme start="20260811022500 +0000" stop="20260811034500 +0000" channel="FILMCAFE"><title lang="hu">A láp ragadozói</title></programme>
-<programme start="20260811034500 +0000" stop="20260811035000 +0000" channel="FILMCAFE"><title lang="hu">Zoom In</title></programme>
-<programme start="20260811035000 +0000" stop="20260811040000 +0000" channel="FILMCAFE"><title lang="hu">Zoom In</title></programme>
-<programme start="20260811040000 +0000" stop="20260811044000 +0000" channel="FILMCAFE"><title lang="hu">Close Up</title></programme>
-<programme start="20260811044000 +0000" stop="20260811050500 +0000" channel="FILMCAFE"><title lang="hu">Close Up</title></programme>
-<programme start="20260811050500 +0000" stop="20260811070500 +0000" channel="FILMCAFE"><title lang="hu">Beowulf - A sötétség harcosa</title></programme>
-<programme start="20260811070500 +0000" stop="20260811085000 +0000" channel="FILMCAFE"><title lang="hu">Vakszerencse</title></programme>
-<programme start="20260811085000 +0000" stop="20260811110500 +0000" channel="FILMCAFE"><title lang="hu">Gattaca</title></programme>
-<programme start="20260811110500 +0000" stop="20260811131500 +0000" channel="FILMCAFE"><title lang="hu">Emlékezz rám</title></programme>
-<programme start="20260811131500 +0000" stop="20260811152000 +0000" channel="FILMCAFE"><title lang="hu">Álmomban már láttalak</title></programme>
-<programme start="20260811152000 +0000" stop="20260811172500 +0000" channel="FILMCAFE"><title lang="hu">Kispályás szerelem</title></programme>
-<programme start="20260811172500 +0000" stop="20260811190000 +0000" channel="FILMCAFE"><title lang="hu">Beverly Hills-i nindzsa</title></programme>
-<programme start="20260811190000 +0000" stop="20260811204500 +0000" channel="FILMCAFE"><title lang="hu">Állj, vagy jövök!</title></programme>
-<programme start="20260811204500 +0000" stop="20260811231000 +0000" channel="FILMCAFE"><title lang="hu">A csontember</title></programme>
+<programme start="20260812032000 +0000" stop="20260812050000 +0000" channel="FILM4"><title lang="hu">Szerelemtérkép</title></programme>
+<programme start="20260812050000 +0000" stop="20260812070000 +0000" channel="FILM4"><title lang="hu">A szlogengyáros családanya</title></programme>
+<programme start="20260812070000 +0000" stop="20260812085000 +0000" channel="FILM4"><title lang="hu">Gyilkosságra fókuszálva</title></programme>
+<programme start="20260812085000 +0000" stop="20260812104000 +0000" channel="FILM4"><title lang="hu">Jesse Stone: Holttest a tóban</title></programme>
+<programme start="20260812104000 +0000" stop="20260812123000 +0000" channel="FILM4"><title lang="hu">Sonny, a gengszterkutya kalandjai</title></programme>
+<programme start="20260812123000 +0000" stop="20260812142000 +0000" channel="FILM4"><title lang="hu">Halhatatlan Kiadó</title></programme>
+<programme start="20260812142000 +0000" stop="20260812161500 +0000" channel="FILM4"><title lang="hu">Pont jókor</title></programme>
+<programme start="20260812161500 +0000" stop="20260812180000 +0000" channel="FILM4"><title lang="hu">Jesse Stone: Rejtélyes bankrablás</title></programme>
+<programme start="20260812180000 +0000" stop="20260812202500 +0000" channel="FILM4"><title lang="hu">Az 54. hadtest</title></programme>
+<programme start="20260812202500 +0000" stop="20260812223500 +0000" channel="FILM4"><title lang="hu">Kill Bill</title></programme>
+<programme start="20260812223500 +0000" stop="20260813031500 +0000" channel="FILM4"><title lang="hu">New York bandái</title></programme>
+<programme start="20260813031500 +0000" stop="20260813034500 +0000" channel="FILM4"><title lang="hu">Pont jókor</title></programme>
 <programme start="20260811231000 +0000" stop="20260812005500 +0000" channel="FILMCAFE"><title lang="hu">Frászkarika</title></programme>
 <programme start="20260812005500 +0000" stop="20260812021500 +0000" channel="FILMCAFE"><title lang="hu">Underworld - A vérfarkasok lázadása</title></programme>
 <programme start="20260812021500 +0000" stop="20260812034500 +0000" channel="FILMCAFE"><title lang="hu">Őrült Stone, avagy 2008: A patkány éve</title></programme>
 <programme start="20260812034500 +0000" stop="20260812035000 +0000" channel="FILMCAFE"><title lang="hu">Zoom In</title></programme>
-<programme start="20260812035000 +0000" stop="20260812042000 +0000" channel="FILMCAFE"><title lang="hu">Zoom In</title></programme>
-<programme start="20260810224500 +0000" stop="20260811003000 +0000" channel="FILMMANIA"><title lang="hu">D-Tox</title></programme>
-<programme start="20260811003000 +0000" stop="20260811015000 +0000" channel="FILMMANIA"><title lang="hu">Atomcirkusz</title></programme>
-<programme start="20260811015000 +0000" stop="20260811031500 +0000" channel="FILMMANIA"><title lang="hu">Tökös csávó</title></programme>
-<programme start="20260811031500 +0000" stop="20260811034000 +0000" channel="FILMMANIA"><title lang="hu">Close Up</title></programme>
-<programme start="20260811034000 +0000" stop="20260811035000 +0000" channel="FILMMANIA"><title lang="hu">Zoom In</title></programme>
-<programme start="20260811035000 +0000" stop="20260811040000 +0000" channel="FILMMANIA"><title lang="hu">Director&apos;s Short Cut</title></programme>
-<programme start="20260811040000 +0000" stop="20260811040500 +0000" channel="FILMMANIA"><title lang="hu">Zoom In</title></programme>
-<programme start="20260811040500 +0000" stop="20260811041500 +0000" channel="FILMMANIA"><title lang="hu">Zoom In</title></programme>
-<programme start="20260811041500 +0000" stop="20260811043000 +0000" channel="FILMMANIA"><title lang="hu">Zoom In</title></programme>
-<programme start="20260811043000 +0000" stop="20260811050500 +0000" channel="FILMMANIA"><title lang="hu">Close Up</title></programme>
-<programme start="20260811050500 +0000" stop="20260811053500 +0000" channel="FILMMANIA"><title lang="hu">Close Up</title></programme>
-<programme start="20260811053500 +0000" stop="20260811072000 +0000" channel="FILMMANIA"><title lang="hu">A fáraó bosszúja</title></programme>
-<programme start="20260811072000 +0000" stop="20260811090000 +0000" channel="FILMMANIA"><title lang="hu">A fáraó bosszúja</title></programme>
-<programme start="20260811090000 +0000" stop="20260811105500 +0000" channel="FILMMANIA"><title lang="hu">Dzsungelháború</title></programme>
-<programme start="20260811105500 +0000" stop="20260811132000 +0000" channel="FILMMANIA"><title lang="hu">A Vándorló palota</title></programme>
-<programme start="20260811132000 +0000" stop="20260811151500 +0000" channel="FILMMANIA"><title lang="hu">Nagy zűr Korzikán</title></programme>
-<programme start="20260811151500 +0000" stop="20260811172000 +0000" channel="FILMMANIA"><title lang="hu">Rendőrsztori</title></programme>
-<programme start="20260811172000 +0000" stop="20260811190000 +0000" channel="FILMMANIA"><title lang="hu">Négybalkezes</title></programme>
-<programme start="20260811190000 +0000" stop="20260811210000 +0000" channel="FILMMANIA"><title lang="hu">Arachnophobia - Pókiszony</title></programme>
-<programme start="20260811210000 +0000" stop="20260811232500 +0000" channel="FILMMANIA"><title lang="hu">9 és 1/2 hét</title></programme>
+<programme start="20260812035000 +0000" stop="20260812040000 +0000" channel="FILMCAFE"><title lang="hu">Zoom In</title></programme>
+<programme start="20260812040000 +0000" stop="20260812043000 +0000" channel="FILMCAFE"><title lang="hu">Close Up</title></programme>
+<programme start="20260812043000 +0000" stop="20260812043500 +0000" channel="FILMCAFE"><title lang="hu">Zoom In</title></programme>
+<programme start="20260812043500 +0000" stop="20260812044000 +0000" channel="FILMCAFE"><title lang="hu">Director&apos;s Short Cut</title></programme>
+<programme start="20260812044000 +0000" stop="20260812045500 +0000" channel="FILMCAFE"><title lang="hu">Zoom In</title></programme>
+<programme start="20260812045500 +0000" stop="20260812072500 +0000" channel="FILMCAFE"><title lang="hu">Segítség, apa lettem!</title></programme>
+<programme start="20260812072500 +0000" stop="20260812100500 +0000" channel="FILMCAFE"><title lang="hu">A kilencedik kapu</title></programme>
+<programme start="20260812100500 +0000" stop="20260812131000 +0000" channel="FILMCAFE"><title lang="hu">A bukás - Hitler utolsó napjai</title></programme>
+<programme start="20260812131000 +0000" stop="20260812151000 +0000" channel="FILMCAFE"><title lang="hu">Tini nindzsa teknőcök</title></programme>
+<programme start="20260812151000 +0000" stop="20260812170500 +0000" channel="FILMCAFE"><title lang="hu">Nicsak, ki beszél!</title></programme>
+<programme start="20260812170500 +0000" stop="20260812190000 +0000" channel="FILMCAFE"><title lang="hu">Hirtelen 30</title></programme>
+<programme start="20260812190000 +0000" stop="20260812214000 +0000" channel="FILMCAFE"><title lang="hu">Kényszerleszállás</title></programme>
+<programme start="20260812214000 +0000" stop="20260813000000 +0000" channel="FILMCAFE"><title lang="hu">A Nap könnyei</title></programme>
+<programme start="20260813000000 +0000" stop="20260813015000 +0000" channel="FILMCAFE"><title lang="hu">Bronxi mese</title></programme>
+<programme start="20260813015000 +0000" stop="20260813034500 +0000" channel="FILMCAFE"><title lang="hu">A hűtlen</title></programme>
+<programme start="20260813034500 +0000" stop="20260813035000 +0000" channel="FILMCAFE"><title lang="hu">Zoom In</title></programme>
+<programme start="20260813035000 +0000" stop="20260813042000 +0000" channel="FILMCAFE"><title lang="hu">Zoom In</title></programme>
 <programme start="20260811232500 +0000" stop="20260812010000 +0000" channel="FILMMANIA"><title lang="hu">Az árnyékember</title></programme>
 <programme start="20260812010000 +0000" stop="20260812022500 +0000" channel="FILMMANIA"><title lang="hu">47 méter mélyen</title></programme>
 <programme start="20260812022500 +0000" stop="20260812034500 +0000" channel="FILMMANIA"><title lang="hu">Elkopott értékek</title></programme>
 <programme start="20260812034500 +0000" stop="20260812035000 +0000" channel="FILMMANIA"><title lang="hu">Zoom In</title></programme>
-<programme start="20260812035000 +0000" stop="20260812042000 +0000" channel="FILMMANIA"><title lang="hu">Spotlight</title></programme>
-<programme start="20260811000000 +0000" stop="20260811041000 +0000" channel="FILMPLUSSZ"><title lang="hu">Bőrnyakúak</title></programme>
-<programme start="20260811041000 +0000" stop="20260811061000 +0000" channel="FILMPLUSSZ"><title lang="hu">Paddington 2.</title></programme>
-<programme start="20260811061000 +0000" stop="20260811080000 +0000" channel="FILMPLUSSZ"><title lang="hu">Foglalkozása: szülő</title></programme>
-<programme start="20260811080000 +0000" stop="20260811095500 +0000" channel="FILMPLUSSZ"><title lang="hu">Papás babás</title></programme>
-<programme start="20260811095500 +0000" stop="20260811124000 +0000" channel="FILMPLUSSZ"><title lang="hu">Vásott szülők</title></programme>
-<programme start="20260811124000 +0000" stop="20260811143000 +0000" channel="FILMPLUSSZ"><title lang="hu">Billy Madison - A dilidiák</title></programme>
-<programme start="20260811143000 +0000" stop="20260811163000 +0000" channel="FILMPLUSSZ"><title lang="hu">Fergeteges forgatás</title></programme>
-<programme start="20260811163000 +0000" stop="20260811190000 +0000" channel="FILMPLUSSZ"><title lang="hu">Bűnvadászok</title></programme>
-<programme start="20260811190000 +0000" stop="20260811213000 +0000" channel="FILMPLUSSZ"><title lang="hu">Bad boys - Mire jók a rosszfiúk?</title></programme>
-<programme start="20260811213000 +0000" stop="20260811234000 +0000" channel="FILMPLUSSZ"><title lang="hu">Nico</title></programme>
-<programme start="20260811234000 +0000" stop="20260812001000 +0000" channel="FILMPLUSSZ"><title lang="hu">Blackhat</title></programme>
-<programme start="20260810230000 +0000" stop="20260811005000 +0000" channel="MOZIPLUSZ"><title lang="hu">Gyilkos memória</title></programme>
-<programme start="20260811005000 +0000" stop="20260811023000 +0000" channel="MOZIPLUSZ"><title lang="hu">A szellemlovas - A bosszú ereje</title></programme>
-<programme start="20260811023000 +0000" stop="20260811035500 +0000" channel="MOZIPLUSZ"><title lang="hu">A tengerészgyalogos 4 - Mozgó célpont</title></programme>
-<programme start="20260811035500 +0000" stop="20260811055500 +0000" channel="MOZIPLUSZ"><title lang="hu">Daylight - Alagút a halálba</title></programme>
-<programme start="20260811055500 +0000" stop="20260811074500 +0000" channel="MOZIPLUSZ"><title lang="hu">A legnagyobb showman</title></programme>
-<programme start="20260811074500 +0000" stop="20260811095500 +0000" channel="MOZIPLUSZ"><title lang="hu">Rocky II</title></programme>
-<programme start="20260811095500 +0000" stop="20260811113000 +0000" channel="MOZIPLUSZ"><title lang="hu">Tűz a víz alá!</title></programme>
-<programme start="20260811113000 +0000" stop="20260811134000 +0000" channel="MOZIPLUSZ"><title lang="hu">Ben Hur</title></programme>
-<programme start="20260811134000 +0000" stop="20260811152500 +0000" channel="MOZIPLUSZ"><title lang="hu">A katona</title></programme>
-<programme start="20260811152500 +0000" stop="20260811170000 +0000" channel="MOZIPLUSZ"><title lang="hu">Véres játék</title></programme>
-<programme start="20260811170000 +0000" stop="20260811190000 +0000" channel="MOZIPLUSZ"><title lang="hu">Red 2</title></programme>
-<programme start="20260811190000 +0000" stop="20260811204000 +0000" channel="MOZIPLUSZ"><title lang="hu">Célkeresztben</title></programme>
-<programme start="20260811204000 +0000" stop="20260811223500 +0000" channel="MOZIPLUSZ"><title lang="hu">Alkonyattól pirkadatig</title></programme>
+<programme start="20260812035000 +0000" stop="20260812040000 +0000" channel="FILMMANIA"><title lang="hu">Spotlight</title></programme>
+<programme start="20260812040000 +0000" stop="20260812041500 +0000" channel="FILMMANIA"><title lang="hu">Zoom In</title></programme>
+<programme start="20260812041500 +0000" stop="20260812060500 +0000" channel="FILMMANIA"><title lang="hu">Spartacus</title></programme>
+<programme start="20260812060500 +0000" stop="20260812075000 +0000" channel="FILMMANIA"><title lang="hu">Spartacus</title></programme>
+<programme start="20260812075000 +0000" stop="20260812094500 +0000" channel="FILMMANIA"><title lang="hu">Yamakasi 2. - Utcai szamurájok</title></programme>
+<programme start="20260812094500 +0000" stop="20260812114000 +0000" channel="FILMMANIA"><title lang="hu">2 nap New Yorkban</title></programme>
+<programme start="20260812114000 +0000" stop="20260812134500 +0000" channel="FILMMANIA"><title lang="hu">Halálos viadal</title></programme>
+<programme start="20260812134500 +0000" stop="20260812170000 +0000" channel="FILMMANIA"><title lang="hu">Híd a Kwai folyón</title></programme>
+<programme start="20260812170000 +0000" stop="20260812190000 +0000" channel="FILMMANIA"><title lang="hu">A birodalom visszavár</title></programme>
+<programme start="20260812190000 +0000" stop="20260812203000 +0000" channel="FILMMANIA"><title lang="hu">Borat - Kazah nép nagy fehér gyermeke menni művelődni Amerika</title></programme>
+<programme start="20260812203000 +0000" stop="20260812222500 +0000" channel="FILMMANIA"><title lang="hu">A belső kör</title></programme>
+<programme start="20260812222500 +0000" stop="20260813001000 +0000" channel="FILMMANIA"><title lang="hu">Vadcsapáson</title></programme>
+<programme start="20260813001000 +0000" stop="20260813020500 +0000" channel="FILMMANIA"><title lang="hu">Ifjúság</title></programme>
+<programme start="20260813020500 +0000" stop="20260813035000 +0000" channel="FILMMANIA"><title lang="hu">Sírok között</title></programme>
+<programme start="20260813035000 +0000" stop="20260813042000 +0000" channel="FILMMANIA"><title lang="hu">Spotlight</title></programme>
+<programme start="20260811234000 +0000" stop="20260812042000 +0000" channel="FILMPLUSSZ"><title lang="hu">Blackhat</title></programme>
+<programme start="20260812042000 +0000" stop="20260812061000 +0000" channel="FILMPLUSSZ"><title lang="hu">Medvebarátok</title></programme>
+<programme start="20260812061000 +0000" stop="20260812080000 +0000" channel="FILMPLUSSZ"><title lang="hu">A nagy medve fiai</title></programme>
+<programme start="20260812080000 +0000" stop="20260812102000 +0000" channel="FILMPLUSSZ"><title lang="hu">Charleston</title></programme>
+<programme start="20260812102000 +0000" stop="20260812125500 +0000" channel="FILMPLUSSZ"><title lang="hu">Élet vagy halál</title></programme>
+<programme start="20260812125500 +0000" stop="20260812151500 +0000" channel="FILMPLUSSZ"><title lang="hu">Vadnyugati Casanova</title></programme>
+<programme start="20260812151500 +0000" stop="20260812171500 +0000" channel="FILMPLUSSZ"><title lang="hu">Kémecském</title></programme>
+<programme start="20260812171500 +0000" stop="20260812190000 +0000" channel="FILMPLUSSZ"><title lang="hu">Vas</title></programme>
+<programme start="20260812190000 +0000" stop="20260812212500 +0000" channel="FILMPLUSSZ"><title lang="hu">Támadás a Fehér Ház ellen 3. - A védangyal bukása</title></programme>
+<programme start="20260812212500 +0000" stop="20260812235000 +0000" channel="FILMPLUSSZ"><title lang="hu">Maga a pokol</title></programme>
+<programme start="20260812235000 +0000" stop="20260813032000 +0000" channel="FILMPLUSSZ"><title lang="hu">Toxikoma</title></programme>
+<programme start="20260813032000 +0000" stop="20260813035000 +0000" channel="FILMPLUSSZ"><title lang="hu">Kalandorok</title></programme>
 <programme start="20260811223500 +0000" stop="20260812000000 +0000" channel="MOZIPLUSZ"><title lang="hu">B13 - A bűnös negyed</title></programme>
 <programme start="20260812000000 +0000" stop="20260812024500 +0000" channel="MOZIPLUSZ"><title lang="hu">13 óra: Bengázi titkos katonái</title></programme>
-<programme start="20260812024500 +0000" stop="20260812031500 +0000" channel="MOZIPLUSZ"><title lang="hu">Haláli fegyver</title></programme>
-<programme start="20260810223500 +0000" stop="20260811002000 +0000" channel="MOZIVERZUM"><title lang="hu">Lopakodók</title></programme>
-<programme start="20260811002000 +0000" stop="20260811021000 +0000" channel="MOZIVERZUM"><title lang="hu">Gyilkos ösvény</title></programme>
-<programme start="20260811021000 +0000" stop="20260811034500 +0000" channel="MOZIVERZUM"><title lang="hu">Kémek, mint mi</title></programme>
-<programme start="20260811034500 +0000" stop="20260811052500 +0000" channel="MOZIVERZUM"><title lang="hu">Jerry és Marge nagy húzása</title></programme>
-<programme start="20260811052500 +0000" stop="20260811071000 +0000" channel="MOZIVERZUM"><title lang="hu">A Szmokinger</title></programme>
-<programme start="20260811071000 +0000" stop="20260811085500 +0000" channel="MOZIVERZUM"><title lang="hu">Fordítsd oda a másik orcád is!</title></programme>
-<programme start="20260811085500 +0000" stop="20260811110000 +0000" channel="MOZIVERZUM"><title lang="hu">A felejtés bére</title></programme>
-<programme start="20260811110000 +0000" stop="20260811124500 +0000" channel="MOZIVERZUM"><title lang="hu">Szegény gazdagok</title></programme>
-<programme start="20260811124500 +0000" stop="20260811150000 +0000" channel="MOZIVERZUM"><title lang="hu">Minden végzet nehéz</title></programme>
-<programme start="20260811150000 +0000" stop="20260811170000 +0000" channel="MOZIVERZUM"><title lang="hu">Szupercella</title></programme>
-<programme start="20260811170000 +0000" stop="20260811190000 +0000" channel="MOZIVERZUM"><title lang="hu">Az elveszett város</title></programme>
-<programme start="20260811190000 +0000" stop="20260811205500 +0000" channel="MOZIVERZUM"><title lang="hu">Revolver</title></programme>
-<programme start="20260811205500 +0000" stop="20260811225000 +0000" channel="MOZIVERZUM"><title lang="hu">Leon, a profi</title></programme>
+<programme start="20260812024500 +0000" stop="20260812040000 +0000" channel="MOZIPLUSZ"><title lang="hu">Haláli fegyver</title></programme>
+<programme start="20260812040000 +0000" stop="20260812053000 +0000" channel="MOZIPLUSZ"><title lang="hu">Hipervándor</title></programme>
+<programme start="20260812053000 +0000" stop="20260812071000 +0000" channel="MOZIPLUSZ"><title lang="hu">Tolvajok társasága</title></programme>
+<programme start="20260812071000 +0000" stop="20260812090000 +0000" channel="MOZIPLUSZ"><title lang="hu">Rocky III</title></programme>
+<programme start="20260812090000 +0000" stop="20260812113000 +0000" channel="MOZIPLUSZ"><title lang="hu">Richard király</title></programme>
+<programme start="20260812113000 +0000" stop="20260812131500 +0000" channel="MOZIPLUSZ"><title lang="hu">Kasszafúrók</title></programme>
+<programme start="20260812131500 +0000" stop="20260812152500 +0000" channel="MOZIPLUSZ"><title lang="hu">Jupiter felemelkedése</title></programme>
+<programme start="20260812152500 +0000" stop="20260812165500 +0000" channel="MOZIPLUSZ"><title lang="hu">Fekete kutya</title></programme>
+<programme start="20260812165500 +0000" stop="20260812190000 +0000" channel="MOZIPLUSZ"><title lang="hu">Az elveszett frigyláda fosztogatói</title></programme>
+<programme start="20260812190000 +0000" stop="20260812204500 +0000" channel="MOZIPLUSZ"><title lang="hu">Ong Bak 2 - A bosszú</title></programme>
+<programme start="20260812204500 +0000" stop="20260812223500 +0000" channel="MOZIPLUSZ"><title lang="hu">The Doorman - Több mint portás</title></programme>
+<programme start="20260812223500 +0000" stop="20260813011000 +0000" channel="MOZIPLUSZ"><title lang="hu">Ponyvaregény</title></programme>
+<programme start="20260813011000 +0000" stop="20260813023000 +0000" channel="MOZIPLUSZ"><title lang="hu">Brutális bankrablás</title></programme>
+<programme start="20260813023000 +0000" stop="20260813035000 +0000" channel="MOZIPLUSZ"><title lang="hu">Gulliver utazásai</title></programme>
+<programme start="20260813035000 +0000" stop="20260813042000 +0000" channel="MOZIPLUSZ"><title lang="hu">Putifár tanár úr visszavág</title></programme>
 <programme start="20260811225000 +0000" stop="20260812004000 +0000" channel="MOZIVERZUM"><title lang="hu">Annabelle 2 - A teremtés</title></programme>
 <programme start="20260812004000 +0000" stop="20260812024500 +0000" channel="MOZIVERZUM"><title lang="hu">Szabadulószoba</title></programme>
-<programme start="20260812024500 +0000" stop="20260812031500 +0000" channel="MOZIVERZUM"><title lang="hu">Család csak egy van</title></programme>
-<programme start="20260810220500 +0000" stop="20260810222000 +0000" channel="NICKELODEON"><title lang="hu">Csillag Patrik műsora</title></programme>
-<programme start="20260810222000 +0000" stop="20260810224000 +0000" channel="NICKELODEON"><title lang="hu">Sonic Prime</title></programme>
-<programme start="20260810224000 +0000" stop="20260810230500 +0000" channel="NICKELODEON"><title lang="hu">A Thunderman-család: Beépített küldetés</title></programme>
-<programme start="20260810230500 +0000" stop="20260810233000 +0000" channel="NICKELODEON"><title lang="hu">Veszélyes Osztag</title></programme>
-<programme start="20260810233000 +0000" stop="20260810235000 +0000" channel="NICKELODEON"><title lang="hu">Veszélyes Henry</title></programme>
-<programme start="20260810235000 +0000" stop="20260811001500 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
-<programme start="20260811001500 +0000" stop="20260811004000 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
-<programme start="20260811004000 +0000" stop="20260811010000 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
-<programme start="20260811010000 +0000" stop="20260811012000 +0000" channel="NICKELODEON"><title lang="hu">SpongyaBob KockaNadrág</title></programme>
-<programme start="20260811012000 +0000" stop="20260811014500 +0000" channel="NICKELODEON"><title lang="hu">SpongyaBob KockaNadrág</title></programme>
-<programme start="20260811014500 +0000" stop="20260811015500 +0000" channel="NICKELODEON"><title lang="hu">SpongyaBob Kockanadrág</title></programme>
-<programme start="20260811015500 +0000" stop="20260811022000 +0000" channel="NICKELODEON"><title lang="hu">A Marsupilamik</title></programme>
-<programme start="20260811022000 +0000" stop="20260811024500 +0000" channel="NICKELODEON"><title lang="hu">Csillag Patrik műsora</title></programme>
-<programme start="20260811024500 +0000" stop="20260811025500 +0000" channel="NICKELODEON"><title lang="hu">Csillag Patrik műsora</title></programme>
-<programme start="20260811025500 +0000" stop="20260811032000 +0000" channel="NICKELODEON"><title lang="hu">Pinky Malinky</title></programme>
-<programme start="20260811032000 +0000" stop="20260811034000 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
-<programme start="20260811034000 +0000" stop="20260811040500 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
-<programme start="20260811040500 +0000" stop="20260811043000 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
-<programme start="20260811043000 +0000" stop="20260811045000 +0000" channel="NICKELODEON"><title lang="hu">Wylde-Pak bagázs</title></programme>
-<programme start="20260811045000 +0000" stop="20260811050000 +0000" channel="NICKELODEON"><title lang="hu">SpongyaBob Kockanadrág</title></programme>
-<programme start="20260811050000 +0000" stop="20260811052500 +0000" channel="NICKELODEON"><title lang="hu">Csillag Patrik műsora</title></programme>
-<programme start="20260811052500 +0000" stop="20260811054000 +0000" channel="NICKELODEON"><title lang="hu">Csillag Patrik műsora</title></programme>
-<programme start="20260811054000 +0000" stop="20260811060500 +0000" channel="NICKELODEON"><title lang="hu">A Marsupilamik</title></programme>
-<programme start="20260811060500 +0000" stop="20260811062500 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
-<programme start="20260811062500 +0000" stop="20260811065000 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
-<programme start="20260811065000 +0000" stop="20260811070000 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
-<programme start="20260811070000 +0000" stop="20260811072500 +0000" channel="NICKELODEON"><title lang="hu">Sonic Prime</title></programme>
-<programme start="20260811072500 +0000" stop="20260811075000 +0000" channel="NICKELODEON"><title lang="hu">A Thunderman család</title></programme>
-<programme start="20260811075000 +0000" stop="20260811081500 +0000" channel="NICKELODEON"><title lang="hu">A Thunderman család</title></programme>
-<programme start="20260811081500 +0000" stop="20260811083500 +0000" channel="NICKELODEON"><title lang="hu">A Thunderman család</title></programme>
-<programme start="20260811083500 +0000" stop="20260811090000 +0000" channel="NICKELODEON"><title lang="hu">A Thunderman család</title></programme>
-<programme start="20260811090000 +0000" stop="20260811092000 +0000" channel="NICKELODEON"><title lang="hu">Pinky Malinky</title></programme>
-<programme start="20260811092000 +0000" stop="20260811094500 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
-<programme start="20260811094500 +0000" stop="20260811101000 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
-<programme start="20260811101000 +0000" stop="20260811103000 +0000" channel="NICKELODEON"><title lang="hu">Wylde-Pak bagázs</title></programme>
-<programme start="20260811103000 +0000" stop="20260811105000 +0000" channel="NICKELODEON"><title lang="hu">Csillag Patrik műsora</title></programme>
-<programme start="20260811105000 +0000" stop="20260811111500 +0000" channel="NICKELODEON"><title lang="hu">SpongyaBob KockaNadrág</title></programme>
-<programme start="20260811111500 +0000" stop="20260811114000 +0000" channel="NICKELODEON"><title lang="hu">Pinky Malinky</title></programme>
-<programme start="20260811114000 +0000" stop="20260811115000 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
-<programme start="20260811115000 +0000" stop="20260811121500 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
-<programme start="20260811121500 +0000" stop="20260811124000 +0000" channel="NICKELODEON"><title lang="hu">Sonic Prime</title></programme>
-<programme start="20260811124000 +0000" stop="20260811130000 +0000" channel="NICKELODEON"><title lang="hu">SpongyaBob KockaNadrág</title></programme>
-<programme start="20260811130000 +0000" stop="20260811132500 +0000" channel="NICKELODEON"><title lang="hu">Csillag Patrik műsora</title></programme>
-<programme start="20260811132500 +0000" stop="20260811135000 +0000" channel="NICKELODEON"><title lang="hu">A Marsupilamik</title></programme>
-<programme start="20260811135000 +0000" stop="20260811140000 +0000" channel="NICKELODEON"><title lang="hu">A Marsupilamik</title></programme>
-<programme start="20260811140000 +0000" stop="20260811142500 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
-<programme start="20260811142500 +0000" stop="20260811145000 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
-<programme start="20260811145000 +0000" stop="20260811150000 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
-<programme start="20260811150000 +0000" stop="20260811152500 +0000" channel="NICKELODEON"><title lang="hu">A Thunderman család</title></programme>
-<programme start="20260811152500 +0000" stop="20260811155000 +0000" channel="NICKELODEON"><title lang="hu">A Thunderman család</title></programme>
-<programme start="20260811155000 +0000" stop="20260811161500 +0000" channel="NICKELODEON"><title lang="hu">A Thunderman család</title></programme>
-<programme start="20260811161500 +0000" stop="20260811163500 +0000" channel="NICKELODEON"><title lang="hu">A Thunderman család</title></programme>
-<programme start="20260811163500 +0000" stop="20260811170000 +0000" channel="NICKELODEON"><title lang="hu">Veszélyes Osztag</title></programme>
-<programme start="20260811170000 +0000" stop="20260811172500 +0000" channel="NICKELODEON"><title lang="hu">iCarly</title></programme>
-<programme start="20260811172500 +0000" stop="20260811175000 +0000" channel="NICKELODEON"><title lang="hu">iCarly</title></programme>
-<programme start="20260811175000 +0000" stop="20260811181000 +0000" channel="NICKELODEON"><title lang="hu">V, mint Viktória</title></programme>
-<programme start="20260811181000 +0000" stop="20260811183500 +0000" channel="NICKELODEON"><title lang="hu">Sam és Cat</title></programme>
-<programme start="20260811183500 +0000" stop="20260811190000 +0000" channel="NICKELODEON"><title lang="hu">Mesék a Tini Nindzsa Teknőcökről</title></programme>
-<programme start="20260811190000 +0000" stop="20260811192000 +0000" channel="NICKELODEON"><title lang="hu">Mesék a Tini Nindzsa Teknőcökről</title></programme>
-<programme start="20260811192000 +0000" stop="20260811194500 +0000" channel="NICKELODEON"><title lang="hu">SpongyaBob KockaNadrág</title></programme>
-<programme start="20260811194500 +0000" stop="20260811201000 +0000" channel="NICKELODEON"><title lang="hu">SpongyaBob KockaNadrág</title></programme>
-<programme start="20260811201000 +0000" stop="20260811203500 +0000" channel="NICKELODEON"><title lang="hu">A Marsupilamik</title></programme>
-<programme start="20260811203500 +0000" stop="20260811205500 +0000" channel="NICKELODEON"><title lang="hu">Szipi &amp; Szuper</title></programme>
-<programme start="20260811205500 +0000" stop="20260811212000 +0000" channel="NICKELODEON"><title lang="hu">Szipi &amp; Szuper</title></programme>
-<programme start="20260811212000 +0000" stop="20260811214500 +0000" channel="NICKELODEON"><title lang="hu">Szarvasosztag</title></programme>
-<programme start="20260811214500 +0000" stop="20260811221000 +0000" channel="NICKELODEON"><title lang="hu">Csillag Patrik műsora</title></programme>
+<programme start="20260812024500 +0000" stop="20260812042500 +0000" channel="MOZIVERZUM"><title lang="hu">Család csak egy van</title></programme>
+<programme start="20260812042500 +0000" stop="20260812070000 +0000" channel="MOZIVERZUM"><title lang="hu">A Fabelman család</title></programme>
+<programme start="20260812070000 +0000" stop="20260812085000 +0000" channel="MOZIVERZUM"><title lang="hu">Kémek, mint mi</title></programme>
+<programme start="20260812085000 +0000" stop="20260812111000 +0000" channel="MOZIVERZUM"><title lang="hu">Shazam!</title></programme>
+<programme start="20260812111000 +0000" stop="20260812134000 +0000" channel="MOZIVERZUM"><title lang="hu">Mission: Impossible - Utóhatás</title></programme>
+<programme start="20260812134000 +0000" stop="20260812152500 +0000" channel="MOZIVERZUM"><title lang="hu">Időzsaru</title></programme>
+<programme start="20260812152500 +0000" stop="20260812170000 +0000" channel="MOZIVERZUM"><title lang="hu">Tűz a víz alá!</title></programme>
+<programme start="20260812170000 +0000" stop="20260812190000 +0000" channel="MOZIVERZUM"><title lang="hu">A Bourne-ultimátum</title></programme>
+<programme start="20260812190000 +0000" stop="20260812211000 +0000" channel="MOZIVERZUM"><title lang="hu">Öld meg Rómeót!</title></programme>
+<programme start="20260812211000 +0000" stop="20260812230000 +0000" channel="MOZIVERZUM"><title lang="hu">Annabelle 3</title></programme>
+<programme start="20260812230000 +0000" stop="20260813004000 +0000" channel="MOZIVERZUM"><title lang="hu">Kedvencek temetője</title></programme>
+<programme start="20260813004000 +0000" stop="20260813032000 +0000" channel="MOZIVERZUM"><title lang="hu">Mr. Morgan utolsó szerelme</title></programme>
+<programme start="20260813032000 +0000" stop="20260813035000 +0000" channel="MOZIVERZUM"><title lang="hu">Ausztrália</title></programme>
 <programme start="20260811221000 +0000" stop="20260811222000 +0000" channel="NICKELODEON"><title lang="hu">Csillag Patrik műsora</title></programme>
 <programme start="20260811222000 +0000" stop="20260811224500 +0000" channel="NICKELODEON"><title lang="hu">Sonic Prime</title></programme>
 <programme start="20260811224500 +0000" stop="20260811230500 +0000" channel="NICKELODEON"><title lang="hu">A Thunderman-család: Beépített küldetés</title></programme>
@@ -238,58 +168,81 @@
 <programme start="20260811235500 +0000" stop="20260812001500 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
 <programme start="20260812001500 +0000" stop="20260812004000 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
 <programme start="20260812004000 +0000" stop="20260812010000 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
-<programme start="20260812010000 +0000" stop="20260812012500 +0000" channel="NICKELODEON"><title lang="hu">SpongyaBob KockaNadrág</title></programme>
-<programme start="20260812012500 +0000" stop="20260812014500 +0000" channel="NICKELODEON"><title lang="hu">SpongyaBob KockaNadrág</title></programme>
-<programme start="20260812014500 +0000" stop="20260812020000 +0000" channel="NICKELODEON"><title lang="hu">SpongyaBob Kockanadrág</title></programme>
-<programme start="20260812020000 +0000" stop="20260812022000 +0000" channel="NICKELODEON"><title lang="hu">A Marsupilamik</title></programme>
-<programme start="20260812022000 +0000" stop="20260812024500 +0000" channel="NICKELODEON"><title lang="hu">Csillag Patrik műsora</title></programme>
-<programme start="20260812024500 +0000" stop="20260812030000 +0000" channel="NICKELODEON"><title lang="hu">Csillag Patrik műsora</title></programme>
-<programme start="20260812030000 +0000" stop="20260812032000 +0000" channel="NICKELODEON"><title lang="hu">Pinky Malinky</title></programme>
-<programme start="20260812032000 +0000" stop="20260812034500 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
-<programme start="20260812034500 +0000" stop="20260812041500 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
-<programme start="20260810220000 +0000" stop="20260810223000 +0000" channel="OZONETV"><title lang="hu">Hogyan készül? Megmutatjuk!</title></programme>
-<programme start="20260810223000 +0000" stop="20260810230000 +0000" channel="OZONETV"><title lang="hu">Hogyan készül? Megmutatjuk!</title></programme>
-<programme start="20260810230000 +0000" stop="20260810233000 +0000" channel="OZONETV"><title lang="hu">Hogyan készül? Megmutatjuk!</title></programme>
-<programme start="20260810233000 +0000" stop="20260811000000 +0000" channel="OZONETV"><title lang="hu">Hogyan készül? Megmutatjuk!</title></programme>
-<programme start="20260811000000 +0000" stop="20260811002000 +0000" channel="OZONETV"><title lang="hu">Garázs</title></programme>
-<programme start="20260811002000 +0000" stop="20260811004500 +0000" channel="OZONETV"><title lang="hu">Garázs</title></programme>
-<programme start="20260811004500 +0000" stop="20260811013000 +0000" channel="OZONETV"><title lang="hu">SportVerda Electric</title></programme>
-<programme start="20260811013000 +0000" stop="20260811021500 +0000" channel="OZONETV"><title lang="hu">SportVerda Electric</title></programme>
-<programme start="20260811021500 +0000" stop="20260811023500 +0000" channel="OZONETV"><title lang="hu">Hogyan készül? Megmutatjuk!</title></programme>
-<programme start="20260811023500 +0000" stop="20260811030000 +0000" channel="OZONETV"><title lang="hu">Hogyan készül? Megmutatjuk!</title></programme>
-<programme start="20260811030000 +0000" stop="20260811040000 +0000" channel="OZONETV"><title lang="hu">Teleproshop</title></programme>
-<programme start="20260811040000 +0000" stop="20260811043000 +0000" channel="OZONETV"><title lang="hu">Garázs</title></programme>
-<programme start="20260811043000 +0000" stop="20260811050000 +0000" channel="OZONETV"><title lang="hu">Garázs</title></programme>
-<programme start="20260811050000 +0000" stop="20260811053000 +0000" channel="OZONETV"><title lang="hu">Garázs</title></programme>
-<programme start="20260811053000 +0000" stop="20260811060000 +0000" channel="OZONETV"><title lang="hu">Garázs</title></programme>
-<programme start="20260811060000 +0000" stop="20260811063000 +0000" channel="OZONETV"><title lang="hu">Hogyan készül? Megmutatjuk!</title></programme>
-<programme start="20260811063000 +0000" stop="20260811070000 +0000" channel="OZONETV"><title lang="hu">Hogyan készül? Megmutatjuk!</title></programme>
-<programme start="20260811070000 +0000" stop="20260811073000 +0000" channel="OZONETV"><title lang="hu">Egészség Áruház</title></programme>
-<programme start="20260811073000 +0000" stop="20260811080000 +0000" channel="OZONETV"><title lang="hu">Teleproshop</title></programme>
-<programme start="20260811080000 +0000" stop="20260811082000 +0000" channel="OZONETV"><title lang="hu">Hogyan készül? Megmutatjuk!</title></programme>
-<programme start="20260811082000 +0000" stop="20260811090500 +0000" channel="OZONETV"><title lang="hu">Tűzben edzett</title></programme>
-<programme start="20260811090500 +0000" stop="20260811100000 +0000" channel="OZONETV"><title lang="hu">Tűzben edzett</title></programme>
-<programme start="20260811100000 +0000" stop="20260811103000 +0000" channel="OZONETV"><title lang="hu">Raktárvadászok</title></programme>
-<programme start="20260811103000 +0000" stop="20260811110000 +0000" channel="OZONETV"><title lang="hu">Raktárvadászok</title></programme>
-<programme start="20260811110000 +0000" stop="20260811113000 +0000" channel="OZONETV"><title lang="hu">Raktárvadászok</title></programme>
-<programme start="20260811113000 +0000" stop="20260811120000 +0000" channel="OZONETV"><title lang="hu">Raktárvadászok</title></programme>
-<programme start="20260811120000 +0000" stop="20260811123000 +0000" channel="OZONETV"><title lang="hu">Raktárvadászok</title></programme>
-<programme start="20260811123000 +0000" stop="20260811130000 +0000" channel="OZONETV"><title lang="hu">Raktárvadászok</title></programme>
-<programme start="20260811130000 +0000" stop="20260811133000 +0000" channel="OZONETV"><title lang="hu">Zálogcsillagok</title></programme>
-<programme start="20260811133000 +0000" stop="20260811140000 +0000" channel="OZONETV"><title lang="hu">Zálogcsillagok</title></programme>
-<programme start="20260811140000 +0000" stop="20260811143000 +0000" channel="OZONETV"><title lang="hu">Zálogkirályok</title></programme>
-<programme start="20260811143000 +0000" stop="20260811150000 +0000" channel="OZONETV"><title lang="hu">Zálogkirályok</title></programme>
-<programme start="20260811150000 +0000" stop="20260811160000 +0000" channel="OZONETV"><title lang="hu">Tűzben edzett</title></programme>
-<programme start="20260811160000 +0000" stop="20260811170000 +0000" channel="OZONETV"><title lang="hu">Tűzben edzett</title></programme>
-<programme start="20260811170000 +0000" stop="20260811173000 +0000" channel="OZONETV"><title lang="hu">Raktárvadászok</title></programme>
-<programme start="20260811173000 +0000" stop="20260811180000 +0000" channel="OZONETV"><title lang="hu">Raktárvadászok</title></programme>
-<programme start="20260811180000 +0000" stop="20260811183000 +0000" channel="OZONETV"><title lang="hu">Raktárvadászok</title></programme>
-<programme start="20260811183000 +0000" stop="20260811190000 +0000" channel="OZONETV"><title lang="hu">Raktárvadászok</title></programme>
-<programme start="20260811190000 +0000" stop="20260811193000 +0000" channel="OZONETV"><title lang="hu">Texasi raktárvadászok</title></programme>
-<programme start="20260811193000 +0000" stop="20260811200000 +0000" channel="OZONETV"><title lang="hu">Texasi raktárvadászok</title></programme>
-<programme start="20260811200000 +0000" stop="20260811203000 +0000" channel="OZONETV"><title lang="hu">Texasi raktárvadászok</title></programme>
-<programme start="20260811203000 +0000" stop="20260811210000 +0000" channel="OZONETV"><title lang="hu">Texasi raktárvadászok</title></programme>
-<programme start="20260811210000 +0000" stop="20260811220000 +0000" channel="OZONETV"><title lang="hu">Tűzben edzett</title></programme>
+<programme start="20260812010000 +0000" stop="20260812012000 +0000" channel="NICKELODEON"><title lang="hu">SpongyaBob KockaNadrág</title></programme>
+<programme start="20260812012000 +0000" stop="20260812014500 +0000" channel="NICKELODEON"><title lang="hu">SpongyaBob KockaNadrág</title></programme>
+<programme start="20260812014500 +0000" stop="20260812015500 +0000" channel="NICKELODEON"><title lang="hu">SpongyaBob Kockanadrág</title></programme>
+<programme start="20260812015500 +0000" stop="20260812022000 +0000" channel="NICKELODEON"><title lang="hu">A Marsupilamik</title></programme>
+<programme start="20260812022000 +0000" stop="20260812024000 +0000" channel="NICKELODEON"><title lang="hu">Csillag Patrik műsora</title></programme>
+<programme start="20260812024000 +0000" stop="20260812025500 +0000" channel="NICKELODEON"><title lang="hu">Csillag Patrik műsora</title></programme>
+<programme start="20260812025500 +0000" stop="20260812032000 +0000" channel="NICKELODEON"><title lang="hu">Pinky Malinky</title></programme>
+<programme start="20260812032000 +0000" stop="20260812034000 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
+<programme start="20260812034000 +0000" stop="20260812040500 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
+<programme start="20260812040500 +0000" stop="20260812043000 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
+<programme start="20260812043000 +0000" stop="20260812045000 +0000" channel="NICKELODEON"><title lang="hu">Wylde-Pak bagázs</title></programme>
+<programme start="20260812045000 +0000" stop="20260812050000 +0000" channel="NICKELODEON"><title lang="hu">SpongyaBob Kockanadrág</title></programme>
+<programme start="20260812050000 +0000" stop="20260812052500 +0000" channel="NICKELODEON"><title lang="hu">Csillag Patrik műsora</title></programme>
+<programme start="20260812052500 +0000" stop="20260812054000 +0000" channel="NICKELODEON"><title lang="hu">Csillag Patrik műsora</title></programme>
+<programme start="20260812054000 +0000" stop="20260812060500 +0000" channel="NICKELODEON"><title lang="hu">A Marsupilamik</title></programme>
+<programme start="20260812060500 +0000" stop="20260812062500 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
+<programme start="20260812062500 +0000" stop="20260812065000 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
+<programme start="20260812065000 +0000" stop="20260812070000 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
+<programme start="20260812070000 +0000" stop="20260812072500 +0000" channel="NICKELODEON"><title lang="hu">Sonic Prime</title></programme>
+<programme start="20260812072500 +0000" stop="20260812075000 +0000" channel="NICKELODEON"><title lang="hu">A Thunderman család</title></programme>
+<programme start="20260812075000 +0000" stop="20260812081500 +0000" channel="NICKELODEON"><title lang="hu">A Thunderman család</title></programme>
+<programme start="20260812081500 +0000" stop="20260812083500 +0000" channel="NICKELODEON"><title lang="hu">A Thunderman család</title></programme>
+<programme start="20260812083500 +0000" stop="20260812090000 +0000" channel="NICKELODEON"><title lang="hu">A Thunderman család</title></programme>
+<programme start="20260812090000 +0000" stop="20260812092000 +0000" channel="NICKELODEON"><title lang="hu">Pinky Malinky</title></programme>
+<programme start="20260812092000 +0000" stop="20260812094500 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
+<programme start="20260812094500 +0000" stop="20260812101000 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
+<programme start="20260812101000 +0000" stop="20260812103000 +0000" channel="NICKELODEON"><title lang="hu">Wylde-Pak bagázs</title></programme>
+<programme start="20260812103000 +0000" stop="20260812105000 +0000" channel="NICKELODEON"><title lang="hu">Csillag Patrik műsora</title></programme>
+<programme start="20260812105000 +0000" stop="20260812111500 +0000" channel="NICKELODEON"><title lang="hu">SpongyaBob KockaNadrág</title></programme>
+<programme start="20260812111500 +0000" stop="20260812113500 +0000" channel="NICKELODEON"><title lang="hu">Pinky Malinky</title></programme>
+<programme start="20260812113500 +0000" stop="20260812115000 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
+<programme start="20260812115000 +0000" stop="20260812121500 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
+<programme start="20260812121500 +0000" stop="20260812124000 +0000" channel="NICKELODEON"><title lang="hu">Sonic Prime</title></programme>
+<programme start="20260812124000 +0000" stop="20260812130000 +0000" channel="NICKELODEON"><title lang="hu">SpongyaBob KockaNadrág</title></programme>
+<programme start="20260812130000 +0000" stop="20260812132500 +0000" channel="NICKELODEON"><title lang="hu">Csillag Patrik műsora</title></programme>
+<programme start="20260812132500 +0000" stop="20260812135000 +0000" channel="NICKELODEON"><title lang="hu">A Marsupilamik</title></programme>
+<programme start="20260812135000 +0000" stop="20260812140000 +0000" channel="NICKELODEON"><title lang="hu">A Marsupilamik</title></programme>
+<programme start="20260812140000 +0000" stop="20260812142500 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
+<programme start="20260812142500 +0000" stop="20260812145000 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
+<programme start="20260812145000 +0000" stop="20260812150000 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
+<programme start="20260812150000 +0000" stop="20260812152500 +0000" channel="NICKELODEON"><title lang="hu">A Thunderman család</title></programme>
+<programme start="20260812152500 +0000" stop="20260812155000 +0000" channel="NICKELODEON"><title lang="hu">A Thunderman család</title></programme>
+<programme start="20260812155000 +0000" stop="20260812161500 +0000" channel="NICKELODEON"><title lang="hu">A Thunderman család</title></programme>
+<programme start="20260812161500 +0000" stop="20260812163500 +0000" channel="NICKELODEON"><title lang="hu">A Thunderman család</title></programme>
+<programme start="20260812163500 +0000" stop="20260812170000 +0000" channel="NICKELODEON"><title lang="hu">Veszélyes Osztag</title></programme>
+<programme start="20260812170000 +0000" stop="20260812172500 +0000" channel="NICKELODEON"><title lang="hu">iCarly</title></programme>
+<programme start="20260812172500 +0000" stop="20260812175000 +0000" channel="NICKELODEON"><title lang="hu">iCarly</title></programme>
+<programme start="20260812175000 +0000" stop="20260812181500 +0000" channel="NICKELODEON"><title lang="hu">V, mint Viktória</title></programme>
+<programme start="20260812181500 +0000" stop="20260812183500 +0000" channel="NICKELODEON"><title lang="hu">Sam és Cat</title></programme>
+<programme start="20260812183500 +0000" stop="20260812190000 +0000" channel="NICKELODEON"><title lang="hu">Mesék a Tini Nindzsa Teknőcökről</title></programme>
+<programme start="20260812190000 +0000" stop="20260812192000 +0000" channel="NICKELODEON"><title lang="hu">Mesék a Tini Nindzsa Teknőcökről</title></programme>
+<programme start="20260812192000 +0000" stop="20260812194500 +0000" channel="NICKELODEON"><title lang="hu">SpongyaBob KockaNadrág</title></programme>
+<programme start="20260812194500 +0000" stop="20260812201000 +0000" channel="NICKELODEON"><title lang="hu">SpongyaBob KockaNadrág</title></programme>
+<programme start="20260812201000 +0000" stop="20260812203500 +0000" channel="NICKELODEON"><title lang="hu">A Marsupilamik</title></programme>
+<programme start="20260812203500 +0000" stop="20260812205500 +0000" channel="NICKELODEON"><title lang="hu">Szipi &amp; Szuper</title></programme>
+<programme start="20260812205500 +0000" stop="20260812212000 +0000" channel="NICKELODEON"><title lang="hu">Szipi &amp; Szuper</title></programme>
+<programme start="20260812212000 +0000" stop="20260812214500 +0000" channel="NICKELODEON"><title lang="hu">Szarvasosztag</title></programme>
+<programme start="20260812214500 +0000" stop="20260812221000 +0000" channel="NICKELODEON"><title lang="hu">Csillag Patrik műsora</title></programme>
+<programme start="20260812221000 +0000" stop="20260812222000 +0000" channel="NICKELODEON"><title lang="hu">Csillag Patrik műsora</title></programme>
+<programme start="20260812222000 +0000" stop="20260812224000 +0000" channel="NICKELODEON"><title lang="hu">Sonic Prime</title></programme>
+<programme start="20260812224000 +0000" stop="20260812230500 +0000" channel="NICKELODEON"><title lang="hu">A Thunderman-család: Beépített küldetés</title></programme>
+<programme start="20260812230500 +0000" stop="20260812233000 +0000" channel="NICKELODEON"><title lang="hu">Veszélyes Osztag</title></programme>
+<programme start="20260812233000 +0000" stop="20260812235500 +0000" channel="NICKELODEON"><title lang="hu">Veszélyes Henry</title></programme>
+<programme start="20260812235500 +0000" stop="20260813001500 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
+<programme start="20260813001500 +0000" stop="20260813004000 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
+<programme start="20260813004000 +0000" stop="20260813010000 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
+<programme start="20260813010000 +0000" stop="20260813012500 +0000" channel="NICKELODEON"><title lang="hu">SpongyaBob KockaNadrág</title></programme>
+<programme start="20260813012500 +0000" stop="20260813014500 +0000" channel="NICKELODEON"><title lang="hu">SpongyaBob KockaNadrág</title></programme>
+<programme start="20260813014500 +0000" stop="20260813020000 +0000" channel="NICKELODEON"><title lang="hu">SpongyaBob Kockanadrág</title></programme>
+<programme start="20260813020000 +0000" stop="20260813022000 +0000" channel="NICKELODEON"><title lang="hu">A Marsupilamik</title></programme>
+<programme start="20260813022000 +0000" stop="20260813024500 +0000" channel="NICKELODEON"><title lang="hu">Csillag Patrik műsora</title></programme>
+<programme start="20260813024500 +0000" stop="20260813030000 +0000" channel="NICKELODEON"><title lang="hu">Csillag Patrik műsora</title></programme>
+<programme start="20260813030000 +0000" stop="20260813032000 +0000" channel="NICKELODEON"><title lang="hu">Pinky Malinky</title></programme>
+<programme start="20260813032000 +0000" stop="20260813034500 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
+<programme start="20260813034500 +0000" stop="20260813041500 +0000" channel="NICKELODEON"><title lang="hu">A Lármás család</title></programme>
 <programme start="20260811220000 +0000" stop="20260811223000 +0000" channel="OZONETV"><title lang="hu">Hogyan készül? Megmutatjuk!</title></programme>
 <programme start="20260811223000 +0000" stop="20260811230000 +0000" channel="OZONETV"><title lang="hu">Hogyan készül? Megmutatjuk!</title></programme>
 <programme start="20260811230000 +0000" stop="20260811233000 +0000" channel="OZONETV"><title lang="hu">Hogyan készül? Megmutatjuk!</title></programme>
@@ -300,180 +253,221 @@
 <programme start="20260812013000 +0000" stop="20260812021500 +0000" channel="OZONETV"><title lang="hu">SportVerda Electric</title></programme>
 <programme start="20260812021500 +0000" stop="20260812023500 +0000" channel="OZONETV"><title lang="hu">Hogyan készül? Megmutatjuk!</title></programme>
 <programme start="20260812023500 +0000" stop="20260812030000 +0000" channel="OZONETV"><title lang="hu">Hogyan készül? Megmutatjuk!</title></programme>
-<programme start="20260812030000 +0000" stop="20260812033000 +0000" channel="OZONETV"><title lang="hu">Teleproshop</title></programme>
-<programme start="20260811030000 +0000" stop="20260811040000 +0000" channel="RTL"><title lang="hu">Castle</title></programme>
-<programme start="20260811040000 +0000" stop="20260811071500 +0000" channel="RTL"><title lang="hu">Reggeli</title></programme>
-<programme start="20260811071500 +0000" stop="20260811082000 +0000" channel="RTL"><title lang="hu">Született feleségek</title></programme>
-<programme start="20260811082000 +0000" stop="20260811085000 +0000" channel="RTL"><title lang="hu">Teleshop</title></programme>
-<programme start="20260811085000 +0000" stop="20260811094500 +0000" channel="RTL"><title lang="hu">Csoda Manhattanben</title></programme>
-<programme start="20260811094500 +0000" stop="20260811110000 +0000" channel="RTL"><title lang="hu">Tizenkét okos ember</title></programme>
-<programme start="20260811110000 +0000" stop="20260811113500 +0000" channel="RTL"><title lang="hu">RTL Híradó 1 órakor</title></programme>
-<programme start="20260811113500 +0000" stop="20260811125500 +0000" channel="RTL"><title lang="hu">Agatha Christie - Poirot történetei</title></programme>
-<programme start="20260811125500 +0000" stop="20260811133000 +0000" channel="RTL"><title lang="hu">Barátok közt</title></programme>
-<programme start="20260811133000 +0000" stop="20260811143500 +0000" channel="RTL"><title lang="hu">Castle</title></programme>
-<programme start="20260811143500 +0000" stop="20260811160000 +0000" channel="RTL"><title lang="hu">Drága örökösök - A visszatérés</title></programme>
-<programme start="20260811160000 +0000" stop="20260811165500 +0000" channel="RTL"><title lang="hu">RTL Híradó - Esti kiadás</title></programme>
-<programme start="20260811165500 +0000" stop="20260811180000 +0000" channel="RTL"><title lang="hu">Fókusz</title></programme>
-<programme start="20260811180000 +0000" stop="20260811192000 +0000" channel="RTL"><title lang="hu">Tizenkét okos ember</title></programme>
-<programme start="20260811192000 +0000" stop="20260811204500 +0000" channel="RTL"><title lang="hu">A mi kis falunk</title></programme>
-<programme start="20260811204500 +0000" stop="20260811211000 +0000" channel="RTL"><title lang="hu">RTL Híradó - Késő esti kiadás</title></programme>
-<programme start="20260811211000 +0000" stop="20260811222500 +0000" channel="RTL"><title lang="hu">Házon kívül</title></programme>
-<programme start="20260811222500 +0000" stop="20260812001000 +0000" channel="RTL"><title lang="hu">Cápák között</title></programme>
-<programme start="20260812001000 +0000" stop="20260812012000 +0000" channel="RTL"><title lang="hu">Bírónő, kérem!</title></programme>
-<programme start="20260812012000 +0000" stop="20260812022000 +0000" channel="RTL"><title lang="hu">Chicago Med</title></programme>
-<programme start="20260812022000 +0000" stop="20260812023000 +0000" channel="RTL"><title lang="hu">Nevess csak!</title></programme>
-<programme start="20260812023000 +0000" stop="20260812030000 +0000" channel="RTL"><title lang="hu">Teleshop</title></programme>
-<programme start="20260810234500 +0000" stop="20260811035000 +0000" channel="RTL_HAROM"><title lang="hu">Az adósság</title></programme>
-<programme start="20260811035000 +0000" stop="20260811055500 +0000" channel="RTL_HAROM"><title lang="hu">A tigris ébredése</title></programme>
-<programme start="20260811055500 +0000" stop="20260811074500 +0000" channel="RTL_HAROM"><title lang="hu">Úton hazafelé 2. - Eltévedve San Franciscoban</title></programme>
-<programme start="20260811074500 +0000" stop="20260811091500 +0000" channel="RTL_HAROM"><title lang="hu">József, az álmok királya</title></programme>
-<programme start="20260811091500 +0000" stop="20260811114000 +0000" channel="RTL_HAROM"><title lang="hu">Asterix és Obelix: Isten óvja Britanniát!</title></programme>
-<programme start="20260811114000 +0000" stop="20260811132500 +0000" channel="RTL_HAROM"><title lang="hu">Mézengúz</title></programme>
-<programme start="20260811132500 +0000" stop="20260811152000 +0000" channel="RTL_HAROM"><title lang="hu">Cápamese</title></programme>
-<programme start="20260811152000 +0000" stop="20260811171500 +0000" channel="RTL_HAROM"><title lang="hu">Hotel Transylvania 3.: Szörnyen rémes vakáció</title></programme>
-<programme start="20260811171500 +0000" stop="20260811190000 +0000" channel="RTL_HAROM"><title lang="hu">Addig jár a korsó a kútra</title></programme>
-<programme start="20260811190000 +0000" stop="20260811211000 +0000" channel="RTL_HAROM"><title lang="hu">Mindent bele, fiúk!</title></programme>
-<programme start="20260811211000 +0000" stop="20260811234500 +0000" channel="RTL_HAROM"><title lang="hu">Csajos utazás</title></programme>
-<programme start="20260811234500 +0000" stop="20260812001500 +0000" channel="RTL_HAROM"><title lang="hu">Csodálatos Bűn napot!</title></programme>
-<programme start="20260810231000 +0000" stop="20260811000500 +0000" channel="SUPERTV2"><title lang="hu">Magánnyomozók</title></programme>
-<programme start="20260811000500 +0000" stop="20260811005500 +0000" channel="SUPERTV2"><title lang="hu">Magánnyomozók</title></programme>
-<programme start="20260811005500 +0000" stop="20260811015000 +0000" channel="SUPERTV2"><title lang="hu">Veled is megtörténhet</title></programme>
-<programme start="20260811015000 +0000" stop="20260811024000 +0000" channel="SUPERTV2"><title lang="hu">Veled is megtörténhet</title></programme>
-<programme start="20260811024000 +0000" stop="20260811031000 +0000" channel="SUPERTV2"><title lang="hu">Csapdába csalva</title></programme>
-<programme start="20260811031000 +0000" stop="20260811034000 +0000" channel="SUPERTV2"><title lang="hu">Csapdába csalva</title></programme>
-<programme start="20260811034000 +0000" stop="20260811043500 +0000" channel="SUPERTV2"><title lang="hu">Veled is megtörténhet</title></programme>
-<programme start="20260811043500 +0000" stop="20260811053000 +0000" channel="SUPERTV2"><title lang="hu">Magánnyomozók</title></programme>
-<programme start="20260811053000 +0000" stop="20260811063500 +0000" channel="SUPERTV2"><title lang="hu">Magánnyomozók</title></programme>
-<programme start="20260811063500 +0000" stop="20260811064500 +0000" channel="SUPERTV2"><title lang="hu">Több mint TestŐr</title></programme>
-<programme start="20260811064500 +0000" stop="20260811072500 +0000" channel="SUPERTV2"><title lang="hu">STV2 Híradó</title></programme>
-<programme start="20260811072500 +0000" stop="20260811080000 +0000" channel="SUPERTV2"><title lang="hu">Csapdába csalva</title></programme>
-<programme start="20260811080000 +0000" stop="20260811083000 +0000" channel="SUPERTV2"><title lang="hu">Csapdába csalva</title></programme>
-<programme start="20260811083000 +0000" stop="20260811090000 +0000" channel="SUPERTV2"><title lang="hu">Csapdába csalva</title></programme>
-<programme start="20260811090000 +0000" stop="20260811100000 +0000" channel="SUPERTV2"><title lang="hu">Családi titkok</title></programme>
-<programme start="20260811100000 +0000" stop="20260811110000 +0000" channel="SUPERTV2"><title lang="hu">Családi titkok</title></programme>
-<programme start="20260811110000 +0000" stop="20260811120000 +0000" channel="SUPERTV2"><title lang="hu">Családi titkok</title></programme>
-<programme start="20260811120000 +0000" stop="20260811134500 +0000" channel="SUPERTV2"><title lang="hu">Szerencsekerék</title></programme>
-<programme start="20260811134500 +0000" stop="20260811144500 +0000" channel="SUPERTV2"><title lang="hu">Magánnyomozók</title></programme>
-<programme start="20260811144500 +0000" stop="20260811170000 +0000" channel="SUPERTV2"><title lang="hu">Séfek séfe</title></programme>
-<programme start="20260811170000 +0000" stop="20260811180000 +0000" channel="SUPERTV2"><title lang="hu">Újratervezés</title></programme>
-<programme start="20260811180000 +0000" stop="20260811191000 +0000" channel="SUPERTV2"><title lang="hu">Hal a tortán</title></programme>
-<programme start="20260811191000 +0000" stop="20260811212000 +0000" channel="SUPERTV2"><title lang="hu">Séfek séfe</title></programme>
-<programme start="20260811212000 +0000" stop="20260811225500 +0000" channel="SUPERTV2"><title lang="hu">Ahol éjszaka is süt a nap</title></programme>
+<programme start="20260812030000 +0000" stop="20260812040000 +0000" channel="OZONETV"><title lang="hu">Teleproshop</title></programme>
+<programme start="20260812040000 +0000" stop="20260812043000 +0000" channel="OZONETV"><title lang="hu">Garázs</title></programme>
+<programme start="20260812043000 +0000" stop="20260812050000 +0000" channel="OZONETV"><title lang="hu">Garázs</title></programme>
+<programme start="20260812050000 +0000" stop="20260812053000 +0000" channel="OZONETV"><title lang="hu">Garázs</title></programme>
+<programme start="20260812053000 +0000" stop="20260812060000 +0000" channel="OZONETV"><title lang="hu">Garázs</title></programme>
+<programme start="20260812060000 +0000" stop="20260812063000 +0000" channel="OZONETV"><title lang="hu">Hogyan készül? Megmutatjuk!</title></programme>
+<programme start="20260812063000 +0000" stop="20260812070000 +0000" channel="OZONETV"><title lang="hu">Hogyan készül? Megmutatjuk!</title></programme>
+<programme start="20260812070000 +0000" stop="20260812073000 +0000" channel="OZONETV"><title lang="hu">Egészség Áruház</title></programme>
+<programme start="20260812073000 +0000" stop="20260812080000 +0000" channel="OZONETV"><title lang="hu">Teleproshop</title></programme>
+<programme start="20260812080000 +0000" stop="20260812082000 +0000" channel="OZONETV"><title lang="hu">Hogyan készül? Megmutatjuk!</title></programme>
+<programme start="20260812082000 +0000" stop="20260812090500 +0000" channel="OZONETV"><title lang="hu">Tűzben edzett</title></programme>
+<programme start="20260812090500 +0000" stop="20260812100000 +0000" channel="OZONETV"><title lang="hu">Tűzben edzett</title></programme>
+<programme start="20260812100000 +0000" stop="20260812103000 +0000" channel="OZONETV"><title lang="hu">Raktárvadászok</title></programme>
+<programme start="20260812103000 +0000" stop="20260812110000 +0000" channel="OZONETV"><title lang="hu">Raktárvadászok</title></programme>
+<programme start="20260812110000 +0000" stop="20260812113000 +0000" channel="OZONETV"><title lang="hu">Raktárvadászok</title></programme>
+<programme start="20260812113000 +0000" stop="20260812120000 +0000" channel="OZONETV"><title lang="hu">Raktárvadászok</title></programme>
+<programme start="20260812120000 +0000" stop="20260812123000 +0000" channel="OZONETV"><title lang="hu">Raktárvadászok</title></programme>
+<programme start="20260812123000 +0000" stop="20260812130000 +0000" channel="OZONETV"><title lang="hu">Raktárvadászok</title></programme>
+<programme start="20260812130000 +0000" stop="20260812133000 +0000" channel="OZONETV"><title lang="hu">Zálogcsillagok</title></programme>
+<programme start="20260812133000 +0000" stop="20260812140000 +0000" channel="OZONETV"><title lang="hu">Zálogcsillagok</title></programme>
+<programme start="20260812140000 +0000" stop="20260812143000 +0000" channel="OZONETV"><title lang="hu">Zálogkirályok</title></programme>
+<programme start="20260812143000 +0000" stop="20260812150000 +0000" channel="OZONETV"><title lang="hu">Zálogkirályok</title></programme>
+<programme start="20260812150000 +0000" stop="20260812160000 +0000" channel="OZONETV"><title lang="hu">Tűzben edzett</title></programme>
+<programme start="20260812160000 +0000" stop="20260812170000 +0000" channel="OZONETV"><title lang="hu">Tűzben edzett</title></programme>
+<programme start="20260812170000 +0000" stop="20260812173000 +0000" channel="OZONETV"><title lang="hu">Raktárvadászok</title></programme>
+<programme start="20260812173000 +0000" stop="20260812180000 +0000" channel="OZONETV"><title lang="hu">Raktárvadászok</title></programme>
+<programme start="20260812180000 +0000" stop="20260812183000 +0000" channel="OZONETV"><title lang="hu">Raktárvadászok</title></programme>
+<programme start="20260812183000 +0000" stop="20260812190000 +0000" channel="OZONETV"><title lang="hu">Raktárvadászok</title></programme>
+<programme start="20260812190000 +0000" stop="20260812193000 +0000" channel="OZONETV"><title lang="hu">Texasi raktárvadászok</title></programme>
+<programme start="20260812193000 +0000" stop="20260812200000 +0000" channel="OZONETV"><title lang="hu">Texasi raktárvadászok</title></programme>
+<programme start="20260812200000 +0000" stop="20260812203000 +0000" channel="OZONETV"><title lang="hu">Texasi raktárvadászok</title></programme>
+<programme start="20260812203000 +0000" stop="20260812210000 +0000" channel="OZONETV"><title lang="hu">Texasi raktárvadászok</title></programme>
+<programme start="20260812210000 +0000" stop="20260812220000 +0000" channel="OZONETV"><title lang="hu">Tűzben edzett</title></programme>
+<programme start="20260812220000 +0000" stop="20260812223000 +0000" channel="OZONETV"><title lang="hu">Hogyan készül? Megmutatjuk!</title></programme>
+<programme start="20260812223000 +0000" stop="20260812230000 +0000" channel="OZONETV"><title lang="hu">Hogyan készül? Megmutatjuk!</title></programme>
+<programme start="20260812230000 +0000" stop="20260812233000 +0000" channel="OZONETV"><title lang="hu">Hogyan készül? Megmutatjuk!</title></programme>
+<programme start="20260812233000 +0000" stop="20260813000000 +0000" channel="OZONETV"><title lang="hu">Hogyan készül? Megmutatjuk!</title></programme>
+<programme start="20260813000000 +0000" stop="20260813002000 +0000" channel="OZONETV"><title lang="hu">Garázs</title></programme>
+<programme start="20260813002000 +0000" stop="20260813004500 +0000" channel="OZONETV"><title lang="hu">Garázs</title></programme>
+<programme start="20260813004500 +0000" stop="20260813013000 +0000" channel="OZONETV"><title lang="hu">SportVerda Electric</title></programme>
+<programme start="20260813013000 +0000" stop="20260813021500 +0000" channel="OZONETV"><title lang="hu">SportVerda Electric</title></programme>
+<programme start="20260813021500 +0000" stop="20260813023500 +0000" channel="OZONETV"><title lang="hu">Hogyan készül? Megmutatjuk!</title></programme>
+<programme start="20260813023500 +0000" stop="20260813030000 +0000" channel="OZONETV"><title lang="hu">Hogyan készül? Megmutatjuk!</title></programme>
+<programme start="20260813030000 +0000" stop="20260813033000 +0000" channel="OZONETV"><title lang="hu">Teleproshop</title></programme>
+<programme start="20260812030000 +0000" stop="20260812040000 +0000" channel="RTL"><title lang="hu">Castle</title></programme>
+<programme start="20260812040000 +0000" stop="20260812071500 +0000" channel="RTL"><title lang="hu">Reggeli</title></programme>
+<programme start="20260812071500 +0000" stop="20260812082000 +0000" channel="RTL"><title lang="hu">Született feleségek</title></programme>
+<programme start="20260812082000 +0000" stop="20260812085000 +0000" channel="RTL"><title lang="hu">Teleshop</title></programme>
+<programme start="20260812085000 +0000" stop="20260812094500 +0000" channel="RTL"><title lang="hu">Csoda Manhattanben</title></programme>
+<programme start="20260812094500 +0000" stop="20260812110000 +0000" channel="RTL"><title lang="hu">Tizenkét okos ember</title></programme>
+<programme start="20260812110000 +0000" stop="20260812113500 +0000" channel="RTL"><title lang="hu">RTL Híradó 1 órakor</title></programme>
+<programme start="20260812113500 +0000" stop="20260812125500 +0000" channel="RTL"><title lang="hu">Agatha Christie - Poirot történetei</title></programme>
+<programme start="20260812125500 +0000" stop="20260812133000 +0000" channel="RTL"><title lang="hu">Barátok közt</title></programme>
+<programme start="20260812133000 +0000" stop="20260812143500 +0000" channel="RTL"><title lang="hu">Castle</title></programme>
+<programme start="20260812143500 +0000" stop="20260812160000 +0000" channel="RTL"><title lang="hu">Drága örökösök - A visszatérés</title></programme>
+<programme start="20260812160000 +0000" stop="20260812165500 +0000" channel="RTL"><title lang="hu">RTL Híradó - Esti kiadás</title></programme>
+<programme start="20260812165500 +0000" stop="20260812172500 +0000" channel="RTL"><title lang="hu">Fókusz</title></programme>
+<programme start="20260812172500 +0000" stop="20260812183500 +0000" channel="RTL"><title lang="hu">Tizenkét okos ember</title></programme>
+<programme start="20260812183500 +0000" stop="20260812214500 +0000" channel="RTL"><title lang="hu">UEFA PSG-Aston Villa Szuperkupa-mérkőzés</title></programme>
+<programme start="20260812214500 +0000" stop="20260812222000 +0000" channel="RTL"><title lang="hu">RTL Híradó - Késő esti kiadás</title></programme>
+<programme start="20260812222000 +0000" stop="20260813001000 +0000" channel="RTL"><title lang="hu">Cápák között</title></programme>
+<programme start="20260813001000 +0000" stop="20260813004500 +0000" channel="RTL"><title lang="hu">Mozaik</title></programme>
+<programme start="20260813004500 +0000" stop="20260813014000 +0000" channel="RTL"><title lang="hu">Bírónő, kérem!</title></programme>
+<programme start="20260813014000 +0000" stop="20260813020000 +0000" channel="RTL"><title lang="hu">Nevess csak!</title></programme>
+<programme start="20260813020000 +0000" stop="20260813021000 +0000" channel="RTL"><title lang="hu">Nevess csak!</title></programme>
+<programme start="20260813021000 +0000" stop="20260813022000 +0000" channel="RTL"><title lang="hu">Nevess csak!</title></programme>
+<programme start="20260813022000 +0000" stop="20260813023000 +0000" channel="RTL"><title lang="hu">Nevess csak!</title></programme>
+<programme start="20260813023000 +0000" stop="20260813030000 +0000" channel="RTL"><title lang="hu">Teleshop</title></programme>
+<programme start="20260811234500 +0000" stop="20260812044500 +0000" channel="RTL_HAROM"><title lang="hu">Csodálatos Bűn napot!</title></programme>
+<programme start="20260812044500 +0000" stop="20260812064000 +0000" channel="RTL_HAROM"><title lang="hu">Én és a hercegem 3 - Királyi mézeshetek</title></programme>
+<programme start="20260812064000 +0000" stop="20260812082500 +0000" channel="RTL_HAROM"><title lang="hu">Én és a hercegem 4. - Elefántkaland</title></programme>
+<programme start="20260812082500 +0000" stop="20260812101500 +0000" channel="RTL_HAROM"><title lang="hu">Minden kút Rómába vezet</title></programme>
+<programme start="20260812101500 +0000" stop="20260812121500 +0000" channel="RTL_HAROM"><title lang="hu">Anyabuli</title></programme>
+<programme start="20260812121500 +0000" stop="20260812142000 +0000" channel="RTL_HAROM"><title lang="hu">Mint(a)apa</title></programme>
+<programme start="20260812142000 +0000" stop="20260812162000 +0000" channel="RTL_HAROM"><title lang="hu">Apu az űrben</title></programme>
+<programme start="20260812162000 +0000" stop="20260812190000 +0000" channel="RTL_HAROM"><title lang="hu">Zöld könyv</title></programme>
+<programme start="20260812190000 +0000" stop="20260812215500 +0000" channel="RTL_HAROM"><title lang="hu">Mátrix: Feltámadások</title></programme>
+<programme start="20260812215500 +0000" stop="20260813001500 +0000" channel="RTL_HAROM"><title lang="hu">Teremtőm</title></programme>
+<programme start="20260813001500 +0000" stop="20260813004500 +0000" channel="RTL_HAROM"><title lang="hu">Baromi őrjárat 2.</title></programme>
 <programme start="20260811225500 +0000" stop="20260811235500 +0000" channel="SUPERTV2"><title lang="hu">Magánnyomozók</title></programme>
 <programme start="20260811235500 +0000" stop="20260812004500 +0000" channel="SUPERTV2"><title lang="hu">Magánnyomozók</title></programme>
 <programme start="20260812004500 +0000" stop="20260812014000 +0000" channel="SUPERTV2"><title lang="hu">Veled is megtörténhet</title></programme>
 <programme start="20260812014000 +0000" stop="20260812023000 +0000" channel="SUPERTV2"><title lang="hu">Veled is megtörténhet</title></programme>
 <programme start="20260812023000 +0000" stop="20260812030000 +0000" channel="SUPERTV2"><title lang="hu">Csapdába csalva</title></programme>
-<programme start="20260812030000 +0000" stop="20260812033000 +0000" channel="SUPERTV2"><title lang="hu">Csapdába csalva</title></programme>
-<programme start="20260810220000 +0000" stop="20260810230000 +0000" channel="TV2"><title lang="hu">Rex felügyelő</title></programme>
-<programme start="20260810230000 +0000" stop="20260811000000 +0000" channel="TV2"><title lang="hu">Rex felügyelő</title></programme>
-<programme start="20260811000000 +0000" stop="20260811005000 +0000" channel="TV2"><title lang="hu">Vészhelyzet</title></programme>
-<programme start="20260811005000 +0000" stop="20260811014000 +0000" channel="TV2"><title lang="hu">Vészhelyzet</title></programme>
-<programme start="20260811014000 +0000" stop="20260811023000 +0000" channel="TV2"><title lang="hu">Szenes 100 - Andreával</title></programme>
-<programme start="20260811023000 +0000" stop="20260811025500 +0000" channel="TV2"><title lang="hu">Friss hangok Alival és Ronival</title></programme>
-<programme start="20260811025500 +0000" stop="20260811032000 +0000" channel="TV2"><title lang="hu">Zenehajó Bodnár Attila és Pap Rita műsora</title></programme>
-<programme start="20260811032000 +0000" stop="20260811041500 +0000" channel="TV2"><title lang="hu">Családi titkok</title></programme>
-<programme start="20260811041500 +0000" stop="20260811064500 +0000" channel="TV2"><title lang="hu">Mokka</title></programme>
-<programme start="20260811064500 +0000" stop="20260811074000 +0000" channel="TV2"><title lang="hu">Mokkacino</title></programme>
-<programme start="20260811074000 +0000" stop="20260811092000 +0000" channel="TV2"><title lang="hu">TELESHOP</title></programme>
-<programme start="20260811092000 +0000" stop="20260811100000 +0000" channel="TV2"><title lang="hu">Csapdába csalva</title></programme>
-<programme start="20260811100000 +0000" stop="20260811103000 +0000" channel="TV2"><title lang="hu">TV2 Híradó</title></programme>
-<programme start="20260811103000 +0000" stop="20260811113000 +0000" channel="TV2"><title lang="hu">Rex felügyelő</title></programme>
-<programme start="20260811113000 +0000" stop="20260811123500 +0000" channel="TV2"><title lang="hu">Rex felügyelő</title></programme>
-<programme start="20260811123500 +0000" stop="20260811134000 +0000" channel="TV2"><title lang="hu">Aurora angyala</title></programme>
-<programme start="20260811134000 +0000" stop="20260811144500 +0000" channel="TV2"><title lang="hu">Isztambuli árvák</title></programme>
-<programme start="20260811144500 +0000" stop="20260811160000 +0000" channel="TV2"><title lang="hu">Távoli város</title></programme>
-<programme start="20260811160000 +0000" stop="20260811164500 +0000" channel="TV2"><title lang="hu">TV2 Híradó</title></programme>
-<programme start="20260811164500 +0000" stop="20260811175500 +0000" channel="TV2"><title lang="hu">Aktív</title></programme>
-<programme start="20260811175500 +0000" stop="20260811195500 +0000" channel="TV2"><title lang="hu">Szerencsekerék</title></programme>
-<programme start="20260811195500 +0000" stop="20260811210000 +0000" channel="TV2"><title lang="hu">A hegyi doktor újra rendel</title></programme>
-<programme start="20260811210000 +0000" stop="20260811220000 +0000" channel="TV2"><title lang="hu">Dr. Wolf</title></programme>
+<programme start="20260812030000 +0000" stop="20260812033500 +0000" channel="SUPERTV2"><title lang="hu">Csapdába csalva</title></programme>
+<programme start="20260812033500 +0000" stop="20260812043000 +0000" channel="SUPERTV2"><title lang="hu">Veled is megtörténhet</title></programme>
+<programme start="20260812043000 +0000" stop="20260812053000 +0000" channel="SUPERTV2"><title lang="hu">Magánnyomozók</title></programme>
+<programme start="20260812053000 +0000" stop="20260812063500 +0000" channel="SUPERTV2"><title lang="hu">Magánnyomozók</title></programme>
+<programme start="20260812063500 +0000" stop="20260812064500 +0000" channel="SUPERTV2"><title lang="hu">Több mint TestŐr</title></programme>
+<programme start="20260812064500 +0000" stop="20260812072500 +0000" channel="SUPERTV2"><title lang="hu">STV2 Híradó</title></programme>
+<programme start="20260812072500 +0000" stop="20260812080000 +0000" channel="SUPERTV2"><title lang="hu">Csapdába csalva</title></programme>
+<programme start="20260812080000 +0000" stop="20260812083000 +0000" channel="SUPERTV2"><title lang="hu">Csapdába csalva</title></programme>
+<programme start="20260812083000 +0000" stop="20260812090000 +0000" channel="SUPERTV2"><title lang="hu">Csapdába csalva</title></programme>
+<programme start="20260812090000 +0000" stop="20260812100000 +0000" channel="SUPERTV2"><title lang="hu">Családi titkok</title></programme>
+<programme start="20260812100000 +0000" stop="20260812110000 +0000" channel="SUPERTV2"><title lang="hu">Családi titkok</title></programme>
+<programme start="20260812110000 +0000" stop="20260812120000 +0000" channel="SUPERTV2"><title lang="hu">Családi titkok</title></programme>
+<programme start="20260812120000 +0000" stop="20260812134500 +0000" channel="SUPERTV2"><title lang="hu">Szerencsekerék</title></programme>
+<programme start="20260812134500 +0000" stop="20260812145000 +0000" channel="SUPERTV2"><title lang="hu">Magánnyomozók</title></programme>
+<programme start="20260812145000 +0000" stop="20260812170000 +0000" channel="SUPERTV2"><title lang="hu">Séfek séfe</title></programme>
+<programme start="20260812170000 +0000" stop="20260812180000 +0000" channel="SUPERTV2"><title lang="hu">Újratervezés</title></programme>
+<programme start="20260812180000 +0000" stop="20260812191000 +0000" channel="SUPERTV2"><title lang="hu">Hal a tortán</title></programme>
+<programme start="20260812191000 +0000" stop="20260812213000 +0000" channel="SUPERTV2"><title lang="hu">Séfek séfe</title></programme>
+<programme start="20260812213000 +0000" stop="20260812232500 +0000" channel="SUPERTV2"><title lang="hu">Mindenütt férfi</title></programme>
+<programme start="20260812232500 +0000" stop="20260813002000 +0000" channel="SUPERTV2"><title lang="hu">Magánnyomozók</title></programme>
+<programme start="20260813002000 +0000" stop="20260813011000 +0000" channel="SUPERTV2"><title lang="hu">Magánnyomozók</title></programme>
+<programme start="20260813011000 +0000" stop="20260813020500 +0000" channel="SUPERTV2"><title lang="hu">Veled is megtörténhet</title></programme>
+<programme start="20260813020500 +0000" stop="20260813030000 +0000" channel="SUPERTV2"><title lang="hu">Veled is megtörténhet</title></programme>
+<programme start="20260813030000 +0000" stop="20260813033000 +0000" channel="SUPERTV2"><title lang="hu">Csapdába csalva</title></programme>
 <programme start="20260811220000 +0000" stop="20260811230000 +0000" channel="TV2"><title lang="hu">Rex felügyelő</title></programme>
 <programme start="20260811230000 +0000" stop="20260812000000 +0000" channel="TV2"><title lang="hu">Rex felügyelő</title></programme>
 <programme start="20260812000000 +0000" stop="20260812005000 +0000" channel="TV2"><title lang="hu">Vészhelyzet</title></programme>
 <programme start="20260812005000 +0000" stop="20260812014000 +0000" channel="TV2"><title lang="hu">Vészhelyzet</title></programme>
 <programme start="20260812014000 +0000" stop="20260812023000 +0000" channel="TV2"><title lang="hu">Szenes 100 - Andreával</title></programme>
 <programme start="20260812023000 +0000" stop="20260812025500 +0000" channel="TV2"><title lang="hu">Zenehajó Bodnár Attila és Pap Rita műsora</title></programme>
-<programme start="20260812025500 +0000" stop="20260812032500 +0000" channel="TV2"><title lang="hu">Zenehajó Bodnár Attila és Pap Rita műsora</title></programme>
-<programme start="20260810220500 +0000" stop="20260810230500 +0000" channel="VIASAT3"><title lang="hu">Az újonc</title></programme>
-<programme start="20260810230500 +0000" stop="20260810235500 +0000" channel="VIASAT3"><title lang="hu">Lucifer</title></programme>
-<programme start="20260810235500 +0000" stop="20260811005000 +0000" channel="VIASAT3"><title lang="hu">Dexter</title></programme>
-<programme start="20260811005000 +0000" stop="20260811013000 +0000" channel="VIASAT3"><title lang="hu">A Grace klinika</title></programme>
-<programme start="20260811013000 +0000" stop="20260811021500 +0000" channel="VIASAT3"><title lang="hu">A Grace klinika</title></programme>
-<programme start="20260811021500 +0000" stop="20260811042000 +0000" channel="VIASAT3"><title lang="hu">A Grace klinika</title></programme>
-<programme start="20260811042000 +0000" stop="20260811050500 +0000" channel="VIASAT3"><title lang="hu">Szívek szállodája</title></programme>
-<programme start="20260811050500 +0000" stop="20260811055000 +0000" channel="VIASAT3"><title lang="hu">Szívek szállodája</title></programme>
-<programme start="20260811055000 +0000" stop="20260811065000 +0000" channel="VIASAT3"><title lang="hu">Beverly Hills 90210</title></programme>
-<programme start="20260811065000 +0000" stop="20260811075500 +0000" channel="VIASAT3"><title lang="hu">Beverly Hills 90210</title></programme>
-<programme start="20260811075500 +0000" stop="20260811085500 +0000" channel="VIASAT3"><title lang="hu">Szívek szállodája</title></programme>
-<programme start="20260811085500 +0000" stop="20260811095500 +0000" channel="VIASAT3"><title lang="hu">Szívek szállodája</title></programme>
-<programme start="20260811095500 +0000" stop="20260811105500 +0000" channel="VIASAT3"><title lang="hu">Beverly Hills 90210</title></programme>
-<programme start="20260811105500 +0000" stop="20260811120000 +0000" channel="VIASAT3"><title lang="hu">Beverly Hills 90210</title></programme>
-<programme start="20260811120000 +0000" stop="20260811130000 +0000" channel="VIASAT3"><title lang="hu">Szívek szállodája</title></programme>
-<programme start="20260811130000 +0000" stop="20260811140000 +0000" channel="VIASAT3"><title lang="hu">Szívek szállodája</title></programme>
-<programme start="20260811140000 +0000" stop="20260811150000 +0000" channel="VIASAT3"><title lang="hu">A Grace klinika</title></programme>
-<programme start="20260811150000 +0000" stop="20260811160000 +0000" channel="VIASAT3"><title lang="hu">A Grace klinika</title></programme>
-<programme start="20260811160000 +0000" stop="20260811170000 +0000" channel="VIASAT3"><title lang="hu">A Grace klinika</title></programme>
-<programme start="20260811170000 +0000" stop="20260811180000 +0000" channel="VIASAT3"><title lang="hu">Az újonc</title></programme>
-<programme start="20260811180000 +0000" stop="20260811190000 +0000" channel="VIASAT3"><title lang="hu">Az újonc</title></programme>
-<programme start="20260811190000 +0000" stop="20260811200000 +0000" channel="VIASAT3"><title lang="hu">Lucifer</title></programme>
-<programme start="20260811200000 +0000" stop="20260811211000 +0000" channel="VIASAT3"><title lang="hu">Dexter</title></programme>
-<programme start="20260811211000 +0000" stop="20260811215500 +0000" channel="VIASAT3"><title lang="hu">Az újonc</title></programme>
-<programme start="20260811215500 +0000" stop="20260811225500 +0000" channel="VIASAT3"><title lang="hu">Az újonc</title></programme>
+<programme start="20260812025500 +0000" stop="20260812032000 +0000" channel="TV2"><title lang="hu">Zenehajó Bodnár Attila és Pap Rita műsora</title></programme>
+<programme start="20260812032000 +0000" stop="20260812041500 +0000" channel="TV2"><title lang="hu">Családi titkok</title></programme>
+<programme start="20260812041500 +0000" stop="20260812064500 +0000" channel="TV2"><title lang="hu">Mokka</title></programme>
+<programme start="20260812064500 +0000" stop="20260812074000 +0000" channel="TV2"><title lang="hu">Mokkacino</title></programme>
+<programme start="20260812074000 +0000" stop="20260812092000 +0000" channel="TV2"><title lang="hu">TELESHOP</title></programme>
+<programme start="20260812092000 +0000" stop="20260812100000 +0000" channel="TV2"><title lang="hu">Csapdába csalva</title></programme>
+<programme start="20260812100000 +0000" stop="20260812103000 +0000" channel="TV2"><title lang="hu">TV2 Híradó</title></programme>
+<programme start="20260812103000 +0000" stop="20260812113000 +0000" channel="TV2"><title lang="hu">Rex felügyelő</title></programme>
+<programme start="20260812113000 +0000" stop="20260812123500 +0000" channel="TV2"><title lang="hu">Rex felügyelő</title></programme>
+<programme start="20260812123500 +0000" stop="20260812134000 +0000" channel="TV2"><title lang="hu">Aurora angyala</title></programme>
+<programme start="20260812134000 +0000" stop="20260812144500 +0000" channel="TV2"><title lang="hu">Isztambuli árvák</title></programme>
+<programme start="20260812144500 +0000" stop="20260812160000 +0000" channel="TV2"><title lang="hu">Távoli város</title></programme>
+<programme start="20260812160000 +0000" stop="20260812164500 +0000" channel="TV2"><title lang="hu">TV2 Híradó</title></programme>
+<programme start="20260812164500 +0000" stop="20260812175500 +0000" channel="TV2"><title lang="hu">Aktív</title></programme>
+<programme start="20260812175500 +0000" stop="20260812195500 +0000" channel="TV2"><title lang="hu">Szerencsekerék</title></programme>
+<programme start="20260812195500 +0000" stop="20260812210000 +0000" channel="TV2"><title lang="hu">A hegyi doktor újra rendel</title></programme>
+<programme start="20260812210000 +0000" stop="20260812220000 +0000" channel="TV2"><title lang="hu">Dr. Wolf</title></programme>
+<programme start="20260812220000 +0000" stop="20260812230000 +0000" channel="TV2"><title lang="hu">Rex felügyelő</title></programme>
+<programme start="20260812230000 +0000" stop="20260813000000 +0000" channel="TV2"><title lang="hu">Rex felügyelő</title></programme>
+<programme start="20260813000000 +0000" stop="20260813005000 +0000" channel="TV2"><title lang="hu">Vészhelyzet</title></programme>
+<programme start="20260813005000 +0000" stop="20260813014000 +0000" channel="TV2"><title lang="hu">Vészhelyzet</title></programme>
+<programme start="20260813014000 +0000" stop="20260813023000 +0000" channel="TV2"><title lang="hu">Szenes 100 - Andreával</title></programme>
+<programme start="20260813023000 +0000" stop="20260813025500 +0000" channel="TV2"><title lang="hu">Zenehajó Bodnár Attila és Pap Rita műsora</title></programme>
+<programme start="20260813025500 +0000" stop="20260813032500 +0000" channel="TV2"><title lang="hu">Zenehajó Bodnár Attila és Pap Rita műsora</title></programme>
 <programme start="20260811225500 +0000" stop="20260811235000 +0000" channel="VIASAT3"><title lang="hu">Lucifer</title></programme>
 <programme start="20260811235000 +0000" stop="20260812004500 +0000" channel="VIASAT3"><title lang="hu">Dexter</title></programme>
 <programme start="20260812004500 +0000" stop="20260812012500 +0000" channel="VIASAT3"><title lang="hu">A Grace klinika</title></programme>
 <programme start="20260812012500 +0000" stop="20260812021000 +0000" channel="VIASAT3"><title lang="hu">A Grace klinika</title></programme>
-<programme start="20260812021000 +0000" stop="20260812024000 +0000" channel="VIASAT3"><title lang="hu">A Grace klinika</title></programme>
-<programme start="20260810223000 +0000" stop="20260810233000 +0000" channel="VIASAT6"><title lang="hu">Dumaszínház</title></programme>
-<programme start="20260810233000 +0000" stop="20260811000500 +0000" channel="VIASAT6"><title lang="hu">Észbontók</title></programme>
-<programme start="20260811000500 +0000" stop="20260811003000 +0000" channel="VIASAT6"><title lang="hu">Észbontók</title></programme>
-<programme start="20260811003000 +0000" stop="20260811012000 +0000" channel="VIASAT6"><title lang="hu">Észbontók</title></programme>
-<programme start="20260811012000 +0000" stop="20260811044000 +0000" channel="VIASAT6"><title lang="hu">Intelligence - A jövő ügynöke</title></programme>
-<programme start="20260811044000 +0000" stop="20260811050500 +0000" channel="VIASAT6"><title lang="hu">A dadus</title></programme>
-<programme start="20260811050500 +0000" stop="20260811052500 +0000" channel="VIASAT6"><title lang="hu">A dadus</title></programme>
-<programme start="20260811052500 +0000" stop="20260811055000 +0000" channel="VIASAT6"><title lang="hu">Férjek gyöngye</title></programme>
-<programme start="20260811055000 +0000" stop="20260811062000 +0000" channel="VIASAT6"><title lang="hu">Férjek gyöngye</title></programme>
-<programme start="20260811062000 +0000" stop="20260811072500 +0000" channel="VIASAT6"><title lang="hu">Duma Aktuál</title></programme>
-<programme start="20260811072500 +0000" stop="20260811075500 +0000" channel="VIASAT6"><title lang="hu">A Comedy Central bemutatja</title></programme>
-<programme start="20260811075500 +0000" stop="20260811082500 +0000" channel="VIASAT6"><title lang="hu">A Comedy Central bemutatja</title></programme>
-<programme start="20260811082500 +0000" stop="20260811093000 +0000" channel="VIASAT6"><title lang="hu">Észbontók</title></programme>
-<programme start="20260811093000 +0000" stop="20260811103000 +0000" channel="VIASAT6"><title lang="hu">Észbontók</title></programme>
-<programme start="20260811103000 +0000" stop="20260811114500 +0000" channel="VIASAT6"><title lang="hu">Duma Aktuál</title></programme>
-<programme start="20260811114500 +0000" stop="20260811124500 +0000" channel="VIASAT6"><title lang="hu">Duma Aktuál</title></programme>
-<programme start="20260811124500 +0000" stop="20260811133500 +0000" channel="VIASAT6"><title lang="hu">A Comedy Central bemutatja</title></programme>
-<programme start="20260811133500 +0000" stop="20260811145000 +0000" channel="VIASAT6"><title lang="hu">A Comedy Central bemutatja</title></programme>
-<programme start="20260811145000 +0000" stop="20260811155500 +0000" channel="VIASAT6"><title lang="hu">Észbontók</title></programme>
-<programme start="20260811155500 +0000" stop="20260811170000 +0000" channel="VIASAT6"><title lang="hu">Észbontók</title></programme>
-<programme start="20260811170000 +0000" stop="20260811180500 +0000" channel="VIASAT6"><title lang="hu">Duma Aktuál</title></programme>
-<programme start="20260811180500 +0000" stop="20260811190000 +0000" channel="VIASAT6"><title lang="hu">Duma Aktuál</title></programme>
-<programme start="20260811190000 +0000" stop="20260811193500 +0000" channel="VIASAT6"><title lang="hu">A Comedy Central bemutatja</title></programme>
-<programme start="20260811193500 +0000" stop="20260811201000 +0000" channel="VIASAT6"><title lang="hu">A Comedy Central bemutatja</title></programme>
-<programme start="20260811201000 +0000" stop="20260811211000 +0000" channel="VIASAT6"><title lang="hu">Észbontók</title></programme>
-<programme start="20260811211000 +0000" stop="20260811220500 +0000" channel="VIASAT6"><title lang="hu">Észbontók</title></programme>
+<programme start="20260812021000 +0000" stop="20260812042500 +0000" channel="VIASAT3"><title lang="hu">A Grace klinika</title></programme>
+<programme start="20260812042500 +0000" stop="20260812051000 +0000" channel="VIASAT3"><title lang="hu">Szívek szállodája</title></programme>
+<programme start="20260812051000 +0000" stop="20260812055500 +0000" channel="VIASAT3"><title lang="hu">Szívek szállodája</title></programme>
+<programme start="20260812055500 +0000" stop="20260812065500 +0000" channel="VIASAT3"><title lang="hu">Beverly Hills 90210</title></programme>
+<programme start="20260812065500 +0000" stop="20260812080000 +0000" channel="VIASAT3"><title lang="hu">Beverly Hills 90210</title></programme>
+<programme start="20260812080000 +0000" stop="20260812090000 +0000" channel="VIASAT3"><title lang="hu">Szívek szállodája</title></programme>
+<programme start="20260812090000 +0000" stop="20260812095500 +0000" channel="VIASAT3"><title lang="hu">Szívek szállodája</title></programme>
+<programme start="20260812095500 +0000" stop="20260812110500 +0000" channel="VIASAT3"><title lang="hu">Beverly Hills 90210</title></programme>
+<programme start="20260812110500 +0000" stop="20260812120500 +0000" channel="VIASAT3"><title lang="hu">Beverly Hills 90210</title></programme>
+<programme start="20260812120500 +0000" stop="20260812130500 +0000" channel="VIASAT3"><title lang="hu">Szívek szállodája</title></programme>
+<programme start="20260812130500 +0000" stop="20260812140500 +0000" channel="VIASAT3"><title lang="hu">Szívek szállodája</title></programme>
+<programme start="20260812140500 +0000" stop="20260812150500 +0000" channel="VIASAT3"><title lang="hu">A Grace klinika</title></programme>
+<programme start="20260812150500 +0000" stop="20260812160500 +0000" channel="VIASAT3"><title lang="hu">A Grace klinika</title></programme>
+<programme start="20260812160500 +0000" stop="20260812170000 +0000" channel="VIASAT3"><title lang="hu">A Grace klinika</title></programme>
+<programme start="20260812170000 +0000" stop="20260812180000 +0000" channel="VIASAT3"><title lang="hu">Az újonc</title></programme>
+<programme start="20260812180000 +0000" stop="20260812190000 +0000" channel="VIASAT3"><title lang="hu">Az újonc</title></programme>
+<programme start="20260812190000 +0000" stop="20260812200000 +0000" channel="VIASAT3"><title lang="hu">Lucifer</title></programme>
+<programme start="20260812200000 +0000" stop="20260812211000 +0000" channel="VIASAT3"><title lang="hu">Dexter</title></programme>
+<programme start="20260812211000 +0000" stop="20260812215500 +0000" channel="VIASAT3"><title lang="hu">Az újonc</title></programme>
+<programme start="20260812215500 +0000" stop="20260812225500 +0000" channel="VIASAT3"><title lang="hu">Az újonc</title></programme>
+<programme start="20260812225500 +0000" stop="20260812235000 +0000" channel="VIASAT3"><title lang="hu">Lucifer</title></programme>
+<programme start="20260812235000 +0000" stop="20260813004500 +0000" channel="VIASAT3"><title lang="hu">Dexter</title></programme>
+<programme start="20260813004500 +0000" stop="20260813013000 +0000" channel="VIASAT3"><title lang="hu">A Grace klinika</title></programme>
+<programme start="20260813013000 +0000" stop="20260813021000 +0000" channel="VIASAT3"><title lang="hu">A Grace klinika</title></programme>
+<programme start="20260813021000 +0000" stop="20260813024000 +0000" channel="VIASAT3"><title lang="hu">A Grace klinika</title></programme>
 <programme start="20260811220500 +0000" stop="20260811231000 +0000" channel="VIASAT6"><title lang="hu">Dumaszínház</title></programme>
 <programme start="20260811231000 +0000" stop="20260812000500 +0000" channel="VIASAT6"><title lang="hu">Dumaszínház</title></programme>
 <programme start="20260812000500 +0000" stop="20260812005000 +0000" channel="VIASAT6"><title lang="hu">Észbontók</title></programme>
 <programme start="20260812005000 +0000" stop="20260812013500 +0000" channel="VIASAT6"><title lang="hu">Észbontók</title></programme>
-<programme start="20260812013500 +0000" stop="20260812020500 +0000" channel="VIASAT6"><title lang="hu">Intelligence - A jövő ügynöke</title></programme>
-<programme start="20260810225500 +0000" stop="20260811004000 +0000" channel="VIASAT_FILM"><title lang="hu">Zéró gyanúsított</title></programme>
-<programme start="20260811004000 +0000" stop="20260811012500 +0000" channel="VIASAT_FILM"><title lang="hu">Psych - Dilis detektívek</title></programme>
-<programme start="20260811012500 +0000" stop="20260811040000 +0000" channel="VIASAT_FILM"><title lang="hu">Totalcar</title></programme>
-<programme start="20260811040000 +0000" stop="20260811044500 +0000" channel="VIASAT_FILM"><title lang="hu">Psych - Dilis detektívek</title></programme>
-<programme start="20260811044500 +0000" stop="20260811053000 +0000" channel="VIASAT_FILM"><title lang="hu">SWAT - Különleges egység</title></programme>
-<programme start="20260811053000 +0000" stop="20260811062000 +0000" channel="VIASAT_FILM"><title lang="hu">SWAT - Különleges egység</title></programme>
-<programme start="20260811062000 +0000" stop="20260811071500 +0000" channel="VIASAT_FILM"><title lang="hu">MacGyver</title></programme>
-<programme start="20260811071500 +0000" stop="20260811081500 +0000" channel="VIASAT_FILM"><title lang="hu">MacGyver</title></programme>
-<programme start="20260811081500 +0000" stop="20260811091500 +0000" channel="VIASAT_FILM"><title lang="hu">Monk - A flúgos nyomozó</title></programme>
-<programme start="20260811091500 +0000" stop="20260811101500 +0000" channel="VIASAT_FILM"><title lang="hu">Psych - Dilis detektívek</title></programme>
-<programme start="20260811101500 +0000" stop="20260811111500 +0000" channel="VIASAT_FILM"><title lang="hu">Psych - Dilis detektívek</title></programme>
-<programme start="20260811111500 +0000" stop="20260811121000 +0000" channel="VIASAT_FILM"><title lang="hu">SWAT - Különleges egység</title></programme>
-<programme start="20260811121000 +0000" stop="20260811130500 +0000" channel="VIASAT_FILM"><title lang="hu">SWAT - Különleges egység</title></programme>
-<programme start="20260811130500 +0000" stop="20260811145500 +0000" channel="VIASAT_FILM"><title lang="hu">TMNT - Tini nindzsa teknőcök</title></programme>
-<programme start="20260811145500 +0000" stop="20260811170000 +0000" channel="VIASAT_FILM"><title lang="hu">Nim szigete</title></programme>
-<programme start="20260811170000 +0000" stop="20260811190000 +0000" channel="VIASAT_FILM"><title lang="hu">Sarkvidék</title></programme>
-<programme start="20260811190000 +0000" stop="20260811210000 +0000" channel="VIASAT_FILM"><title lang="hu">Elsodródva</title></programme>
-<programme start="20260811210000 +0000" stop="20260811231000 +0000" channel="VIASAT_FILM"><title lang="hu">Az áruló</title></programme>
+<programme start="20260812013500 +0000" stop="20260812043000 +0000" channel="VIASAT6"><title lang="hu">Intelligence - A jövő ügynöke</title></programme>
+<programme start="20260812043000 +0000" stop="20260812045500 +0000" channel="VIASAT6"><title lang="hu">A dadus</title></programme>
+<programme start="20260812045500 +0000" stop="20260812052000 +0000" channel="VIASAT6"><title lang="hu">A dadus</title></programme>
+<programme start="20260812052000 +0000" stop="20260812054500 +0000" channel="VIASAT6"><title lang="hu">Férjek gyöngye</title></programme>
+<programme start="20260812054500 +0000" stop="20260812061000 +0000" channel="VIASAT6"><title lang="hu">Férjek gyöngye</title></programme>
+<programme start="20260812061000 +0000" stop="20260812072000 +0000" channel="VIASAT6"><title lang="hu">Duma Aktuál</title></programme>
+<programme start="20260812072000 +0000" stop="20260812082500 +0000" channel="VIASAT6"><title lang="hu">Duma Aktuál</title></programme>
+<programme start="20260812082500 +0000" stop="20260812085500 +0000" channel="VIASAT6"><title lang="hu">A Comedy Central bemutatja</title></programme>
+<programme start="20260812085500 +0000" stop="20260812092500 +0000" channel="VIASAT6"><title lang="hu">A Comedy Central bemutatja</title></programme>
+<programme start="20260812092500 +0000" stop="20260812103000 +0000" channel="VIASAT6"><title lang="hu">Észbontók</title></programme>
+<programme start="20260812103000 +0000" stop="20260812113000 +0000" channel="VIASAT6"><title lang="hu">Észbontók</title></programme>
+<programme start="20260812113000 +0000" stop="20260812123500 +0000" channel="VIASAT6"><title lang="hu">Duma Aktuál</title></programme>
+<programme start="20260812123500 +0000" stop="20260812133500 +0000" channel="VIASAT6"><title lang="hu">Dumaszínház</title></programme>
+<programme start="20260812133500 +0000" stop="20260812141500 +0000" channel="VIASAT6"><title lang="hu">A Comedy Central bemutatja</title></programme>
+<programme start="20260812141500 +0000" stop="20260812145000 +0000" channel="VIASAT6"><title lang="hu">A Comedy Central bemutatja</title></programme>
+<programme start="20260812145000 +0000" stop="20260812155500 +0000" channel="VIASAT6"><title lang="hu">Észbontók</title></programme>
+<programme start="20260812155500 +0000" stop="20260812170000 +0000" channel="VIASAT6"><title lang="hu">Észbontók</title></programme>
+<programme start="20260812170000 +0000" stop="20260812180000 +0000" channel="VIASAT6"><title lang="hu">Duma Aktuál</title></programme>
+<programme start="20260812180000 +0000" stop="20260812190500 +0000" channel="VIASAT6"><title lang="hu">Duma Aktuál</title></programme>
+<programme start="20260812190500 +0000" stop="20260812193500 +0000" channel="VIASAT6"><title lang="hu">A Comedy Central bemutatja</title></programme>
+<programme start="20260812193500 +0000" stop="20260812201000 +0000" channel="VIASAT6"><title lang="hu">A Comedy Central bemutatja</title></programme>
+<programme start="20260812201000 +0000" stop="20260812210500 +0000" channel="VIASAT6"><title lang="hu">Észbontók</title></programme>
+<programme start="20260812210500 +0000" stop="20260812215500 +0000" channel="VIASAT6"><title lang="hu">Észbontók</title></programme>
+<programme start="20260812215500 +0000" stop="20260812230000 +0000" channel="VIASAT6"><title lang="hu">Dumaszínház</title></programme>
+<programme start="20260812230000 +0000" stop="20260812235500 +0000" channel="VIASAT6"><title lang="hu">Dumaszínház</title></programme>
+<programme start="20260812235500 +0000" stop="20260813004000 +0000" channel="VIASAT6"><title lang="hu">Észbontók</title></programme>
+<programme start="20260813004000 +0000" stop="20260813012500 +0000" channel="VIASAT6"><title lang="hu">Észbontók</title></programme>
+<programme start="20260813012500 +0000" stop="20260813015500 +0000" channel="VIASAT6"><title lang="hu">Intelligence - A jövő ügynöke</title></programme>
 <programme start="20260811231000 +0000" stop="20260812010500 +0000" channel="VIASAT_FILM"><title lang="hu">Mementó</title></programme>
-<programme start="20260812010500 +0000" stop="20260812013500 +0000" channel="VIASAT_FILM"><title lang="hu">Psych - Dilis detektívek</title></programme>
+<programme start="20260812010500 +0000" stop="20260812040000 +0000" channel="VIASAT_FILM"><title lang="hu">Psych - Dilis detektívek</title></programme>
+<programme start="20260812040000 +0000" stop="20260812044000 +0000" channel="VIASAT_FILM"><title lang="hu">SWAT - Különleges egység</title></programme>
+<programme start="20260812044000 +0000" stop="20260812052500 +0000" channel="VIASAT_FILM"><title lang="hu">SWAT - Különleges egység</title></programme>
+<programme start="20260812052500 +0000" stop="20260812062000 +0000" channel="VIASAT_FILM"><title lang="hu">MacGyver</title></programme>
+<programme start="20260812062000 +0000" stop="20260812071000 +0000" channel="VIASAT_FILM"><title lang="hu">MacGyver</title></programme>
+<programme start="20260812071000 +0000" stop="20260812081000 +0000" channel="VIASAT_FILM"><title lang="hu">Monk - A flúgos nyomozó</title></programme>
+<programme start="20260812081000 +0000" stop="20260812091000 +0000" channel="VIASAT_FILM"><title lang="hu">Psych - Dilis detektívek</title></programme>
+<programme start="20260812091000 +0000" stop="20260812101000 +0000" channel="VIASAT_FILM"><title lang="hu">Psych - Dilis detektívek</title></programme>
+<programme start="20260812101000 +0000" stop="20260812110500 +0000" channel="VIASAT_FILM"><title lang="hu">SWAT - Különleges egység</title></programme>
+<programme start="20260812110500 +0000" stop="20260812120500 +0000" channel="VIASAT_FILM"><title lang="hu">SWAT - Különleges egység</title></programme>
+<programme start="20260812120500 +0000" stop="20260812143000 +0000" channel="VIASAT_FILM"><title lang="hu">Hajlakk</title></programme>
+<programme start="20260812143000 +0000" stop="20260812165000 +0000" channel="VIASAT_FILM"><title lang="hu">Valhalla - Thor legendája</title></programme>
+<programme start="20260812165000 +0000" stop="20260812190000 +0000" channel="VIASAT_FILM"><title lang="hu">Amikor minden változik</title></programme>
+<programme start="20260812190000 +0000" stop="20260812213000 +0000" channel="VIASAT_FILM"><title lang="hu">A WikiLeaks-botrány</title></programme>
+<programme start="20260812213000 +0000" stop="20260812231500 +0000" channel="VIASAT_FILM"><title lang="hu">Nyílt tengeren</title></programme>
+<programme start="20260812231500 +0000" stop="20260813011500 +0000" channel="VIASAT_FILM"><title lang="hu">Szarvak</title></programme>
+<programme start="20260813011500 +0000" stop="20260813014500 +0000" channel="VIASAT_FILM"><title lang="hu">Psych - Dilis detektívek</title></programme>
 </tv>
