@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Napos, de kissé szeles csütörtök",
-  "updated": "2026.08.12. 23:26",
-  "flow_last_run": "2026.08.12. 23:26",
+  "updated": "2026.08.13. 00:10",
+  "flow_last_run": "2026.08.13. 00:10",
   "current": {
-    "temperature": 18,
+    "temperature": 17,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -21,7 +21,7 @@
     },
     {
       "day": "Péntek",
-      "max": 30,
+      "max": 31,
       "min": 15,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "5:25",
-    "sunset": "19:50",
+    "sunset": "19:48",
     "is_night": true
   }
 }
