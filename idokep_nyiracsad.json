@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Kezdetben hidegfronti hatás várható",
-  "focim": "Napos, de szeles, hőségmentes idő",
-  "updated": "2026.08.12. 16:32",
-  "flow_last_run": "2026.08.12. 16:32",
+  "fronthatas": "Nem lesz front felettünk",
+  "focim": "Napos, de kissé szeles csütörtök",
+  "updated": "2026.08.12. 17:36",
+  "flow_last_run": "2026.08.12. 17:36",
   "current": {
-    "temperature": 30,
+    "temperature": 29,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Szerda",
-      "max": 30,
-      "min": 16,
-      "condition": "derült",
-      "icon": "🌙",
-      "alert": null
-    },
     {
       "day": "Csütörtök",
       "max": 30,
@@ -30,14 +22,14 @@
     {
       "day": "Péntek",
       "max": 30,
-      "min": 16,
+      "min": 15,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 32,
+      "max": 33,
       "min": 15,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -53,16 +45,24 @@
     },
     {
       "day": "Hétfő",
-      "max": 35,
+      "max": 34,
       "min": 17,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 32,
+      "max": 30,
       "min": 17,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 28,
+      "min": 15,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
