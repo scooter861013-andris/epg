@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Napos, de kissé szeles csütörtök",
-  "updated": "2026.08.12. 19:41",
-  "flow_last_run": "2026.08.12. 19:41",
+  "updated": "2026.08.12. 20:36",
+  "flow_last_run": "2026.08.12. 20:36",
   "current": {
-    "temperature": 24,
+    "temperature": 22,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:25",
     "sunset": "19:50",
-    "is_night": false
+    "is_night": true
   }
 }
