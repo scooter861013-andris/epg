@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Kezdetben hidegfronti hatás várható",
   "focim": "Napos, de szeles, hőségmentes idő",
-  "updated": "2026.08.12. 07:53",
-  "flow_last_run": "2026.08.12. 07:53",
+  "updated": "2026.08.12. 09:19",
+  "flow_last_run": "2026.08.12. 09:19",
   "current": {
-    "temperature": 19,
+    "temperature": 22,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -37,10 +37,10 @@
     },
     {
       "day": "Szombat",
-      "max": 33,
-      "min": 13,
-      "condition": "derült",
-      "icon": "🌙",
+      "max": 32,
+      "min": 15,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
