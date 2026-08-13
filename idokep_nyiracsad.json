@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
-  "focim": "Napos, de kissé szeles csütörtök",
-  "updated": "2026.08.13. 17:38",
-  "flow_last_run": "2026.08.13. 17:38",
+  "focim": "Folytatódik a napos, száraz idő",
+  "updated": "2026.08.13. 18:33",
+  "flow_last_run": "2026.08.13. 18:33",
   "current": {
-    "temperature": 30,
+    "temperature": 28,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Csütörtök",
-      "max": 30,
-      "min": 14,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Péntek",
       "max": 31,
@@ -37,8 +29,8 @@
     },
     {
       "day": "Vasárnap",
-      "max": 34,
-      "min": 16,
+      "max": 35,
+      "min": 17,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -46,14 +38,14 @@
     {
       "day": "Hétfő",
       "max": 34,
-      "min": 17,
+      "min": 16,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 30,
+      "max": 28,
       "min": 17,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -63,8 +55,16 @@
       "day": "Szerda",
       "max": 28,
       "min": 15,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "max": 30,
+      "min": 16,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
