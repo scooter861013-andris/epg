@@ -3,34 +3,34 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Folytatódik a napos, száraz idő",
-  "utoljára változott hőmérséklet az időképről": "2026.08.14. 16:35",
-  "flow_last_run": "2026.08.14. 16:35",
+  "utoljára változott hőmérséklet az időképről": "2026.08.14. 17:05",
+  "flow_last_run": "2026.08.14. 17:05",
   "current": {
-    "temperature": 32,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 31,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
       "max": 31,
-      "min": 9,
+      "min": 14,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 34,
-      "min": 9,
+      "max": 33,
+      "min": 16,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 35,
-      "min": 15,
+      "max": 34,
+      "min": 17,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
