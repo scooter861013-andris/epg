@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Folytatódik a napos, száraz idő",
-  "updated": "2026.08.14. 01:57",
-  "flow_last_run": "2026.08.14. 01:57",
+  "updated": "2026.08.14. 04:07",
+  "flow_last_run": "2026.08.14. 04:07",
   "current": {
-    "temperature": 17,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 15,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 32,
+      "max": 31,
       "min": 15,
       "condition": "gyengén felhős",
       "icon": "☁️",
