@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Hétvégére visszatér a kánikula",
-  "utoljára változott hőmérséklet az időképről": "2026.08.14. 19:35",
-  "flow_last_run": "2026.08.14. 19:35",
+  "utoljára változott hőmérséklet az időképről": "2026.08.14. 20:05",
+  "flow_last_run": "2026.08.14. 20:05",
   "current": {
-    "temperature": 27,
+    "temperature": 25,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:29",
     "sunset": "19:48",
-    "is_night": false
+    "is_night": true
   }
 }
