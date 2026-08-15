@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
-  "focim": "Hétvégére visszatér a kánikula",
-  "updated": "2026.08.15. 19:17",
-  "flow_last_run": "2026.08.15. 19:17",
+  "focim": "Még egy nap kánikula, aztán jön a hidegfront",
+  "updated": "2026.08.15. 19:44",
+  "flow_last_run": "2026.08.15. 19:44",
   "current": {
-    "temperature": 28,
+    "temperature": 25,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Szombat",
-      "max": 32,
-      "min": 16,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Vasárnap",
       "max": 34,
@@ -37,8 +29,8 @@
     },
     {
       "day": "Kedd",
-      "max": 27,
-      "min": 17,
+      "max": 26,
+      "min": 18,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -46,8 +38,8 @@
     {
       "day": "Szerda",
       "max": 30,
-      "min": 15,
-      "condition": "közepesen felhős",
+      "min": 14,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -55,16 +47,24 @@
       "day": "Csütörtök",
       "max": 32,
       "min": 16,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 31,
+      "max": 32,
       "min": 16,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szombat",
+      "max": 29,
+      "min": 16,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
