@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Hétvégére visszatér a kánikula",
-  "updated": "2026.08.15. 03:02",
-  "flow_last_run": "2026.08.15. 04:18",
+  "updated": "2026.08.15. 05:11",
+  "flow_last_run": "2026.08.15. 05:11",
   "current": {
-    "temperature": 13,
+    "temperature": 12,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
-      "max": 33,
-      "min": 13,
+      "max": 31,
+      "min": 12,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
