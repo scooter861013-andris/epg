@@ -3,25 +3,25 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Még egy nap kánikula, aztán jön a hidegfront",
-  "utoljára változott hőmérséklet az időképről": "2026.08.15. 22:35",
-  "flow_last_run": "2026.08.15. 22:35",
+  "utoljára változott hőmérséklet az időképről": "2026.08.16. 05:05",
+  "flow_last_run": "2026.08.16. 05:05",
   "current": {
-    "temperature": 20,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 16,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 34,
-      "min": 17,
+      "max": 32,
+      "min": 16,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 31,
+      "max": 33,
       "min": 19,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "5:30",
-    "sunset": "19:46",
+    "sunset": "19:44",
     "is_night": true
   }
 }
