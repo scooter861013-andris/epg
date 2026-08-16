@@ -1,29 +1,21 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Nem lesz front felettünk",
-  "focim": "Még egy nap kánikula, aztán jön a hidegfront",
-  "updated": "2026.08.16. 19:26",
-  "flow_last_run": "2026.08.16. 19:26",
+  "fronthatas": "Hidegfronti hatás várható",
+  "focim": "Kánikula, de már felhősebb idő",
+  "updated": "2026.08.16. 19:45",
+  "flow_last_run": "2026.08.16. 19:45",
   "current": {
-    "temperature": 28,
+    "temperature": 25,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
-      "day": "Vasárnap",
-      "max": 34,
-      "min": 16,
-      "condition": "derült",
-      "icon": "🌙",
-      "alert": null
-    },
-    {
       "day": "Hétfő",
       "max": 34,
       "min": 18,
-      "condition": "közepesen felhős",
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -37,8 +29,8 @@
     },
     {
       "day": "Szerda",
-      "max": 30,
-      "min": 14,
+      "max": 28,
+      "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -66,11 +58,19 @@
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
+    },
+    {
+      "day": "Vasárnap",
+      "max": 29,
+      "min": 15,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
     }
   ],
   "sun": {
     "sunrise": "5:30",
     "sunset": "19:43",
-    "is_night": false
+    "is_night": true
   }
 }
