@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Még egy nap kánikula, aztán jön a hidegfront",
-  "updated": "2026.08.16. 05:44",
-  "flow_last_run": "2026.08.16. 05:44",
+  "updated": "2026.08.16. 06:20",
+  "flow_last_run": "2026.08.16. 06:20",
   "current": {
-    "temperature": 11,
+    "temperature": 12,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 32,
-      "min": 11,
+      "max": 33,
+      "min": 13,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
