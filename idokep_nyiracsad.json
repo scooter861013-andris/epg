@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás várható",
   "focim": "Kánikula, de már felhősebb idő",
-  "updated": "2026.08.17. 01:16",
-  "flow_last_run": "2026.08.17. 01:57",
+  "updated": "2026.08.17. 03:21",
+  "flow_last_run": "2026.08.17. 03:21",
   "current": {
     "temperature": 14,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 33,
+      "max": 34,
       "min": 14,
       "condition": "erősen felhős",
       "icon": "☁️",
