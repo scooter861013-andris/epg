@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Hidegfronti hatás várható",
-  "focim": "Hőségmentes idő helyenként záporokkal",
-  "utoljára változott hőmérséklet az időképről": "2026.08.18. 18:35",
-  "flow_last_run": "2026.08.18. 18:35",
+  "fronthatas": "Nem lesz front felettünk",
+  "focim": "Kissé szeles idő elszórt záporokkal",
+  "utoljára változott hőmérséklet az időképről": "2026.08.18. 19:05",
+  "flow_last_run": "2026.08.18. 19:05",
   "current": {
     "temperature": 24,
     "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Kedd",
-      "max": 24,
-      "min": 18,
-      "condition": "zápor",
-      "icon": "🌧️",
-      "alert": null
-    },
     {
       "day": "Szerda",
       "max": 27,
@@ -29,16 +21,16 @@
     },
     {
       "day": "Csütörtök",
-      "max": 33,
+      "max": 34,
       "min": 19,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 34,
-      "min": 18,
+      "max": 35,
+      "min": 21,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -46,7 +38,7 @@
     {
       "day": "Szombat",
       "max": 32,
-      "min": 17,
+      "min": 19,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -65,6 +57,14 @@
       "min": 16,
       "condition": "közepesen felhős",
       "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Kedd",
+      "max": 27,
+      "min": 16,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     }
   ],
