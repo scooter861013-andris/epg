@@ -3,8 +3,8 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás várható",
   "focim": "Hőségmentes idő helyenként záporokkal",
-  "updated": "2026.08.18. 09:23",
-  "flow_last_run": "2026.08.18. 09:23",
+  "updated": "2026.08.18. 10:01",
+  "flow_last_run": "2026.08.18. 10:01",
   "current": {
     "temperature": 16,
     "condition": "Eső",
@@ -14,7 +14,7 @@
     {
       "day": "Kedd",
       "max": 22,
-      "min": 16,
+      "min": 18,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -23,14 +23,14 @@
       "day": "Szerda",
       "max": 27,
       "min": 16,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Csütörtök",
       "max": 33,
-      "min": 17,
+      "min": 19,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -45,7 +45,7 @@
     },
     {
       "day": "Szombat",
-      "max": 31,
+      "max": 32,
       "min": 17,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -53,7 +53,7 @@
     },
     {
       "day": "Vasárnap",
-      "max": 30,
+      "max": 32,
       "min": 16,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -61,7 +61,7 @@
     },
     {
       "day": "Hétfő",
-      "max": 29,
+      "max": 30,
       "min": 16,
       "condition": "közepesen felhős",
       "icon": "☁️",
