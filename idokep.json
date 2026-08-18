@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás várható",
   "focim": "Hőségmentes idő helyenként záporokkal",
-  "utoljára változott hőmérséklet az időképről": "2026.08.18. 03:35",
-  "flow_last_run": "2026.08.18. 03:35",
+  "utoljára változott hőmérséklet az időképről": "2026.08.18. 04:05",
+  "flow_last_run": "2026.08.18. 04:05",
   "current": {
-    "temperature": 20,
+    "temperature": 19,
     "condition": "Eső",
     "icon": "🌧️"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Kedd",
       "max": 24,
-      "min": 17,
+      "min": 19,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
