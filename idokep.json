@@ -1,30 +1,22 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Nem lesz front felettünk",
-  "focim": "Kissé szeles idő elszórt záporokkal",
-  "utoljára változott hőmérséklet az időképről": "2026.08.19. 19:35",
-  "flow_last_run": "2026.08.19. 19:35",
+  "fronthatas": "Melegfronti jellegű tünetek",
+  "focim": "Visszatér a kánikula",
+  "utoljára változott hőmérséklet az időképről": "2026.08.19. 20:05",
+  "flow_last_run": "2026.08.19. 20:05",
   "current": {
-    "temperature": 26,
+    "temperature": 25,
     "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Szerda",
-      "max": 27,
-      "min": 15,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Csütörtök",
       "max": 35,
       "min": 19,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
@@ -38,15 +30,15 @@
     {
       "day": "Szombat",
       "max": 33,
-      "min": 19,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "min": 21,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Vasárnap",
       "max": 32,
-      "min": 16,
+      "min": 18,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -55,22 +47,30 @@
       "day": "Hétfő",
       "max": 31,
       "min": 16,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 26,
+      "max": 29,
       "min": 16,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "zivatar",
+      "icon": "⛈️",
+      "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 27,
+      "min": 15,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
   "sun": {
     "sunrise": "5:35",
     "sunset": "19:39",
-    "is_night": false
+    "is_night": true
   }
 }
