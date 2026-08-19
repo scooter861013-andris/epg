@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Kissé szeles idő elszórt záporokkal",
-  "utoljára változott hőmérséklet az időképről": "2026.08.19. 07:35",
-  "flow_last_run": "2026.08.19. 08:05",
+  "utoljára változott hőmérséklet az időképről": "2026.08.19. 08:35",
+  "flow_last_run": "2026.08.19. 08:35",
   "current": {
-    "temperature": 19,
-    "condition": "Erősen felhős",
+    "temperature": 21,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 26,
+      "max": 27,
       "min": 15,
       "condition": "zápor",
       "icon": "🌧️",
