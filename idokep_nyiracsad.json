@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Kissé szeles idő elszórt záporokkal",
-  "updated": "2026.08.19. 07:55",
-  "flow_last_run": "2026.08.19. 07:55",
+  "updated": "2026.08.19. 08:38",
+  "flow_last_run": "2026.08.19. 08:38",
   "current": {
-    "temperature": 18,
+    "temperature": 20,
     "condition": "Borult",
     "icon": "☁️"
   },
@@ -22,7 +22,7 @@
     {
       "day": "Csütörtök",
       "max": 35,
-      "min": 18,
+      "min": 19,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
