@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek",
   "focim": "Visszatér a kánikula",
-  "updated": "2026.08.20. 09:37",
-  "flow_last_run": "2026.08.20. 09:37",
+  "updated": "2026.08.20. 10:17",
+  "flow_last_run": "2026.08.20. 10:17",
   "current": {
-    "temperature": 30,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 31,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "max": 35,
+      "max": 36,
       "min": 20,
       "condition": "közepesen felhős",
       "icon": "☁️",
