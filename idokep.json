@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "A kánikula okozhat panaszokat",
   "focim": "Kánikula",
-  "utoljára változott hőmérséklet az időképről": "2026.08.20. 19:05",
-  "flow_last_run": "2026.08.20. 19:05",
+  "utoljára változott hőmérséklet az időképről": "2026.08.20. 19:35",
+  "flow_last_run": "2026.08.20. 19:35",
   "current": {
-    "temperature": 33,
+    "temperature": 31,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -30,40 +30,40 @@
     {
       "day": "Vasárnap",
       "max": 29,
-      "min": 15,
+      "min": 17,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 31,
+      "max": 29,
       "min": 14,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
       "max": 29,
-      "min": 16,
-      "condition": "zivatar",
-      "icon": "⛈️",
-      "alert": null
-    },
-    {
-      "day": "Szerda",
-      "max": 28,
-      "min": 15,
+      "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
-      "day": "Csütörtök",
-      "max": 30,
+      "day": "Szerda",
+      "max": 29,
       "min": 14,
-      "condition": "közepesen felhős",
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "max": 31,
+      "min": 16,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     }
