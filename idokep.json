@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek",
   "focim": "Visszatér a kánikula",
-  "utoljára változott hőmérséklet az időképről": "2026.08.20. 09:05",
-  "flow_last_run": "2026.08.20. 09:05",
+  "utoljára változott hőmérséklet az időképről": "2026.08.20. 09:35",
+  "flow_last_run": "2026.08.20. 09:35",
   "current": {
-    "temperature": 29,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 30,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -39,7 +39,7 @@
       "day": "Vasárnap",
       "max": 32,
       "min": 18,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -61,7 +61,7 @@
     },
     {
       "day": "Szerda",
-      "max": 27,
+      "max": 28,
       "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
