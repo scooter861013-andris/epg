@@ -3,8 +3,8 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek",
   "focim": "Visszatér a kánikula",
-  "updated": "2026.08.20. 14:41",
-  "flow_last_run": "2026.08.20. 14:41",
+  "updated": "2026.08.20. 15:32",
+  "flow_last_run": "2026.08.20. 15:32",
   "current": {
     "temperature": 36,
     "condition": "Gyengén felhős",
@@ -29,8 +29,8 @@
     },
     {
       "day": "Szombat",
-      "max": 33,
-      "min": 21,
+      "max": 31,
+      "min": 23,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
