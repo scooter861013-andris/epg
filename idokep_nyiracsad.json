@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "A kánikula okozhat panaszokat",
   "focim": "Kánikula",
-  "updated": "2026.08.21. 01:38",
-  "flow_last_run": "2026.08.21. 01:59",
+  "updated": "2026.08.21. 03:49",
+  "flow_last_run": "2026.08.21. 03:49",
   "current": {
-    "temperature": 20,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 19,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
       "max": 37,
-      "min": 20,
+      "min": 19,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
