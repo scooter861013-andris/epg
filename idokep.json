@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "A kánikula okozhat panaszokat",
   "focim": "Kánikula",
-  "utoljára változott hőmérséklet az időképről": "2026.08.21. 05:35",
-  "flow_last_run": "2026.08.21. 05:35",
+  "utoljára változott hőmérséklet az időképről": "2026.08.21. 06:05",
+  "flow_last_run": "2026.08.21. 06:05",
   "current": {
-    "temperature": 20,
+    "temperature": 21,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 34,
-      "min": 20,
+      "max": 35,
+      "min": 22,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:37",
     "sunset": "19:35",
-    "is_night": true
+    "is_night": false
   }
 }
