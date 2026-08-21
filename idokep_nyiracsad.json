@@ -2,29 +2,21 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Gyenge hidegfronti hatás",
-  "focim": "Kánikula",
-  "updated": "2026.08.21. 18:28",
-  "flow_last_run": "2026.08.21. 18:28",
+  "focim": "Szeles szombat sok napsütéssel",
+  "updated": "2026.08.21. 19:43",
+  "flow_last_run": "2026.08.21. 19:43",
   "current": {
-    "temperature": 31,
-    "condition": "Közepesen felhős",
+    "temperature": 26,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Péntek",
-      "max": 36,
-      "min": 22,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Szombat",
       "max": 31,
       "min": 23,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
@@ -46,7 +38,7 @@
     {
       "day": "Kedd",
       "max": 28,
-      "min": 12,
+      "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -66,11 +58,19 @@
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
+    },
+    {
+      "day": "Péntek",
+      "max": 32,
+      "min": 17,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
     }
   ],
   "sun": {
     "sunrise": "5:37",
     "sunset": "19:34",
-    "is_night": false
+    "is_night": true
   }
 }
