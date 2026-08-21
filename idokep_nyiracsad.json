@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "A kánikula okozhat panaszokat",
   "focim": "Kánikula",
-  "updated": "2026.08.21. 03:49",
-  "flow_last_run": "2026.08.21. 03:49",
+  "updated": "2026.08.21. 04:59",
+  "flow_last_run": "2026.08.21. 04:59",
   "current": {
-    "temperature": 19,
-    "condition": "Gyengén felhős",
+    "temperature": 18,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
       "max": 37,
-      "min": 19,
+      "min": 18,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -23,13 +23,13 @@
       "day": "Szombat",
       "max": 32,
       "min": 22,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 29,
+      "max": 27,
       "min": 18,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -38,15 +38,15 @@
     {
       "day": "Hétfő",
       "max": 29,
-      "min": 14,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "min": 15,
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 29,
-      "min": 13,
+      "max": 28,
+      "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -55,14 +55,14 @@
       "day": "Szerda",
       "max": 29,
       "min": 14,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 31,
-      "min": 16,
+      "max": 30,
+      "min": 14,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
