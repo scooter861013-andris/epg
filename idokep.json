@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Meleg, nyárias idő, sok napsütéssel",
-  "utoljára változott hőmérséklet az időképről": "2026.08.22. 23:35",
-  "flow_last_run": "2026.08.22. 23:35",
+  "utoljára változott hőmérséklet az időképről": "2026.08.23. 00:05",
+  "flow_last_run": "2026.08.23. 00:05",
   "current": {
-    "temperature": 22,
-    "condition": "Gyengén felhős",
+    "temperature": 21,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "5:39",
-    "sunset": "19:34",
+    "sunset": "19:32",
     "is_night": true
   }
 }
