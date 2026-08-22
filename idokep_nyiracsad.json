@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Gyenge hidegfronti hatás",
-  "focim": "Szeles szombat sok napsütéssel",
-  "updated": "2026.08.22. 19:27",
-  "flow_last_run": "2026.08.22. 19:27",
+  "focim": "Meleg, nyárias idő, sok napsütéssel",
+  "updated": "2026.08.22. 19:47",
+  "flow_last_run": "2026.08.22. 19:47",
   "current": {
     "temperature": 25,
     "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Szombat",
-      "max": 30,
-      "min": 21,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Vasárnap",
       "max": 27,
@@ -31,8 +23,8 @@
       "day": "Hétfő",
       "max": 29,
       "min": 15,
-      "condition": "derült",
-      "icon": "🌙",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
@@ -45,7 +37,7 @@
     },
     {
       "day": "Szerda",
-      "max": 30,
+      "max": 29,
       "min": 14,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -53,7 +45,7 @@
     },
     {
       "day": "Csütörtök",
-      "max": 32,
+      "max": 31,
       "min": 14,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -66,11 +58,19 @@
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
+    },
+    {
+      "day": "Szombat",
+      "max": 29,
+      "min": 17,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
     }
   ],
   "sun": {
     "sunrise": "5:38",
     "sunset": "19:32",
-    "is_night": false
+    "is_night": true
   }
 }
