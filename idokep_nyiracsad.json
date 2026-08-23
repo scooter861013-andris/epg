@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
-  "focim": "Meleg, nyárias idő, sok napsütéssel",
-  "updated": "2026.08.23. 18:50",
-  "flow_last_run": "2026.08.23. 18:50",
+  "focim": "Nyári idő sok napsütéssel",
+  "updated": "2026.08.23. 19:17",
+  "flow_last_run": "2026.08.23. 19:17",
   "current": {
-    "temperature": 26,
+    "temperature": 23,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Vasárnap",
-      "max": 27,
-      "min": 15,
-      "condition": "derült",
-      "icon": "🌙",
-      "alert": null
-    },
     {
       "day": "Hétfő",
       "max": 28,
@@ -37,7 +29,7 @@
     },
     {
       "day": "Szerda",
-      "max": 29,
+      "max": 30,
       "min": 14,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -46,7 +38,7 @@
     {
       "day": "Csütörtök",
       "max": 31,
-      "min": 14,
+      "min": 15,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -63,6 +55,14 @@
       "day": "Szombat",
       "max": 29,
       "min": 17,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Vasárnap",
+      "max": 27,
+      "min": 14,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
