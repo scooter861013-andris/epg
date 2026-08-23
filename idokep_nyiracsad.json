@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Nyári idő sok napsütéssel",
-  "updated": "2026.08.23. 19:17",
-  "flow_last_run": "2026.08.23. 19:17",
+  "updated": "2026.08.23. 19:44",
+  "flow_last_run": "2026.08.23. 19:44",
   "current": {
-    "temperature": 23,
+    "temperature": 20,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -21,7 +21,7 @@
     },
     {
       "day": "Kedd",
-      "max": 31,
+      "max": 30,
       "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -30,14 +30,14 @@
     {
       "day": "Szerda",
       "max": 30,
-      "min": 14,
+      "min": 16,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 31,
+      "max": 32,
       "min": 15,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -45,15 +45,15 @@
     },
     {
       "day": "Péntek",
-      "max": 32,
-      "min": 17,
+      "max": 34,
+      "min": 16,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 29,
+      "max": 28,
       "min": 17,
       "condition": "zápor",
       "icon": "🌧️",
@@ -61,8 +61,8 @@
     },
     {
       "day": "Vasárnap",
-      "max": 27,
-      "min": 14,
+      "max": 28,
+      "min": 15,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:40",
     "sunset": "19:30",
-    "is_night": false
+    "is_night": true
   }
 }
