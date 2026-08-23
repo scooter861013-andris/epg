@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Meleg, nyárias idő, sok napsütéssel",
-  "updated": "2026.08.23. 06:33",
-  "flow_last_run": "2026.08.23. 06:33",
+  "updated": "2026.08.23. 07:08",
+  "flow_last_run": "2026.08.23. 07:08",
   "current": {
-    "temperature": 15,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 17,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 26,
+      "max": 27,
       "min": 15,
       "condition": "gyengén felhős",
       "icon": "☁️",
