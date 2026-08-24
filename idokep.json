@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Nyári idő sok napsütéssel",
-  "utoljára változott hőmérséklet az időképről": "2026.08.24. 05:35",
-  "flow_last_run": "2026.08.24. 05:35",
+  "utoljára változott hőmérséklet az időképről": "2026.08.24. 06:05",
+  "flow_last_run": "2026.08.24. 06:05",
   "current": {
-    "temperature": 12,
+    "temperature": 13,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 27,
+      "max": 28,
       "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:41",
     "sunset": "19:30",
-    "is_night": true
+    "is_night": false
   }
 }
