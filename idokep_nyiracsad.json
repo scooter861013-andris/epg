@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Nyári idő sok napsütéssel",
-  "updated": "2026.08.24. 11:12",
-  "flow_last_run": "2026.08.24. 11:12",
+  "updated": "2026.08.24. 12:04",
+  "flow_last_run": "2026.08.24. 12:04",
   "current": {
-    "temperature": 28,
+    "temperature": 29,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -21,16 +21,16 @@
     },
     {
       "day": "Kedd",
-      "max": 30,
-      "min": 12,
+      "max": 31,
+      "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 29,
-      "min": 15,
+      "max": 28,
+      "min": 16,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "5:40",
+    "sunrise": "5:41",
     "sunset": "19:28",
     "is_night": false
   }
