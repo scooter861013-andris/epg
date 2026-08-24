@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Nyári idő sok napsütéssel",
-  "updated": "2026.08.24. 08:23",
-  "flow_last_run": "2026.08.24. 08:23",
+  "updated": "2026.08.24. 09:36",
+  "flow_last_run": "2026.08.24. 09:36",
   "current": {
-    "temperature": 20,
+    "temperature": 24,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 28,
+      "max": 29,
       "min": 10,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -22,14 +22,14 @@
     {
       "day": "Kedd",
       "max": 30,
-      "min": 13,
+      "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 30,
+      "max": 29,
       "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -39,7 +39,7 @@
       "day": "Csütörtök",
       "max": 32,
       "min": 15,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -53,7 +53,7 @@
     },
     {
       "day": "Szombat",
-      "max": 28,
+      "max": 27,
       "min": 17,
       "condition": "zápor",
       "icon": "🌧️",
@@ -63,8 +63,8 @@
       "day": "Vasárnap",
       "max": 28,
       "min": 15,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
