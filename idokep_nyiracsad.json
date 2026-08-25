@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Kettősfronti hatás várható",
-  "focim": "Több felhő lesz az égen",
-  "updated": "2026.08.25. 16:02",
-  "flow_last_run": "2026.08.25. 16:02",
+  "fronthatas": "Hidegfronti jellegű tünetek előfordulhatnak",
+  "focim": "Elszórtan futó zápor, zivatar kialakulhat",
+  "updated": "2026.08.25. 17:03",
+  "flow_last_run": "2026.08.25. 17:03",
   "current": {
-    "temperature": 32,
+    "temperature": 29,
     "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Kedd",
-      "max": 31,
-      "min": 13,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Szerda",
       "max": 23,
@@ -31,14 +23,14 @@
       "day": "Csütörtök",
       "max": 29,
       "min": 13,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 34,
-      "min": 13,
+      "max": 30,
+      "min": 14,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -46,7 +38,7 @@
     {
       "day": "Szombat",
       "max": 30,
-      "min": 17,
+      "min": 18,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -63,6 +55,14 @@
       "day": "Hétfő",
       "max": 30,
       "min": 14,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Kedd",
+      "max": 30,
+      "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
