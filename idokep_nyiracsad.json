@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Több felhő lesz az égen",
-  "updated": "2026.08.25. 11:06",
-  "flow_last_run": "2026.08.25. 11:06",
+  "updated": "2026.08.25. 11:50",
+  "flow_last_run": "2026.08.25. 11:50",
   "current": {
-    "temperature": 29,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 31,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "day": "Csütörtök",
-      "max": 28,
+      "max": 29,
       "min": 13,
       "condition": "gyengén felhős",
       "icon": "☁️",
