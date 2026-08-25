@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Több felhő lesz az égen",
-  "utoljára változott hőmérséklet az időképről": "2026.08.25. 14:05",
-  "flow_last_run": "2026.08.25. 14:05",
+  "utoljára változott hőmérséklet az időképről": "2026.08.25. 14:35",
+  "flow_last_run": "2026.08.25. 14:35",
   "current": {
-    "temperature": 32,
-    "condition": "Erősen felhős",
+    "temperature": 31,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -22,7 +22,7 @@
     {
       "day": "Szerda",
       "max": 24,
-      "min": 17,
+      "min": 16,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
