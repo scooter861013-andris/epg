@@ -1,6 +1,7 @@
 
 import json
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
@@ -65,8 +66,7 @@ def main():
     oldal = letolt(URL_HOROSZKOP)
 
     adatok = {
-        "utolso_frissites": datetime.now().strftime("%Y.%m.%d. %H:%M:%S"),
-
+        "utolso_frissites": datetime.now(ZoneInfo("Europe/Budapest")).strftime("%Y.%m.%d. %H:%M:%S"),
         "horoszkopok": horoszkop_adatok(oldal)
     }
 
