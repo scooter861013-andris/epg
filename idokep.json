@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti jellegű tünetek előfordulhatnak",
   "focim": "Elszórtan futó zápor, zivatar kialakulhat",
-  "utoljára változott hőmérséklet az időképről": "2026.08.25. 23:05",
-  "flow_last_run": "2026.08.25. 23:05",
+  "utoljára változott hőmérséklet az időképről": "2026.08.25. 23:35",
+  "flow_last_run": "2026.08.25. 23:35",
   "current": {
     "temperature": 22,
-    "condition": "Erősen felhős",
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 27,
+      "max": 26,
       "min": 17,
       "condition": "zápor",
       "icon": "🌧️",
@@ -21,8 +21,8 @@
     },
     {
       "day": "Csütörtök",
-      "max": 28,
-      "min": 13,
+      "max": 29,
+      "min": 14,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
