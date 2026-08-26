@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti jellegű tünetek előfordulhatnak",
   "focim": "Elszórtan futó zápor, zivatar kialakulhat",
-  "updated": "2026.08.26. 10:23",
-  "flow_last_run": "2026.08.26. 10:23",
+  "updated": "2026.08.26. 11:10",
+  "flow_last_run": "2026.08.26. 11:10",
   "current": {
-    "temperature": 27,
-    "condition": "Közepesen felhős",
+    "temperature": 29,
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 28,
+      "max": 29,
       "min": 17,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -37,10 +37,10 @@
     },
     {
       "day": "Szombat",
-      "max": 31,
+      "max": 32,
       "min": 18,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
