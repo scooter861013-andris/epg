@@ -3,27 +3,19 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Friss reggel, meleg délután",
-  "updated": "2026.08.26. 18:49",
-  "flow_last_run": "2026.08.26. 18:49",
+  "updated": "2026.08.26. 20:55",
+  "flow_last_run": "2026.08.26. 20:55",
   "current": {
-    "temperature": 23,
+    "temperature": 21,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Szerda",
-      "max": 26,
-      "min": 17,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Csütörtök",
       "max": 28,
       "min": 14,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -31,38 +23,46 @@
       "day": "Péntek",
       "max": 30,
       "min": 15,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 32,
+      "max": 33,
       "min": 18,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "erősen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 29,
-      "min": 14,
-      "condition": "közepesen felhős",
+      "max": 32,
+      "min": 16,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 31,
-      "min": 14,
-      "condition": "közepesen felhős",
+      "max": 33,
+      "min": 16,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 30,
-      "min": 15,
+      "max": 32,
+      "min": 18,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 29,
+      "min": 17,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:44",
     "sunset": "19:25",
-    "is_night": false
+    "is_night": true
   }
 }
