@@ -1,14 +1,14 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Hidegfronti jellegű tünetek előfordulhatnak",
+  "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Elszórtan futó zápor, zivatar kialakulhat",
-  "updated": "2026.08.26. 16:25",
-  "flow_last_run": "2026.08.26. 16:25",
+  "updated": "2026.08.26. 17:58",
+  "flow_last_run": "2026.08.26. 17:58",
   "current": {
     "temperature": 25,
-    "condition": "Gyenge eső",
-    "icon": "🌧️"
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "day": "Péntek",
-      "max": 29,
+      "max": 30,
       "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
