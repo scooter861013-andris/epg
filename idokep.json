@@ -2,28 +2,20 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
-  "focim": "Meleg nyári idő",
-  "utoljára változott hőmérséklet az időképről": "2026.08.27. 19:35",
-  "flow_last_run": "2026.08.27. 19:35",
+  "focim": "Erősödik a kánikula",
+  "utoljára változott hőmérséklet az időképről": "2026.08.27. 20:05",
+  "flow_last_run": "2026.08.27. 20:05",
   "current": {
-    "temperature": 24,
+    "temperature": 22,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
-      "day": "Csütörtök",
-      "max": 28,
-      "min": 15,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Péntek",
       "max": 30,
       "min": 14,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -39,8 +31,8 @@
       "day": "Vasárnap",
       "max": 32,
       "min": 16,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     },
     {
@@ -63,6 +55,14 @@
       "day": "Szerda",
       "max": 29,
       "min": 16,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "max": 27,
+      "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
