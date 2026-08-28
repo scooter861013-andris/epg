@@ -3,8 +3,8 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Erősödik a kánikula",
-  "updated": "2026.08.27. 23:02",
-  "flow_last_run": "2026.08.27. 23:02",
+  "updated": "2026.08.28. 07:23",
+  "flow_last_run": "2026.08.28. 07:23",
   "current": {
     "temperature": 17,
     "condition": "Derült",
@@ -22,7 +22,7 @@
     {
       "day": "Szombat",
       "max": 32,
-      "min": 17,
+      "min": 16,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "5:45",
-    "sunset": "19:23",
-    "is_night": true
+    "sunset": "19:21",
+    "is_night": false
   }
 }
