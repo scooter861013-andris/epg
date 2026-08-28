@@ -3,8 +3,8 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Erősödik a kánikula",
-  "utoljára változott hőmérséklet az időképről": "2026.08.28. 14:05",
-  "flow_last_run": "2026.08.28. 14:05",
+  "utoljára változott hőmérséklet az időképről": "2026.08.28. 14:35",
+  "flow_last_run": "2026.08.28. 14:35",
   "current": {
     "temperature": 30,
     "condition": "Derült",
@@ -21,8 +21,8 @@
     },
     {
       "day": "Szombat",
-      "max": 28,
-      "min": 17,
+      "max": 29,
+      "min": 18,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
