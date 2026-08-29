@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Gyenge hidegfronti hatás",
-  "focim": "Nem hoz érdemi változást a hidegfront",
-  "updated": "2026.08.29. 19:23",
-  "flow_last_run": "2026.08.29. 19:23",
+  "fronthatas": "Frontmentes vasárnap",
+  "focim": "Csendes, napos hétzárás",
+  "updated": "2026.08.29. 21:54",
+  "flow_last_run": "2026.08.29. 21:54",
   "current": {
-    "temperature": 23,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 18,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Szombat",
-      "max": 30,
-      "min": 18,
-      "condition": "zápor",
-      "icon": "🌧️",
-      "alert": null
-    },
     {
       "day": "Vasárnap",
       "max": 31,
@@ -65,6 +57,14 @@
       "min": 14,
       "condition": "gyengén felhős",
       "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szombat",
+      "max": 30,
+      "min": 15,
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     }
   ],
