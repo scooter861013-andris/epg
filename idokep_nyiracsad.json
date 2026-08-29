@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Gyenge hidegfronti hatás",
   "focim": "Nem hoz érdemi változást a hidegfront",
-  "updated": "2026.08.29. 15:35",
-  "flow_last_run": "2026.08.29. 15:35",
+  "updated": "2026.08.29. 19:23",
+  "flow_last_run": "2026.08.29. 19:23",
   "current": {
-    "temperature": 25,
-    "condition": "Zivatar",
-    "icon": "⛈️"
+    "temperature": 23,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:48",
     "sunset": "19:19",
-    "is_night": false
+    "is_night": true
   }
 }
