@@ -3,8 +3,8 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Gyenge hidegfronti hatás",
   "focim": "Nem hoz érdemi változást a hidegfront",
-  "utoljára változott hőmérséklet az időképről": "2026.08.29. 05:35",
-  "flow_last_run": "2026.08.29. 05:35",
+  "utoljára változott hőmérséklet az időképről": "2026.08.29. 06:05",
+  "flow_last_run": "2026.08.29. 06:05",
   "current": {
     "temperature": 19,
     "condition": "Derült",
@@ -13,7 +13,7 @@
   "forecast_7d": [
     {
       "day": "Szombat",
-      "max": 25,
+      "max": 27,
       "min": 19,
       "condition": "zápor",
       "icon": "🌧️",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:47",
     "sunset": "19:20",
-    "is_night": true
+    "is_night": false
   }
 }
