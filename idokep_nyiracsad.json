@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Frontmentes vasárnap",
   "focim": "Csendes, napos hétzárás",
-  "updated": "2026.08.30. 13:12",
-  "flow_last_run": "2026.08.30. 13:12",
+  "updated": "2026.08.30. 17:20",
+  "flow_last_run": "2026.08.30. 17:20",
   "current": {
-    "temperature": 31,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 33,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 33,
+      "max": 32,
       "min": 15,
       "condition": "gyengén felhős",
       "icon": "☁️",
