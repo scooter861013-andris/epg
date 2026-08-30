@@ -1,28 +1,20 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Frontmentes vasárnap",
-  "focim": "Csendes, napos hétzárás",
-  "updated": "2026.08.30. 17:20",
-  "flow_last_run": "2026.08.30. 17:20",
+  "fronthatas": "Hétfő délutántól a Dunántúlon hidegfronti hatás",
+  "focim": "Kánikulával búcsúzik a meteorológiai nyár",
+  "updated": "2026.08.30. 20:42",
+  "flow_last_run": "2026.08.30. 20:42",
   "current": {
-    "temperature": 33,
+    "temperature": 19,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
-      "day": "Vasárnap",
-      "max": 32,
-      "min": 15,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Hétfő",
       "max": 35,
-      "min": 18,
+      "min": 19,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -30,7 +22,7 @@
     {
       "day": "Kedd",
       "max": 30,
-      "min": 17,
+      "min": 20,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -38,39 +30,47 @@
     {
       "day": "Szerda",
       "max": 29,
-      "min": 16,
-      "condition": "gyengén felhős",
+      "min": 13,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
       "max": 26,
-      "min": 15,
+      "min": 14,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 27,
+      "max": 30,
       "min": 14,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 30,
-      "min": 15,
+      "max": 33,
+      "min": 16,
       "condition": "derült",
       "icon": "🌙",
+      "alert": null
+    },
+    {
+      "day": "Vasárnap",
+      "max": 32,
+      "min": 17,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
   "sun": {
     "sunrise": "5:49",
     "sunset": "19:17",
-    "is_night": false
+    "is_night": true
   }
 }
