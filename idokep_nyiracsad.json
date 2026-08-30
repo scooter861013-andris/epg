@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Hétfő délutántól a Dunántúlon hidegfronti hatás",
   "focim": "Kánikulával búcsúzik a meteorológiai nyár",
-  "updated": "2026.08.30. 20:42",
-  "flow_last_run": "2026.08.30. 20:42",
+  "updated": "2026.08.30. 23:35",
+  "flow_last_run": "2026.08.30. 23:35",
   "current": {
-    "temperature": 19,
+    "temperature": 15,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Hétfő",
       "max": 35,
-      "min": 19,
+      "min": 15,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -22,7 +22,7 @@
     {
       "day": "Kedd",
       "max": 30,
-      "min": 20,
+      "min": 19,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -30,7 +30,7 @@
     {
       "day": "Szerda",
       "max": 29,
-      "min": 13,
+      "min": 14,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
