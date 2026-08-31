@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás várható",
   "focim": "Nyári meleg kezdetben elszórt záporokkal",
-  "utoljára változott hőmérséklet az időképről": "2026.08.31. 23:35",
-  "flow_last_run": "2026.08.31. 23:35",
+  "utoljára változott hőmérséklet az időképről": "2026.09.01. 00:05",
+  "flow_last_run": "2026.09.01. 00:05",
   "current": {
-    "temperature": 23,
-    "condition": "Száraz zivatar",
-    "icon": "⛈️"
+    "temperature": 22,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
       "max": 31,
-      "min": 21,
+      "min": 20,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "5:51",
-    "sunset": "19:16",
+    "sunset": "19:14",
     "is_night": true
   }
 }
