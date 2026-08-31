@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hétfő délutántól a Dunántúlon hidegfronti hatás",
   "focim": "Kánikulával búcsúzik a meteorológiai nyár",
-  "utoljára változott hőmérséklet az időképről": "2026.08.31. 16:35",
-  "flow_last_run": "2026.08.31. 17:05",
+  "utoljára változott hőmérséklet az időképről": "2026.08.31. 17:35",
+  "flow_last_run": "2026.08.31. 17:35",
   "current": {
-    "temperature": 34,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 33,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
@@ -22,14 +22,14 @@
     {
       "day": "Kedd",
       "max": 31,
-      "min": 19,
+      "min": 20,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 29,
+      "max": 28,
       "min": 14,
       "condition": "közepesen felhős",
       "icon": "☁️",
