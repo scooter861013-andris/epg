@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás várható",
   "focim": "Nyári meleg kezdetben elszórt záporokkal",
-  "updated": "2026.09.01. 00:02",
-  "flow_last_run": "2026.09.01. 00:02",
+  "updated": "2026.09.01. 03:17",
+  "flow_last_run": "2026.09.01. 03:17",
   "current": {
-    "temperature": 20,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 19,
+    "condition": "Zivatar",
+    "icon": "⛈️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 31,
-      "min": 20,
+      "max": 30,
+      "min": 19,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
