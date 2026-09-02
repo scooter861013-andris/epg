@@ -3,8 +3,8 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Szeptemberi nyár",
-  "utoljára változott hőmérséklet az időképről": "2026.09.02. 05:35",
-  "flow_last_run": "2026.09.02. 05:35",
+  "utoljára változott hőmérséklet az időképről": "2026.09.02. 06:05",
+  "flow_last_run": "2026.09.02. 06:05",
   "current": {
     "temperature": 14,
     "condition": "Derült",
@@ -13,8 +13,8 @@
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 25,
-      "min": 14,
+      "max": 26,
+      "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:53",
     "sunset": "19:12",
-    "is_night": true
+    "is_night": false
   }
 }
