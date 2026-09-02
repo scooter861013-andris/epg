@@ -1,19 +1,19 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Nem lesz front felettünk",
+  "fronthatas": "Gyenge hidegfronti hatás",
   "focim": "Szeptemberi nyár",
-  "utoljára változott hőmérséklet az időképről": "2026.09.02. 16:05",
-  "flow_last_run": "2026.09.02. 16:05",
+  "utoljára változott hőmérséklet az időképről": "2026.09.02. 16:35",
+  "flow_last_run": "2026.09.02. 16:35",
   "current": {
     "temperature": 27,
-    "condition": "Közepesen felhős",
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 27,
+      "max": 26,
       "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
