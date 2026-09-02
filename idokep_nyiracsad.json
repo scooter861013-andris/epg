@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Szeptemberi nyár",
-  "updated": "2026.09.02. 06:36",
-  "flow_last_run": "2026.09.02. 06:36",
+  "updated": "2026.09.02. 11:02",
+  "flow_last_run": "2026.09.02. 11:02",
   "current": {
-    "temperature": 12,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 27,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 26,
-      "min": 12,
+      "max": 28,
+      "min": 14,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -37,10 +37,10 @@
     },
     {
       "day": "Szombat",
-      "max": 33,
+      "max": 32,
       "min": 18,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
