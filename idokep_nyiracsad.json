@@ -3,8 +3,8 @@
   "location": "Nyiracsad",
   "fronthatas": "Gyenge hidegfronti hatás",
   "focim": "Kissé szeles csütörtök",
-  "updated": "2026.09.03. 02:32",
-  "flow_last_run": "2026.09.03. 02:32",
+  "updated": "2026.09.03. 07:04",
+  "flow_last_run": "2026.09.03. 07:04",
   "current": {
     "temperature": 10,
     "condition": "Derült",
@@ -14,14 +14,14 @@
     {
       "day": "Csütörtök",
       "max": 28,
-      "min": 10,
+      "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 28,
+      "max": 27,
       "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -30,7 +30,7 @@
     {
       "day": "Szombat",
       "max": 31,
-      "min": 20,
+      "min": 19,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:53",
     "sunset": "19:09",
-    "is_night": true
+    "is_night": false
   }
 }
