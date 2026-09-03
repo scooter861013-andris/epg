@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Gyenge hidegfronti hatás",
   "focim": "Kissé szeles csütörtök",
-  "updated": "2026.09.03. 07:04",
-  "flow_last_run": "2026.09.03. 07:04",
+  "updated": "2026.09.03. 11:48",
+  "flow_last_run": "2026.09.03. 11:48",
   "current": {
-    "temperature": 10,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 27,
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -21,15 +21,15 @@
     },
     {
       "day": "Péntek",
-      "max": 27,
-      "min": 13,
+      "max": 28,
+      "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 31,
+      "max": 25,
       "min": 19,
       "condition": "zápor",
       "icon": "🌧️",
@@ -39,13 +39,13 @@
       "day": "Vasárnap",
       "max": 28,
       "min": 13,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 28,
+      "max": 29,
       "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -53,7 +53,7 @@
     },
     {
       "day": "Kedd",
-      "max": 31,
+      "max": 32,
       "min": 14,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -61,7 +61,7 @@
     },
     {
       "day": "Szerda",
-      "max": 32,
+      "max": 30,
       "min": 16,
       "condition": "gyengén felhős",
       "icon": "☁️",
