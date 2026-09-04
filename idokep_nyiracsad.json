@@ -3,11 +3,11 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfront hatás várható",
   "focim": "Hidegfront érkezik",
-  "updated": "2026.09.04. 21:34",
-  "flow_last_run": "2026.09.04. 21:34",
+  "updated": "2026.09.04. 23:49",
+  "flow_last_run": "2026.09.04. 23:49",
   "current": {
-    "temperature": 21,
-    "condition": "Gyengén felhős",
+    "temperature": 19,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -21,7 +21,7 @@
     },
     {
       "day": "Vasárnap",
-      "max": 24,
+      "max": 25,
       "min": 12,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -29,16 +29,16 @@
     },
     {
       "day": "Hétfő",
-      "max": 24,
-      "min": 9,
+      "max": 25,
+      "min": 10,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 28,
-      "min": 11,
+      "max": 29,
+      "min": 12,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -46,7 +46,7 @@
     {
       "day": "Szerda",
       "max": 32,
-      "min": 13,
+      "min": 14,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -54,7 +54,7 @@
     {
       "day": "Csütörtök",
       "max": 24,
-      "min": 16,
+      "min": 17,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
