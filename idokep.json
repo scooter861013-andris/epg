@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek",
   "focim": "Marad a meleg, kissé szeles idő",
-  "utoljára változott hőmérséklet az időképről": "2026.09.04. 05:35",
-  "flow_last_run": "2026.09.04. 05:35",
+  "utoljára változott hőmérséklet az időképről": "2026.09.04. 06:05",
+  "flow_last_run": "2026.09.04. 06:05",
   "current": {
     "temperature": 15,
-    "condition": "Borult",
-    "icon": "☁️"
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 26,
+      "max": 27,
       "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:55",
     "sunset": "19:08",
-    "is_night": true
+    "is_night": false
   }
 }
