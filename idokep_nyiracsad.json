@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek",
   "focim": "Marad a meleg, kissé szeles idő",
-  "updated": "2026.09.04. 11:20",
-  "flow_last_run": "2026.09.04. 11:20",
+  "updated": "2026.09.04. 15:40",
+  "flow_last_run": "2026.09.04. 15:40",
   "current": {
-    "temperature": 26,
-    "condition": "Borult",
+    "temperature": 28,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
       "max": 28,
-      "min": 12,
+      "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -22,15 +22,15 @@
     {
       "day": "Szombat",
       "max": 28,
-      "min": 18,
+      "min": 19,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 28,
-      "min": 13,
+      "max": 25,
+      "min": 11,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "5:54",
+    "sunrise": "5:56",
     "sunset": "19:07",
     "is_night": false
   }
