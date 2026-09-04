@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfront hatás várható",
   "focim": "Hidegfront érkezik",
-  "utoljára változott hőmérséklet az időképről": "2026.09.04. 21:35",
-  "flow_last_run": "2026.09.04. 21:35",
+  "utoljára változott hőmérséklet az időképről": "2026.09.04. 22:05",
+  "flow_last_run": "2026.09.04. 22:05",
   "current": {
-    "temperature": 22,
+    "temperature": 21,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
@@ -21,7 +21,7 @@
     },
     {
       "day": "Vasárnap",
-      "max": 24,
+      "max": 25,
       "min": 12,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -37,7 +37,7 @@
     },
     {
       "day": "Kedd",
-      "max": 28,
+      "max": 29,
       "min": 11,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -45,8 +45,8 @@
     },
     {
       "day": "Szerda",
-      "max": 31,
-      "min": 13,
+      "max": 32,
+      "min": 14,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -54,7 +54,7 @@
     {
       "day": "Csütörtök",
       "max": 24,
-      "min": 17,
+      "min": 18,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
