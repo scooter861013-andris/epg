@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfront hatás várható",
-  "focim": "Marad a meleg, kissé szeles idő",
-  "utoljára változott hőmérséklet az időképről": "2026.09.04. 19:35",
-  "flow_last_run": "2026.09.04. 19:35",
+  "focim": "Hidegfront érkezik",
+  "utoljára változott hőmérséklet az időképről": "2026.09.04. 20:05",
+  "flow_last_run": "2026.09.04. 20:05",
   "current": {
     "temperature": 25,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Péntek",
-      "max": 28,
-      "min": 14,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Szombat",
       "max": 26,
@@ -38,7 +30,7 @@
     {
       "day": "Hétfő",
       "max": 25,
-      "min": 10,
+      "min": 9,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -46,7 +38,7 @@
     {
       "day": "Kedd",
       "max": 28,
-      "min": 11,
+      "min": 14,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -65,6 +57,14 @@
       "min": 17,
       "condition": "zápor",
       "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Péntek",
+      "max": 23,
+      "min": 12,
+      "condition": "erősen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
