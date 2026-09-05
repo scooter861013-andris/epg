@@ -3,8 +3,8 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfront hatás várható",
   "focim": "Hidegfront érkezik",
-  "updated": "2026.09.05. 01:42",
-  "flow_last_run": "2026.09.05. 01:42",
+  "updated": "2026.09.05. 03:25",
+  "flow_last_run": "2026.09.05. 03:25",
   "current": {
     "temperature": 21,
     "condition": "Derült",
@@ -14,7 +14,7 @@
     {
       "day": "Szombat",
       "max": 27,
-      "min": 19,
+      "min": 20,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
