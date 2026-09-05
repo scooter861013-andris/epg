@@ -1,12 +1,12 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Hidegfront hatás várható",
+  "fronthatas": "Hidegfronti hatás várható",
   "focim": "Hidegfront érkezik",
-  "utoljára változott hőmérséklet az időképről": "2026.09.05. 08:35",
-  "flow_last_run": "2026.09.05. 08:35",
+  "utoljára változott hőmérséklet az időképről": "2026.09.05. 09:05",
+  "flow_last_run": "2026.09.05. 09:05",
   "current": {
-    "temperature": 23,
+    "temperature": 25,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
@@ -23,7 +23,7 @@
       "day": "Vasárnap",
       "max": 25,
       "min": 12,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -31,15 +31,15 @@
       "day": "Hétfő",
       "max": 25,
       "min": 9,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 29,
+      "max": 30,
       "min": 11,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -53,7 +53,7 @@
     },
     {
       "day": "Csütörtök",
-      "max": 24,
+      "max": 23,
       "min": 18,
       "condition": "zápor",
       "icon": "🌧️",
@@ -61,8 +61,8 @@
     },
     {
       "day": "Péntek",
-      "max": 21,
-      "min": 13,
+      "max": 23,
+      "min": 11,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
