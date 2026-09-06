@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Napos, szeles idővel zárul a hét",
-  "utoljára változott hőmérséklet az időképről": "2026.09.06. 18:35",
-  "flow_last_run": "2026.09.06. 18:35",
+  "utoljára változott hőmérséklet az időképről": "2026.09.06. 19:05",
+  "flow_last_run": "2026.09.06. 19:05",
   "current": {
-    "temperature": 22,
+    "temperature": 20,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:59",
     "sunset": "19:04",
-    "is_night": false
+    "is_night": true
   }
 }
