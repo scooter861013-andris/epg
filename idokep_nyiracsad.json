@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Gyengülő hidegfronti hatás",
   "focim": "Napos, szeles idővel zárul a hét",
-  "updated": "2026.09.06. 02:06",
-  "flow_last_run": "2026.09.06. 02:06",
+  "updated": "2026.09.06. 06:37",
+  "flow_last_run": "2026.09.06. 06:37",
   "current": {
-    "temperature": 10,
+    "temperature": 9,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 25,
+      "max": 23,
       "min": 10,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "5:57",
     "sunset": "19:03",
-    "is_night": true
+    "is_night": false
   }
 }
