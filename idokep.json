@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Friss reggel, nyárias délután",
-  "utoljára változott hőmérséklet az időképről": "2026.09.07. 09:35",
-  "flow_last_run": "2026.09.07. 09:35",
+  "utoljára változott hőmérséklet az időképről": "2026.09.07. 10:05",
+  "flow_last_run": "2026.09.07. 10:05",
   "current": {
-    "temperature": 20,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 21,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 25,
+      "max": 26,
       "min": 9,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -22,7 +22,7 @@
     {
       "day": "Kedd",
       "max": 29,
-      "min": 13,
+      "min": 12,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
