@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek",
   "focim": "Már csak két napig tart a szeptemberi nyár",
-  "updated": "2026.09.08. 10:38",
-  "flow_last_run": "2026.09.08. 10:38",
+  "updated": "2026.09.08. 15:03",
+  "flow_last_run": "2026.09.08. 15:03",
   "current": {
-    "temperature": 27,
+    "temperature": 31,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 29,
+      "max": 31,
       "min": 12,
       "condition": "derült",
       "icon": "🌙",
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "6:00",
+    "sunrise": "6:01",
     "sunset": "18:59",
     "is_night": false
   }
