@@ -2,27 +2,19 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek",
-  "focim": "Már csak két napig tart a szeptemberi nyár",
-  "updated": "2026.09.08. 15:03",
-  "flow_last_run": "2026.09.08. 15:03",
+  "focim": "Tetőzik a meleg",
+  "updated": "2026.09.08. 19:14",
+  "flow_last_run": "2026.09.08. 19:14",
   "current": {
-    "temperature": 31,
+    "temperature": 22,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
-      "day": "Kedd",
-      "max": 31,
-      "min": 12,
-      "condition": "derült",
-      "icon": "🌙",
-      "alert": null
-    },
-    {
       "day": "Szerda",
       "max": 32,
-      "min": 13,
+      "min": 14,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -38,15 +30,15 @@
     {
       "day": "Péntek",
       "max": 21,
-      "min": 13,
+      "min": 15,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 21,
-      "min": 15,
+      "max": 20,
+      "min": 12,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -54,7 +46,7 @@
     {
       "day": "Vasárnap",
       "max": 22,
-      "min": 12,
+      "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -62,8 +54,16 @@
     {
       "day": "Hétfő",
       "max": 23,
-      "min": 13,
+      "min": 11,
       "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Kedd",
+      "max": 24,
+      "min": 13,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     }
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:01",
     "sunset": "18:59",
-    "is_night": false
+    "is_night": true
   }
 }
