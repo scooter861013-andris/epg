@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek",
   "focim": "Tetőzik a meleg",
-  "utoljára változott hőmérséklet az időképről": "2026.09.08. 22:05",
-  "flow_last_run": "2026.09.08. 22:05",
+  "utoljára változott hőmérséklet az időképről": "2026.09.08. 22:35",
+  "flow_last_run": "2026.09.08. 22:35",
   "current": {
-    "temperature": 18,
+    "temperature": 17,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -29,7 +29,7 @@
     },
     {
       "day": "Péntek",
-      "max": 20,
+      "max": 18,
       "min": 15,
       "condition": "zápor",
       "icon": "🌧️",
