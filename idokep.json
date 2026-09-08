@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek",
-  "focim": "Már csak két napig tart a szeptemberi nyár",
-  "utoljára változott hőmérséklet az időképről": "2026.09.08. 16:35",
-  "flow_last_run": "2026.09.08. 16:35",
+  "focim": "Tetőzik a meleg",
+  "utoljára változott hőmérséklet az időképről": "2026.09.08. 17:05",
+  "flow_last_run": "2026.09.08. 17:05",
   "current": {
-    "temperature": 30,
+    "temperature": 29,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Kedd",
-      "max": 30,
-      "min": 12,
-      "condition": "derült",
-      "icon": "🌙",
-      "alert": null
-    },
     {
       "day": "Szerda",
       "max": 32,
@@ -37,8 +29,8 @@
     },
     {
       "day": "Péntek",
-      "max": 21,
-      "min": 13,
+      "max": 20,
+      "min": 15,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -46,7 +38,7 @@
     {
       "day": "Szombat",
       "max": 20,
-      "min": 14,
+      "min": 12,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -64,6 +56,14 @@
       "max": 23,
       "min": 11,
       "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Kedd",
+      "max": 24,
+      "min": 13,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     }
