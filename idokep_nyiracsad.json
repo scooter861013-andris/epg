@@ -1,12 +1,12 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Melegfronti jellegű tünetek",
+  "fronthatas": "Hidegfronti hatás várható",
   "focim": "Véget ér a szeptemberi kánikula",
-  "updated": "2026.09.09. 15:55",
-  "flow_last_run": "2026.09.09. 15:55",
+  "updated": "2026.09.09. 19:31",
+  "flow_last_run": "2026.09.09. 19:31",
   "current": {
-    "temperature": 34,
+    "temperature": 22,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Csütörtök",
       "max": 26,
-      "min": 19,
+      "min": 18,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -55,7 +55,7 @@
       "day": "Kedd",
       "max": 24,
       "min": 13,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -63,7 +63,7 @@
       "day": "Szerda",
       "max": 25,
       "min": 12,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     }
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:02",
     "sunset": "18:57",
-    "is_night": false
+    "is_night": true
   }
 }
