@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás várható",
   "focim": "Véget ér a szeptemberi kánikula",
-  "updated": "2026.09.09. 19:31",
-  "flow_last_run": "2026.09.09. 19:31",
+  "updated": "2026.09.09. 22:00",
+  "flow_last_run": "2026.09.09. 22:00",
   "current": {
-    "temperature": 22,
+    "temperature": 16,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,14 +14,14 @@
     {
       "day": "Csütörtök",
       "max": 26,
-      "min": 18,
+      "min": 16,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 22,
+      "max": 21,
       "min": 16,
       "condition": "zivatar",
       "icon": "⛈️",
@@ -30,14 +30,14 @@
     {
       "day": "Szombat",
       "max": 20,
-      "min": 13,
+      "min": 14,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 23,
+      "max": 22,
       "min": 9,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -53,7 +53,7 @@
     },
     {
       "day": "Kedd",
-      "max": 24,
+      "max": 25,
       "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -61,7 +61,7 @@
     },
     {
       "day": "Szerda",
-      "max": 25,
+      "max": 26,
       "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
