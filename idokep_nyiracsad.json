@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek",
   "focim": "Tetőzik a meleg",
-  "updated": "2026.09.09. 06:58",
-  "flow_last_run": "2026.09.09. 06:58",
+  "updated": "2026.09.09. 11:30",
+  "flow_last_run": "2026.09.09. 11:30",
   "current": {
-    "temperature": 9,
+    "temperature": 30,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 30,
-      "min": 9,
+      "max": 33,
+      "min": 14,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -29,7 +29,7 @@
     },
     {
       "day": "Péntek",
-      "max": 19,
+      "max": 20,
       "min": 15,
       "condition": "zápor",
       "icon": "🌧️",
@@ -37,7 +37,7 @@
     },
     {
       "day": "Szombat",
-      "max": 20,
+      "max": 22,
       "min": 12,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -45,24 +45,24 @@
     },
     {
       "day": "Vasárnap",
-      "max": 23,
-      "min": 11,
+      "max": 22,
+      "min": 9,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 24,
-      "min": 12,
+      "max": 22,
+      "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 25,
-      "min": 13,
+      "max": 24,
+      "min": 12,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
