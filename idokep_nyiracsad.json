@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek",
   "focim": "Tetőzik a meleg",
-  "updated": "2026.09.09. 00:21",
-  "flow_last_run": "2026.09.09. 00:21",
+  "updated": "2026.09.09. 02:25",
+  "flow_last_run": "2026.09.09. 02:25",
   "current": {
-    "temperature": 12,
+    "temperature": 11,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Szerda",
       "max": 32,
-      "min": 12,
+      "min": 11,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
