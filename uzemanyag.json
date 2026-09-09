@@ -1,21 +1,21 @@
 {
-    "utolso_frissites": "2026.09.08. 03:20:15",
+    "utolso_frissites": "2026.09.09. 03:20:16",
     "agroinform": {
         "gazolaj": {
             "ar": "697",
-            "irany": "novekedett"
+            "irany": "csokkent"
         },
         "benzin95": {
-            "ar": "617",
+            "ar": "622",
             "irany": "novekedett"
         },
         "eur": {
-            "ar": "363.64",
-            "irany": "novekedett"
+            "ar": "363.5",
+            "irany": "csokkent"
         },
         "usd": {
-            "ar": "312.79",
-            "irany": "novekedett"
+            "ar": "312.6",
+            "irany": "csokkent"
         }
     },
     "kutak": [
@@ -29,9 +29,9 @@
                     "ar": "695.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-09-05",
+                    "datum": "2026-09-08",
                     "tipus": "95 (E10)",
-                    "ar": "613.0 Ft/liter"
+                    "ar": "618.0 Ft/liter"
                 },
                 {
                     "datum": "2026-09-05",
@@ -39,14 +39,14 @@
                     "ar": "794.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-09-05",
+                    "datum": "2026-09-08",
                     "tipus": "100 (E5)",
-                    "ar": "705.0 Ft/liter"
+                    "ar": "710.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-09-05",
+                    "datum": "2026-09-08",
                     "tipus": "95 (Premium E10)",
-                    "ar": "649.0 Ft/liter"
+                    "ar": "654.0 Ft/liter"
                 }
             ]
         },
@@ -60,9 +60,9 @@
                     "ar": "794.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-09-05",
+                    "datum": "2026-09-08",
                     "tipus": "95 (E10)",
-                    "ar": "615.0 Ft/liter"
+                    "ar": "620.0 Ft/liter"
                 },
                 {
                     "datum": "2026-09-05",
@@ -70,9 +70,9 @@
                     "ar": "695.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-09-05",
+                    "datum": "2026-09-08",
                     "tipus": "100 (E5)",
-                    "ar": "701.0 Ft/liter"
+                    "ar": "706.0 Ft/liter"
                 }
             ]
         },
@@ -86,14 +86,14 @@
                     "ar": "695.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-09-05",
+                    "datum": "2026-09-08",
                     "tipus": "95 (E10)",
-                    "ar": "615.0 Ft/liter"
+                    "ar": "619.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-09-05",
+                    "datum": "2026-09-08",
                     "tipus": "95 (Premium E10)",
-                    "ar": "656.0 Ft/liter"
+                    "ar": "661.0 Ft/liter"
                 },
                 {
                     "datum": "2026-09-05",
@@ -101,9 +101,9 @@
                     "ar": "784.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-09-05",
+                    "datum": "2026-09-08",
                     "tipus": "100 (E5)",
-                    "ar": "706.0 Ft/liter"
+                    "ar": "710.0 Ft/liter"
                 }
             ]
         }
