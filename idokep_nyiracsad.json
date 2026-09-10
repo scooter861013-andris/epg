@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Hidegfronti hatás várható",
-  "focim": "Véget ér a szeptemberi kánikula",
-  "updated": "2026.09.10. 16:05",
-  "flow_last_run": "2026.09.10. 16:05",
+  "fronthatas": "Kettősfronti hatás várható",
+  "focim": "Záporok, zivatarok jönnek a szeles időben",
+  "updated": "2026.09.10. 19:41",
+  "flow_last_run": "2026.09.10. 19:41",
   "current": {
-    "temperature": 25,
-    "condition": "Borult",
+    "temperature": 20,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Csütörtök",
-      "max": 27,
-      "min": 17,
-      "condition": "erősen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Péntek",
       "max": 23,
@@ -37,9 +29,9 @@
     },
     {
       "day": "Vasárnap",
-      "max": 23,
+      "max": 22,
       "min": 9,
-      "condition": "közepesen felhős",
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -47,7 +39,7 @@
       "day": "Hétfő",
       "max": 21,
       "min": 11,
-      "condition": "közepesen felhős",
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -63,14 +55,22 @@
       "day": "Szerda",
       "max": 25,
       "min": 12,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "max": 25,
+      "min": 13,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     }
   ],
   "sun": {
     "sunrise": "6:04",
     "sunset": "18:55",
-    "is_night": false
+    "is_night": true
   }
 }
