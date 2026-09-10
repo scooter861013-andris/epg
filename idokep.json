@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás várható",
   "focim": "Véget ér a szeptemberi kánikula",
-  "utoljára változott hőmérséklet az időképről": "2026.09.10. 13:35",
-  "flow_last_run": "2026.09.10. 13:35",
+  "utoljára változott hőmérséklet az időképről": "2026.09.10. 14:05",
+  "flow_last_run": "2026.09.10. 14:05",
   "current": {
-    "temperature": 28,
-    "condition": "Erősen felhős",
+    "temperature": 27,
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "max": 28,
-      "min": 20,
+      "max": 26,
+      "min": 19,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -30,7 +30,7 @@
     {
       "day": "Szombat",
       "max": 19,
-      "min": 14,
+      "min": 13,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
