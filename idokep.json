@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Hidegfronti hatás várható",
-  "focim": "Véget ér a szeptemberi kánikula",
-  "utoljára változott hőmérséklet az időképről": "2026.09.10. 18:35",
-  "flow_last_run": "2026.09.10. 18:35",
+  "fronthatas": "Kettősfronti hatás várható",
+  "focim": "Záporok, zivatarok jönnek a szeles időben",
+  "utoljára változott hőmérséklet az időképről": "2026.09.10. 19:05",
+  "flow_last_run": "2026.09.10. 19:05",
   "current": {
-    "temperature": 24,
+    "temperature": 23,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Csütörtök",
-      "max": 26,
-      "min": 18,
-      "condition": "erősen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Péntek",
       "max": 21,
@@ -37,16 +29,16 @@
     },
     {
       "day": "Vasárnap",
-      "max": 23,
+      "max": 22,
       "min": 9,
-      "condition": "közepesen felhős",
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
       "max": 21,
-      "min": 12,
+      "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -66,11 +58,19 @@
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "max": 25,
+      "min": 13,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
     }
   ],
   "sun": {
     "sunrise": "6:05",
     "sunset": "18:56",
-    "is_night": false
+    "is_night": true
   }
 }
