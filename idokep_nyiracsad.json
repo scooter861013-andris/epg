@@ -3,26 +3,26 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Záporok, zivatarok jönnek a szeles időben",
-  "updated": "2026.09.11. 07:16",
-  "flow_last_run": "2026.09.11. 07:16",
+  "updated": "2026.09.11. 11:54",
+  "flow_last_run": "2026.09.11. 11:54",
   "current": {
-    "temperature": 15,
-    "condition": "Borult",
+    "temperature": 24,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 23,
+      "max": 24,
       "min": 16,
-      "condition": "zivatar",
-      "icon": "⛈️",
+      "condition": "gyenge eső",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 19,
-      "min": 14,
+      "max": 18,
+      "min": 13,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -31,13 +31,13 @@
       "day": "Vasárnap",
       "max": 21,
       "min": 9,
-      "condition": "erősen felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 21,
+      "max": 23,
       "min": 11,
       "condition": "erősen felhős",
       "icon": "☁️",
