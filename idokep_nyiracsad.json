@@ -3,22 +3,14 @@
   "location": "Nyiracsad",
   "fronthatas": "Megszűnő front1hatás várható",
   "focim": "Picit hűvösebb, kora őszi idő",
-  "updated": "2026.09.11. 19:44",
-  "flow_last_run": "2026.09.11. 19:44",
+  "updated": "2026.09.11. 22:03",
+  "flow_last_run": "2026.09.11. 22:03",
   "current": {
-    "temperature": 18,
-    "condition": "Borult",
+    "temperature": 17,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Péntek",
-      "max": 24,
-      "min": 16,
-      "condition": "gyenge eső",
-      "icon": "🌧️",
-      "alert": null
-    },
     {
       "day": "Szombat",
       "max": 17,
@@ -31,22 +23,22 @@
       "day": "Vasárnap",
       "max": 21,
       "min": 10,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 23,
+      "max": 21,
       "min": 11,
-      "condition": "erősen felhős",
-      "icon": "☁️",
+      "condition": "gyenge eső",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Kedd",
       "max": 24,
-      "min": 13,
+      "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -65,6 +57,14 @@
       "min": 13,
       "condition": "zápor",
       "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Péntek",
+      "max": 21,
+      "min": 12,
+      "condition": "erősen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
