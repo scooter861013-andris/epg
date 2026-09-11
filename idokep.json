@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Záporok, zivatarok jönnek a szeles időben",
-  "utoljára változott hőmérséklet az időképről": "2026.09.11. 05:35",
-  "flow_last_run": "2026.09.11. 07:05",
+  "utoljára változott hőmérséklet az időképről": "2026.09.11. 07:35",
+  "flow_last_run": "2026.09.11. 07:35",
   "current": {
-    "temperature": 17,
+    "temperature": 18,
     "condition": "Borult",
     "icon": "☁️"
   },
@@ -15,8 +15,8 @@
       "day": "Péntek",
       "max": 21,
       "min": 16,
-      "condition": "zivatar",
-      "icon": "⛈️",
+      "condition": "gyenge eső",
+      "icon": "🌧️",
       "alert": null
     },
     {
@@ -31,13 +31,13 @@
       "day": "Vasárnap",
       "max": 22,
       "min": 9,
-      "condition": "erősen felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 21,
+      "max": 23,
       "min": 11,
       "condition": "erősen felhős",
       "icon": "☁️",
