@@ -1,14 +1,14 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Kettősfronti hatás várható",
-  "focim": "Záporok, zivatarok jönnek a szeles időben",
-  "updated": "2026.09.11. 16:01",
-  "flow_last_run": "2026.09.11. 16:01",
+  "fronthatas": "Megszűnő front1hatás várható",
+  "focim": "Picit hűvösebb, kora őszi idő",
+  "updated": "2026.09.11. 19:44",
+  "flow_last_run": "2026.09.11. 19:44",
   "current": {
-    "temperature": 24,
-    "condition": "Gyenge eső",
-    "icon": "🌧️"
+    "temperature": 18,
+    "condition": "Borult",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "day": "Szombat",
-      "max": 18,
+      "max": 17,
       "min": 13,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -30,7 +30,7 @@
     {
       "day": "Vasárnap",
       "max": 21,
-      "min": 9,
+      "min": 10,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:05",
     "sunset": "18:53",
-    "is_night": false
+    "is_night": true
   }
 }
