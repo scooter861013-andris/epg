@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Megszűnő front1hatás várható",
   "focim": "Picit hűvösebb, kora őszi idő",
-  "updated": "2026.09.11. 22:03",
-  "flow_last_run": "2026.09.11. 22:03",
+  "updated": "2026.09.12. 00:34",
+  "flow_last_run": "2026.09.12. 00:34",
   "current": {
-    "temperature": 17,
-    "condition": "Erősen felhős",
+    "temperature": 16,
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
       "max": 17,
-      "min": 13,
+      "min": 14,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -22,7 +22,7 @@
     {
       "day": "Vasárnap",
       "max": 21,
-      "min": 10,
+      "min": 9,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "6:05",
-    "sunset": "18:53",
+    "sunset": "18:51",
     "is_night": true
   }
 }
