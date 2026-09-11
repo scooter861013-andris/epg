@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Záporok, zivatarok jönnek a szeles időben",
-  "updated": "2026.09.11. 11:54",
-  "flow_last_run": "2026.09.11. 11:54",
+  "updated": "2026.09.11. 16:01",
+  "flow_last_run": "2026.09.11. 16:01",
   "current": {
     "temperature": 24,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "6:04",
+    "sunrise": "6:05",
     "sunset": "18:53",
     "is_night": false
   }
