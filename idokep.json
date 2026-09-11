@@ -4,7 +4,7 @@
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Záporok, zivatarok jönnek a szeles időben",
   "utoljára változott hőmérséklet az időképről": "2026.09.11. 05:35",
-  "flow_last_run": "2026.09.11. 05:35",
+  "flow_last_run": "2026.09.11. 06:05",
   "current": {
     "temperature": 17,
     "condition": "Borult",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:05",
     "sunset": "18:54",
-    "is_night": true
+    "is_night": false
   }
 }
