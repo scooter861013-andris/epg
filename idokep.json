@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
-  "focim": "Felhős, kora őszi idő",
-  "utoljára változott hőmérséklet az időképről": "2026.09.12. 19:05",
-  "flow_last_run": "2026.09.12. 19:35",
+  "focim": "Nyugodt őszi idővel zárjuk a hetet",
+  "utoljára változott hőmérséklet az időképről": "2026.09.12. 20:05",
+  "flow_last_run": "2026.09.12. 20:05",
   "current": {
-    "temperature": 16,
-    "condition": "Erősen felhős",
+    "temperature": 15,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Szombat",
-      "max": 17,
-      "min": 12,
-      "condition": "erősen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Vasárnap",
       "max": 20,
@@ -31,14 +23,14 @@
       "day": "Hétfő",
       "max": 21,
       "min": 11,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 24,
-      "min": 11,
+      "max": 23,
+      "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -46,7 +38,7 @@
     {
       "day": "Szerda",
       "max": 25,
-      "min": 12,
+      "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -64,6 +56,14 @@
       "max": 24,
       "min": 14,
       "condition": "erősen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szombat",
+      "max": 23,
+      "min": 14,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     }
