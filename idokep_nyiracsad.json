@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
-  "focim": "Felhős, kora őszi idő",
-  "updated": "2026.09.12. 18:09",
-  "flow_last_run": "2026.09.12. 18:09",
+  "focim": "Nyugodt őszi idővel zárjuk a hetet",
+  "updated": "2026.09.12. 20:22",
+  "flow_last_run": "2026.09.12. 20:22",
   "current": {
-    "temperature": 16,
-    "condition": "Erősen felhős",
+    "temperature": 13,
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Szombat",
-      "max": 16,
-      "min": 12,
-      "condition": "erősen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Vasárnap",
       "max": 20,
@@ -31,14 +23,14 @@
       "day": "Hétfő",
       "max": 21,
       "min": 11,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 24,
-      "min": 11,
+      "max": 23,
+      "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -66,11 +58,19 @@
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
+    },
+    {
+      "day": "Szombat",
+      "max": 23,
+      "min": 14,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
     }
   ],
   "sun": {
     "sunrise": "6:06",
     "sunset": "18:51",
-    "is_night": false
+    "is_night": true
   }
 }
