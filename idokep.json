@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Felhős, kora őszi idő",
-  "utoljára változott hőmérséklet az időképről": "2026.09.12. 15:35",
-  "flow_last_run": "2026.09.12. 15:35",
+  "utoljára változott hőmérséklet az időképről": "2026.09.12. 16:05",
+  "flow_last_run": "2026.09.12. 16:05",
   "current": {
     "temperature": 19,
-    "condition": "Erősen felhős",
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
       "max": 19,
-      "min": 12,
+      "min": 11,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
