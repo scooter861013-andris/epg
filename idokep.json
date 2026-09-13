@@ -2,28 +2,20 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Gyenge kettősfronti hatás várható",
-  "focim": "Nyugodt őszi idővel zárjuk a hetet",
-  "utoljára változott hőmérséklet az időképről": "2026.09.13. 19:35",
-  "flow_last_run": "2026.09.13. 19:35",
+  "focim": "Több lesz a felhő, de csak néhol eshet",
+  "utoljára változott hőmérséklet az időképről": "2026.09.13. 20:05",
+  "flow_last_run": "2026.09.13. 20:05",
   "current": {
-    "temperature": 15,
+    "temperature": 14,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Vasárnap",
-      "max": 20,
-      "min": 10,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Hétfő",
       "max": 21,
       "min": 11,
-      "condition": "közepesen felhős",
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -38,7 +30,7 @@
     {
       "day": "Szerda",
       "max": 25,
-      "min": 11,
+      "min": 12,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -46,7 +38,7 @@
     {
       "day": "Csütörtök",
       "max": 26,
-      "min": 13,
+      "min": 11,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -64,6 +56,14 @@
       "max": 23,
       "min": 14,
       "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Vasárnap",
+      "max": 25,
+      "min": 11,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     }
