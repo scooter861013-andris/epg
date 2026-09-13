@@ -3,27 +3,19 @@
   "location": "Nyiracsad",
   "fronthatas": "Gyenge kettősfronti hatás várható",
   "focim": "Több lesz a felhő, de csak néhol eshet",
-  "updated": "2026.09.13. 19:40",
-  "flow_last_run": "2026.09.13. 19:40",
+  "updated": "2026.09.13. 21:48",
+  "flow_last_run": "2026.09.13. 21:48",
   "current": {
-    "temperature": 14,
+    "temperature": 10,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Vasárnap",
-      "max": 20,
-      "min": 10,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Hétfő",
       "max": 21,
-      "min": 11,
-      "condition": "közepesen felhős",
+      "min": 10,
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -46,7 +38,7 @@
     {
       "day": "Csütörtök",
       "max": 26,
-      "min": 12,
+      "min": 11,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -55,15 +47,23 @@
       "day": "Péntek",
       "max": 25,
       "min": 14,
-      "condition": "erősen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Szombat",
       "max": 23,
       "min": 14,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Vasárnap",
+      "max": 25,
+      "min": 11,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     }
