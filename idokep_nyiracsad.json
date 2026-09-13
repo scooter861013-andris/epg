@@ -1,19 +1,19 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Nem lesz front felettünk",
-  "focim": "Nyugodt őszi idővel zárjuk a hetet",
-  "updated": "2026.09.13. 16:35",
-  "flow_last_run": "2026.09.13. 16:35",
+  "fronthatas": "Gyenge kettősfronti hatás várható",
+  "focim": "Több lesz a felhő, de csak néhol eshet",
+  "updated": "2026.09.13. 19:40",
+  "flow_last_run": "2026.09.13. 19:40",
   "current": {
-    "temperature": 22,
+    "temperature": 14,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 22,
+      "max": 20,
       "min": 10,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:08",
     "sunset": "18:49",
-    "is_night": false
+    "is_night": true
   }
 }
