@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Nyugodt őszi idővel zárjuk a hetet",
-  "utoljára változott hőmérséklet az időképről": "2026.09.13. 05:05",
-  "flow_last_run": "2026.09.13. 05:35",
+  "utoljára változott hőmérséklet az időképről": "2026.09.13. 06:05",
+  "flow_last_run": "2026.09.13. 06:05",
   "current": {
-    "temperature": 9,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 8,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 18,
+      "max": 19,
       "min": 9,
       "condition": "gyengén felhős",
       "icon": "☁️",
