@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Kellemes késő nyári idő",
-  "utoljára változott hőmérséklet az időképről": "2026.09.14. 19:05",
-  "flow_last_run": "2026.09.14. 19:05",
+  "utoljára változott hőmérséklet az időképről": "2026.09.14. 19:35",
+  "flow_last_run": "2026.09.14. 19:35",
   "current": {
-    "temperature": 20,
+    "temperature": 19,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
@@ -47,22 +47,22 @@
       "day": "Szombat",
       "max": 25,
       "min": 15,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
-      "day": "Vasárnap",
-      "max": 25,
-      "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
+      "day": "Vasárnap",
+      "max": 26,
+      "min": 13,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
       "day": "Hétfő",
-      "max": 24,
-      "min": 11,
+      "max": 23,
+      "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
