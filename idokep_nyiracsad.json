@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Kellemes késő nyári idő",
-  "updated": "2026.09.14. 22:24",
-  "flow_last_run": "2026.09.14. 22:24",
+  "updated": "2026.09.15. 01:17",
+  "flow_last_run": "2026.09.15. 01:17",
   "current": {
-    "temperature": 14,
-    "condition": "Közepesen felhős",
+    "temperature": 10,
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
       "max": 24,
-      "min": 11,
+      "min": 10,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "6:09",
-    "sunset": "18:47",
+    "sunset": "18:45",
     "is_night": true
   }
 }
