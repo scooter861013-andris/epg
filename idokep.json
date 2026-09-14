@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Gyenge kettősfronti hatás várható",
   "focim": "Több lesz a felhő, de csak néhol eshet",
-  "utoljára változott hőmérséklet az időképről": "2026.09.14. 08:35",
-  "flow_last_run": "2026.09.14. 08:35",
+  "utoljára változott hőmérséklet az időképről": "2026.09.14. 09:05",
+  "flow_last_run": "2026.09.14. 09:05",
   "current": {
-    "temperature": 15,
-    "condition": "Gyengén felhős",
+    "temperature": 18,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -23,7 +23,7 @@
       "day": "Kedd",
       "max": 24,
       "min": 11,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -37,10 +37,10 @@
     },
     {
       "day": "Csütörtök",
-      "max": 26,
-      "min": 11,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "max": 27,
+      "min": 12,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
@@ -63,7 +63,7 @@
       "day": "Vasárnap",
       "max": 25,
       "min": 11,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     }
