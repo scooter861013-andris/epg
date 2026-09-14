@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Gyenge kettősfronti hatás várható",
   "focim": "Több lesz a felhő, de csak néhol eshet",
-  "utoljára változott hőmérséklet az időképről": "2026.09.14. 17:35",
-  "flow_last_run": "2026.09.14. 17:35",
+  "utoljára változott hőmérséklet az időképről": "2026.09.14. 18:05",
+  "flow_last_run": "2026.09.14. 18:05",
   "current": {
-    "temperature": 23,
-    "condition": "Szitálás",
-    "icon": null
+    "temperature": 22,
+    "condition": "Erősen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 23,
+      "max": 22,
       "min": 12,
       "condition": "erősen felhős",
       "icon": "☁️",
