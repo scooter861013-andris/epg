@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Szeptemberi nyár",
-  "utoljára változott hőmérséklet az időképről": "2026.09.15. 16:35",
-  "flow_last_run": "2026.09.15. 16:35",
+  "utoljára változott hőmérséklet az időképről": "2026.09.15. 17:05",
+  "flow_last_run": "2026.09.15. 17:05",
   "current": {
-    "temperature": 23,
-    "condition": "Erősen felhős",
+    "temperature": 24,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -47,7 +47,7 @@
       "day": "Vasárnap",
       "max": 26,
       "min": 12,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -55,16 +55,16 @@
       "day": "Hétfő",
       "max": 24,
       "min": 12,
-      "condition": "erősen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Kedd",
       "max": 20,
       "min": 11,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
