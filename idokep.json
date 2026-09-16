@@ -4,7 +4,7 @@
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Szeptemberi nyár",
   "utoljára változott hőmérséklet az időképről": "2026.09.16. 05:05",
-  "flow_last_run": "2026.09.16. 06:05",
+  "flow_last_run": "2026.09.16. 06:35",
   "current": {
     "temperature": 10,
     "condition": "Derült",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:11",
     "sunset": "18:44",
-    "is_night": true
+    "is_night": false
   }
 }
