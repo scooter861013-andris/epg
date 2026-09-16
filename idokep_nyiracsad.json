@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Szeptemberi nyár",
-  "updated": "2026.09.16. 13:30",
-  "flow_last_run": "2026.09.16. 13:30",
+  "updated": "2026.09.16. 17:31",
+  "flow_last_run": "2026.09.16. 17:31",
   "current": {
-    "temperature": 28,
-    "condition": "Közepesen felhős",
-    "icon": "☁️"
+    "temperature": 27,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 28,
+      "max": 27,
       "min": 12,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -38,14 +38,14 @@
     {
       "day": "Szombat",
       "max": 26,
-      "min": 12,
+      "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 27,
+      "max": 28,
       "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -53,8 +53,8 @@
     },
     {
       "day": "Hétfő",
-      "max": 19,
-      "min": 16,
+      "max": 20,
+      "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
