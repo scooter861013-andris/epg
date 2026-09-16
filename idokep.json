@@ -2,28 +2,20 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Kettősfronti hatás várható",
-  "focim": "Szeptemberi nyár",
-  "utoljára változott hőmérséklet az időképről": "2026.09.16. 19:35",
-  "flow_last_run": "2026.09.16. 19:35",
+  "focim": "Marad a szeptemberi nyár",
+  "utoljára változott hőmérséklet az időképről": "2026.09.16. 20:05",
+  "flow_last_run": "2026.09.16. 20:05",
   "current": {
-    "temperature": 20,
+    "temperature": 19,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
-      "day": "Szerda",
-      "max": 27,
-      "min": 12,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Csütörtök",
       "max": 28,
-      "min": 13,
-      "condition": "közepesen felhős",
+      "min": 12,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -31,22 +23,22 @@
       "day": "Péntek",
       "max": 24,
       "min": 13,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Szombat",
       "max": 26,
       "min": 11,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
       "max": 28,
-      "min": 11,
+      "min": 8,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -65,6 +57,14 @@
       "min": 9,
       "condition": "zápor",
       "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 18,
+      "min": 9,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
