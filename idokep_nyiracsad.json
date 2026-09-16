@@ -3,26 +3,26 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Marad a szeptemberi nyár",
-  "updated": "2026.09.16. 21:05",
-  "flow_last_run": "2026.09.16. 21:05",
+  "updated": "2026.09.17. 00:09",
+  "flow_last_run": "2026.09.17. 00:09",
   "current": {
-    "temperature": 14,
+    "temperature": 11,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "max": 28,
-      "min": 12,
+      "max": 29,
+      "min": 11,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 24,
-      "min": 13,
+      "max": 25,
+      "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -37,7 +37,7 @@
     },
     {
       "day": "Vasárnap",
-      "max": 28,
+      "max": 27,
       "min": 8,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -61,7 +61,7 @@
     },
     {
       "day": "Szerda",
-      "max": 18,
+      "max": 19,
       "min": 9,
       "condition": "zápor",
       "icon": "🌧️",
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "6:12",
-    "sunset": "18:43",
+    "sunset": "18:41",
     "is_night": true
   }
 }
