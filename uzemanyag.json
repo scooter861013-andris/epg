@@ -1,21 +1,21 @@
 {
-    "utolso_frissites": "2026.09.16. 03:20:12",
+    "utolso_frissites": "2026.09.17. 03:20:17",
     "agroinform": {
         "gazolaj": {
             "ar": "701",
             "irany": "csokkent"
         },
         "benzin95": {
-            "ar": "626",
-            "irany": "csokkent"
+            "ar": "631",
+            "irany": "novekedett"
         },
         "eur": {
             "ar": "365.36",
-            "irany": "csokkent"
+            "irany": "novekedett"
         },
         "usd": {
-            "ar": "316.46",
-            "irany": "csokkent"
+            "ar": "318.47",
+            "irany": "novekedett"
         }
     },
     "kutak": [
@@ -29,9 +29,9 @@
                     "ar": "699.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-09-09",
+                    "datum": "2026-09-16",
                     "tipus": "95 (E10)",
-                    "ar": "623.0 Ft/liter"
+                    "ar": "628.0 Ft/liter"
                 },
                 {
                     "datum": "2026-09-09",
@@ -39,14 +39,14 @@
                     "ar": "798.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-09-09",
+                    "datum": "2026-09-16",
                     "tipus": "100 (E5)",
-                    "ar": "715.0 Ft/liter"
+                    "ar": "717.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-09-09",
+                    "datum": "2026-09-16",
                     "tipus": "95 (Premium E10)",
-                    "ar": "659.0 Ft/liter"
+                    "ar": "663.0 Ft/liter"
                 }
             ]
         },
@@ -60,9 +60,9 @@
                     "ar": "798.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-09-09",
+                    "datum": "2026-09-16",
                     "tipus": "95 (E10)",
-                    "ar": "625.0 Ft/liter"
+                    "ar": "630.0 Ft/liter"
                 },
                 {
                     "datum": "2026-09-09",
@@ -70,9 +70,9 @@
                     "ar": "699.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-09-09",
+                    "datum": "2026-09-16",
                     "tipus": "100 (E5)",
-                    "ar": "711.0 Ft/liter"
+                    "ar": "716.0 Ft/liter"
                 }
             ]
         },
@@ -81,29 +81,29 @@
             "cim": "Debrecen, Böszörményi út 1.",
             "uzemanyagok": [
                 {
-                    "datum": "2026-09-09",
+                    "datum": "2026-09-16",
                     "tipus": "Dízel (B7)",
-                    "ar": "695.0 Ft/liter"
+                    "ar": "699.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-09-09",
+                    "datum": "2026-09-16",
                     "tipus": "95 (E10)",
-                    "ar": "620.0 Ft/liter"
+                    "ar": "630.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-09-09",
+                    "datum": "2026-09-16",
                     "tipus": "95 (Premium E10)",
-                    "ar": "661.0 Ft/liter"
+                    "ar": "671.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-09-09",
+                    "datum": "2026-09-16",
                     "tipus": "Dízel (Premium B7)",
-                    "ar": "784.0 Ft/liter"
+                    "ar": "788.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-09-09",
+                    "datum": "2026-09-16",
                     "tipus": "100 (E5)",
-                    "ar": "710.0 Ft/liter"
+                    "ar": "720.0 Ft/liter"
                 }
             ]
         }
