@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Lassan megszűnik a fronthatás",
   "focim": "Eleinte eshet, később felszakadozik a felhőzet",
-  "utoljára változott hőmérséklet az időképről": "2026.09.18. 12:35",
-  "flow_last_run": "2026.09.18. 12:35",
+  "utoljára változott hőmérséklet az időképről": "2026.09.18. 13:05",
+  "flow_last_run": "2026.09.18. 13:05",
   "current": {
     "temperature": 23,
-    "condition": "Erősen felhős",
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 24,
+      "max": 25,
       "min": 15,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -22,7 +22,7 @@
     {
       "day": "Szombat",
       "max": 25,
-      "min": 11,
+      "min": 12,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
