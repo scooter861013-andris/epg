@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Lassan megszűnik a fronthatás",
   "focim": "Eleinte felhősebb idő jön, helyenként eshet",
-  "updated": "2026.09.18. 02:17",
-  "flow_last_run": "2026.09.18. 02:17",
+  "updated": "2026.09.18. 06:58",
+  "flow_last_run": "2026.09.18. 06:58",
   "current": {
-    "temperature": 16,
-    "condition": "Gyenge eső",
+    "temperature": 14,
+    "condition": "Eső",
     "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 23,
-      "min": 15,
+      "max": 21,
+      "min": 14,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:13",
     "sunset": "18:39",
-    "is_night": true
+    "is_night": false
   }
 }
