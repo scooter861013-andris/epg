@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
-  "focim": "Nyárias hétvége jön",
-  "updated": "2026.09.19. 18:29",
-  "flow_last_run": "2026.09.19. 18:29",
+  "focim": "Nyárias idővel zárul a hét",
+  "updated": "2026.09.19. 20:47",
+  "flow_last_run": "2026.09.19. 20:47",
   "current": {
-    "temperature": 21,
+    "temperature": 14,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Szombat",
-      "max": 26,
-      "min": 12,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Vasárnap",
       "max": 27,
@@ -38,7 +30,7 @@
     {
       "day": "Kedd",
       "max": 17,
-      "min": 8,
+      "min": 9,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -46,7 +38,7 @@
     {
       "day": "Szerda",
       "max": 18,
-      "min": 9,
+      "min": 7,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -66,11 +58,19 @@
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
+    },
+    {
+      "day": "Szombat",
+      "max": 18,
+      "min": 10,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
     }
   ],
   "sun": {
     "sunrise": "6:16",
     "sunset": "18:37",
-    "is_night": false
+    "is_night": true
   }
 }
