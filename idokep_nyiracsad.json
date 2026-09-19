@@ -1,20 +1,20 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Lassan megszűnik a fronthatás",
-  "focim": "Nyárias hétvége jön őszi reggelekkel",
-  "updated": "2026.09.19. 06:54",
-  "flow_last_run": "2026.09.19. 06:54",
+  "fronthatas": "Nem lesz front felettünk",
+  "focim": "Nyárias hétvége jön",
+  "updated": "2026.09.19. 11:10",
+  "flow_last_run": "2026.09.19. 11:10",
   "current": {
-    "temperature": 9,
-    "condition": "Köd",
-    "icon": "🌫️"
+    "temperature": 22,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
-      "max": 24,
-      "min": 9,
+      "max": 26,
+      "min": 12,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -23,7 +23,7 @@
       "day": "Vasárnap",
       "max": 27,
       "min": 11,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -39,8 +39,8 @@
       "day": "Kedd",
       "max": 17,
       "min": 8,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
@@ -55,13 +55,13 @@
       "day": "Csütörtök",
       "max": 19,
       "min": 7,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 18,
+      "max": 17,
       "min": 10,
       "condition": "közepesen felhős",
       "icon": "☁️",
