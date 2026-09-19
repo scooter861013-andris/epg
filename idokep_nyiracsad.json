@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Lassan megszűnik a fronthatás",
   "focim": "Nyárias hétvége jön őszi reggelekkel",
-  "updated": "2026.09.19. 00:15",
-  "flow_last_run": "2026.09.19. 00:15",
+  "updated": "2026.09.19. 02:28",
+  "flow_last_run": "2026.09.19. 02:28",
   "current": {
-    "temperature": 11,
+    "temperature": 10,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Szombat",
       "max": 26,
-      "min": 11,
+      "min": 10,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
