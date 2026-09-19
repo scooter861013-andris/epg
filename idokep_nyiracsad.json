@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Nyárias idővel zárul a hét",
-  "updated": "2026.09.19. 20:47",
-  "flow_last_run": "2026.09.19. 20:47",
+  "updated": "2026.09.19. 23:16",
+  "flow_last_run": "2026.09.19. 23:16",
   "current": {
-    "temperature": 14,
+    "temperature": 11,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Vasárnap",
       "max": 27,
-      "min": 11,
+      "min": 10,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -53,7 +53,7 @@
     },
     {
       "day": "Péntek",
-      "max": 17,
+      "max": 18,
       "min": 10,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -61,7 +61,7 @@
     },
     {
       "day": "Szombat",
-      "max": 18,
+      "max": 19,
       "min": 10,
       "condition": "gyengén felhős",
       "icon": "☁️",
