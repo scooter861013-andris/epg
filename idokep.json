@@ -1,14 +1,14 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Lassan megszűnik a fronthatás",
-  "focim": "Nyárias hétvége jön őszi reggelekkel",
-  "utoljára változott hőmérséklet az időképről": "2026.09.19. 08:35",
-  "flow_last_run": "2026.09.19. 08:35",
+  "fronthatas": "Nem lesz front felettünk",
+  "focim": "Nyárias hétvége jön",
+  "utoljára változott hőmérséklet az időképről": "2026.09.19. 09:05",
+  "flow_last_run": "2026.09.19. 09:05",
   "current": {
-    "temperature": 13,
-    "condition": "Köd",
-    "icon": "🌫️"
+    "temperature": 14,
+    "condition": "Borult",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -23,7 +23,7 @@
       "day": "Vasárnap",
       "max": 28,
       "min": 11,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -39,8 +39,8 @@
       "day": "Kedd",
       "max": 17,
       "min": 8,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
@@ -55,8 +55,8 @@
       "day": "Csütörtök",
       "max": 19,
       "min": 8,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
