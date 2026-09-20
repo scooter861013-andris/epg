@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Hidegfronttal indul a hét",
-  "updated": "2026.09.20. 22:52",
-  "flow_last_run": "2026.09.20. 22:52",
+  "updated": "2026.09.21. 00:57",
+  "flow_last_run": "2026.09.21. 00:57",
   "current": {
-    "temperature": 13,
+    "temperature": 14,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Hétfő",
       "max": 20,
-      "min": 13,
+      "min": 14,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "6:17",
-    "sunset": "18:34",
+    "sunset": "18:32",
     "is_night": true
   }
 }
