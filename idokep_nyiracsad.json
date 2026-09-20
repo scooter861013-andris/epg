@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Nyárias idővel zárul a hét",
-  "updated": "2026.09.20. 08:38",
-  "flow_last_run": "2026.09.20. 08:38",
+  "updated": "2026.09.20. 13:48",
+  "flow_last_run": "2026.09.20. 13:48",
   "current": {
-    "temperature": 17,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 28,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 27,
+      "max": 29,
       "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -37,14 +37,6 @@
     },
     {
       "day": "Szerda",
-      "max": 18,
-      "min": 7,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
-      "day": "Csütörtök",
       "max": 19,
       "min": 7,
       "condition": "zápor",
@@ -52,8 +44,16 @@
       "alert": null
     },
     {
-      "day": "Péntek",
+      "day": "Csütörtök",
       "max": 18,
+      "min": 7,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Péntek",
+      "max": 19,
       "min": 10,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -61,7 +61,7 @@
     },
     {
       "day": "Szombat",
-      "max": 21,
+      "max": 20,
       "min": 9,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "6:16",
+    "sunrise": "6:17",
     "sunset": "18:34",
     "is_night": false
   }
