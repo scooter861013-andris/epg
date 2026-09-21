@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Hidegfronttal indul a hét",
-  "utoljára változott hőmérséklet az időképről": "2026.09.21. 10:05",
-  "flow_last_run": "2026.09.21. 10:05",
+  "utoljára változott hőmérséklet az időképről": "2026.09.21. 10:35",
+  "flow_last_run": "2026.09.21. 10:35",
   "current": {
-    "temperature": 18,
+    "temperature": 19,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
@@ -46,7 +46,7 @@
     {
       "day": "Péntek",
       "max": 19,
-      "min": 9,
+      "min": 10,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -54,14 +54,14 @@
     {
       "day": "Szombat",
       "max": 21,
-      "min": 9,
+      "min": 11,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 23,
+      "max": 22,
       "min": 9,
       "condition": "gyengén felhős",
       "icon": "☁️",
