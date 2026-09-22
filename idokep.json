@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "A szeles, gomolyos időben még jöhet pár zápor, zivatar",
-  "utoljára változott hőmérséklet az időképről": "2026.09.22. 08:35",
-  "flow_last_run": "2026.09.22. 08:35",
+  "utoljára változott hőmérséklet az időképről": "2026.09.22. 09:05",
+  "flow_last_run": "2026.09.22. 09:05",
   "current": {
-    "temperature": 10,
-    "condition": "Szitálás",
-    "icon": null
+    "temperature": 11,
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -23,21 +23,21 @@
       "day": "Szerda",
       "max": 18,
       "min": 9,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
       "max": 17,
       "min": 8,
-      "condition": "közepesen felhős",
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 18,
+      "max": 21,
       "min": 7,
       "condition": "közepesen felhős",
       "icon": "☁️",
