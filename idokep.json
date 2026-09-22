@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Kora őszi idő elszórt záporokkal",
-  "utoljára változott hőmérséklet az időképről": "2026.09.22. 21:35",
-  "flow_last_run": "2026.09.22. 21:35",
+  "utoljára változott hőmérséklet az időképről": "2026.09.22. 22:05",
+  "flow_last_run": "2026.09.22. 22:05",
   "current": {
     "temperature": 9,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "condition": "Köd",
+    "icon": "🌫️"
   },
   "forecast_7d": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "day": "Csütörtök",
-      "max": 17,
+      "max": 18,
       "min": 7,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -29,7 +29,7 @@
     },
     {
       "day": "Péntek",
-      "max": 18,
+      "max": 19,
       "min": 11,
       "condition": "zápor",
       "icon": "🌧️",
