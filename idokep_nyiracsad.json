@@ -3,25 +3,25 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Kora őszi idő elszórt záporokkal",
-  "updated": "2026.09.22. 20:28",
-  "flow_last_run": "2026.09.22. 20:28",
+  "updated": "2026.09.22. 23:35",
+  "flow_last_run": "2026.09.22. 23:35",
   "current": {
-    "temperature": 7,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 5,
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
       "max": 17,
-      "min": 7,
+      "min": 5,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 17,
+      "max": 18,
       "min": 7,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -29,7 +29,7 @@
     },
     {
       "day": "Péntek",
-      "max": 18,
+      "max": 19,
       "min": 11,
       "condition": "zápor",
       "icon": "🌧️",
@@ -61,7 +61,7 @@
     },
     {
       "day": "Kedd",
-      "max": 24,
+      "max": 23,
       "min": 9,
       "condition": "gyengén felhős",
       "icon": "☁️",
