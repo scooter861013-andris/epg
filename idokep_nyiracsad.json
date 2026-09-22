@@ -3,11 +3,11 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "A szeles, gomolyos időben még jöhet pár zápor, zivatar",
-  "updated": "2026.09.22. 12:10",
-  "flow_last_run": "2026.09.22. 12:10",
+  "updated": "2026.09.22. 16:53",
+  "flow_last_run": "2026.09.22. 16:53",
   "current": {
-    "temperature": 16,
-    "condition": "Erősen felhős",
+    "temperature": 15,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -37,8 +37,8 @@
     },
     {
       "day": "Péntek",
-      "max": 21,
-      "min": 7,
+      "max": 18,
+      "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -46,7 +46,7 @@
     {
       "day": "Szombat",
       "max": 20,
-      "min": 10,
+      "min": 9,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -54,7 +54,7 @@
     {
       "day": "Vasárnap",
       "max": 22,
-      "min": 8,
+      "min": 9,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
