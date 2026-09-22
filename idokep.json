@@ -2,9 +2,9 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
-  "focim": "A szeles, gomolyos időben még jöhet pár zápor, zivatar",
-  "utoljára változott hőmérséklet az időképről": "2026.09.22. 18:05",
-  "flow_last_run": "2026.09.22. 18:05",
+  "focim": "Kora őszi idő elszórt záporokkal",
+  "utoljára változott hőmérséklet az időképről": "2026.09.22. 18:35",
+  "flow_last_run": "2026.09.22. 18:35",
   "current": {
     "temperature": 12,
     "condition": "Borult",
@@ -12,19 +12,11 @@
   },
   "forecast_7d": [
     {
-      "day": "Kedd",
-      "max": 17,
-      "min": 8,
-      "condition": "zápor",
-      "icon": "🌧️",
-      "alert": null
-    },
-    {
       "day": "Szerda",
       "max": 18,
       "min": 8,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
@@ -39,14 +31,14 @@
       "day": "Péntek",
       "max": 18,
       "min": 11,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Szombat",
       "max": 20,
-      "min": 9,
+      "min": 6,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -66,11 +58,19 @@
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
+    },
+    {
+      "day": "Kedd",
+      "max": 24,
+      "min": 9,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
     }
   ],
   "sun": {
     "sunrise": "6:21",
     "sunset": "18:32",
-    "is_night": false
+    "is_night": true
   }
 }
