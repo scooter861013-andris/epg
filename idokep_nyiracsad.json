@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "A szeles, gomolyos időben még jöhet pár zápor, zivatar",
-  "updated": "2026.09.21. 23:54",
-  "flow_last_run": "2026.09.21. 23:54",
+  "updated": "2026.09.22. 02:34",
+  "flow_last_run": "2026.09.22. 02:34",
   "current": {
-    "temperature": 5,
+    "temperature": 6,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Kedd",
       "max": 16,
-      "min": 5,
+      "min": 6,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "6:18",
-    "sunset": "18:32",
+    "sunset": "18:30",
     "is_night": true
   }
 }
