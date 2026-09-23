@@ -4,7 +4,7 @@
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Kora őszi idő helyenként záporokkal",
   "utoljára változott hőmérséklet az időképről": "2026.09.23. 18:05",
-  "flow_last_run": "2026.09.23. 18:05",
+  "flow_last_run": "2026.09.23. 18:35",
   "current": {
     "temperature": 15,
     "condition": "Közepesen felhős",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:22",
     "sunset": "18:30",
-    "is_night": false
+    "is_night": true
   }
 }
