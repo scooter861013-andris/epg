@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti hatás várható",
-  "focim": "Este eső érkezik",
-  "updated": "2026.09.24. 16:17",
-  "flow_last_run": "2026.09.24. 16:17",
+  "focim": "Melegedés kezdődik, már csak elszórt záporok lehetnek",
+  "updated": "2026.09.24. 20:31",
+  "flow_last_run": "2026.09.24. 20:31",
   "current": {
-    "temperature": 17,
-    "condition": "Borult",
-    "icon": "☁️"
+    "temperature": 12,
+    "condition": "Eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
-    {
-      "day": "Csütörtök",
-      "max": 18,
-      "min": 7,
-      "condition": "erősen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Péntek",
       "max": 18,
@@ -46,7 +38,7 @@
     {
       "day": "Hétfő",
       "max": 23,
-      "min": 9,
+      "min": 5,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -66,11 +58,19 @@
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "max": 23,
+      "min": 10,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
     }
   ],
   "sun": {
     "sunrise": "6:22",
     "sunset": "18:26",
-    "is_night": false
+    "is_night": true
   }
 }
