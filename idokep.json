@@ -3,8 +3,8 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Este eső érkezik",
-  "utoljára változott hőmérséklet az időképről": "2026.09.24. 10:05",
-  "flow_last_run": "2026.09.24. 10:05",
+  "utoljára változott hőmérséklet az időképről": "2026.09.24. 10:35",
+  "flow_last_run": "2026.09.24. 10:35",
   "current": {
     "temperature": 15,
     "condition": "Erősen felhős",
@@ -46,7 +46,7 @@
     {
       "day": "Hétfő",
       "max": 23,
-      "min": 10,
+      "min": 9,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -62,7 +62,7 @@
     {
       "day": "Szerda",
       "max": 23,
-      "min": 10,
+      "min": 11,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
