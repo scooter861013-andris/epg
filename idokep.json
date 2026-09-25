@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Melegedés kezdődik, már csak elszórt záporok lehetnek",
-  "utoljára változott hőmérséklet az időképről": "2026.09.25. 04:05",
-  "flow_last_run": "2026.09.25. 04:05",
+  "utoljára változott hőmérséklet az időképről": "2026.09.25. 04:35",
+  "flow_last_run": "2026.09.25. 04:35",
   "current": {
     "temperature": 12,
-    "condition": "Borult",
-    "icon": "☁️"
+    "condition": "Köd",
+    "icon": "🌫️"
   },
   "forecast_7d": [
     {
@@ -30,7 +30,7 @@
     {
       "day": "Vasárnap",
       "max": 22,
-      "min": 9,
+      "min": 8,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -54,7 +54,7 @@
     {
       "day": "Szerda",
       "max": 23,
-      "min": 10,
+      "min": 11,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -62,7 +62,7 @@
     {
       "day": "Csütörtök",
       "max": 23,
-      "min": 11,
+      "min": 10,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
