@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Vénasszonyok nyara hűvös, hideg reggellel",
-  "utoljára változott hőmérséklet az időképről": "2026.09.26. 03:05",
-  "flow_last_run": "2026.09.26. 04:05",
+  "utoljára változott hőmérséklet az időképről": "2026.09.26. 04:35",
+  "flow_last_run": "2026.09.26. 04:35",
   "current": {
     "temperature": 7,
-    "condition": "Derült",
-    "icon": "🌙"
+    "condition": "Erősen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -30,7 +30,7 @@
     {
       "day": "Hétfő",
       "max": 24,
-      "min": 8,
+      "min": 9,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -54,15 +54,15 @@
     {
       "day": "Csütörtök",
       "max": 23,
-      "min": 10,
+      "min": 9,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 21,
-      "min": 10,
+      "max": 22,
+      "min": 9,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
