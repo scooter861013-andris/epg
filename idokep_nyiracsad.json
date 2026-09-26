@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Hosszan kitart a vénasszonyok nyara",
-  "updated": "2026.09.26. 20:17",
-  "flow_last_run": "2026.09.26. 20:17",
+  "updated": "2026.09.26. 23:22",
+  "flow_last_run": "2026.09.26. 23:22",
   "current": {
-    "temperature": 10,
+    "temperature": 7,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Vasárnap",
       "max": 23,
-      "min": 8,
+      "min": 7,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -45,7 +45,7 @@
     },
     {
       "day": "Csütörtök",
-      "max": 23,
+      "max": 24,
       "min": 8,
       "condition": "gyengén felhős",
       "icon": "☁️",
