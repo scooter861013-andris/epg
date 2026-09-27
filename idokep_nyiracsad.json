@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Csípős reggelek, kellemes délutánok jönnek",
-  "updated": "2026.09.27. 22:50",
-  "flow_last_run": "2026.09.27. 22:50",
+  "updated": "2026.09.28. 01:37",
+  "flow_last_run": "2026.09.28. 01:37",
   "current": {
-    "temperature": 8,
+    "temperature": 6,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,23 +14,23 @@
     {
       "day": "Hétfő",
       "max": 26,
-      "min": 3,
-      "condition": "derült",
-      "icon": "🌙",
-      "alert": null
-    },
-    {
-      "day": "Kedd",
-      "max": 25,
       "min": 4,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
     },
     {
+      "day": "Kedd",
+      "max": 26,
+      "min": 3,
+      "condition": "derült",
+      "icon": "🌙",
+      "alert": null
+    },
+    {
       "day": "Szerda",
-      "max": 23,
-      "min": 6,
+      "max": 25,
+      "min": 5,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "6:27",
-    "sunset": "18:20",
+    "sunset": "18:18",
     "is_night": true
   }
 }
