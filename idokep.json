@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Csípős reggelek, kellemes délutánok jönnek",
-  "utoljára változott hőmérséklet az időképről": "2026.09.28. 11:05",
-  "flow_last_run": "2026.09.28. 11:05",
+  "utoljára változott hőmérséklet az időképről": "2026.09.28. 11:35",
+  "flow_last_run": "2026.09.28. 11:35",
   "current": {
-    "temperature": 22,
+    "temperature": 23,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -30,7 +30,7 @@
     {
       "day": "Szerda",
       "max": 25,
-      "min": 9,
+      "min": 10,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -45,15 +45,15 @@
     },
     {
       "day": "Péntek",
-      "max": 23,
-      "min": 7,
+      "max": 24,
+      "min": 6,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 24,
+      "max": 25,
       "min": 6,
       "condition": "derült",
       "icon": "🌙",
@@ -61,8 +61,8 @@
     },
     {
       "day": "Vasárnap",
-      "max": 25,
-      "min": 5,
+      "max": 24,
+      "min": 7,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
