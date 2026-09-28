@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Vénasszonyok nyara csípős reggelekkel",
-  "updated": "2026.09.28. 19:00",
-  "flow_last_run": "2026.09.28. 19:00",
+  "updated": "2026.09.29. 00:32",
+  "flow_last_run": "2026.09.29. 00:32",
   "current": {
-    "temperature": 15,
+    "temperature": 9,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 25,
+      "max": 26,
       "min": 5,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -53,8 +53,8 @@
     },
     {
       "day": "Vasárnap",
-      "max": 25,
-      "min": 1,
+      "max": 26,
+      "min": 2,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -62,7 +62,7 @@
     {
       "day": "Hétfő",
       "max": 25,
-      "min": 3,
+      "min": 1,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "6:28",
-    "sunset": "18:18",
+    "sunset": "18:16",
     "is_night": true
   }
 }
