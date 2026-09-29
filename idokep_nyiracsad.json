@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Napos idő csípős reggellel",
-  "updated": "2026.09.29. 17:20",
-  "flow_last_run": "2026.09.29. 17:20",
+  "updated": "2026.09.29. 22:06",
+  "flow_last_run": "2026.09.29. 22:06",
   "current": {
-    "temperature": 24,
+    "temperature": 12,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Szerda",
       "max": 26,
-      "min": 9,
+      "min": 8,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -47,7 +47,7 @@
       "day": "Vasárnap",
       "max": 26,
       "min": 3,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:29",
     "sunset": "18:16",
-    "is_night": false
+    "is_night": true
   }
 }
