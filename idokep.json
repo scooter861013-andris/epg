@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Napos idő csípős reggellel",
-  "utoljára változott hőmérséklet az időképről": "2026.09.29. 18:05",
-  "flow_last_run": "2026.09.29. 18:05",
+  "utoljára változott hőmérséklet az időképről": "2026.09.29. 18:35",
+  "flow_last_run": "2026.09.29. 18:35",
   "current": {
-    "temperature": 21,
+    "temperature": 19,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:30",
     "sunset": "18:17",
-    "is_night": false
+    "is_night": true
   }
 }
