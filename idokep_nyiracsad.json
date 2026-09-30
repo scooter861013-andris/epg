@@ -3,22 +3,14 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Folytatódik a vénasszonyok nyara",
-  "updated": "2026.09.30. 17:35",
-  "flow_last_run": "2026.09.30. 17:35",
+  "updated": "2026.09.30. 22:18",
+  "flow_last_run": "2026.09.30. 22:18",
   "current": {
-    "temperature": 23,
+    "temperature": 7,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Szerda",
-      "max": 26,
-      "min": 7,
-      "condition": "derült",
-      "icon": "🌙",
-      "alert": null
-    },
     {
       "day": "Csütörtök",
       "max": 26,
@@ -31,20 +23,12 @@
       "day": "Péntek",
       "max": 26,
       "min": 3,
-      "condition": "derült",
-      "icon": "🌙",
-      "alert": null
-    },
-    {
-      "day": "Szombat",
-      "max": 26,
-      "min": 1,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
-      "day": "Vasárnap",
+      "day": "Szombat",
       "max": 26,
       "min": 1,
       "condition": "gyengén felhős",
@@ -52,10 +36,18 @@
       "alert": null
     },
     {
+      "day": "Vasárnap",
+      "max": 26,
+      "min": 1,
+      "condition": "derült",
+      "icon": "🌙",
+      "alert": null
+    },
+    {
       "day": "Hétfő",
       "max": 26,
       "min": 1,
-      "condition": "közepesen felhős",
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -63,7 +55,15 @@
       "day": "Kedd",
       "max": 26,
       "min": 3,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 27,
+      "min": 3,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     }
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:31",
     "sunset": "18:14",
-    "is_night": false
+    "is_night": true
   }
 }
