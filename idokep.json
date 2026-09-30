@@ -3,22 +3,14 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Folytatódik a vénasszonyok nyara",
-  "utoljára változott hőmérséklet az időképről": "2026.09.30. 17:35",
-  "flow_last_run": "2026.09.30. 17:35",
+  "utoljára változott hőmérséklet az időképről": "2026.09.30. 18:05",
+  "flow_last_run": "2026.09.30. 18:05",
   "current": {
-    "temperature": 22,
+    "temperature": 20,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Szerda",
-      "max": 24,
-      "min": 9,
-      "condition": "derült",
-      "icon": "🌙",
-      "alert": null
-    },
     {
       "day": "Csütörtök",
       "max": 24,
@@ -31,31 +23,31 @@
       "day": "Péntek",
       "max": 24,
       "min": 5,
-      "condition": "derült",
-      "icon": "🌙",
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
       "max": 24,
       "min": 5,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
       "max": 25,
-      "min": 4,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "min": 3,
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     },
     {
       "day": "Hétfő",
       "max": 24,
       "min": 4,
-      "condition": "közepesen felhős",
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -63,7 +55,15 @@
       "day": "Kedd",
       "max": 24,
       "min": 6,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 25,
+      "min": 6,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     }
