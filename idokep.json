@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Folytatódik a vénasszonyok nyara",
-  "utoljára változott hőmérséklet az időképről": "2026.10.01. 06:35",
-  "flow_last_run": "2026.10.01. 07:05",
+  "utoljára változott hőmérséklet az időképről": "2026.10.01. 07:35",
+  "flow_last_run": "2026.10.01. 07:35",
   "current": {
-    "temperature": 6,
+    "temperature": 7,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -22,7 +22,7 @@
     {
       "day": "Péntek",
       "max": 23,
-      "min": 5,
+      "min": 4,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -54,7 +54,7 @@
     {
       "day": "Kedd",
       "max": 24,
-      "min": 5,
+      "min": 4,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
