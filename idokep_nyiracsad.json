@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Őszi reggel, nyárias délután",
-  "updated": "2026.10.02. 00:54",
-  "flow_last_run": "2026.10.02. 00:54",
+  "updated": "2026.10.02. 03:58",
+  "flow_last_run": "2026.10.02. 03:58",
   "current": {
-    "temperature": 4,
+    "temperature": 1,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 25,
+      "max": 26,
       "min": 1,
       "condition": "derült",
       "icon": "🌙",
@@ -22,7 +22,7 @@
     {
       "day": "Szombat",
       "max": 24,
-      "min": 2,
+      "min": 1,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -30,7 +30,7 @@
     {
       "day": "Vasárnap",
       "max": 24,
-      "min": 3,
+      "min": 2,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
