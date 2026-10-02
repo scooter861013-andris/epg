@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Őszi reggel, nyárias délután",
-  "utoljára változott hőmérséklet az időképről": "2026.10.02. 16:35",
-  "flow_last_run": "2026.10.02. 16:35",
+  "utoljára változott hőmérséklet az időképről": "2026.10.02. 17:05",
+  "flow_last_run": "2026.10.02. 17:05",
   "current": {
-    "temperature": 22,
+    "temperature": 21,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -30,31 +30,31 @@
     {
       "day": "Vasárnap",
       "max": 24,
-      "min": 3,
+      "min": 4,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 22,
-      "min": 4,
+      "max": 23,
+      "min": 5,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 23,
-      "min": 7,
+      "max": 24,
+      "min": 6,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 24,
-      "min": 7,
+      "max": 25,
+      "min": 6,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -62,7 +62,7 @@
     {
       "day": "Csütörtök",
       "max": 23,
-      "min": 9,
+      "min": 10,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
