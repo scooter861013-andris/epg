@@ -2,42 +2,34 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
-  "focim": "Napos szombat kevés fátyolfelhővel",
-  "updated": "2026.10.03. 15:22",
-  "flow_last_run": "2026.10.03. 15:22",
+  "focim": "Napos idővel búcsúzik a hét",
+  "updated": "2026.10.03. 19:29",
+  "flow_last_run": "2026.10.03. 19:29",
   "current": {
-    "temperature": 24,
+    "temperature": 10,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
-      "day": "Szombat",
+      "day": "Vasárnap",
       "max": 25,
-      "min": 0,
+      "min": -1,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
-      "day": "Vasárnap",
-      "max": 25,
-      "min": 0,
-      "condition": "derült",
-      "icon": "🌙",
-      "alert": null
-    },
-    {
       "day": "Hétfő",
       "max": 24,
-      "min": 2,
-      "condition": "derült",
-      "icon": "🌙",
+      "min": 1,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 24,
+      "max": 25,
       "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -45,15 +37,15 @@
     },
     {
       "day": "Szerda",
-      "max": 26,
-      "min": 6,
-      "condition": "gyengén felhős",
+      "max": 25,
+      "min": 4,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 24,
+      "max": 25,
       "min": 10,
       "condition": "zápor",
       "icon": "🌧️",
@@ -61,8 +53,16 @@
     },
     {
       "day": "Péntek",
+      "max": 17,
+      "min": 15,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Szombat",
       "max": 16,
-      "min": 13,
+      "min": 8,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:35",
     "sunset": "18:08",
-    "is_night": false
+    "is_night": true
   }
 }
