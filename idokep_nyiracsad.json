@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Napos szombat kevés fátyolfelhővel",
-  "updated": "2026.10.03. 10:07",
-  "flow_last_run": "2026.10.03. 10:07",
+  "updated": "2026.10.03. 15:22",
+  "flow_last_run": "2026.10.03. 15:22",
   "current": {
-    "temperature": 18,
+    "temperature": 24,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -30,7 +30,7 @@
     {
       "day": "Hétfő",
       "max": 24,
-      "min": 3,
+      "min": 2,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -38,7 +38,7 @@
     {
       "day": "Kedd",
       "max": 24,
-      "min": 5,
+      "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -53,7 +53,7 @@
     },
     {
       "day": "Csütörtök",
-      "max": 25,
+      "max": 24,
       "min": 10,
       "condition": "zápor",
       "icon": "🌧️",
@@ -61,15 +61,15 @@
     },
     {
       "day": "Péntek",
-      "max": 15,
-      "min": 11,
+      "max": 16,
+      "min": 13,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     }
   ],
   "sun": {
-    "sunrise": "6:33",
+    "sunrise": "6:35",
     "sunset": "18:08",
     "is_night": false
   }
