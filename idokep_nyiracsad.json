@@ -3,25 +3,25 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Napos idővel búcsúzik a hét",
-  "updated": "2026.10.03. 19:29",
-  "flow_last_run": "2026.10.03. 19:29",
+  "updated": "2026.10.03. 22:07",
+  "flow_last_run": "2026.10.03. 22:07",
   "current": {
-    "temperature": 10,
+    "temperature": 5,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 25,
-      "min": -1,
+      "max": 26,
+      "min": 0,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 24,
+      "max": 25,
       "min": 1,
       "condition": "gyengén felhős",
       "icon": "☁️",
