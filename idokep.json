@@ -3,8 +3,8 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Napos idővel búcsúzik a hét",
-  "utoljára változott hőmérséklet az időképről": "2026.10.03. 23:05",
-  "flow_last_run": "2026.10.03. 23:05",
+  "utoljára változott hőmérséklet az időképről": "2026.10.03. 23:35",
+  "flow_last_run": "2026.10.03. 23:35",
   "current": {
     "temperature": 6,
     "condition": "Derült",
@@ -21,15 +21,15 @@
     },
     {
       "day": "Hétfő",
-      "max": 23,
-      "min": 4,
+      "max": 24,
+      "min": 5,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 24,
+      "max": 25,
       "min": 6,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -46,14 +46,14 @@
     {
       "day": "Csütörtök",
       "max": 25,
-      "min": 12,
+      "min": 11,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 16,
+      "max": 17,
       "min": 14,
       "condition": "zápor",
       "icon": "🌧️",
@@ -61,8 +61,8 @@
     },
     {
       "day": "Szombat",
-      "max": 16,
-      "min": 8,
+      "max": 17,
+      "min": 9,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
