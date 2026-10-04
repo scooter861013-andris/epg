@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Napos idővel búcsúzik a hét",
-  "updated": "2026.10.04. 01:02",
-  "flow_last_run": "2026.10.04. 01:02",
+  "updated": "2026.10.04. 04:37",
+  "flow_last_run": "2026.10.04. 04:37",
   "current": {
-    "temperature": 3,
+    "temperature": 0,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -30,7 +30,7 @@
     {
       "day": "Kedd",
       "max": 25,
-      "min": 5,
+      "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
