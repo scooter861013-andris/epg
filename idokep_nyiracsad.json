@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
-  "focim": "Még marad a vénasszonyok nyara",
-  "updated": "2026.10.05. 14:41",
-  "flow_last_run": "2026.10.05. 14:41",
+  "focim": "Pár nap maradt a vénasszonyok nyarából",
+  "updated": "2026.10.05. 22:57",
+  "flow_last_run": "2026.10.05. 22:57",
   "current": {
-    "temperature": 25,
+    "temperature": 7,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Hétfő",
-      "max": 25,
-      "min": -1,
-      "condition": "derült",
-      "icon": "🌙",
-      "alert": null
-    },
     {
       "day": "Kedd",
       "max": 26,
@@ -30,14 +22,14 @@
     {
       "day": "Szerda",
       "max": 26,
-      "min": 5,
-      "condition": "közepesen felhős",
+      "min": 4,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 26,
+      "max": 27,
       "min": 9,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -46,31 +38,39 @@
     {
       "day": "Péntek",
       "max": 20,
-      "min": 16,
+      "min": 13,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 20,
-      "min": 10,
+      "max": 18,
+      "min": 9,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 17,
+      "max": 16,
       "min": 11,
       "condition": "közepesen felhős",
       "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 18,
+      "min": 9,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     }
   ],
   "sun": {
     "sunrise": "6:38",
     "sunset": "18:04",
-    "is_night": false
+    "is_night": true
   }
 }
