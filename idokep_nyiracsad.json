@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Pár nap maradt a vénasszonyok nyarából",
-  "updated": "2026.10.05. 22:57",
-  "flow_last_run": "2026.10.05. 22:57",
+  "updated": "2026.10.06. 03:39",
+  "flow_last_run": "2026.10.06. 03:39",
   "current": {
-    "temperature": 7,
+    "temperature": 3,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -22,7 +22,7 @@
     {
       "day": "Szerda",
       "max": 26,
-      "min": 4,
+      "min": 3,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -37,7 +37,7 @@
     },
     {
       "day": "Péntek",
-      "max": 20,
+      "max": 18,
       "min": 13,
       "condition": "zápor",
       "icon": "🌧️",
@@ -45,7 +45,7 @@
     },
     {
       "day": "Szombat",
-      "max": 18,
+      "max": 19,
       "min": 9,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -53,8 +53,8 @@
     },
     {
       "day": "Vasárnap",
-      "max": 16,
-      "min": 11,
+      "max": 17,
+      "min": 10,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "6:38",
-    "sunset": "18:04",
+    "sunset": "18:02",
     "is_night": true
   }
 }
