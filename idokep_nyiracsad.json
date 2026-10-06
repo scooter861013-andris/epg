@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Szerdán még marad a napos, meleg idő",
-  "updated": "2026.10.06. 22:19",
-  "flow_last_run": "2026.10.06. 22:19",
+  "updated": "2026.10.07. 01:57",
+  "flow_last_run": "2026.10.07. 01:57",
   "current": {
-    "temperature": 7,
+    "temperature": 4,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,14 +14,14 @@
     {
       "day": "Szerda",
       "max": 27,
-      "min": 2,
+      "min": 1,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 27,
+      "max": 28,
       "min": 8,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -37,7 +37,7 @@
     },
     {
       "day": "Szombat",
-      "max": 19,
+      "max": 17,
       "min": 8,
       "condition": "zápor",
       "icon": "🌧️",
@@ -46,14 +46,14 @@
     {
       "day": "Vasárnap",
       "max": 16,
-      "min": 11,
+      "min": 10,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 17,
+      "max": 18,
       "min": 8,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -62,7 +62,7 @@
     {
       "day": "Kedd",
       "max": 19,
-      "min": 7,
+      "min": 6,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "6:39",
-    "sunset": "18:02",
+    "sunset": "18:00",
     "is_night": true
   }
 }
