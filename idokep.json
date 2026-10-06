@@ -3,8 +3,8 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Pár nap maradt a vénasszonyok nyarából",
-  "utoljára változott hőmérséklet az időképről": "2026.10.06. 06:35",
-  "flow_last_run": "2026.10.06. 06:35",
+  "utoljára változott hőmérséklet az időképről": "2026.10.06. 07:05",
+  "flow_last_run": "2026.10.06. 07:05",
   "current": {
     "temperature": 5,
     "condition": "Derült",
@@ -13,7 +13,7 @@
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 24,
+      "max": 25,
       "min": 5,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:39",
     "sunset": "18:03",
-    "is_night": true
+    "is_night": false
   }
 }
