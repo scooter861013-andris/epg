@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Szerdán még marad a napos, meleg idő",
-  "utoljára változott hőmérséklet az időképről": "2026.10.07. 10:05",
-  "flow_last_run": "2026.10.07. 10:05",
+  "utoljára változott hőmérséklet az időképről": "2026.10.07. 10:35",
+  "flow_last_run": "2026.10.07. 10:35",
   "current": {
-    "temperature": 16,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 18,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 25,
+      "max": 24,
       "min": 3,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -38,7 +38,7 @@
     {
       "day": "Szombat",
       "max": 18,
-      "min": 8,
+      "min": 7,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
