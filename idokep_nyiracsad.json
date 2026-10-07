@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Végét ér a vénasszonyok nyara",
-  "updated": "2026.10.07. 20:24",
-  "flow_last_run": "2026.10.07. 20:24",
+  "updated": "2026.10.08. 01:14",
+  "flow_last_run": "2026.10.08. 01:14",
   "current": {
-    "temperature": 9,
+    "temperature": 5,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Csütörtök",
       "max": 26,
-      "min": 9,
+      "min": 5,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -29,8 +29,8 @@
     },
     {
       "day": "Szombat",
-      "max": 20,
-      "min": 8,
+      "max": 21,
+      "min": 7,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -46,7 +46,7 @@
     {
       "day": "Hétfő",
       "max": 16,
-      "min": 8,
+      "min": 7,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -54,14 +54,14 @@
     {
       "day": "Kedd",
       "max": 16,
-      "min": 6,
+      "min": 7,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 16,
+      "max": 17,
       "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "6:40",
-    "sunset": "18:00",
+    "sunset": "17:58",
     "is_night": true
   }
 }
