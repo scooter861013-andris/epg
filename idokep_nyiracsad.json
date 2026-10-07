@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
-  "focim": "Szerdán még marad a napos, meleg idő",
-  "updated": "2026.10.07. 13:46",
-  "flow_last_run": "2026.10.07. 13:46",
+  "focim": "Végét ér a vénasszonyok nyara",
+  "updated": "2026.10.07. 20:24",
+  "flow_last_run": "2026.10.07. 20:24",
   "current": {
-    "temperature": 26,
+    "temperature": 9,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Szerda",
-      "max": 26,
-      "min": 6,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Csütörtök",
       "max": 26,
@@ -31,13 +23,13 @@
       "day": "Péntek",
       "max": 19,
       "min": 16,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "gyengén felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 19,
+      "max": 20,
       "min": 8,
       "condition": "zápor",
       "icon": "🌧️",
@@ -45,15 +37,15 @@
     },
     {
       "day": "Vasárnap",
-      "max": 13,
-      "min": 11,
+      "max": 14,
+      "min": 10,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 15,
+      "max": 16,
       "min": 8,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -61,8 +53,16 @@
     },
     {
       "day": "Kedd",
-      "max": 15,
+      "max": 16,
       "min": 6,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szerda",
+      "max": 16,
+      "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:40",
     "sunset": "18:00",
-    "is_night": false
+    "is_night": true
   }
 }
