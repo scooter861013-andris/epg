@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Szerdán még marad a napos, meleg idő",
-  "utoljára változott hőmérséklet az időképről": "2026.10.07. 11:05",
-  "flow_last_run": "2026.10.07. 11:05",
+  "utoljára változott hőmérséklet az időképről": "2026.10.07. 11:35",
+  "flow_last_run": "2026.10.07. 11:35",
   "current": {
-    "temperature": 20,
+    "temperature": 21,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
@@ -37,15 +37,15 @@
     },
     {
       "day": "Szombat",
-      "max": 18,
-      "min": 7,
+      "max": 19,
+      "min": 8,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 15,
+      "max": 13,
       "min": 11,
       "condition": "zápor",
       "icon": "🌧️",
@@ -61,8 +61,8 @@
     },
     {
       "day": "Kedd",
-      "max": 17,
-      "min": 6,
+      "max": 15,
+      "min": 7,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
