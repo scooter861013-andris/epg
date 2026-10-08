@@ -1,11 +1,11 @@
 {
   "forrás": "idokep.hu",
   "hivatkozás": "https://www.idokep.hu/horgasz",
-  "utoljára_változott_kapásindex": "2026.10.08. 08:50",
-  "utolsó_futás": "2026.10.08. 08:50",
+  "utoljára_változott_kapásindex": "2026.10.08. 10:50",
+  "utolsó_futás": "2026.10.08. 10:50",
   "nap_és_hold": {
-    "napkelte": "6:48",
-    "napnyugta": "18:07",
+    "napkelte": "6:42",
+    "napnyugta": "17:59",
     "holdkelte": "4:10",
     "holdnyugta": "17:05"
   },
@@ -15,12 +15,6 @@
       "holdfázis": 8,
       "halikonok_száma": 4,
       "minősítés": "Jó"
-    },
-    {
-      "időszak": "Csütörtök reggel",
-      "holdfázis": 8,
-      "halikonok_száma": 3,
-      "minősítés": "Átlagos"
     },
     {
       "időszak": "Csütörtök délután",
@@ -39,6 +33,12 @@
       "holdfázis": 8,
       "halikonok_száma": 4,
       "minősítés": "Jó"
+    },
+    {
+      "időszak": "Szombat reggel",
+      "holdfázis": 0,
+      "halikonok_száma": 4,
+      "minősítés": "Igazi pecaidő"
     },
     {
       "időszak": "Szombat",
