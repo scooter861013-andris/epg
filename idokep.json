@@ -3,8 +3,8 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás",
   "focim": "Felhők és napsütés váltakoznak",
-  "utoljára változott hőmérséklet az időképről": "2026.10.09. 10:05",
-  "flow_last_run": "2026.10.09. 10:05",
+  "utoljára változott hőmérséklet az időképről": "2026.10.09. 10:35",
+  "flow_last_run": "2026.10.09. 10:35",
   "current": {
     "temperature": 19,
     "condition": "Borult",
@@ -21,7 +21,7 @@
     },
     {
       "day": "Szombat",
-      "max": 20,
+      "max": 19,
       "min": 10,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -29,7 +29,7 @@
     },
     {
       "day": "Vasárnap",
-      "max": 13,
+      "max": 14,
       "min": 12,
       "condition": "eső",
       "icon": "🌧️",
@@ -45,8 +45,8 @@
     },
     {
       "day": "Kedd",
-      "max": 16,
-      "min": 6,
+      "max": 15,
+      "min": 7,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -61,7 +61,7 @@
     },
     {
       "day": "Csütörtök",
-      "max": 18,
+      "max": 17,
       "min": 6,
       "condition": "gyengén felhős",
       "icon": "☁️",
