@@ -1,35 +1,27 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Hidegfront érkezik nyugat felől",
-  "focim": "Véget ér a vénasszonyok nyara",
-  "utoljára változott hőmérséklet az időképről": "2026.10.08. 18:05",
-  "flow_last_run": "2026.10.08. 18:05",
+  "fronthatas": "Hidegfronti hatás",
+  "focim": "Felhők és napsütés váltakoznak",
+  "utoljára változott hőmérséklet az időképről": "2026.10.09. 06:31",
+  "flow_last_run": "2026.10.09. 06:31",
   "current": {
-    "temperature": 24,
-    "condition": "Borult",
+    "temperature": 17,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Csütörtök",
-      "max": 26,
-      "min": 11,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Péntek",
-      "max": 20,
+      "max": 19,
       "min": 16,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 21,
+      "max": 20,
       "min": 9,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -46,7 +38,7 @@
     {
       "day": "Hétfő",
       "max": 16,
-      "min": 8,
+      "min": 5,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -61,8 +53,16 @@
     },
     {
       "day": "Szerda",
-      "max": 17,
-      "min": 5,
+      "max": 16,
+      "min": 4,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "max": 18,
+      "min": 6,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "6:43",
-    "sunset": "17:59",
+    "sunset": "17:57",
     "is_night": true
   }
 }
