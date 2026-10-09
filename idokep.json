@@ -4,7 +4,7 @@
   "fronthatas": "Hidegfronti hatás",
   "focim": "Felhők és napsütés váltakoznak",
   "utoljára változott hőmérséklet az időképről": "2026.10.09. 06:35",
-  "flow_last_run": "2026.10.09. 06:35",
+  "flow_last_run": "2026.10.09. 07:05",
   "current": {
     "temperature": 17,
     "condition": "Erősen felhős",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:43",
     "sunset": "17:57",
-    "is_night": true
+    "is_night": false
   }
 }
