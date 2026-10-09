@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás",
   "focim": "Felhők és napsütés váltakoznak",
-  "updated": "2026.10.09. 03:43",
-  "flow_last_run": "2026.10.09. 03:43",
+  "updated": "2026.10.09. 10:01",
+  "flow_last_run": "2026.10.09. 10:01",
   "current": {
-    "temperature": 15,
-    "condition": "Erősen felhős",
+    "temperature": 17,
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 20,
-      "min": 15,
+      "max": 19,
+      "min": 16,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -38,7 +38,7 @@
     {
       "day": "Hétfő",
       "max": 16,
-      "min": 5,
+      "min": 8,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -54,15 +54,15 @@
     {
       "day": "Szerda",
       "max": 16,
-      "min": 3,
+      "min": 4,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 19,
-      "min": 5,
+      "max": 18,
+      "min": 6,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:42",
     "sunset": "17:56",
-    "is_night": true
+    "is_night": false
   }
 }
