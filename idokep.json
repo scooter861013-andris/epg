@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás",
   "focim": "Felhők és napsütés váltakoznak",
-  "utoljára változott hőmérséklet az időképről": "2026.10.09. 10:35",
-  "flow_last_run": "2026.10.09. 10:35",
+  "utoljára változott hőmérséklet az időképről": "2026.10.09. 11:05",
+  "flow_last_run": "2026.10.09. 11:05",
   "current": {
     "temperature": 19,
-    "condition": "Borult",
-    "icon": "☁️"
+    "condition": "Eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 20,
+      "max": 21,
       "min": 16,
       "condition": "gyengén felhős",
       "icon": "☁️",
