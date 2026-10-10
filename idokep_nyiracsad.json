@@ -1,58 +1,34 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Melegfronti hatás",
-  "focim": "Sokáig kitart a napos idő",
-  "updated": "2026.10.10. 18:56",
-  "flow_last_run": "2026.10.10. 18:56",
+  "fronthatas": "Hidegfronti hatás",
+  "focim": "Esős, borongós idő",
+  "updated": "2026.10.10. 22:28",
+  "flow_last_run": "2026.10.10. 22:28",
   "current": {
-    "temperature": 15,
+    "temperature": 14,
     "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Szombat",
-      "max": 20,
-      "min": 10,
-      "condition": "erősen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Vasárnap",
-      "max": 14,
-      "min": 11,
+      "max": 15,
+      "min": 12,
       "condition": "gyenge eső",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 16,
+      "max": 17,
       "min": 8,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
-      "day": "Kedd",
-      "max": 16,
-      "min": 7,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
-      "day": "Szerda",
-      "max": 15,
-      "min": 3,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
-      "day": "Csütörtök",
+      "day": "Kedd",
       "max": 16,
       "min": 6,
       "condition": "gyengén felhős",
@@ -60,8 +36,32 @@
       "alert": null
     },
     {
+      "day": "Szerda",
+      "max": 15,
+      "min": 2,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "max": 15,
+      "min": 7,
+      "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
       "day": "Péntek",
-      "max": 16,
+      "max": 15,
+      "min": 6,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Szombat",
+      "max": 15,
       "min": 6,
       "condition": "közepesen felhős",
       "icon": "☁️",
