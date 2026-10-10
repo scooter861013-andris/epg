@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti hatás",
   "focim": "Sokáig kitart a napos idő",
-  "updated": "2026.10.09. 22:12",
-  "flow_last_run": "2026.10.09. 22:12",
+  "updated": "2026.10.10. 02:03",
+  "flow_last_run": "2026.10.10. 02:03",
   "current": {
-    "temperature": 10,
+    "temperature": 7,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Szombat",
       "max": 21,
-      "min": 9,
+      "min": 7,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "6:43",
-    "sunset": "17:56",
+    "sunset": "17:54",
     "is_night": true
   }
 }
