@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti hatás",
   "focim": "Sokáig kitart a napos idő",
-  "utoljára változott hőmérséklet az időképről": "2026.10.10. 17:35",
-  "flow_last_run": "2026.10.10. 17:35",
+  "utoljára változott hőmérséklet az időképről": "2026.10.10. 18:05",
+  "flow_last_run": "2026.10.10. 18:05",
   "current": {
-    "temperature": 19,
-    "condition": "Borult",
-    "icon": "☁️"
+    "temperature": 18,
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
@@ -30,7 +30,7 @@
     {
       "day": "Hétfő",
       "max": 16,
-      "min": 7,
+      "min": 8,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:46",
     "sunset": "17:55",
-    "is_night": false
+    "is_night": true
   }
 }
