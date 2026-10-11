@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás",
   "focim": "Borongós idő kevés esővel",
-  "updated": "2026.10.11. 10:57",
-  "flow_last_run": "2026.10.11. 10:57",
+  "updated": "2026.10.11. 17:27",
+  "flow_last_run": "2026.10.11. 17:27",
   "current": {
     "temperature": 13,
-    "condition": "Szitálás",
-    "icon": null
+    "condition": "Borult",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 14,
+      "max": 15,
       "min": 12,
       "condition": "gyenge eső",
       "icon": "🌧️",
@@ -22,15 +22,15 @@
     {
       "day": "Hétfő",
       "max": 17,
-      "min": 8,
+      "min": 7,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 16,
-      "min": 7,
+      "max": 15,
+      "min": 6,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -38,7 +38,7 @@
     {
       "day": "Szerda",
       "max": 15,
-      "min": 2,
+      "min": 3,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -46,7 +46,7 @@
     {
       "day": "Csütörtök",
       "max": 15,
-      "min": 6,
+      "min": 7,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -62,14 +62,14 @@
     {
       "day": "Szombat",
       "max": 15,
-      "min": 6,
+      "min": 7,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     }
   ],
   "sun": {
-    "sunrise": "6:45",
+    "sunrise": "6:46",
     "sunset": "17:52",
     "is_night": false
   }
