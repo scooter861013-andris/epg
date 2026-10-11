@@ -3,25 +3,25 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Gyakran lesz felhős az ég hétfőn",
-  "updated": "2026.10.11. 21:38",
-  "flow_last_run": "2026.10.11. 21:38",
+  "updated": "2026.10.12. 01:10",
+  "flow_last_run": "2026.10.12. 01:10",
   "current": {
-    "temperature": 11,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "temperature": 6,
+    "condition": "Köd",
+    "icon": "🌫️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
       "max": 17,
-      "min": 7,
+      "min": 6,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 15,
+      "max": 16,
       "min": 6,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -30,7 +30,7 @@
     {
       "day": "Szerda",
       "max": 15,
-      "min": 3,
+      "min": 1,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -46,7 +46,7 @@
     {
       "day": "Péntek",
       "max": 15,
-      "min": 7,
+      "min": 6,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -62,7 +62,7 @@
     {
       "day": "Vasárnap",
       "max": 15,
-      "min": 9,
+      "min": 10,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "6:46",
-    "sunset": "17:52",
+    "sunset": "17:50",
     "is_night": true
   }
 }
