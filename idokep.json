@@ -4,7 +4,7 @@
   "fronthatas": "Hidegfronti hatás",
   "focim": "Esős, borongós idő",
   "utoljára változott hőmérséklet az időképről": "2026.10.11. 06:05",
-  "flow_last_run": "2026.10.11. 06:35",
+  "flow_last_run": "2026.10.11. 07:05",
   "current": {
     "temperature": 12,
     "condition": "Eső",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:46",
     "sunset": "17:53",
-    "is_night": true
+    "is_night": false
   }
 }
