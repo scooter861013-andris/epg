@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás",
   "focim": "Esős, borongós idő",
-  "utoljára változott hőmérséklet az időképről": "2026.10.11. 09:05",
-  "flow_last_run": "2026.10.11. 09:05",
+  "utoljára változott hőmérséklet az időképről": "2026.10.11. 09:35",
+  "flow_last_run": "2026.10.11. 09:35",
   "current": {
     "temperature": 13,
-    "condition": "Gyenge eső",
-    "icon": "🌧️"
+    "condition": "Borult",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -39,14 +39,14 @@
       "day": "Szerda",
       "max": 15,
       "min": 2,
-      "condition": "gyengén felhős",
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
       "max": 15,
-      "min": 6,
+      "min": 7,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -61,8 +61,8 @@
     },
     {
       "day": "Szombat",
-      "max": 14,
-      "min": 7,
+      "max": 15,
+      "min": 6,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
