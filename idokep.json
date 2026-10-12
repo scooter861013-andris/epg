@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Gyakran lesz felhős az ég hétfőn",
-  "utoljára változott hőmérséklet az időképről": "2026.10.12. 11:35",
-  "flow_last_run": "2026.10.12. 11:35",
+  "utoljára változott hőmérséklet az időképről": "2026.10.12. 12:05",
+  "flow_last_run": "2026.10.12. 12:05",
   "current": {
-    "temperature": 14,
-    "condition": "Erősen felhős",
+    "temperature": 15,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "6:47",
+    "sunrise": "6:49",
     "sunset": "17:51",
     "is_night": false
   }
