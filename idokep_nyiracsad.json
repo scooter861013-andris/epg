@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Gyakran lesz felhős az ég hétfőn",
-  "updated": "2026.10.12. 01:10",
-  "flow_last_run": "2026.10.12. 01:10",
+  "updated": "2026.10.12. 04:23",
+  "flow_last_run": "2026.10.12. 04:23",
   "current": {
-    "temperature": 6,
+    "temperature": 4,
     "condition": "Köd",
     "icon": "🌫️"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Hétfő",
       "max": 17,
-      "min": 6,
+      "min": 8,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
