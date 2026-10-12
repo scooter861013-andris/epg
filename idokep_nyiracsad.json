@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Gyakran lesz felhős az ég hétfőn",
-  "updated": "2026.10.12. 04:23",
-  "flow_last_run": "2026.10.12. 04:23",
+  "updated": "2026.10.12. 11:33",
+  "flow_last_run": "2026.10.12. 11:33",
   "current": {
-    "temperature": 4,
-    "condition": "Köd",
-    "icon": "🌫️"
+    "temperature": 15,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 17,
+      "max": 16,
       "min": 8,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -21,7 +21,7 @@
     },
     {
       "day": "Kedd",
-      "max": 16,
+      "max": 15,
       "min": 6,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -29,16 +29,16 @@
     },
     {
       "day": "Szerda",
-      "max": 15,
-      "min": 1,
-      "condition": "erősen felhős",
+      "max": 16,
+      "min": 3,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
       "max": 15,
-      "min": 3,
+      "min": 6,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -54,7 +54,7 @@
     {
       "day": "Szombat",
       "max": 15,
-      "min": 7,
+      "min": 6,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -62,7 +62,7 @@
     {
       "day": "Vasárnap",
       "max": 15,
-      "min": 10,
+      "min": 9,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:46",
     "sunset": "17:50",
-    "is_night": true
+    "is_night": false
   }
 }
