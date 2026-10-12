@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Gyakran lesz felhős az ég hétfőn",
-  "utoljára változott hőmérséklet az időképről": "2026.10.12. 10:05",
-  "flow_last_run": "2026.10.12. 10:05",
+  "utoljára változott hőmérséklet az időképről": "2026.10.12. 10:35",
+  "flow_last_run": "2026.10.12. 10:35",
   "current": {
-    "temperature": 12,
-    "condition": "Gyengén felhős",
+    "temperature": 13,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -29,15 +29,15 @@
     },
     {
       "day": "Szerda",
-      "max": 15,
-      "min": 1,
+      "max": 16,
+      "min": 3,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 16,
+      "max": 15,
       "min": 6,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -45,16 +45,16 @@
     },
     {
       "day": "Péntek",
-      "max": 15,
-      "min": 7,
+      "max": 16,
+      "min": 6,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 15,
-      "min": 7,
+      "max": 16,
+      "min": 6,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -62,7 +62,7 @@
     {
       "day": "Vasárnap",
       "max": 15,
-      "min": 10,
+      "min": 9,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
