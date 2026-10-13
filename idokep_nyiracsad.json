@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Nyugodt, őszies idő",
-  "updated": "2026.10.13. 03:31",
-  "flow_last_run": "2026.10.13. 03:31",
+  "updated": "2026.10.13. 10:27",
+  "flow_last_run": "2026.10.13. 10:27",
   "current": {
-    "temperature": 5,
+    "temperature": 12,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -37,9 +37,9 @@
     },
     {
       "day": "Péntek",
-      "max": 16,
-      "min": 2,
-      "condition": "gyengén felhős",
+      "max": 15,
+      "min": 7,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -61,7 +61,7 @@
     },
     {
       "day": "Hétfő",
-      "max": 16,
+      "max": 17,
       "min": 8,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:47",
     "sunset": "17:48",
-    "is_night": true
+    "is_night": false
   }
 }
