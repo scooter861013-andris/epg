@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
   "focim": "Nyugodt őszi idő",
-  "updated": "2026.10.13. 23:24",
-  "flow_last_run": "2026.10.13. 23:24",
+  "updated": "2026.10.14. 02:27",
+  "flow_last_run": "2026.10.14. 02:27",
   "current": {
-    "temperature": 5,
+    "temperature": 4,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "6:49",
-    "sunset": "17:48",
+    "sunset": "17:46",
     "is_night": true
   }
 }
