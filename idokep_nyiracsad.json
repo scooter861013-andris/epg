@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Kissé szeles őszi idő",
-  "updated": "2026.10.15. 21:07",
-  "flow_last_run": "2026.10.15. 21:07",
+  "updated": "2026.10.16. 00:15",
+  "flow_last_run": "2026.10.16. 00:15",
   "current": {
-    "temperature": 5,
+    "temperature": 6,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Péntek",
       "max": 17,
-      "min": 5,
+      "min": 6,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -29,7 +29,7 @@
     },
     {
       "day": "Vasárnap",
-      "max": 16,
+      "max": 17,
       "min": 9,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -45,8 +45,8 @@
     },
     {
       "day": "Kedd",
-      "max": 18,
-      "min": 8,
+      "max": 19,
+      "min": 9,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -62,7 +62,7 @@
     {
       "day": "Csütörtök",
       "max": 19,
-      "min": 10,
+      "min": 11,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "6:52",
-    "sunset": "17:44",
+    "sunset": "17:43",
     "is_night": true
   }
 }
