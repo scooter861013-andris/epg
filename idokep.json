@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Frontmentes idő",
   "focim": "Kis eső, zápor nem kizárt",
-  "utoljára változott hőmérséklet az időképről": "2026.10.15. 07:35",
-  "flow_last_run": "2026.10.15. 08:35",
+  "utoljára változott hőmérséklet az időképről": "2026.10.15. 09:05",
+  "flow_last_run": "2026.10.15. 09:05",
   "current": {
-    "temperature": 9,
+    "temperature": 10,
     "condition": "Borult",
     "icon": "☁️"
   },
@@ -31,14 +31,14 @@
       "day": "Szombat",
       "max": 13,
       "min": 9,
-      "condition": "gyenge eső",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
       "max": 17,
-      "min": 4,
+      "min": 9,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
