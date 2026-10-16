@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti tünetek",
   "focim": "Borongós idő kevés esővel",
-  "updated": "2026.10.16. 23:29",
-  "flow_last_run": "2026.10.16. 23:29",
+  "updated": "2026.10.17. 01:48",
+  "flow_last_run": "2026.10.17. 01:48",
   "current": {
-    "temperature": 11,
-    "condition": "Gyenge eső",
-    "icon": "🌧️"
+    "temperature": 9,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "6:53",
-    "sunset": "17:43",
+    "sunset": "17:41",
     "is_night": true
   }
 }
