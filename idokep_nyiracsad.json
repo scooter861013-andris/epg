@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Nem lesz front felettünk",
-  "focim": "Kissé szeles őszi idő",
-  "updated": "2026.10.16. 16:30",
-  "flow_last_run": "2026.10.16. 16:30",
+  "fronthatas": "Melegfronti tünetek",
+  "focim": "Borongós idő kevés esővel",
+  "updated": "2026.10.16. 20:17",
+  "flow_last_run": "2026.10.16. 20:17",
   "current": {
-    "temperature": 15,
-    "condition": "Közepesen felhős",
-    "icon": "☁️"
+    "temperature": 12,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Péntek",
-      "max": 17,
-      "min": 6,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Szombat",
       "max": 14,
@@ -31,7 +23,7 @@
       "day": "Vasárnap",
       "max": 16,
       "min": 8,
-      "condition": "közepesen felhős",
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -46,7 +38,7 @@
     {
       "day": "Kedd",
       "max": 19,
-      "min": 10,
+      "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -66,11 +58,19 @@
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
+    },
+    {
+      "day": "Péntek",
+      "max": 16,
+      "min": 11,
+      "condition": "erősen felhős",
+      "icon": "☁️",
+      "alert": null
     }
   ],
   "sun": {
     "sunrise": "6:53",
     "sunset": "17:43",
-    "is_night": false
+    "is_night": true
   }
 }
