@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti tünetek",
-  "focim": "Kissé szeles őszi idő",
-  "utoljára változott hőmérséklet az időképről": "2026.10.16. 19:35",
-  "flow_last_run": "2026.10.16. 19:35",
+  "focim": "Borongós idő kevés esővel",
+  "utoljára változott hőmérséklet az időképről": "2026.10.16. 20:05",
+  "flow_last_run": "2026.10.16. 20:05",
   "current": {
     "temperature": 12,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Péntek",
-      "max": 15,
-      "min": 5,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Szombat",
       "max": 13,
@@ -31,7 +23,7 @@
       "day": "Vasárnap",
       "max": 16,
       "min": 9,
-      "condition": "közepesen felhős",
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -46,7 +38,7 @@
     {
       "day": "Kedd",
       "max": 19,
-      "min": 10,
+      "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -63,6 +55,14 @@
       "day": "Csütörtök",
       "max": 17,
       "min": 12,
+      "condition": "erősen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Péntek",
+      "max": 15,
+      "min": 11,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
