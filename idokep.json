@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Kissé szeles őszi idő",
-  "utoljára változott hőmérséklet az időképről": "2026.10.16. 11:35",
-  "flow_last_run": "2026.10.16. 11:35",
+  "utoljára változott hőmérséklet az időképről": "2026.10.16. 12:05",
+  "flow_last_run": "2026.10.16. 12:05",
   "current": {
-    "temperature": 14,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 15,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "6:53",
+    "sunrise": "6:55",
     "sunset": "17:44",
     "is_night": false
   }
