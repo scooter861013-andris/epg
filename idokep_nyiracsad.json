@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Kissé szeles őszi idő",
-  "updated": "2026.10.16. 07:00",
-  "flow_last_run": "2026.10.16. 07:00",
+  "updated": "2026.10.16. 11:47",
+  "flow_last_run": "2026.10.16. 11:47",
   "current": {
-    "temperature": 6,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 16,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 17,
+      "max": 19,
       "min": 6,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -23,23 +23,23 @@
       "day": "Szombat",
       "max": 14,
       "min": 7,
-      "condition": "erősen felhős",
-      "icon": "☁️",
+      "condition": "gyenge eső",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Vasárnap",
       "max": 16,
-      "min": 9,
+      "min": 8,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 19,
-      "min": 8,
-      "condition": "gyengén felhős",
+      "max": 18,
+      "min": 10,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -54,15 +54,15 @@
     {
       "day": "Szerda",
       "max": 20,
-      "min": 10,
+      "min": 9,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 16,
-      "min": 11,
+      "max": 17,
+      "min": 12,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
