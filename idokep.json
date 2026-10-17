@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Gyenge kettősfronti hatás",
   "focim": "Kezdetben helyenként kisebb eső előfordulhat",
-  "utoljára változott hőmérséklet az időképről": "2026.10.17. 17:05",
-  "flow_last_run": "2026.10.17. 17:05",
+  "utoljára változott hőmérséklet az időképről": "2026.10.17. 17:35",
+  "flow_last_run": "2026.10.17. 17:35",
   "current": {
-    "temperature": 13,
+    "temperature": 12,
     "condition": "Borult",
     "icon": "☁️"
   },
@@ -22,22 +22,22 @@
     {
       "day": "Hétfő",
       "max": 17,
-      "min": 10,
-      "condition": "erősen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
-      "day": "Kedd",
-      "max": 18,
       "min": 9,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
+      "day": "Kedd",
+      "max": 17,
+      "min": 8,
+      "condition": "erősen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
       "day": "Szerda",
-      "max": 20,
+      "max": 21,
       "min": 9,
       "condition": "zápor",
       "icon": "🌧️",
@@ -45,26 +45,26 @@
     },
     {
       "day": "Csütörtök",
-      "max": 17,
-      "min": 12,
+      "max": 16,
+      "min": 13,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 17,
-      "min": 12,
-      "condition": "erősen felhős",
-      "icon": "☁️",
+      "max": 14,
+      "min": 11,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 16,
-      "min": 12,
-      "condition": "pára",
-      "icon": null,
+      "max": 15,
+      "min": 10,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
