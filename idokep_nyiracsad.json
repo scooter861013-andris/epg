@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Gyenge kettősfronti hatás",
   "focim": "Kezdetben helyenként kisebb eső előfordulhat",
-  "updated": "2026.10.17. 23:44",
-  "flow_last_run": "2026.10.17. 23:44",
+  "updated": "2026.10.18. 01:29",
+  "flow_last_run": "2026.10.18. 01:29",
   "current": {
     "temperature": 9,
-    "condition": "Borult",
-    "icon": "☁️"
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "6:55",
-    "sunset": "17:41",
+    "sunset": "17:39",
     "is_night": true
   }
 }
