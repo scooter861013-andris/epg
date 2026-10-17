@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti tünetek",
   "focim": "Borongós idő kevés esővel",
-  "utoljára változott hőmérséklet az időképről": "2026.10.17. 07:35",
-  "flow_last_run": "2026.10.17. 08:35",
+  "utoljára változott hőmérséklet az időképről": "2026.10.17. 09:05",
+  "flow_last_run": "2026.10.17. 09:05",
   "current": {
-    "temperature": 9,
+    "temperature": 10,
     "condition": "Borult",
     "icon": "☁️"
   },
@@ -38,7 +38,7 @@
     {
       "day": "Kedd",
       "max": 19,
-      "min": 5,
+      "min": 10,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
