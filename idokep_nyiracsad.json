@@ -2,34 +2,26 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Gyenge kettősfronti hatás",
-  "focim": "Kezdetben helyenként kisebb eső előfordulhat",
-  "updated": "2026.10.18. 16:49",
-  "flow_last_run": "2026.10.18. 16:49",
+  "focim": "Kissé szeles, fátyolfelhős idővel indul a hét",
+  "updated": "2026.10.18. 19:47",
+  "flow_last_run": "2026.10.18. 19:47",
   "current": {
-    "temperature": 16,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 12,
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Vasárnap",
-      "max": 18,
-      "min": 9,
-      "condition": "erősen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Hétfő",
       "max": 18,
-      "min": 7,
+      "min": 6,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 19,
+      "max": 17,
       "min": 5,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -37,24 +29,24 @@
     },
     {
       "day": "Szerda",
-      "max": 21,
+      "max": 22,
       "min": 8,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": 16,
-      "min": 12,
-      "condition": "eső",
+      "max": 15,
+      "min": 10,
+      "condition": "eső viharos széllel",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Péntek",
       "max": 13,
-      "min": 10,
+      "min": 9,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -62,15 +54,23 @@
     {
       "day": "Szombat",
       "max": 15,
-      "min": 8,
+      "min": 6,
       "condition": "erősen felhős",
       "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Vasárnap",
+      "max": 16,
+      "min": 6,
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     }
   ],
   "sun": {
     "sunrise": "6:56",
     "sunset": "17:39",
-    "is_night": false
+    "is_night": true
   }
 }
