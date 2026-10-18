@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Gyenge kettősfronti hatás",
   "focim": "Kissé szeles, fátyolfelhős idővel indul a hét",
-  "utoljára változott hőmérséklet az időképről": "2026.10.18. 23:35",
-  "flow_last_run": "2026.10.18. 23:35",
+  "utoljára változott hőmérséklet az időképről": "2026.10.19. 00:05",
+  "flow_last_run": "2026.10.19. 00:05",
   "current": {
-    "temperature": 12,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 11,
+    "condition": "Erősen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "6:58",
-    "sunset": "17:40",
+    "sunset": "17:38",
     "is_night": true
   }
 }
