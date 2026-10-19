@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Gyenge kettősfronti hatás",
   "focim": "Kissé szeles, fátyolfelhős idővel indul a hét",
-  "updated": "2026.10.19. 07:03",
-  "flow_last_run": "2026.10.19. 07:03",
+  "updated": "2026.10.19. 12:45",
+  "flow_last_run": "2026.10.19. 12:45",
   "current": {
-    "temperature": 7,
+    "temperature": 17,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 20,
+      "max": 19,
       "min": 7,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -38,14 +38,14 @@
     {
       "day": "Csütörtök",
       "max": 15,
-      "min": 10,
-      "condition": "eső viharos széllel",
+      "min": 12,
+      "condition": "gyenge eső",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 13,
+      "max": 14,
       "min": 9,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -62,14 +62,14 @@
     {
       "day": "Vasárnap",
       "max": 17,
-      "min": 6,
+      "min": 8,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     }
   ],
   "sun": {
-    "sunrise": "6:56",
+    "sunrise": "6:58",
     "sunset": "17:37",
     "is_night": false
   }
