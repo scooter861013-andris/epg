@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
-  "focim": "Felhős őszi idő",
-  "utoljára változott hőmérséklet az időképről": "2026.10.20. 17:05",
-  "flow_last_run": "2026.10.20. 17:05",
+  "focim": "Egy kis napsütés az eső előtt",
+  "utoljára változott hőmérséklet az időképről": "2026.10.20. 17:35",
+  "flow_last_run": "2026.10.20. 17:35",
   "current": {
-    "temperature": 15,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 14,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Kedd",
-      "max": 16,
-      "min": 6,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Szerda",
       "max": 22,
@@ -31,29 +23,29 @@
       "day": "Csütörtök",
       "max": 15,
       "min": 13,
-      "condition": "zápor",
+      "condition": "eső viharos széllel",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 13,
-      "min": 9,
-      "condition": "erősen felhős",
+      "max": 15,
+      "min": 10,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 14,
-      "min": 7,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "max": 15,
+      "min": 5,
+      "condition": "erősen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 17,
+      "max": 16,
       "min": 6,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -65,6 +57,14 @@
       "min": 10,
       "condition": "zápor",
       "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Kedd",
+      "max": 15,
+      "min": 6,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
