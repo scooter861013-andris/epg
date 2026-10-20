@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
   "focim": "Felhős őszi idő",
-  "utoljára változott hőmérséklet az időképről": "2026.10.20. 11:35",
-  "flow_last_run": "2026.10.20. 11:35",
+  "utoljára változott hőmérséklet az időképről": "2026.10.20. 12:05",
+  "flow_last_run": "2026.10.20. 12:05",
   "current": {
-    "temperature": 13,
-    "condition": "Gyengén felhős",
+    "temperature": 15,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "6:59",
+    "sunrise": "7:00",
     "sunset": "17:36",
     "is_night": false
   }
