@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
   "focim": "Felhős őszi idő",
-  "updated": "2026.10.19. 23:39",
-  "flow_last_run": "2026.10.19. 23:39",
+  "updated": "2026.10.20. 02:39",
+  "flow_last_run": "2026.10.20. 02:39",
   "current": {
-    "temperature": 7,
-    "condition": "Közepesen felhős",
+    "temperature": 5,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
       "max": 18,
-      "min": 5,
+      "min": 4,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "6:58",
-    "sunset": "17:37",
+    "sunset": "17:35",
     "is_night": true
   }
 }
