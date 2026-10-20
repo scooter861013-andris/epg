@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek előfordulhatnak",
   "focim": "Egy kis napsütés az eső előtt",
-  "updated": "2026.10.20. 21:28",
-  "flow_last_run": "2026.10.20. 21:28",
+  "updated": "2026.10.21. 00:32",
+  "flow_last_run": "2026.10.21. 00:32",
   "current": {
-    "temperature": 10,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 5,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 24,
+      "max": 25,
       "min": 4,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -22,15 +22,15 @@
     {
       "day": "Csütörtök",
       "max": 16,
-      "min": 11,
+      "min": 10,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 15,
-      "min": 9,
+      "max": 16,
+      "min": 8,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -38,7 +38,7 @@
     {
       "day": "Szombat",
       "max": 15,
-      "min": 5,
+      "min": 4,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -54,15 +54,15 @@
     {
       "day": "Hétfő",
       "max": 14,
-      "min": 10,
+      "min": 9,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 15,
-      "min": 6,
+      "max": 14,
+      "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "6:59",
-    "sunset": "17:35",
+    "sunset": "17:33",
     "is_night": true
   }
 }
