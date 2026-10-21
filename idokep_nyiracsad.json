@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Csapadékos csütörtök",
-  "updated": "2026.10.21. 21:56",
-  "flow_last_run": "2026.10.21. 21:56",
+  "updated": "2026.10.22. 01:02",
+  "flow_last_run": "2026.10.22. 01:02",
   "current": {
-    "temperature": 10,
-    "condition": "Gyengén felhős",
+    "temperature": 9,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "max": 17,
+      "max": 18,
       "min": 8,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
@@ -22,15 +22,15 @@
     {
       "day": "Péntek",
       "max": 16,
-      "min": 7,
+      "min": 6,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 16,
-      "min": 4,
+      "max": 17,
+      "min": 3,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -45,8 +45,8 @@
     },
     {
       "day": "Hétfő",
-      "max": 15,
-      "min": 9,
+      "max": 14,
+      "min": 10,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -61,7 +61,7 @@
     },
     {
       "day": "Szerda",
-      "max": 15,
+      "max": 16,
       "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "7:01",
-    "sunset": "17:33",
+    "sunset": "17:32",
     "is_night": true
   }
 }
