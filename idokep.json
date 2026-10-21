@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Meleg- és hidegfronti tünetek egyaránt jelentkezhetnek",
   "focim": "Egy kis napsütés az eső előtt",
-  "utoljára változott hőmérséklet az időképről": "2026.10.21. 09:05",
-  "flow_last_run": "2026.10.21. 09:05",
+  "utoljára változott hőmérséklet az időképről": "2026.10.21. 09:35",
+  "flow_last_run": "2026.10.21. 09:35",
   "current": {
-    "temperature": 12,
+    "temperature": 13,
     "condition": "Közepesen felhős",
     "icon": "☁️"
   },
@@ -31,15 +31,15 @@
       "day": "Péntek",
       "max": 15,
       "min": 9,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     },
     {
       "day": "Szombat",
       "max": 15,
       "min": 5,
-      "condition": "erősen felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -63,7 +63,7 @@
       "day": "Kedd",
       "max": 14,
       "min": 4,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     }
