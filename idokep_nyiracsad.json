@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Csapadékos csütörtök",
-  "updated": "2026.10.22. 01:02",
-  "flow_last_run": "2026.10.22. 01:02",
+  "updated": "2026.10.22. 03:30",
+  "flow_last_run": "2026.10.22. 03:30",
   "current": {
-    "temperature": 9,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "temperature": 12,
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
       "max": 18,
-      "min": 8,
+      "min": 10,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
       "alert": null
