@@ -3,27 +3,27 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Több órára kisüt a nap",
-  "updated": "2026.10.23. 09:16",
-  "flow_last_run": "2026.10.23. 09:16",
+  "updated": "2026.10.23. 14:44",
+  "flow_last_run": "2026.10.23. 14:44",
   "current": {
-    "temperature": 9,
-    "condition": "Erősen felhős",
+    "temperature": 17,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 13,
+      "max": 16,
       "min": 7,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 15,
+      "max": 16,
       "min": 2,
-      "condition": "erősen felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -31,14 +31,14 @@
       "day": "Vasárnap",
       "max": 16,
       "min": 3,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 13,
-      "min": 7,
+      "max": 11,
+      "min": 9,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -46,15 +46,15 @@
     {
       "day": "Kedd",
       "max": 14,
-      "min": 3,
+      "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 14,
-      "min": 3,
+      "max": 15,
+      "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "7:02",
+    "sunrise": "7:04",
     "sunset": "17:30",
     "is_night": false
   }
