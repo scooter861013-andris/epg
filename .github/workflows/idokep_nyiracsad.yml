@@ -1,7 +1,6 @@
 name: Idokep JSON generator Nyiracsad
 
 on:
-  schedule:
   workflow_dispatch:
 
 
