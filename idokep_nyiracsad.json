@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Kellemes őszi idő",
-  "updated": "2026.10.24. 01:30",
-  "flow_last_run": "2026.10.24. 01:30",
+  "updated": "2026.10.24. 03:59",
+  "flow_last_run": "2026.10.24. 03:59",
   "current": {
-    "temperature": 1,
-    "condition": "Közepesen felhős",
+    "temperature": 0,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
       "max": 17,
-      "min": 1,
+      "min": 0,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
