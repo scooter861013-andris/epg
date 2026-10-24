@@ -39,7 +39,8 @@ def horoszkop_adatok(leves):
     horoszkopok = []
 
     elemek = leves.find_all("div", class_="m-horoscope__item")
-
+    print("Talált horoszkópok:", len(elemek))
+    print("Oldal címe:", leves.title.get_text(strip=True) if leves.title else "Nincs cím")
     for elem in elemek:
 
         nev = elem.find("h2", class_="m-horoscope__name")
