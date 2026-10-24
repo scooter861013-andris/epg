@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Kellemes őszi idő",
-  "utoljára változott hőmérséklet az időképről": "2026.10.24. 10:05",
-  "flow_last_run": "2026.10.24. 10:05",
+  "utoljára változott hőmérséklet az időképről": "2026.10.24. 10:35",
+  "flow_last_run": "2026.10.24. 10:35",
   "current": {
-    "temperature": 8,
+    "temperature": 10,
     "condition": "Köd",
     "icon": "🌫️"
   },
@@ -22,7 +22,7 @@
     {
       "day": "Vasárnap",
       "max": 15,
-      "min": 4,
+      "min": 3,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
