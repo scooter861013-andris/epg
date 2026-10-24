@@ -2,10 +2,8 @@ name: Idokep JSON generator Nyiracsad
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
   workflow_dispatch:
-  repository_dispatch:
-    types: [self-wakeup]
+
 
 concurrency:
   group: idokep-generator-nyiracsad
