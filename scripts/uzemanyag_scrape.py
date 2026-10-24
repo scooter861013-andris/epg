@@ -14,6 +14,7 @@ URL_MOL = "https://holtankoljak.hu/mol_debrecen_151#tartalom"
 URL_SHELL = "https://holtankoljak.hu/shell_debrecen_555#tartalom"
 
 
+
 def letolt(url):
     fejlec = {
         "User-Agent": (
@@ -21,9 +22,41 @@ def letolt(url):
             "(Windows NT 10.0; Win64; x64) "
             "AppleWebKit/537.36 "
             "(KHTML, like Gecko) "
-            "Chrome/138.0 Safari/537.36"
-        )
+            "Chrome/138.0.0.0 Safari/537.36"
+        ),
+        "Accept": (
+            "text/html,"
+            "application/xhtml+xml,"
+            "application/xml;q=0.9,"
+            "*/*;q=0.8"
+        ),
+        "Accept-Language": (
+            "hu-HU,hu;q=0.9,"
+            "en-US;q=0.8,en;q=0.7"
+        ),
+        "Accept-Encoding": "gzip, deflate",
+        "Referer": "https://www.agroinform.hu/",
+        "Connection": "keep-alive"
     }
+
+    valasz = requests.get(
+        url,
+        headers=fejlec,
+        timeout=30
+    )
+
+    print(
+        f"HTTP válasz: {valasz.status_code}"
+        f" | {url}"
+    )
+
+    valasz.raise_for_status()
+
+    return BeautifulSoup(
+        valasz.text,
+        "html.parser"
+    )
+
 
     
     valasz = requests.get(url, headers=fejlec, timeout=30)
