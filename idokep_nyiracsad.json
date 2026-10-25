@@ -3,11 +3,11 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfront érkezik",
   "focim": "Napos, fátyolfelhős idő",
-  "updated": "2026.10.25. 15:39",
-  "flow_last_run": "2026.10.25. 15:39",
+  "updated": "2026.10.25. 16:09",
+  "flow_last_run": "2026.10.25. 16:09",
   "current": {
     "temperature": 14,
-    "condition": "Gyengén felhős",
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -30,7 +30,7 @@
     {
       "day": "Kedd",
       "max": 15,
-      "min": 5,
+      "min": 4,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -46,7 +46,7 @@
     {
       "day": "Csütörtök",
       "max": 14,
-      "min": 9,
+      "min": 8,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -54,7 +54,7 @@
     {
       "day": "Péntek",
       "max": 14,
-      "min": 9,
+      "min": 8,
       "condition": "pára",
       "icon": null,
       "alert": null
@@ -62,7 +62,7 @@
     {
       "day": "Szombat",
       "max": 13,
-      "min": 7,
+      "min": 6,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
