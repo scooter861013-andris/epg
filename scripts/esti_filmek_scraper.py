@@ -163,14 +163,6 @@ def filmek_kinyerese(soup):
             leiras = max(bekezdesek, key=len)
 
 
-        # Ha a logóból nem sikerült felismerni,
-        # megpróbáljuk a kártya szövegéből.
-        if not csatorna:
-            for nev in ENGEDLYEZETT_CSATORNAK:
-                if nev.casefold() in teljes_szoveg.casefold():
-                    csatorna = nev
-                    break
-
         # TVmustra csatornanevének egységesítése
         eredeti_csatorna = csatorna
         csatorna = csatorna_egysegesit(csatorna)
