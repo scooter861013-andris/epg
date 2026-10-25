@@ -57,7 +57,27 @@ jobs:
           )
           p.write_text(s)
           PY
+
+          
+          node - <<'JS'
+          const axios = require('axios')
+          const cheerio = require('cheerio')
+          axios.get('https://www.tvmustra.hu/tvmusor/TV2/2026-10-25',
+            { headers: { 'User-Agent': 'Mozilla/5.0' } })
+            .then(r => {
+              const $ = cheerio.load(r.data)
+              console.log('HTML hossz:', r.data.length)
+              console.log('Régi műsorelemek:', $('div[data-page="channel"][data-show]').length)
+              console.log('Régi címelemek:', $('div[class^="musor_lista_cim"]').length)
+              console.log('Oldal címe:', $('title').text())
+            })
+            .catch(e => console.log('Teszt hiba:', e.message))
+          JS
+
+
           npm run grab --- --channels=../sajat_tvcsatorna_lista.xml --output=../epg.xml --curl
+
+          
       - name: Install JSON parser
         run: npm install fast-xml-parser
 
