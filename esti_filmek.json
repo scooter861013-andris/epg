@@ -1,7 +1,7 @@
 {
-    "utolso_frissites": "2026.10.25. 14:04:09",
+    "utolso_frissites": "2026.10.25. 17:31:52",
     "forras": "https://www.tvmustra.hu/este?cat=film",
-    "darab": 19,
+    "darab": 30,
     "filmek": [
         {
             "idopont": "21:00",
@@ -84,6 +84,16 @@
             "van_borito": true
         },
         {
+            "idopont": "21:35",
+            "cim": "Macgruber",
+            "csatorna": "FILMBOX+ comedy",
+            "mufaj": "2010.",
+            "leiras": "(2010.)",
+            "kep": "https://www.tvmustra.hu/800_kepek/404113c91a6dcf19613ed35245536639/4954f28d5447c6d97785e6dd80c1ad76.jpg",
+            "csatorna_logo": "https://www.tvmustra.hu/logok/mini/filmbox_plusz_comedy.gif",
+            "van_borito": true
+        },
+        {
             "idopont": "21:45",
             "cim": "Álom és szerelem: Rosamunde Pilcher - A boldogság nyomában",
             "csatorna": "Story4",
@@ -91,6 +101,16 @@
             "leiras": "(Német romantikus filmsorozat) Közelgő esküvője előtt Eleanor megtudja, hogy vőlegénye megcsalja őt.",
             "kep": "https://www.tvmustra.hu/800_kepek/89f753199094b3c80b24bbdbf3640bd0/b43d56eda523f8c6689d8b6bf0861d7a.jpg",
             "csatorna_logo": "https://www.tvmustra.hu/logok/mini/story4.gif",
+            "van_borito": true
+        },
+        {
+            "idopont": "20:00",
+            "cim": "A néma szemtanú",
+            "csatorna": "Galaxy4",
+            "mufaj": "19. évad, 5. rész: Új élet 1. rész, Angol krimisorozat",
+            "leiras": "(19. évad, 5. rész: Új élet 1. rész, Angol krimisorozat) Amikor egy volt elítéltet holtan találnak az otthonában, a gyan...",
+            "kep": "https://www.tvmustra.hu/800_kepek/50508a80d56f220e1fff97536d262d18/24f4179269f29d326c1bf2d9453d1646.jpg",
+            "csatorna_logo": "https://www.tvmustra.hu/logok/mini/galaxy4.gif",
             "van_borito": true
         },
         {
@@ -104,6 +124,16 @@
             "van_borito": true
         },
         {
+            "idopont": "21:00",
+            "cim": "Másnaposok 3",
+            "csatorna": "PRIME",
+            "mufaj": "vígjáték, 2013.",
+            "leiras": "(vígjáték, 2013.)  Úgy hívják magukat: Farkasfalka. Nem mintha bármi közük volna a farkasokhoz. Nem vadak, nem veszélyes...",
+            "kep": "https://www.tvmustra.hu/800_kepek/f3cf805fdb106025ad436440c862b66d/source-HO308849.jpg",
+            "csatorna_logo": "https://www.tvmustra.hu/logok/mini/prime.gif",
+            "van_borito": true
+        },
+        {
             "idopont": "20:55",
             "cim": "Kagylók a parton",
             "csatorna": "Izaura TV",
@@ -111,6 +141,16 @@
             "leiras": "(romantikus film, 2022.)  A film egy özvegyasszonyról szól, aki két gyermekével egy kis tengerparti városban él, és érde...",
             "kep": "https://www.tvmustra.hu/800_kepek/8a6321418efb1a68654ab510b8f3b9ca/TSC_D10_06-24-22_LC_0751.jpg",
             "csatorna_logo": "https://www.tvmustra.hu/logok/mini/izauratv.gif",
+            "van_borito": true
+        },
+        {
+            "idopont": "20:05",
+            "cim": "Két pasi - meg egy kicsi",
+            "csatorna": "TV2 Comedy",
+            "mufaj": "ism., 3. évad/3. rész, vígjáték sorozat, 2005.",
+            "leiras": "(ism., 3. évad/3. rész, vígjáték sorozat, 2005.)  Charlie megrögzött agglegény. Jól megszokott laza és kényelmes életmód...",
+            "kep": "https://www.tvmustra.hu/800_kepek/4b6bf33d6c6c9148590d1acc3617143c/fullres-254ptwomen.premierFIN01.jpg",
+            "csatorna_logo": "https://www.tvmustra.hu/logok/mini/tv2comedy.gif",
             "van_borito": true
         },
         {
@@ -125,12 +165,32 @@
         },
         {
             "idopont": "20:00",
+            "cim": "A Hardacre család",
+            "csatorna": "Viasat Epic Drama",
+            "mufaj": "2. évad/1. rész, Egyesült Királyság, drámasorozat, 2025",
+            "leiras": "(2. évad/1. rész, Egyesült Királyság, drámasorozat, 2025) Mary és Sam a fenyegető országos recesszió ellenére örülnek az...",
+            "kep": "https://www.tvmustra.hu/800_kepek/81509d080025552b540602cf79cb6402/260358eb-e4c2-45b4-b4d5-644f37af59c1-HARDACRES_Nov15_0349.jpg",
+            "csatorna_logo": "https://www.tvmustra.hu/logok/mini/epicdrama.gif",
+            "van_borito": true
+        },
+        {
+            "idopont": "20:00",
             "cim": "Marston professzor és a két Wonder Woman",
             "csatorna": "Film4",
             "mufaj": "Amerikai életrajzi filmdráma",
             "leiras": "(Amerikai életrajzi filmdráma)  Dr. William Marston, a Harvard Pszichológia Karának professzora találta fel a modern haz...",
             "kep": "https://www.tvmustra.hu/800_kepek/8101f93fd74a87f7c210a59eaed5d313/4e064973030aed149dee58ca26828cc7.jpg",
             "csatorna_logo": "https://www.tvmustra.hu/logok/mini/film4.gif",
+            "van_borito": true
+        },
+        {
+            "idopont": "20:05",
+            "cim": "Döglött akták",
+            "csatorna": "JockyTV",
+            "mufaj": "Néma szenvedés - ism., 5. évad/10. rész, krimi sorozat, 2007.",
+            "leiras": "(Néma szenvedés - ism., 5. évad/10. rész, krimi sorozat, 2007.) Ismeretlen tettes súlyosan megrongálja egy egyetemista s...",
+            "kep": "https://www.tvmustra.hu/800_kepek/54c5c08b2870eedef4421e76cba16a8d/source-2T7904953521306.jpg",
+            "csatorna_logo": "https://www.tvmustra.hu/logok/mini/jockytv.gif",
             "van_borito": true
         },
         {
@@ -141,6 +201,16 @@
             "leiras": "(akció film, 2005.)  Bruce Wayne (Christian Bale), az árva milliomos önszántából járja meg az erőszak poklát, amikor Hen...",
             "kep": "https://www.tvmustra.hu/800_kepek/432dae0243b72f83be15faf1b1b26973/fullres-0712499P03r0.jpg",
             "csatorna_logo": "https://www.tvmustra.hu/logok/mini/moziverzum.gif",
+            "van_borito": true
+        },
+        {
+            "idopont": "22:45",
+            "cim": "Lépéselőnyben: A megtorlás",
+            "csatorna": "MAX4",
+            "mufaj": "2. évad/2. rész, krimisorozat, 2022.",
+            "leiras": "(2. évad/2. rész, krimisorozat, 2022.)",
+            "kep": "https://www.tvmustra.hu/800_kepek/14ff04b4b4b79ca30c900ecb9b18f444/463e442e02c861d948b3d28e87871584.jpg",
+            "csatorna_logo": "https://www.tvmustra.hu/logok/mini/max4.gif",
             "van_borito": true
         },
         {
@@ -161,6 +231,16 @@
             "leiras": "(Francia film)  A Szivárvány egy igazi közösségi hely Marmande-ban, amely hétköznapi, de az élet által bántalmazott embe...",
             "kep": "https://www.tvmustra.hu/800_kepek/9eff8fb89ad616b980c1d5ecf67c4b56/e5078c8accabdca87143437e4d3099e4.jpg",
             "csatorna_logo": "https://www.tvmustra.hu/logok/mini/moziklub.gif",
+            "van_borito": true
+        },
+        {
+            "idopont": "20:55",
+            "cim": "Agatha Raisin",
+            "csatorna": "Sorozatklub",
+            "mufaj": "2. évad, 4. rész: A tűnékeny tündérek 2., 4, Brit sorozat",
+            "leiras": "(2. évad, 4. rész: A tűnékeny tündérek 2., 4, Brit sorozat) Agatha Raisin (Ashley Jensen)",
+            "kep": "https://www.tvmustra.hu/800_kepek/add8ba8a58734df5033a8c95b7688fd9/83fddc945ac5dddacdccfc13f2a64a4a.jpg",
+            "csatorna_logo": "https://www.tvmustra.hu/logok/mini/sorozatklub.gif",
             "van_borito": true
         },
         {
@@ -191,6 +271,36 @@
             "leiras": "(1. évad/4. rész, 2014.) Egy idegen bizonyítékokkal áll elő, hogy a család testvérét évekkel ezelőtt tévesen ítélték el ...",
             "kep": "",
             "csatorna_logo": "https://www.tvmustra.hu/logok/mini/viasat_film.gif",
+            "van_borito": false
+        },
+        {
+            "idopont": "20:00",
+            "cim": "Solum-sziget",
+            "csatorna": "FILMBOX+ one",
+            "mufaj": "2019.",
+            "leiras": "(2019.) A lakatlan szigeten forgatott valóságshowról, ahol nyolc versenyzőnek a túlélésért kell küzdenie, kiderül, hogy ...",
+            "kep": "",
+            "csatorna_logo": "https://www.tvmustra.hu/logok/mini/filmbox_plusz_one.gif",
+            "van_borito": false
+        },
+        {
+            "idopont": "21:00",
+            "cim": "Gyilkos vonások",
+            "csatorna": "FILMBOX+ emotion HD",
+            "mufaj": "2020.",
+            "leiras": "(2020.) Egy tini fiú küzdelme a hétköznapokban amiatt, hogy elképeszetően vonzónak találja mindenki. Ám egy nap találkoz...",
+            "kep": "",
+            "csatorna_logo": "https://www.tvmustra.hu/logok/mini/filmbox_plusz_emotion.gif",
+            "van_borito": false
+        },
+        {
+            "idopont": "21:00",
+            "cim": "Blackwater Lane",
+            "csatorna": "FILMBOX+ love&crime",
+            "mufaj": "2024.",
+            "leiras": "(2024.) Egyszer egy késő esti órán egy nő elhalad egy megállított autós mellett, akiről később kiderül, hogy megölték. E...",
+            "kep": "",
+            "csatorna_logo": "https://www.tvmustra.hu/logok/mini/filmbox_plusz_love_crime.gif",
             "van_borito": false
         }
     ]
