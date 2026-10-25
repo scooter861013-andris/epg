@@ -1,4 +1,96 @@
 
+# ============================================================
+#              TVMUSTRA EPG - HIBAJAVITASI NAPLO
+# ============================================================
+#
+# UTOLSO JAVITAS: 2026.10.25.
+#
+# A RENDSZER CELJA:
+# - 17 sajat TV-csatorna musorainak letoltese.
+# - A csatornakat a sajat_tvcsatorna_lista.xml tartalmazza.
+# - Az epg.xml a teljes letoltott musorlistat tartalmazza.
+# - A tv2_esti_musor_szuro.js a deltol kezdodo musorokat
+#   a tv2_esti_musor.json fajlba menti.
+#
+# ------------------------------------------------------------
+# 1. HIBA: HTTP 403 FORBIDDEN
+# ------------------------------------------------------------
+#
+# TUNET:
+# - Mind a 17 csatorna: 0 programs.
+# - ERR: Request failed with status code 403.
+#
+# OK:
+# - A TVmustra elutasitotta az EPGGrabber alapertelmezett
+#   User-Agent azonositoval kuldott kereseket.
+#
+# MEGOLDAS:
+# - A tvmustra.hu.config.js konfiguracioba bekerult:
+#
+#   request: { headers: { 'User-Agent': 'Mozilla/5.0' } },
+#
+# - Ezt a workflow Python-blokkja automatikusan beilleszti.
+# - Az eredmeny: a HTTP 403 hiba megszunt.
+#
+# ------------------------------------------------------------
+# 2. HIBA: HTTP 403 NINCS, DE MEGIS 0 PROGRAMS
+# ------------------------------------------------------------
+#
+# TUNET:
+# - A letoltes sikeres, a HTML megerkezik.
+# - A generalt epg.xml megis ures.
+#
+# OK:
+# - A TVmustra weboldalan megvaltozott a HTML szerkezete.
+# - A regi EPG-feldolgozo nem talalta a musorokat.
+#
+# REGI HTML KIJELÖLOK:
+# - Musorelemek: div[data-page="channel"][data-show]
+# - Musorcim:    div[class^="musor_lista_cim"]
+# - Kezdes:      div[class^="musor_lista_idopont"]
+#
+# UJ HTML KIJELÖLOK (2026.10.25.):
+# - Musorelemek: .v-prog-container
+# - Musorcim:    .v-title
+# - Kezdes:      .v-time
+#
+# MEGOLDAS:
+# - A workflow Python-blokkja lecsereli a regi
+#   HTML-kijeloloket az uj kijelolokre.
+#
+# EREDMENY:
+# - Mind a 17 csatorna musorai ujra letoltodnek.
+# - Az epg.xml es a tv2_esti_musor.json ujra tartalmaz adatokat.
+#
+# ------------------------------------------------------------
+# FONTOS TUDNIVALOK KESOBBI HIBA ESETEN
+# ------------------------------------------------------------
+#
+# 1. Eloszor a GitHub Actions naplot kell ellenorizni.
+#
+# 2. Ha HTTP 403:
+#    Ellenorizni kell a User-Agent fejlecet es a hozzaferest.
+#
+# 3. Ha 0 programs, de nincs 403:
+#    Ellenorizni kell, valtozott-e a TVmustra HTML szerkezete.
+#
+# 4. Az eredeti feldolgozo helye:
+#    epg/sites/tvmustra.hu/tvmustra.hu.config.js
+#    (A workflow futas kozben klonozza az iptv-org/epg projektet.)
+#
+# 5. A --curl kapcsoloval megjelenitheto, milyen HTTP-kerest
+#    kuld az EPGGrabber.
+#
+# 6. A sajat csatornalista es JSON-szuro nem okozta a hibat.
+#    Ezeket nem kellett modositani.
+#
+# 7. A workflow ellenorzi, hogy az epg.xml tartalmaz-e
+#    musorokat. Ha ures, nem tolti fel a GitHubra.
+#
+# ============================================================
+
+
+
 name: Generate EPG
 
 on:
