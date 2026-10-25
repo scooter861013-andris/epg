@@ -33,8 +33,6 @@ ENGEDLYEZETT_CSATORNAK = {
     "FILMBOX+ one",
     "FILMBOX+ emotion HD",
     "RTL GOLD",
-    "Sorozat+",
-    "Sorozatklub",
     "AXN Crime",
     "Viasat 2",
     "Izaura TV",
