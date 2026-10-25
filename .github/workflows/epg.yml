@@ -31,7 +31,7 @@ jobs:
         run: |
           cd epg
           sed -i 's/days: 2,/days: 1,/' sites/tvmustra.hu/tvmustra.hu.config.js
-          npm run grab --- --channels=../sajat_tvcsatorna_lista.xml --output=../epg.xml
+          npm run grab --- --channels=../sajat_tvcsatorna_lista.xml --output=../epg.xml --curl
       - name: Install JSON parser
         run: npm install fast-xml-parser
 
