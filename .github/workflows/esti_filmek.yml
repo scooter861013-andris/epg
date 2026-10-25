@@ -26,4 +26,4 @@ jobs:
 
       - name: TVmustra esti filmek teszt
         run: |
-          python esti_filmek_scraper.py
+          python scripts/esti_filmek_scraper.py
