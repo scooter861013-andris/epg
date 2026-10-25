@@ -40,10 +40,23 @@ jobs:
 
 
 
+
       - name: Generate epg.xml (tvmusor.hu)
         run: |
           cd epg
           sed -i 's/days: 2,/days: 1,/' sites/tvmustra.hu/tvmustra.hu.config.js
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path("sites/tvmustra.hu/tvmustra.hu.config.js")
+          s = p.read_text()
+          assert "days: 1," in s
+          s = s.replace(
+              "days: 1,",
+              "days: 1,\n  request: { headers: { 'User-Agent': 'Mozilla/5.0' } },",
+              1
+          )
+          p.write_text(s)
+          PY
           npm run grab --- --channels=../sajat_tvcsatorna_lista.xml --output=../epg.xml --curl
       - name: Install JSON parser
         run: npm install fast-xml-parser
