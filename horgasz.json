@@ -1,11 +1,11 @@
 {
   "forrás": "idokep.hu",
   "hivatkozás": "https://www.idokep.hu/horgasz",
-  "utoljára_változott_kapásindex": "2026.10.25. 18:50",
-  "utolsó_futás": "2026.10.25. 18:50",
+  "utoljára_változott_kapásindex": "2026.10.25. 20:50",
+  "utolsó_futás": "2026.10.25. 20:50",
   "nap_és_hold": {
-    "napkelte": "6:07",
-    "napnyugta": "16:31",
+    "napkelte": "6:17",
+    "napnyugta": "16:38",
     "holdkelte": "15:53",
     "holdnyugta": "5:20"
   },
@@ -17,22 +17,16 @@
       "minősítés": "Jó"
     },
     {
-      "időszak": "Vasárnap délután",
-      "holdfázis": 4,
-      "halikonok_száma": 4,
-      "minősítés": "Jó"
-    },
-    {
       "időszak": "Hétfő reggel",
       "holdfázis": 4,
       "halikonok_száma": 4,
-      "minősítés": "Igazi pecaidő"
+      "minősítés": "Jó"
     },
     {
       "időszak": "Hétfő délután",
       "holdfázis": 5,
-      "halikonok_száma": 4,
-      "minősítés": "Jó"
+      "halikonok_száma": 3,
+      "minősítés": "Átlagos"
     },
     {
       "időszak": "Kedd reggel",
@@ -41,7 +35,7 @@
       "minősítés": "Átlagos"
     },
     {
-      "időszak": "Kedd",
+      "időszak": "Kedd délután",
       "holdfázis": 5,
       "halikonok_száma": 3,
       "minősítés": "Átlagos"
@@ -51,6 +45,12 @@
       "holdfázis": 5,
       "halikonok_száma": 2,
       "minősítés": "Alacsony"
+    },
+    {
+      "időszak": "Csütörtök",
+      "holdfázis": 5,
+      "halikonok_száma": 1,
+      "minősítés": "Rossz"
     }
   ]
 }
