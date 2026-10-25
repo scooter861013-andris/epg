@@ -1,5 +1,5 @@
 
-name: Esti filmek - TESZT
+name: Esti filmek
 
 on:
   workflow_dispatch:
@@ -8,7 +8,7 @@ permissions:
   contents: read
 
 jobs:
-  teszt:
+  esti_filmek:
     runs-on: ubuntu-latest
 
     steps:
@@ -24,6 +24,6 @@ jobs:
         run: |
           python -m pip install requests beautifulsoup4
 
-      - name: TVmustra esti filmek teszt
+      - name: TVmustra esti filmek lekerese
         run: |
           python scripts/esti_filmek_scraper.py
