@@ -15,7 +15,11 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0"
 }
 
-# Csak azok a csatornák, amik nálad érdekesek lehetnek
+
+# ==========================================
+# 📺 ENGEDÉLYEZETT TV-CSATORNÁK
+# ==========================================
+
 ENGEDLYEZETT_CSATORNAK = {
     "Film+",
     "PRIME",
@@ -49,9 +53,46 @@ ENGEDLYEZETT_CSATORNAK = {
     "Story4",
     "TV4",
     "Viasat 6",
-    "RTL HÁROM"
+    "RTL HÁROM",
+    "Galaxy4",
+    "TV2 Comedy",
+    "Sorozatklub"
 }
 
+# ==========================================
+# 🔄 TVMUSTRA CSATORNANEVEK EGYSÉGESÍTÉSE
+# ==========================================
+
+CSATORNA_ALIASOK = {
+    "prime": "PRIME",
+    "jocky tv": "JockyTV",
+    "epic drama": "Viasat Epic Drama",
+    "max4": "MAX4",
+    "sorozatklub": "Sorozatklub",
+    "filmbox+ comedy": "FILMBOX+ comedy",
+    "filmbox+ one": "FILMBOX+ one",
+    "filmbox+ emotion": "FILMBOX+ emotion HD",
+    "filmbox+ love & crime": "FILMBOX+ love&crime"
+}
+
+def csatorna_egysegesit(nev):
+
+    nev = " ".join(nev.split())
+
+    if not nev:
+        return ""
+
+    eredeti_nevek = {
+        csatorna.casefold(): csatorna
+        for csatorna in ENGEDLYEZETT_CSATORNAK
+    }
+
+    kulcs = nev.casefold()
+
+    if kulcs in CSATORNA_ALIASOK:
+        return CSATORNA_ALIASOK[kulcs]
+
+    return eredeti_nevek.get(kulcs, "")
 
 def szoveg(el):
     if not el:
@@ -121,16 +162,30 @@ def filmek_kinyerese(soup):
         if bekezdesek:
             leiras = max(bekezdesek, key=len)
 
-        # ha valamiért nincs csatorna, próbáljuk szövegből
+
+        # Ha a logóból nem sikerült felismerni,
+        # megpróbáljuk a kártya szövegéből.
         if not csatorna:
             for nev in ENGEDLYEZETT_CSATORNAK:
-                if nev in teljes_szoveg:
+                if nev.casefold() in teljes_szoveg.casefold():
                     csatorna = nev
                     break
 
-        # ha nem a saját / érdekes csatornák között van, kihagyjuk
-        if csatorna and csatorna not in ENGEDLYEZETT_CSATORNAK:
+        # TVmustra csatornanevének egységesítése
+        eredeti_csatorna = csatorna
+        csatorna = csatorna_egysegesit(csatorna)
+
+        # Ismeretlen vagy nem engedélyezett
+        # csatornák kizárása
+        if csatorna not in ENGEDLYEZETT_CSATORNAK:
+            print(
+                "KIHAGYVA:",
+                eredeti_csatorna,
+                "-",
+                cim
+            )
             continue
+
 
         eredmeny.append({
             "idopont": ido,
