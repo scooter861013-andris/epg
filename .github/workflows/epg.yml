@@ -143,8 +143,12 @@ jobs:
                   ".v-title"
               ),
               (
-                  "div[class^=\"musor_lista_idopont\"]",
+                 "div[class^=\"musor_lista_idopont\"]",
                   ".v-time"
+              ),
+              (
+                  "start = start.add(1, 'day')",
+                  "start = parseStart($item, date.add(1, 'day'))"
               ),
           ]
 
