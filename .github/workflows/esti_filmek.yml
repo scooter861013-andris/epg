@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   esti_filmek:
@@ -27,3 +27,33 @@ jobs:
       - name: TVmustra esti filmek lekerese
         run: |
           python scripts/esti_filmek_scraper.py
+
+      - name: JSON ellenorzese
+        run: |
+          python - <<'PY'
+          import json
+
+          with open("esti_filmek.json", encoding="utf-8") as f:
+              adatok = json.load(f)
+
+          filmek = adatok.get("filmek", [])
+
+          if not filmek:
+              raise RuntimeError("Nincs film az uj JSON-ban, mentés megszakítva!")
+
+          print(f"Rendben! {len(filmek)} film található.")
+          PY
+
+      - name: JSON mentese a GitHubra
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add esti_filmek.json
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Esti filmek frissitese"
+            git push
+          else
+            echo "Nincs valtozas."
+          fi
