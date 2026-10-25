@@ -3,7 +3,7 @@ name: Esti filmek
 
 on:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "0 23 * * *"
 
   workflow_dispatch:
 
