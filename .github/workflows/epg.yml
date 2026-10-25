@@ -27,33 +27,6 @@ jobs:
           npm install
 
 
-
-      - name: TVmustra kapcsolat teszt
-        run: |
-          curl -L -sS -o /dev/null \
-            -w 'CURL HTTP: %{http_code}\n' \
-            --max-time 30 \
-            "https://www.tvmustra.hu/tvmusor/TV2"
-
-          cd epg
-          node -e '
-          const axios = require("axios");
-          axios.get(
-            "https://www.tvmustra.hu/tvmusor/TV2"
-          ).then(r => {
-            console.log("AXIOS HTTP:", r.status);
-          }).catch(e => {
-            console.log(
-              "AXIOS HTTP:",
-              e.response?.status || e.message
-            );
-          });
-          '
-
-
-            
-
-
       - name: Generate epg.xml (tvmusor.hu)
         run: |
           cd epg
