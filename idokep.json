@@ -1,14 +1,14 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Hidegfront érkezik",
+  "fronthatas": "Maradnak a hidegfronti tünetek",
   "focim": "Kapunk egy kis utánpótlást az esőfelhőktől",
-  "utoljára változott hőmérséklet az időképről": "2026.10.25. 20:05",
-  "flow_last_run": "2026.10.25. 20:05",
+  "utoljára változott hőmérséklet az időképről": "2026.10.25. 20:35",
+  "flow_last_run": "2026.10.25. 20:35",
   "current": {
     "temperature": 10,
-    "condition": "Gyenge eső",
-    "icon": "🌧️"
+    "condition": "Erősen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -22,7 +22,7 @@
     {
       "day": "Kedd",
       "max": 14,
-      "min": 6,
+      "min": 7,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
