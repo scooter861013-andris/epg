@@ -8,51 +8,55 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0"
 }
 
+response = requests.get(
+    URL,
+    headers=HEADERS,
+    timeout=30
+)
+response.raise_for_status()
 
-def main():
-    print("====================================")
-    print("      ESTI FILMEK - ELSO TESZT")
-    print("====================================")
+soup = BeautifulSoup(response.text, "html.parser")
+filmek = soup.find_all("h2")
 
-    response = requests.get(
-        URL,
-        headers=HEADERS,
-        timeout=30
-    )
-    response.raise_for_status()
+print("====================================")
+print("          ESTI FILMEK")
+print("====================================")
+print("HTTP:", response.status_code)
+print("Talalt filmcimek:", len(filmek))
 
-    print(f"HTTP allapot: {response.status_code}")
-    print(f"Letoltott adat: {len(response.content)} byte")
+# Megnezzuk az elso harom film HTML-felepiteset.
+for szam, film in enumerate(filmek[:3], start=1):
 
-    soup = BeautifulSoup(response.text, "html.parser")
+    print(f"\n========== FILM {szam} ==========")
+    print("CIM:", film.get_text(" ", strip=True))
 
-    filmek = soup.find_all("h2")
+    elem = film
 
-    print(f"\nTalalt H2 cimek: {len(filmek)}")
+    # A film cimet korulvevo HTML-elemek.
+    for szint in range(1, 5):
 
-    print("\n--- EL SO 15 CIM ---")
+        elem = elem.parent
 
-    for film in filmek[:15]:
-        print("-", film.get_text(" ", strip=True))
+        if elem is None:
+            break
 
-    kepek = soup.find_all("img")
+        print(f"\n--- SZULO {szint} ---")
+        print("TAG:", elem.name)
+        print("CLASS:", elem.get("class"))
 
-    print(f"\nTalalt kepek: {len(kepek)}")
-
-    print("\n--- EL SO 10 KEP ---")
-
-    for kep in kepek[:10]:
-        print("ALT:", kep.get("alt", ""))
         print(
-            "URL:",
-            kep.get("src")
-            or kep.get("data-src")
-            or "NINCS"
+            "SZOVEG:",
+            elem.get_text(" ", strip=True)[:300]
         )
-        print("--------------------")
 
-    print("\nTESZT BEFEJEZVE")
+        kepek = elem.find_all("img")
 
+        print("KEPEK SZAMA:", len(kepek))
 
-if __name__ == "__main__":
-    main()
+        for kep in kepek[:4]:
+            print("  ALT:", kep.get("alt"))
+            print("  SRC:", kep.get("src"))
+            print("  DATA-SRC:", kep.get("data-src"))
+            print("  SRCSET:", kep.get("srcset"))
+
+print("\nFELDOLGOZAS BEFEJEZVE")
