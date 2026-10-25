@@ -75,6 +75,8 @@ jobs:
           JS
 
 
+
+
           npm run grab --- --channels=../sajat_tvcsatorna_lista.xml --output=../epg.xml --curl
 
           
