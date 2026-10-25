@@ -27,6 +27,19 @@ jobs:
           npm install
 
 
+      - name: TVmustra kapcsolat teszt
+        run: |
+          echo "NORMAL CURL:"
+          curl -L -s -o /dev/null -w 'HTTP: %{http_code}\n' \
+            "https://www.tvmustra.hu/tvmusor/TV2/2026-10-25"
+
+          echo "EPG GRABBER USER-AGENT:"
+          curl -L -s -o /dev/null -w 'HTTP: %{http_code}\n' \
+            -A 'EPGGrabber/0.48.0 (https://github.com/freearhey/epg-grabber)' \
+            "https://www.tvmustra.hu/tvmusor/TV2/2026-10-25"
+
+
+
       - name: Generate epg.xml (tvmusor.hu)
         run: |
           cd epg
