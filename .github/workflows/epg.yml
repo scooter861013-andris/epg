@@ -1,9 +1,13 @@
+
 name: Generate EPG
 
 on:
   schedule:
-    - cron: "0 1 * * *"   # naponta 03:00 UTC
+    - cron: "0 1 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -26,75 +30,63 @@ jobs:
           cd epg
           npm install
 
-
-      - name: TVmustra kapcsolat teszt
-        run: |
-          echo "NORMAL CURL:"
-          curl -L -s -o /dev/null -w 'HTTP: %{http_code}\n' \
-            "https://www.tvmustra.hu/tvmusor/TV2/2026-10-25"
-
-          echo "EPG GRABBER USER-AGENT:"
-          curl -L -s -o /dev/null -w 'HTTP: %{http_code}\n' \
-            -A 'EPGGrabber/0.48.0 (https://github.com/freearhey/epg-grabber)' \
-            "https://www.tvmustra.hu/tvmusor/TV2/2026-10-25"
-
-
-
-
-      - name: Generate epg.xml (tvmusor.hu)
+      - name: Generate epg.xml (tvmustra.hu)
         run: |
           cd epg
-          sed -i 's/days: 2,/days: 1,/' sites/tvmustra.hu/tvmustra.hu.config.js
+
           python3 - <<'PY'
           from pathlib import Path
+
           p = Path("sites/tvmustra.hu/tvmustra.hu.config.js")
           s = p.read_text()
-          assert "days: 1," in s
+
+          changes = [
+              ("days: 2,", "days: 1,"),
+              (
+                  "div[data-page=\"channel\"][data-show]",
+                  ".v-prog-container"
+              ),
+              (
+                  "div[class^=\"musor_lista_cim\"]",
+                  ".v-title"
+              ),
+              (
+                  "div[class^=\"musor_lista_idopont\"]",
+                  ".v-time"
+              ),
+          ]
+
+          for old, new in changes:
+              if old not in s:
+                  raise RuntimeError(f"Nem talalhato: {old}")
+              s = s.replace(old, new, 1)
+
           s = s.replace(
               "days: 1,",
               "days: 1,\n  request: { headers: { 'User-Agent': 'Mozilla/5.0' } },",
               1
           )
+
           p.write_text(s)
+          print("TVmustra feldolgozo frissitve!")
           PY
 
-          
-          
-          node - <<'JS'
-          const axios = require('axios')
-          const cheerio = require('cheerio')
+          npm run grab --- --channels=../sajat_tvcsatorna_lista.xml --output=../epg.xml
 
-          axios.get('https://www.tvmustra.hu/tvmusor/TV2/2026-10-25', {
-            headers: { 'User-Agent': 'Mozilla/5.0' }
-          }).then(r => {
-            const html = r.data
-            const $ = cheerio.load(html)
+      - name: Ellenorzes - vannak-e musorok
+        run: |
+          python3 - <<'PY'
+          import xml.etree.ElementTree as ET
 
-            console.log('HTML hossz:', html.length)
+          root = ET.parse("epg.xml").getroot()
+          programs = root.findall("programme")
 
-            const i = html.search(/19:00|20:00|21:00|18:00/)
+          print("Letoltott musorok:", len(programs))
 
-            console.log('Esti idopont helye:', i)
+          if not programs:
+              raise SystemExit("HIBA: Nincsenek musorok! Az ures XML nem kerul feltoltesre.")
+          PY
 
-            if (i >= 0) {
-              console.log('HTML RESZLET:')
-              console.log(html.slice(Math.max(0, i - 500), i + 800))
-            }
-
-            console.log('Idopontot tartalmazo elemek:')
-            $('time').slice(0, 5).each((_, el) => {
-              console.log($.html(el).slice(0, 500))
-            })
-          }).catch(e => console.log('HIBA:', e.message))
-          JS
-
-
-
-
-
-          npm run grab --- --channels=../sajat_tvcsatorna_lista.xml --output=../epg.xml --curl
-
-          
       - name: Install JSON parser
         run: npm install fast-xml-parser
 
@@ -107,5 +99,5 @@ jobs:
           git config user.email "github-actions@github.com"
           git add epg.xml tv2_esti_musor.json
           git commit -m "Update EPG + TV programs" || echo "No changes"
-          git pull --rebase origin main 
+          git pull --rebase origin main
           git push
