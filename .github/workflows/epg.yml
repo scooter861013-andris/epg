@@ -59,20 +59,35 @@ jobs:
           PY
 
           
+          
           node - <<'JS'
           const axios = require('axios')
           const cheerio = require('cheerio')
-          axios.get('https://www.tvmustra.hu/tvmusor/TV2/2026-10-25',
-            { headers: { 'User-Agent': 'Mozilla/5.0' } })
-            .then(r => {
-              const $ = cheerio.load(r.data)
-              console.log('HTML hossz:', r.data.length)
-              console.log('Régi műsorelemek:', $('div[data-page="channel"][data-show]').length)
-              console.log('Régi címelemek:', $('div[class^="musor_lista_cim"]').length)
-              console.log('Oldal címe:', $('title').text())
+
+          axios.get('https://www.tvmustra.hu/tvmusor/TV2/2026-10-25', {
+            headers: { 'User-Agent': 'Mozilla/5.0' }
+          }).then(r => {
+            const html = r.data
+            const $ = cheerio.load(html)
+
+            console.log('HTML hossz:', html.length)
+
+            const i = html.search(/19:00|20:00|21:00|18:00/)
+
+            console.log('Esti idopont helye:', i)
+
+            if (i >= 0) {
+              console.log('HTML RESZLET:')
+              console.log(html.slice(Math.max(0, i - 500), i + 800))
+            }
+
+            console.log('Idopontot tartalmazo elemek:')
+            $('time').slice(0, 5).each((_, el) => {
+              console.log($.html(el).slice(0, 500))
             })
-            .catch(e => console.log('Teszt hiba:', e.message))
+          }).catch(e => console.log('HIBA:', e.message))
           JS
+
 
 
 
