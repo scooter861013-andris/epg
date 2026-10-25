@@ -199,6 +199,11 @@ def main():
 
     soup = BeautifulSoup(response.text, "html.parser")
     filmek = filmek_kinyerese(soup)
+    if not filmek:
+        raise RuntimeError(
+            "Nem található egyetlen film sem! "
+            "A korábbi JSON megőrizve."
+        )
 
     adatok = {
         "utolso_frissites": datetime.now(ZoneInfo("Europe/Budapest")).strftime("%Y.%m.%d. %H:%M:%S"),
