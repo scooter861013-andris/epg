@@ -26,6 +26,17 @@ jobs:
           cd epg
           npm install
 
+
+      - name: TVmustra kapcsolat teszt
+        run: |
+          curl -L -sS -o /dev/null \
+            -w 'HTTP: %{http_code}\nURL: %{url_effective}\n' \
+            --max-time 30 \
+            "https://www.tvmustra.hu/tvmusor/TV2/2026-10-25"
+
+            
+
+
       - name: Generate epg.xml (tvmusor.hu)
         run: |
           cd epg
