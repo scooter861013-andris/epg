@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Maradnak a hidegfronti tünetek",
   "focim": "Kapunk egy kis utánpótlást az esőfelhőktől",
-  "utoljára változott hőmérséklet az időképről": "2026.10.26. 14:05",
-  "flow_last_run": "2026.10.26. 14:05",
+  "utoljára változott hőmérséklet az időképről": "2026.10.26. 14:35",
+  "flow_last_run": "2026.10.26. 14:35",
   "current": {
     "temperature": 10,
-    "condition": "Zápor",
+    "condition": "Eső",
     "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
       "max": 9,
-      "min": 7,
+      "min": 6,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
