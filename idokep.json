@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Szeles, időnként felhősebb idő",
-  "utoljára változott hőmérséklet az időképről": "2026.10.26. 23:35",
-  "flow_last_run": "2026.10.26. 23:35",
+  "utoljára változott hőmérséklet az időképről": "2026.10.27. 00:05",
+  "flow_last_run": "2026.10.27. 00:05",
   "current": {
     "temperature": 6,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "6:09",
-    "sunset": "16:26",
+    "sunset": "16:24",
     "is_night": true
   }
 }
