@@ -1,10 +1,10 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Maradnak a hidegfronti tünetek",
-  "focim": "Kapunk egy kis utánpótlást az esőfelhőktől",
-  "utoljára változott hőmérséklet az időképről": "2026.10.26. 17:05",
-  "flow_last_run": "2026.10.26. 17:35",
+  "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
+  "focim": "Szeles, időnként felhősebb idő",
+  "utoljára változott hőmérséklet az időképről": "2026.10.26. 18:05",
+  "flow_last_run": "2026.10.26. 18:05",
   "current": {
     "temperature": 9,
     "condition": "Erősen felhős",
@@ -12,18 +12,10 @@
   },
   "forecast_7d": [
     {
-      "day": "Hétfő",
-      "max": 10,
-      "min": 7,
-      "condition": "zápor",
-      "icon": "🌧️",
-      "alert": null
-    },
-    {
       "day": "Kedd",
       "max": 14,
       "min": 6,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -31,7 +23,7 @@
       "day": "Szerda",
       "max": 16,
       "min": 6,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -39,14 +31,14 @@
       "day": "Csütörtök",
       "max": 14,
       "min": 8,
-      "condition": "erősen felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
       "max": 14,
-      "min": 9,
+      "min": 7,
       "condition": "pára",
       "icon": null,
       "alert": null
@@ -63,6 +55,14 @@
       "day": "Vasárnap",
       "max": 14,
       "min": 6,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 12,
+      "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
