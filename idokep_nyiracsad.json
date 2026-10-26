@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Maradnak a hidegfronti tünetek",
   "focim": "Kapunk egy kis utánpótlást az esőfelhőktől",
-  "updated": "2026.10.26. 16:09",
-  "flow_last_run": "2026.10.26. 16:09",
+  "updated": "2026.10.26. 16:39",
+  "flow_last_run": "2026.10.26. 16:39",
   "current": {
-    "temperature": 9,
-    "condition": "Zápor",
+    "temperature": 8,
+    "condition": "Gyenge eső",
     "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
       "max": 9,
-      "min": 6,
+      "min": 7,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:08",
     "sunset": "16:25",
-    "is_night": false
+    "is_night": true
   }
 }
