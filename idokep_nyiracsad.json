@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti jellegű tünetek jelentkezhetnek",
   "focim": "Szeles, időnként felhősebb idő",
-  "updated": "2026.10.27. 03:09",
-  "flow_last_run": "2026.10.27. 03:39",
+  "updated": "2026.10.27. 04:09",
+  "flow_last_run": "2026.10.27. 04:09",
   "current": {
     "temperature": 6,
-    "condition": "Derült",
-    "icon": "🌙"
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -37,7 +37,7 @@
     },
     {
       "day": "Péntek",
-      "max": 14,
+      "max": 15,
       "min": 7,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -46,7 +46,7 @@
     {
       "day": "Szombat",
       "max": 13,
-      "min": 7,
+      "min": 8,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -61,8 +61,8 @@
     },
     {
       "day": "Hétfő",
-      "max": 11,
-      "min": 4,
+      "max": 12,
+      "min": 3,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
