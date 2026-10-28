@@ -28,7 +28,7 @@ ENGEDLYEZETT_CSATORNAK = {
     "Film Café",
     "AXN",
     "AMC",
-    "Cool TV",
+##############    "Cool TV",
     "Moziverzum",
     "Moziklub",
     "JockyTV",
