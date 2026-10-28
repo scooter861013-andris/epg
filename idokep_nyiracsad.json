@@ -2,11 +2,11 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
-  "focim": "Csak kevés felhő fogja zavarni a napsütést",
-  "updated": "2026.10.28. 08:09",
-  "flow_last_run": "2026.10.28. 08:09",
+  "focim": "Változóan felhős-napos őszi idő",
+  "updated": "2026.10.28. 08:39",
+  "flow_last_run": "2026.10.28. 08:39",
   "current": {
-    "temperature": 8,
+    "temperature": 10,
     "condition": "Közepesen felhős",
     "icon": "☁️"
   },
@@ -23,7 +23,7 @@
       "day": "Csütörtök",
       "max": 15,
       "min": 7,
-      "condition": "közepesen felhős",
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -31,14 +31,14 @@
       "day": "Péntek",
       "max": 15,
       "min": 9,
-      "condition": "erősen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szombat",
       "max": 12,
-      "min": 5,
+      "min": 8,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
