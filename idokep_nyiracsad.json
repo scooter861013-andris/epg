@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Változóan felhős-napos őszi idő",
-  "updated": "2026.10.28. 14:09",
-  "flow_last_run": "2026.10.28. 14:09",
+  "updated": "2026.10.28. 16:39",
+  "flow_last_run": "2026.10.28. 16:39",
   "current": {
-    "temperature": 17,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 10,
+    "condition": "Erősen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 15,
+      "max": 17,
       "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -21,7 +21,7 @@
     },
     {
       "day": "Csütörtök",
-      "max": 16,
+      "max": 15,
       "min": 6,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -30,7 +30,7 @@
     {
       "day": "Péntek",
       "max": 15,
-      "min": 8,
+      "min": 9,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -61,7 +61,7 @@
     },
     {
       "day": "Kedd",
-      "max": 10,
+      "max": 11,
       "min": 5,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:11",
     "sunset": "16:21",
-    "is_night": false
+    "is_night": true
   }
 }
