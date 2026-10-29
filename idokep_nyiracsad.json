@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Felhős, borongós, szeles őszi idő",
-  "updated": "2026.10.30. 00:09",
-  "flow_last_run": "2026.10.30. 00:09",
+  "updated": "2026.10.30. 00:39",
+  "flow_last_run": "2026.10.30. 00:39",
   "current": {
-    "temperature": 8,
-    "condition": "Borult",
+    "temperature": 9,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
       "max": 15,
-      "min": 8,
+      "min": 9,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
