@@ -3,8 +3,8 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Gyakran megnövekszik a felhőzet",
-  "updated": "2026.10.29. 11:39",
-  "flow_last_run": "2026.10.29. 11:39",
+  "updated": "2026.10.29. 12:09",
+  "flow_last_run": "2026.10.29. 12:09",
   "current": {
     "temperature": 15,
     "condition": "Közepesen felhős",
@@ -21,7 +21,7 @@
     },
     {
       "day": "Péntek",
-      "max": 16,
+      "max": 14,
       "min": 7,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -29,7 +29,7 @@
     },
     {
       "day": "Szombat",
-      "max": 13,
+      "max": 12,
       "min": 7,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "6:11",
+    "sunrise": "6:13",
     "sunset": "16:20",
     "is_night": false
   }
