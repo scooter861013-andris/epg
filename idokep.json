@@ -2,28 +2,20 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
-  "focim": "Gyakran megnövekszik a felhőzet",
-  "utoljára változott hőmérséklet az időképről": "2026.10.29. 18:05",
-  "flow_last_run": "2026.10.29. 18:05",
+  "focim": "Felhős, borongós, szeles őszi idő",
+  "utoljára változott hőmérséklet az időképről": "2026.10.29. 18:35",
+  "flow_last_run": "2026.10.29. 18:35",
   "current": {
-    "temperature": 12,
+    "temperature": 11,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Csütörtök",
-      "max": 16,
-      "min": 6,
-      "condition": "erősen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Péntek",
       "max": 13,
       "min": 8,
-      "condition": "közepesen felhős",
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -31,14 +23,14 @@
       "day": "Szombat",
       "max": 12,
       "min": 7,
-      "condition": "erősen felhős",
-      "icon": "☁️",
+      "condition": "gyenge eső",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Vasárnap",
       "max": 14,
-      "min": 7,
+      "min": 6,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -46,7 +38,7 @@
     {
       "day": "Hétfő",
       "max": 13,
-      "min": 6,
+      "min": 3,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -63,6 +55,14 @@
       "day": "Szerda",
       "max": 11,
       "min": 5,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "max": 10,
+      "min": 1,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
