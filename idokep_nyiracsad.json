@@ -1,52 +1,44 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Nem várható fronthatás",
-  "focim": "Felhős, borongós, szeles őszi idő",
-  "updated": "2026.10.30. 04:39",
-  "flow_last_run": "2026.10.30. 04:39",
+  "fronthatas": "Gyenge hidegfronti hatás várható",
+  "focim": "Szeles szombat",
+  "updated": "2026.10.30. 19:10",
+  "flow_last_run": "2026.10.30. 19:10",
   "current": {
-    "temperature": 9,
-    "condition": "Borult",
+    "temperature": 10,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Péntek",
-      "max": 15,
-      "min": 9,
-      "condition": "erősen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Szombat",
-      "max": 12,
+      "max": 13,
       "min": 7,
-      "condition": "gyenge eső",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Vasárnap",
       "max": 14,
-      "min": 6,
+      "min": 5,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 13,
-      "min": 3,
+      "max": 12,
+      "min": 6,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 11,
-      "min": 6,
+      "max": 12,
+      "min": 4,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -62,14 +54,22 @@
     {
       "day": "Csütörtök",
       "max": 11,
-      "min": 1,
+      "min": 2,
       "condition": "közepesen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Péntek",
+      "max": 10,
+      "min": -1,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     }
   ],
   "sun": {
-    "sunrise": "6:13",
+    "sunrise": "6:14",
     "sunset": "16:18",
     "is_night": true
   }
