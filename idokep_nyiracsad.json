@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Gyenge hidegfronti hatás várható",
   "focim": "Szeles szombat",
-  "updated": "2026.10.31. 05:39",
-  "flow_last_run": "2026.10.31. 06:09",
+  "updated": "2026.10.31. 06:39",
+  "flow_last_run": "2026.10.31. 06:39",
   "current": {
-    "temperature": 8,
+    "temperature": 7,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:14",
     "sunset": "16:16",
-    "is_night": true
+    "is_night": false
   }
 }
