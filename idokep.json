@@ -3,8 +3,8 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Gyenge hidegfronti hatás várható",
   "focim": "Szeles szombat",
-  "utoljára változott hőmérséklet az időképről": "2026.10.31. 10:05",
-  "flow_last_run": "2026.10.31. 10:05",
+  "utoljára változott hőmérséklet az időképről": "2026.10.31. 10:35",
+  "flow_last_run": "2026.10.31. 10:35",
   "current": {
     "temperature": 12,
     "condition": "Gyengén felhős",
@@ -30,7 +30,7 @@
     {
       "day": "Hétfő",
       "max": 11,
-      "min": 6,
+      "min": 7,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -38,7 +38,7 @@
     {
       "day": "Kedd",
       "max": 12,
-      "min": 6,
+      "min": 7,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -61,8 +61,8 @@
     },
     {
       "day": "Péntek",
-      "max": 10,
-      "min": -1,
+      "max": 9,
+      "min": -2,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
