@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Gyenge hidegfronti hatás várható",
   "focim": "Szeles szombat",
-  "updated": "2026.10.31. 15:39",
-  "flow_last_run": "2026.10.31. 15:39",
+  "updated": "2026.10.31. 16:09",
+  "flow_last_run": "2026.10.31. 16:09",
   "current": {
     "temperature": 11,
-    "condition": "Közepesen felhős",
-    "icon": "☁️"
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
       "max": 14,
-      "min": 5,
+      "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -45,8 +45,8 @@
     },
     {
       "day": "Szerda",
-      "max": 12,
-      "min": 5,
+      "max": 11,
+      "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -62,7 +62,7 @@
     {
       "day": "Péntek",
       "max": 9,
-      "min": -1,
+      "min": -2,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
