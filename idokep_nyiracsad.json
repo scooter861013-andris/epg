@@ -3,11 +3,11 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Kissé szeles idővel búcsúzik a hét",
-  "updated": "2026.10.31. 21:39",
-  "flow_last_run": "2026.10.31. 21:39",
+  "updated": "2026.10.31. 22:09",
+  "flow_last_run": "2026.10.31. 22:09",
   "current": {
     "temperature": 5,
-    "condition": "Gyengén felhős",
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -29,7 +29,7 @@
     },
     {
       "day": "Kedd",
-      "max": 12,
+      "max": 13,
       "min": 7,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -37,7 +37,7 @@
     },
     {
       "day": "Szerda",
-      "max": 11,
+      "max": 12,
       "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -45,15 +45,15 @@
     },
     {
       "day": "Csütörtök",
-      "max": 10,
-      "min": 0,
+      "max": 11,
+      "min": 1,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Péntek",
-      "max": 9,
+      "max": 10,
       "min": -2,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -62,7 +62,7 @@
     {
       "day": "Szombat",
       "max": 9,
-      "min": -2,
+      "min": -1,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
