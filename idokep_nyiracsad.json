@@ -1,13 +1,13 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Nem lesz front felettünk",
+  "fronthatas": "Kettősfronti hatás várható",
   "focim": "Kissé szeles idővel búcsúzik a hét",
-  "updated": "2026.11.01. 18:39",
-  "flow_last_run": "2026.11.01. 18:39",
+  "updated": "2026.11.01. 19:09",
+  "flow_last_run": "2026.11.01. 19:09",
   "current": {
     "temperature": 9,
-    "condition": "Borult",
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -21,7 +21,7 @@
     },
     {
       "day": "Hétfő",
-      "max": 10,
+      "max": 11,
       "min": 7,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
