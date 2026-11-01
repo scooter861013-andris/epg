@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem lesz front felettünk",
   "focim": "Kissé szeles idővel búcsúzik a hét",
-  "utoljára változott hőmérséklet az időképről": "2026.11.01. 06:35",
-  "flow_last_run": "2026.11.01. 06:35",
+  "utoljára változott hőmérséklet az időképről": "2026.11.01. 07:05",
+  "flow_last_run": "2026.11.01. 07:05",
   "current": {
-    "temperature": 4,
-    "condition": "Borult",
+    "temperature": 5,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 13,
+      "max": 14,
       "min": 4,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -38,8 +38,8 @@
     {
       "day": "Szerda",
       "max": 12,
-      "min": 4,
-      "condition": "közepesen felhős",
+      "min": 6,
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
