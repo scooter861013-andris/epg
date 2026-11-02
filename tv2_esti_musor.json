@@ -1,944 +1,1052 @@
 [
   {
     "csatorna": "AMC",
-    "kezdes": "2026.11.01  -  13:10:00 +0000",
-    "vege": "2026.11.01  -  15:20:00 +0000",
-    "cim": "Zsenikém - Az ügynök haláli"
+    "kezdes": "2026.11.02  -  13:25:00 +0000",
+    "vege": "2026.11.02  -  15:55:00 +0000",
+    "cim": "Ragadozó városok"
   },
   {
     "csatorna": "AMC",
-    "kezdes": "2026.11.01  -  15:20:00 +0000",
-    "vege": "2026.11.01  -  17:10:00 +0000",
-    "cim": "Bolondos dallamok - Újra bevetésen"
+    "kezdes": "2026.11.02  -  15:55:00 +0000",
+    "vege": "2026.11.02  -  18:00:00 +0000",
+    "cim": "Asterix és Obelix: Isten óvja Britanniát!"
   },
   {
     "csatorna": "AMC",
-    "kezdes": "2026.11.01  -  17:10:00 +0000",
-    "vege": "2026.11.01  -  19:00:00 +0000",
-    "cim": "Aranyeső Yuccában"
+    "kezdes": "2026.11.02  -  18:00:00 +0000",
+    "vege": "2026.11.02  -  20:00:00 +0000",
+    "cim": "Elvált nők klubja"
   },
   {
     "csatorna": "AMC",
-    "kezdes": "2026.11.01  -  19:00:00 +0000",
-    "vege": "2026.11.01  -  20:55:00 +0000",
-    "cim": "Kísértethajó"
+    "kezdes": "2026.11.02  -  20:00:00 +0000",
+    "vege": "2026.11.02  -  22:10:00 +0000",
+    "cim": "Kellékfeleség"
   },
   {
     "csatorna": "AMC",
-    "kezdes": "2026.11.01  -  20:55:00 +0000",
-    "vege": "2026.11.01  -  23:15:00 +0000",
-    "cim": "Úriemberek"
+    "kezdes": "2026.11.02  -  22:10:00 +0000",
+    "vege": "2026.11.02  -  23:55:00 +0000",
+    "cim": "Hang nélkül"
   },
   {
     "csatorna": "AMC",
-    "kezdes": "2026.11.01  -  23:15:00 +0000",
-    "vege": "2026.11.02  -  00:50:00 +0000",
-    "cim": "A diktátor"
+    "kezdes": "2026.11.02  -  23:55:00 +0000",
+    "vege": "2026.11.03  -  02:05:00 +0000",
+    "cim": "Madarak"
   },
   {
     "csatorna": "AXN",
-    "kezdes": "2026.11.01  -  12:00:00 +0000",
-    "vege": "2026.11.01  -  13:00:00 +0000",
+    "kezdes": "2026.11.02  -  12:45:00 +0000",
+    "vege": "2026.11.02  -  13:45:00 +0000",
+    "cim": "NCIS"
+  },
+  {
+    "csatorna": "AXN",
+    "kezdes": "2026.11.02  -  13:45:00 +0000",
+    "vege": "2026.11.02  -  14:45:00 +0000",
+    "cim": "Csillagkapu: Atlantisz"
+  },
+  {
+    "csatorna": "AXN",
+    "kezdes": "2026.11.02  -  14:45:00 +0000",
+    "vege": "2026.11.02  -  15:45:00 +0000",
+    "cim": "Csillagkapu: Atlantisz"
+  },
+  {
+    "csatorna": "AXN",
+    "kezdes": "2026.11.02  -  15:45:00 +0000",
+    "vege": "2026.11.02  -  16:55:00 +0000",
+    "cim": "Csillagkapu"
+  },
+  {
+    "csatorna": "AXN",
+    "kezdes": "2026.11.02  -  16:55:00 +0000",
+    "vege": "2026.11.02  -  17:55:00 +0000",
+    "cim": "Csillagkapu"
+  },
+  {
+    "csatorna": "AXN",
+    "kezdes": "2026.11.02  -  17:55:00 +0000",
+    "vege": "2026.11.02  -  19:00:00 +0000",
+    "cim": "J.A.G. - Becsületbeli ügyek"
+  },
+  {
+    "csatorna": "AXN",
+    "kezdes": "2026.11.02  -  19:00:00 +0000",
+    "vege": "2026.11.02  -  20:00:00 +0000",
     "cim": "FBI - New York különleges ügynökei"
   },
   {
     "csatorna": "AXN",
-    "kezdes": "2026.11.01  -  13:00:00 +0000",
-    "vege": "2026.11.01  -  14:00:00 +0000",
-    "cim": "FBI - New York különleges ügynökei"
+    "kezdes": "2026.11.02  -  20:00:00 +0000",
+    "vege": "2026.11.02  -  21:00:00 +0000",
+    "cim": "SWAT - Különleges egység"
   },
   {
     "csatorna": "AXN",
-    "kezdes": "2026.11.01  -  14:00:00 +0000",
-    "vege": "2026.11.01  -  15:00:00 +0000",
-    "cim": "FBI - New York különleges ügynökei"
+    "kezdes": "2026.11.02  -  21:00:00 +0000",
+    "vege": "2026.11.02  -  22:00:00 +0000",
+    "cim": "SWAT - Különleges egység"
   },
   {
     "csatorna": "AXN",
-    "kezdes": "2026.11.01  -  15:00:00 +0000",
-    "vege": "2026.11.01  -  16:55:00 +0000",
-    "cim": "Libabőr 2 - Hullajó Halloween"
-  },
-  {
-    "csatorna": "AXN",
-    "kezdes": "2026.11.01  -  16:55:00 +0000",
-    "vege": "2026.11.01  -  20:00:00 +0000",
-    "cim": "Az első lovag"
-  },
-  {
-    "csatorna": "AXN",
-    "kezdes": "2026.11.01  -  20:00:00 +0000",
-    "vege": "2026.11.01  -  22:25:00 +0000",
-    "cim": "Képlet"
-  },
-  {
-    "csatorna": "AXN",
-    "kezdes": "2026.11.01  -  22:25:00 +0000",
-    "vege": "2026.11.02  -  00:15:00 +0000",
-    "cim": "Dungeons and Dragons 3. - A sátáni sötétség könyve"
+    "kezdes": "2026.11.02  -  22:00:00 +0000",
+    "vege": "2026.11.03  -  00:05:00 +0000",
+    "cim": "Pancser Police"
   },
   {
     "csatorna": "FILM4",
-    "kezdes": "2026.11.01  -  13:40:00 +0000",
-    "vege": "2026.11.01  -  15:25:00 +0000",
-    "cim": "Szerelem Hawaiin"
+    "kezdes": "2026.11.02  -  13:30:00 +0000",
+    "vege": "2026.11.02  -  15:25:00 +0000",
+    "cim": "A szlogengyáros családanya"
   },
   {
     "csatorna": "FILM4",
-    "kezdes": "2026.11.01  -  15:25:00 +0000",
-    "vege": "2026.11.01  -  17:15:00 +0000",
-    "cim": "Tavaszi hazatérés"
+    "kezdes": "2026.11.02  -  15:25:00 +0000",
+    "vege": "2026.11.02  -  17:15:00 +0000",
+    "cim": "A randilista"
   },
   {
     "csatorna": "FILM4",
-    "kezdes": "2026.11.01  -  17:15:00 +0000",
-    "vege": "2026.11.01  -  19:00:00 +0000",
-    "cim": "Rendkívül csodás dolgok"
+    "kezdes": "2026.11.02  -  17:15:00 +0000",
+    "vege": "2026.11.02  -  19:00:00 +0000",
+    "cim": "Hailey Dean megoldja: Gyilkos ítélet"
   },
   {
     "csatorna": "FILM4",
-    "kezdes": "2026.11.01  -  19:00:00 +0000",
-    "vege": "2026.11.01  -  21:00:00 +0000",
+    "kezdes": "2026.11.02  -  19:00:00 +0000",
+    "vege": "2026.11.02  -  21:00:00 +0000",
+    "cim": "Boldogság két keréken"
+  },
+  {
+    "csatorna": "FILM4",
+    "kezdes": "2026.11.02  -  21:00:00 +0000",
+    "vege": "2026.11.02  -  23:30:00 +0000",
+    "cim": "Férfias játékok"
+  },
+  {
+    "csatorna": "FILM4",
+    "kezdes": "2026.11.02  -  23:30:00 +0000",
+    "vege": "2026.11.03  -  01:20:00 +0000",
     "cim": "Megmaradt Alice-nek"
   },
   {
-    "csatorna": "FILM4",
-    "kezdes": "2026.11.01  -  21:00:00 +0000",
-    "vege": "2026.11.01  -  23:30:00 +0000",
-    "cim": "Collateral - A halál záloga"
-  },
-  {
-    "csatorna": "FILM4",
-    "kezdes": "2026.11.01  -  23:30:00 +0000",
-    "vege": "2026.11.02  -  02:05:00 +0000",
-    "cim": "Mandela"
+    "csatorna": "FILMCAFE",
+    "kezdes": "2026.11.02  -  13:55:00 +0000",
+    "vege": "2026.11.02  -  15:45:00 +0000",
+    "cim": "Aeon Flux"
   },
   {
     "csatorna": "FILMCAFE",
-    "kezdes": "2026.11.01  -  13:10:00 +0000",
-    "vege": "2026.11.01  -  14:45:00 +0000",
-    "cim": "Édes kis semmiség"
+    "kezdes": "2026.11.02  -  15:45:00 +0000",
+    "vege": "2026.11.02  -  17:40:00 +0000",
+    "cim": "Horgász a pácban"
   },
   {
     "csatorna": "FILMCAFE",
-    "kezdes": "2026.11.01  -  14:45:00 +0000",
-    "vege": "2026.11.01  -  16:50:00 +0000",
-    "cim": "Az időutazó felesége"
+    "kezdes": "2026.11.02  -  17:40:00 +0000",
+    "vege": "2026.11.02  -  20:00:00 +0000",
+    "cim": "Alkonyat"
   },
   {
     "csatorna": "FILMCAFE",
-    "kezdes": "2026.11.01  -  16:50:00 +0000",
-    "vege": "2026.11.01  -  19:00:00 +0000",
-    "cim": "Őrült szenvedély"
+    "kezdes": "2026.11.02  -  20:00:00 +0000",
+    "vege": "2026.11.02  -  22:05:00 +0000",
+    "cim": "Most már elég!"
   },
   {
     "csatorna": "FILMCAFE",
-    "kezdes": "2026.11.01  -  19:00:00 +0000",
-    "vege": "2026.11.01  -  20:55:00 +0000",
-    "cim": "Átkozott boszorkák"
-  },
-  {
-    "csatorna": "FILMCAFE",
-    "kezdes": "2026.11.01  -  20:55:00 +0000",
-    "vege": "2026.11.01  -  23:05:00 +0000",
-    "cim": "Pénzvonat"
-  },
-  {
-    "csatorna": "FILMCAFE",
-    "kezdes": "2026.11.01  -  23:05:00 +0000",
-    "vege": "2026.11.02  -  00:55:00 +0000",
-    "cim": "Végzetes kitérő"
+    "kezdes": "2026.11.02  -  22:05:00 +0000",
+    "vege": "2026.11.03  -  00:05:00 +0000",
+    "cim": "Kraken"
   },
   {
     "csatorna": "FILMMANIA",
-    "kezdes": "2026.11.01  -  12:40:00 +0000",
-    "vege": "2026.11.01  -  14:40:00 +0000",
-    "cim": "Hajrá, csajok!"
+    "kezdes": "2026.11.02  -  14:10:00 +0000",
+    "vege": "2026.11.02  -  16:10:00 +0000",
+    "cim": "Aranyeső Yuccában"
   },
   {
     "csatorna": "FILMMANIA",
-    "kezdes": "2026.11.01  -  14:40:00 +0000",
-    "vege": "2026.11.01  -  16:20:00 +0000",
-    "cim": "Bújj, bújj, ördög!"
+    "kezdes": "2026.11.02  -  16:10:00 +0000",
+    "vege": "2026.11.02  -  18:00:00 +0000",
+    "cim": "Az utolsó király"
   },
   {
     "csatorna": "FILMMANIA",
-    "kezdes": "2026.11.01  -  16:20:00 +0000",
-    "vege": "2026.11.01  -  18:55:00 +0000",
-    "cim": "Macska-jaj"
+    "kezdes": "2026.11.02  -  18:00:00 +0000",
+    "vege": "2026.11.02  -  20:00:00 +0000",
+    "cim": "Tükröm, tükröm"
   },
   {
     "csatorna": "FILMMANIA",
-    "kezdes": "2026.11.01  -  18:55:00 +0000",
-    "vege": "2026.11.01  -  21:00:00 +0000",
-    "cim": "Jöttünk, láttunk, visszamennénk 3. - A forradalom"
+    "kezdes": "2026.11.02  -  20:00:00 +0000",
+    "vege": "2026.11.02  -  21:45:00 +0000",
+    "cim": "Királykobra"
   },
   {
     "csatorna": "FILMMANIA",
-    "kezdes": "2026.11.01  -  21:00:00 +0000",
-    "vege": "2026.11.01  -  22:55:00 +0000",
-    "cim": "Egy igaz ügy"
-  },
-  {
-    "csatorna": "FILMMANIA",
-    "kezdes": "2026.11.01  -  22:55:00 +0000",
-    "vege": "2026.11.02  -  00:25:00 +0000",
-    "cim": "Rossz hold"
+    "kezdes": "2026.11.02  -  21:45:00 +0000",
+    "vege": "2026.11.03  -  00:20:00 +0000",
+    "cim": "8 milliméter"
   },
   {
     "csatorna": "FILMPLUSSZ",
-    "kezdes": "2026.11.01  -  13:45:00 +0000",
-    "vege": "2026.11.01  -  16:10:00 +0000",
-    "cim": "Men in Black: Sötét zsaruk a Föld körül"
-  },
-  {
-    "csatorna": "FILMPLUSSZ",
-    "kezdes": "2026.11.01  -  16:10:00 +0000",
-    "vege": "2026.11.01  -  18:45:00 +0000",
-    "cim": "Legdrágább az életed"
-  },
-  {
-    "csatorna": "FILMPLUSSZ",
-    "kezdes": "2026.11.01  -  18:45:00 +0000",
-    "vege": "2026.11.01  -  22:00:00 +0000",
+    "kezdes": "2026.11.02  -  13:50:00 +0000",
+    "vege": "2026.11.02  -  17:10:00 +0000",
     "cim": "Armageddon"
   },
   {
     "csatorna": "FILMPLUSSZ",
-    "kezdes": "2026.11.01  -  22:00:00 +0000",
-    "vege": "2026.11.02  -  01:20:00 +0000",
+    "kezdes": "2026.11.02  -  17:10:00 +0000",
+    "vege": "2026.11.02  -  20:00:00 +0000",
+    "cim": "Apollo 13"
+  },
+  {
+    "csatorna": "FILMPLUSSZ",
+    "kezdes": "2026.11.02  -  20:00:00 +0000",
+    "vege": "2026.11.02  -  22:20:00 +0000",
+    "cim": "Men in Black: Sötét zsaruk a Föld körül"
+  },
+  {
+    "csatorna": "FILMPLUSSZ",
+    "kezdes": "2026.11.02  -  22:20:00 +0000",
+    "vege": "2026.11.03  -  01:50:00 +0000",
     "cim": "Szárnyas fejvadász 2049"
   },
   {
     "csatorna": "MOZIPLUSZ",
-    "kezdes": "2026.11.01  -  12:20:00 +0000",
-    "vege": "2026.11.01  -  14:25:00 +0000",
-    "cim": "Életrevalók"
+    "kezdes": "2026.11.02  -  12:10:00 +0000",
+    "vege": "2026.11.02  -  14:35:00 +0000",
+    "cim": "A mag"
   },
   {
     "csatorna": "MOZIPLUSZ",
-    "kezdes": "2026.11.01  -  14:25:00 +0000",
-    "vege": "2026.11.01  -  16:30:00 +0000",
-    "cim": "Parker"
+    "kezdes": "2026.11.02  -  14:35:00 +0000",
+    "vege": "2026.11.02  -  16:20:00 +0000",
+    "cim": "Értékes rakomány"
   },
   {
     "csatorna": "MOZIPLUSZ",
-    "kezdes": "2026.11.01  -  16:30:00 +0000",
-    "vege": "2026.11.01  -  18:10:00 +0000",
-    "cim": "Jurassic Park 3."
+    "kezdes": "2026.11.02  -  16:20:00 +0000",
+    "vege": "2026.11.02  -  18:10:00 +0000",
+    "cim": "Nagyfiúk 2"
   },
   {
     "csatorna": "MOZIPLUSZ",
-    "kezdes": "2026.11.01  -  18:10:00 +0000",
-    "vege": "2026.11.01  -  20:00:00 +0000",
-    "cim": "Monster Hunter - Szörnybirodalom"
+    "kezdes": "2026.11.02  -  18:10:00 +0000",
+    "vege": "2026.11.02  -  20:00:00 +0000",
+    "cim": "A menekülő ember"
   },
   {
     "csatorna": "MOZIPLUSZ",
-    "kezdes": "2026.11.01  -  20:00:00 +0000",
-    "vege": "2026.11.01  -  21:50:00 +0000",
-    "cim": "Feláldozh4tók"
+    "kezdes": "2026.11.02  -  20:00:00 +0000",
+    "vege": "2026.11.02  -  22:15:00 +0000",
+    "cim": "Joker"
   },
   {
     "csatorna": "MOZIPLUSZ",
-    "kezdes": "2026.11.01  -  21:50:00 +0000",
-    "vege": "2026.11.01  -  23:45:00 +0000",
-    "cim": "Féktelen harag"
-  },
-  {
-    "csatorna": "MOZIPLUSZ",
-    "kezdes": "2026.11.01  -  23:45:00 +0000",
-    "vege": "2026.11.02  -  01:45:00 +0000",
-    "cim": "Harcra született"
+    "kezdes": "2026.11.02  -  22:15:00 +0000",
+    "vege": "2026.11.03  -  00:10:00 +0000",
+    "cim": "Lángoló jég"
   },
   {
     "csatorna": "MOZIVERZUM",
-    "kezdes": "2026.11.01  -  12:10:00 +0000",
-    "vege": "2026.11.01  -  13:45:00 +0000",
-    "cim": "Legeslegjobb barátok"
+    "kezdes": "2026.11.02  -  13:40:00 +0000",
+    "vege": "2026.11.02  -  16:15:00 +0000",
+    "cim": "Harry Potter és a Halál ereklyéi 1. rész"
   },
   {
     "csatorna": "MOZIVERZUM",
-    "kezdes": "2026.11.01  -  13:45:00 +0000",
-    "vege": "2026.11.01  -  15:40:00 +0000",
-    "cim": "Paddington Peruban"
+    "kezdes": "2026.11.02  -  16:15:00 +0000",
+    "vege": "2026.11.02  -  18:00:00 +0000",
+    "cim": "A tengerészgyalogos"
   },
   {
     "csatorna": "MOZIVERZUM",
-    "kezdes": "2026.11.01  -  15:40:00 +0000",
-    "vege": "2026.11.01  -  18:15:00 +0000",
-    "cim": "Pókember: A pókverzumon át"
+    "kezdes": "2026.11.02  -  18:00:00 +0000",
+    "vege": "2026.11.02  -  20:10:00 +0000",
+    "cim": "Sokkal több mint testőr 2"
   },
   {
     "csatorna": "MOZIVERZUM",
-    "kezdes": "2026.11.01  -  18:15:00 +0000",
-    "vege": "2026.11.01  -  20:00:00 +0000",
-    "cim": "Nyúl Péter 2. - Nyúlcipő"
+    "kezdes": "2026.11.02  -  20:10:00 +0000",
+    "vege": "2026.11.02  -  22:00:00 +0000",
+    "cim": "A sárkány csókja"
   },
   {
     "csatorna": "MOZIVERZUM",
-    "kezdes": "2026.11.01  -  20:00:00 +0000",
-    "vege": "2026.11.01  -  22:00:00 +0000",
-    "cim": "Ilyen az élet"
-  },
-  {
-    "csatorna": "MOZIVERZUM",
-    "kezdes": "2026.11.01  -  22:00:00 +0000",
-    "vege": "2026.11.01  -  23:50:00 +0000",
-    "cim": "A (sz)ex az oka mindennek"
-  },
-  {
-    "csatorna": "MOZIVERZUM",
-    "kezdes": "2026.11.01  -  23:50:00 +0000",
-    "vege": "2026.11.02  -  01:20:00 +0000",
-    "cim": "A tengerészgyalogos 6 - Közelharc"
+    "kezdes": "2026.11.02  -  22:00:00 +0000",
+    "vege": "2026.11.03  -  00:40:00 +0000",
+    "cim": "A Sólyom végveszélyben"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  12:20:00 +0000",
-    "vege": "2026.11.01  -  12:40:00 +0000",
-    "cim": "A Marsupilamik"
-  },
-  {
-    "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  12:40:00 +0000",
-    "vege": "2026.11.01  -  13:15:00 +0000",
-    "cim": "A Marsupilamik"
-  },
-  {
-    "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  13:15:00 +0000",
-    "vege": "2026.11.01  -  13:40:00 +0000",
+    "kezdes": "2026.11.02  -  12:10:00 +0000",
+    "vege": "2026.11.02  -  12:30:00 +0000",
     "cim": "A Lármás család"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  13:40:00 +0000",
-    "vege": "2026.11.01  -  14:00:00 +0000",
-    "cim": "A Lármás család"
-  },
-  {
-    "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  14:00:00 +0000",
-    "vege": "2026.11.01  -  14:15:00 +0000",
-    "cim": "A Lármás család"
-  },
-  {
-    "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  14:15:00 +0000",
-    "vege": "2026.11.01  -  14:35:00 +0000",
-    "cim": "A Lármás család"
-  },
-  {
-    "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  14:35:00 +0000",
-    "vege": "2026.11.01  -  15:00:00 +0000",
+    "kezdes": "2026.11.02  -  12:30:00 +0000",
+    "vege": "2026.11.02  -  12:55:00 +0000",
     "cim": "Csillag Patrik műsora"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  15:00:00 +0000",
-    "vege": "2026.11.01  -  16:20:00 +0000",
-    "cim": "Furi Suli"
+    "kezdes": "2026.11.02  -  12:55:00 +0000",
+    "vege": "2026.11.02  -  13:15:00 +0000",
+    "cim": "SpongyaBob KockaNadrág"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  16:20:00 +0000",
-    "vege": "2026.11.01  -  16:45:00 +0000",
+    "kezdes": "2026.11.02  -  13:15:00 +0000",
+    "vege": "2026.11.02  -  13:35:00 +0000",
     "cim": "A Lármás család"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  16:45:00 +0000",
-    "vege": "2026.11.01  -  16:55:00 +0000",
+    "kezdes": "2026.11.02  -  13:35:00 +0000",
+    "vege": "2026.11.02  -  13:50:00 +0000",
     "cim": "A Lármás család"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  16:55:00 +0000",
-    "vege": "2026.11.01  -  17:20:00 +0000",
+    "kezdes": "2026.11.02  -  13:50:00 +0000",
+    "vege": "2026.11.02  -  14:15:00 +0000",
+    "cim": "A Lármás család"
+  },
+  {
+    "csatorna": "NICKELODEON",
+    "kezdes": "2026.11.02  -  14:15:00 +0000",
+    "vege": "2026.11.02  -  14:40:00 +0000",
+    "cim": "A Marsupilamik"
+  },
+  {
+    "csatorna": "NICKELODEON",
+    "kezdes": "2026.11.02  -  14:40:00 +0000",
+    "vege": "2026.11.02  -  15:00:00 +0000",
+    "cim": "SpongyaBob Kockanadrág"
+  },
+  {
+    "csatorna": "NICKELODEON",
+    "kezdes": "2026.11.02  -  15:00:00 +0000",
+    "vege": "2026.11.02  -  15:25:00 +0000",
+    "cim": "Csillag Patrik műsora"
+  },
+  {
+    "csatorna": "NICKELODEON",
+    "kezdes": "2026.11.02  -  15:25:00 +0000",
+    "vege": "2026.11.02  -  15:45:00 +0000",
+    "cim": "Spongyabob Kockanadrág"
+  },
+  {
+    "csatorna": "NICKELODEON",
+    "kezdes": "2026.11.02  -  15:45:00 +0000",
+    "vege": "2026.11.02  -  16:00:00 +0000",
+    "cim": "SpongyaBob KockaNadrág"
+  },
+  {
+    "csatorna": "NICKELODEON",
+    "kezdes": "2026.11.02  -  16:00:00 +0000",
+    "vege": "2026.11.02  -  16:10:00 +0000",
+    "cim": "A Lármás család"
+  },
+  {
+    "csatorna": "NICKELODEON",
+    "kezdes": "2026.11.02  -  16:10:00 +0000",
+    "vege": "2026.11.02  -  16:25:00 +0000",
+    "cim": "A Lármás család"
+  },
+  {
+    "csatorna": "NICKELODEON",
+    "kezdes": "2026.11.02  -  16:25:00 +0000",
+    "vege": "2026.11.02  -  16:50:00 +0000",
+    "cim": "A Lármás család"
+  },
+  {
+    "csatorna": "NICKELODEON",
+    "kezdes": "2026.11.02  -  16:50:00 +0000",
+    "vege": "2026.11.02  -  17:00:00 +0000",
+    "cim": "A Lármás család"
+  },
+  {
+    "csatorna": "NICKELODEON",
+    "kezdes": "2026.11.02  -  17:00:00 +0000",
+    "vege": "2026.11.02  -  17:25:00 +0000",
     "cim": "Sadie és Lay Lay kalandjai"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  17:20:00 +0000",
-    "vege": "2026.11.01  -  17:45:00 +0000",
+    "kezdes": "2026.11.02  -  17:25:00 +0000",
+    "vege": "2026.11.02  -  17:45:00 +0000",
     "cim": "A Thunderman-család: Beépített küldetés"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  17:45:00 +0000",
-    "vege": "2026.11.01  -  18:05:00 +0000",
+    "kezdes": "2026.11.02  -  17:45:00 +0000",
+    "vege": "2026.11.02  -  18:15:00 +0000",
     "cim": "Veszélyes Henry"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  18:05:00 +0000",
-    "vege": "2026.11.01  -  18:30:00 +0000",
+    "kezdes": "2026.11.02  -  18:15:00 +0000",
+    "vege": "2026.11.02  -  18:40:00 +0000",
     "cim": "Veszélyes Henry"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  18:30:00 +0000",
-    "vege": "2026.11.01  -  18:50:00 +0000",
+    "kezdes": "2026.11.02  -  18:40:00 +0000",
+    "vege": "2026.11.02  -  19:00:00 +0000",
     "cim": "Veszélyes Osztag"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  18:50:00 +0000",
-    "vege": "2026.11.01  -  19:15:00 +0000",
+    "kezdes": "2026.11.02  -  19:00:00 +0000",
+    "vege": "2026.11.02  -  19:25:00 +0000",
     "cim": "iCarly"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  19:15:00 +0000",
-    "vege": "2026.11.01  -  19:40:00 +0000",
+    "kezdes": "2026.11.02  -  19:25:00 +0000",
+    "vege": "2026.11.02  -  19:50:00 +0000",
     "cim": "iCarly"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  19:40:00 +0000",
-    "vege": "2026.11.01  -  20:05:00 +0000",
+    "kezdes": "2026.11.02  -  19:50:00 +0000",
+    "vege": "2026.11.02  -  20:15:00 +0000",
     "cim": "V, mint Viktória"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  20:05:00 +0000",
-    "vege": "2026.11.01  -  20:30:00 +0000",
+    "kezdes": "2026.11.02  -  20:15:00 +0000",
+    "vege": "2026.11.02  -  20:35:00 +0000",
     "cim": "Sam és Cat"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  20:30:00 +0000",
-    "vege": "2026.11.01  -  20:50:00 +0000",
+    "kezdes": "2026.11.02  -  20:35:00 +0000",
+    "vege": "2026.11.02  -  21:00:00 +0000",
     "cim": "Mesék a Tini Nindzsa Teknőcökről"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  20:50:00 +0000",
-    "vege": "2026.11.01  -  21:15:00 +0000",
+    "kezdes": "2026.11.02  -  21:00:00 +0000",
+    "vege": "2026.11.02  -  21:25:00 +0000",
     "cim": "Mesék a Tini Nindzsa Teknőcökről"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  21:15:00 +0000",
-    "vege": "2026.11.01  -  21:40:00 +0000",
+    "kezdes": "2026.11.02  -  21:25:00 +0000",
+    "vege": "2026.11.02  -  21:50:00 +0000",
     "cim": "SpongyaBob KockaNadrág"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  21:40:00 +0000",
-    "vege": "2026.11.01  -  22:05:00 +0000",
+    "kezdes": "2026.11.02  -  21:50:00 +0000",
+    "vege": "2026.11.02  -  22:10:00 +0000",
     "cim": "SpongyaBob KockaNadrág"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  22:05:00 +0000",
-    "vege": "2026.11.01  -  22:25:00 +0000",
+    "kezdes": "2026.11.02  -  22:10:00 +0000",
+    "vege": "2026.11.02  -  22:35:00 +0000",
     "cim": "A Marsupilamik"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  22:25:00 +0000",
-    "vege": "2026.11.01  -  22:50:00 +0000",
+    "kezdes": "2026.11.02  -  22:35:00 +0000",
+    "vege": "2026.11.02  -  22:55:00 +0000",
     "cim": "Szipi & Szuper"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  22:50:00 +0000",
-    "vege": "2026.11.01  -  23:10:00 +0000",
+    "kezdes": "2026.11.02  -  22:55:00 +0000",
+    "vege": "2026.11.02  -  23:20:00 +0000",
     "cim": "Szipi & Szuper"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  23:10:00 +0000",
-    "vege": "2026.11.01  -  23:35:00 +0000",
+    "kezdes": "2026.11.02  -  23:20:00 +0000",
+    "vege": "2026.11.02  -  23:45:00 +0000",
     "cim": "Csillag Patrik műsora"
   },
   {
     "csatorna": "NICKELODEON",
-    "kezdes": "2026.11.01  -  23:35:00 +0000",
-    "vege": "2026.11.02  -  00:00:00 +0000",
+    "kezdes": "2026.11.02  -  23:45:00 +0000",
+    "vege": "2026.11.03  -  00:05:00 +0000",
     "cim": "Csillag Patrik műsora"
   },
   {
     "csatorna": "OZONETV",
-    "kezdes": "2026.11.01  -  12:00:00 +0000",
-    "vege": "2026.11.01  -  12:30:00 +0000",
-    "cim": "Garázs"
+    "kezdes": "2026.11.02  -  12:00:00 +0000",
+    "vege": "2026.11.02  -  12:30:00 +0000",
+    "cim": "Raktárvadászok"
   },
   {
     "csatorna": "OZONETV",
-    "kezdes": "2026.11.01  -  12:30:00 +0000",
-    "vege": "2026.11.01  -  13:00:00 +0000",
-    "cim": "Garázs"
+    "kezdes": "2026.11.02  -  12:30:00 +0000",
+    "vege": "2026.11.02  -  13:00:00 +0000",
+    "cim": "Raktárvadászok"
   },
   {
     "csatorna": "OZONETV",
-    "kezdes": "2026.11.01  -  13:00:00 +0000",
-    "vege": "2026.11.01  -  13:30:00 +0000",
-    "cim": "Garázs"
+    "kezdes": "2026.11.02  -  13:00:00 +0000",
+    "vege": "2026.11.02  -  13:30:00 +0000",
+    "cim": "Raktárvadászok"
   },
   {
     "csatorna": "OZONETV",
-    "kezdes": "2026.11.01  -  13:30:00 +0000",
-    "vege": "2026.11.01  -  14:00:00 +0000",
-    "cim": "Garázs"
+    "kezdes": "2026.11.02  -  13:30:00 +0000",
+    "vege": "2026.11.02  -  14:00:00 +0000",
+    "cim": "Raktárvadászok"
   },
   {
     "csatorna": "OZONETV",
-    "kezdes": "2026.11.01  -  14:00:00 +0000",
-    "vege": "2026.11.01  -  15:00:00 +0000",
-    "cim": "Ozone utazás"
+    "kezdes": "2026.11.02  -  14:00:00 +0000",
+    "vege": "2026.11.02  -  14:30:00 +0000",
+    "cim": "Zálogcsillagok"
   },
   {
     "csatorna": "OZONETV",
-    "kezdes": "2026.11.01  -  15:00:00 +0000",
-    "vege": "2026.11.01  -  15:30:00 +0000",
+    "kezdes": "2026.11.02  -  14:30:00 +0000",
+    "vege": "2026.11.02  -  15:00:00 +0000",
+    "cim": "Zálogcsillagok"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "2026.11.02  -  15:00:00 +0000",
+    "vege": "2026.11.02  -  15:30:00 +0000",
+    "cim": "Zálogkirályok"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "2026.11.02  -  15:30:00 +0000",
+    "vege": "2026.11.02  -  16:00:00 +0000",
+    "cim": "Zálogkirályok"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "2026.11.02  -  16:00:00 +0000",
+    "vege": "2026.11.02  -  17:00:00 +0000",
+    "cim": "Tűzben edzett"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "2026.11.02  -  17:00:00 +0000",
+    "vege": "2026.11.02  -  18:00:00 +0000",
+    "cim": "Tűzben edzett"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "2026.11.02  -  18:00:00 +0000",
+    "vege": "2026.11.02  -  18:30:00 +0000",
+    "cim": "Raktárvadászok"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "2026.11.02  -  18:30:00 +0000",
+    "vege": "2026.11.02  -  19:00:00 +0000",
+    "cim": "Raktárvadászok"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "2026.11.02  -  19:00:00 +0000",
+    "vege": "2026.11.02  -  19:30:00 +0000",
+    "cim": "Raktárvadászok"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "2026.11.02  -  19:30:00 +0000",
+    "vege": "2026.11.02  -  20:00:00 +0000",
+    "cim": "Raktárvadászok"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "2026.11.02  -  20:00:00 +0000",
+    "vege": "2026.11.02  -  20:30:00 +0000",
+    "cim": "Texasi raktárvadászok"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "2026.11.02  -  20:30:00 +0000",
+    "vege": "2026.11.02  -  21:00:00 +0000",
+    "cim": "Texasi raktárvadászok"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "2026.11.02  -  21:00:00 +0000",
+    "vege": "2026.11.02  -  21:30:00 +0000",
+    "cim": "Texasi raktárvadászok"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "2026.11.02  -  21:30:00 +0000",
+    "vege": "2026.11.02  -  22:00:00 +0000",
+    "cim": "Texasi raktárvadászok"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "2026.11.02  -  22:00:00 +0000",
+    "vege": "2026.11.02  -  23:00:00 +0000",
+    "cim": "Tűzben edzett"
+  },
+  {
+    "csatorna": "OZONETV",
+    "kezdes": "2026.11.02  -  23:00:00 +0000",
+    "vege": "2026.11.02  -  23:30:00 +0000",
     "cim": "Hogyan készül? Megmutatjuk!"
   },
   {
     "csatorna": "OZONETV",
-    "kezdes": "2026.11.01  -  15:30:00 +0000",
-    "vege": "2026.11.01  -  16:00:00 +0000",
+    "kezdes": "2026.11.02  -  23:30:00 +0000",
+    "vege": "2026.11.03  -  00:00:00 +0000",
     "cim": "Hogyan készül? Megmutatjuk!"
   },
   {
-    "csatorna": "OZONETV",
-    "kezdes": "2026.11.01  -  16:00:00 +0000",
-    "vege": "2026.11.01  -  17:00:00 +0000",
-    "cim": "Ősi idegenek"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "2026.11.01  -  17:00:00 +0000",
-    "vege": "2026.11.01  -  18:00:00 +0000",
-    "cim": "Ősi idegenek"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "2026.11.01  -  18:00:00 +0000",
-    "vege": "2026.11.01  -  18:30:00 +0000",
-    "cim": "Zálogkirályok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "2026.11.01  -  18:30:00 +0000",
-    "vege": "2026.11.01  -  19:00:00 +0000",
-    "cim": "Zálogkirályok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "2026.11.01  -  19:00:00 +0000",
-    "vege": "2026.11.01  -  19:30:00 +0000",
-    "cim": "Zálogkirályok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "2026.11.01  -  19:30:00 +0000",
-    "vege": "2026.11.01  -  20:00:00 +0000",
-    "cim": "Zálogkirályok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "2026.11.01  -  20:00:00 +0000",
-    "vege": "2026.11.01  -  20:30:00 +0000",
-    "cim": "Raktárvadászok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "2026.11.01  -  20:30:00 +0000",
-    "vege": "2026.11.01  -  21:00:00 +0000",
-    "cim": "Raktárvadászok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "2026.11.01  -  21:00:00 +0000",
-    "vege": "2026.11.01  -  21:30:00 +0000",
-    "cim": "Raktárvadászok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "2026.11.01  -  21:30:00 +0000",
-    "vege": "2026.11.01  -  22:00:00 +0000",
-    "cim": "Raktárvadászok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "2026.11.01  -  22:00:00 +0000",
-    "vege": "2026.11.01  -  22:30:00 +0000",
-    "cim": "Raktárvadászok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "2026.11.01  -  22:30:00 +0000",
-    "vege": "2026.11.01  -  23:00:00 +0000",
-    "cim": "Raktárvadászok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "2026.11.01  -  23:00:00 +0000",
-    "vege": "2026.11.01  -  23:30:00 +0000",
-    "cim": "Zálogkirályok"
-  },
-  {
-    "csatorna": "OZONETV",
-    "kezdes": "2026.11.01  -  23:30:00 +0000",
-    "vege": "2026.11.02  -  00:00:00 +0000",
-    "cim": "Zálogkirályok"
+    "csatorna": "RTL",
+    "kezdes": "2026.11.02  -  12:00:00 +0000",
+    "vege": "2026.11.02  -  12:35:00 +0000",
+    "cim": "RTL Híradó 1 órakor"
   },
   {
     "csatorna": "RTL",
-    "kezdes": "2026.11.01  -  14:20:00 +0000",
-    "vege": "2026.11.01  -  17:00:00 +0000",
-    "cim": "Uncharted"
+    "kezdes": "2026.11.02  -  12:35:00 +0000",
+    "vege": "2026.11.02  -  13:50:00 +0000",
+    "cim": "Murdoch nyomozó rejtélyei"
   },
   {
     "csatorna": "RTL",
-    "kezdes": "2026.11.01  -  17:00:00 +0000",
-    "vege": "2026.11.01  -  18:00:00 +0000",
+    "kezdes": "2026.11.02  -  13:50:00 +0000",
+    "vege": "2026.11.02  -  14:30:00 +0000",
+    "cim": "Barátok közt"
+  },
+  {
+    "csatorna": "RTL",
+    "kezdes": "2026.11.02  -  14:30:00 +0000",
+    "vege": "2026.11.02  -  15:35:00 +0000",
+    "cim": "Drága örökösök - A visszatérés"
+  },
+  {
+    "csatorna": "RTL",
+    "kezdes": "2026.11.02  -  15:35:00 +0000",
+    "vege": "2026.11.02  -  17:00:00 +0000",
+    "cim": "Pokoli rokonok"
+  },
+  {
+    "csatorna": "RTL",
+    "kezdes": "2026.11.02  -  17:00:00 +0000",
+    "vege": "2026.11.02  -  17:55:00 +0000",
     "cim": "RTL Híradó - Esti kiadás"
   },
   {
     "csatorna": "RTL",
-    "kezdes": "2026.11.01  -  18:00:00 +0000",
-    "vege": "2026.11.01  -  19:00:00 +0000",
-    "cim": "Házon kívül"
+    "kezdes": "2026.11.02  -  17:55:00 +0000",
+    "vege": "2026.11.02  -  19:00:00 +0000",
+    "cim": "Fókusz"
   },
   {
     "csatorna": "RTL",
-    "kezdes": "2026.11.01  -  19:00:00 +0000",
-    "vege": "2026.11.01  -  21:30:00 +0000",
-    "cim": "Álarcos énekes"
+    "kezdes": "2026.11.02  -  19:00:00 +0000",
+    "vege": "2026.11.02  -  20:15:00 +0000",
+    "cim": "A visszavágó - Kapj el, ha tudsz!"
   },
   {
     "csatorna": "RTL",
-    "kezdes": "2026.11.01  -  21:30:00 +0000",
-    "vege": "2026.11.02  -  00:10:00 +0000",
-    "cim": "Büszkeség és balítélet"
+    "kezdes": "2026.11.02  -  20:15:00 +0000",
+    "vege": "2026.11.02  -  21:30:00 +0000",
+    "cim": "Sandokan"
+  },
+  {
+    "csatorna": "RTL",
+    "kezdes": "2026.11.02  -  21:30:00 +0000",
+    "vege": "2026.11.02  -  22:05:00 +0000",
+    "cim": "RTL Híradó - Késő esti kiadás"
+  },
+  {
+    "csatorna": "RTL",
+    "kezdes": "2026.11.02  -  22:05:00 +0000",
+    "vege": "2026.11.02  -  22:40:00 +0000",
+    "cim": "XXI. század - A legendák velünk élnek"
+  },
+  {
+    "csatorna": "RTL",
+    "kezdes": "2026.11.02  -  22:40:00 +0000",
+    "vege": "2026.11.03  -  00:05:00 +0000",
+    "cim": "Bróker Marcsi"
   },
   {
     "csatorna": "RTL_HAROM",
-    "kezdes": "2026.11.01  -  13:25:00 +0000",
-    "vege": "2026.11.01  -  15:45:00 +0000",
-    "cim": "A Grincs"
+    "kezdes": "2026.11.02  -  12:10:00 +0000",
+    "vege": "2026.11.02  -  14:10:00 +0000",
+    "cim": "Nagytudásúak 2."
   },
   {
     "csatorna": "RTL_HAROM",
-    "kezdes": "2026.11.01  -  15:45:00 +0000",
-    "vege": "2026.11.01  -  17:30:00 +0000",
-    "cim": "Hantaboy"
+    "kezdes": "2026.11.02  -  14:10:00 +0000",
+    "vege": "2026.11.02  -  15:55:00 +0000",
+    "cim": "Babysitting - A felvigyázó"
   },
   {
     "csatorna": "RTL_HAROM",
-    "kezdes": "2026.11.01  -  17:30:00 +0000",
-    "vege": "2026.11.01  -  20:00:00 +0000",
-    "cim": "Szellemirtók - Az örökség"
+    "kezdes": "2026.11.02  -  15:55:00 +0000",
+    "vege": "2026.11.02  -  17:45:00 +0000",
+    "cim": "Apám, a hős"
   },
   {
     "csatorna": "RTL_HAROM",
-    "kezdes": "2026.11.01  -  20:00:00 +0000",
-    "vege": "2026.11.01  -  22:15:00 +0000",
+    "kezdes": "2026.11.02  -  17:45:00 +0000",
+    "vege": "2026.11.02  -  20:00:00 +0000",
+    "cim": "Kincs, ami nincs"
+  },
+  {
+    "csatorna": "RTL_HAROM",
+    "kezdes": "2026.11.02  -  20:00:00 +0000",
+    "vege": "2026.11.02  -  22:40:00 +0000",
+    "cim": "A Sakál"
+  },
+  {
+    "csatorna": "RTL_HAROM",
+    "kezdes": "2026.11.02  -  22:40:00 +0000",
+    "vege": "2026.11.03  -  00:50:00 +0000",
     "cim": "Más világ"
   },
   {
-    "csatorna": "RTL_HAROM",
-    "kezdes": "2026.11.01  -  22:15:00 +0000",
-    "vege": "2026.11.02  -  00:25:00 +0000",
-    "cim": "Psycho"
+    "csatorna": "SUPERTV2",
+    "kezdes": "2026.11.02  -  12:10:00 +0000",
+    "vege": "2026.11.02  -  13:10:00 +0000",
+    "cim": "Családi titkok"
   },
   {
     "csatorna": "SUPERTV2",
-    "kezdes": "2026.11.01  -  12:25:00 +0000",
-    "vege": "2026.11.01  -  13:00:00 +0000",
-    "cim": "Csapdába csalva"
+    "kezdes": "2026.11.02  -  13:10:00 +0000",
+    "vege": "2026.11.02  -  14:10:00 +0000",
+    "cim": "Magánnyomozók"
   },
   {
     "csatorna": "SUPERTV2",
-    "kezdes": "2026.11.01  -  13:00:00 +0000",
-    "vege": "2026.11.01  -  14:55:00 +0000",
-    "cim": "Félénk vagyok, de hódítani akarok"
+    "kezdes": "2026.11.02  -  14:10:00 +0000",
+    "vege": "2026.11.02  -  15:10:00 +0000",
+    "cim": "Magánnyomozók"
   },
   {
     "csatorna": "SUPERTV2",
-    "kezdes": "2026.11.01  -  14:55:00 +0000",
-    "vege": "2026.11.01  -  16:55:00 +0000",
-    "cim": "Pizzarománc"
+    "kezdes": "2026.11.02  -  15:10:00 +0000",
+    "vege": "2026.11.02  -  16:25:00 +0000",
+    "cim": "Hal a tortán"
   },
   {
     "csatorna": "SUPERTV2",
-    "kezdes": "2026.11.01  -  16:55:00 +0000",
-    "vege": "2026.11.01  -  19:00:00 +0000",
-    "cim": "Csak szexre kellesz"
+    "kezdes": "2026.11.02  -  16:25:00 +0000",
+    "vege": "2026.11.02  -  18:00:00 +0000",
+    "cim": "Ázsia Expressz"
   },
   {
     "csatorna": "SUPERTV2",
-    "kezdes": "2026.11.01  -  19:00:00 +0000",
-    "vege": "2026.11.01  -  20:55:00 +0000",
-    "cim": "Wasabi - mar, mint a mustár"
+    "kezdes": "2026.11.02  -  18:00:00 +0000",
+    "vege": "2026.11.02  -  19:00:00 +0000",
+    "cim": "Újratervezés"
   },
   {
     "csatorna": "SUPERTV2",
-    "kezdes": "2026.11.01  -  20:55:00 +0000",
-    "vege": "2026.11.01  -  23:15:00 +0000",
-    "cim": "Átejtve"
+    "kezdes": "2026.11.02  -  19:00:00 +0000",
+    "vege": "2026.11.02  -  20:10:00 +0000",
+    "cim": "Hal a tortán"
   },
   {
     "csatorna": "SUPERTV2",
-    "kezdes": "2026.11.01  -  23:15:00 +0000",
-    "vege": "2026.11.02  -  01:20:00 +0000",
-    "cim": "Mi kell a férfinak?"
+    "kezdes": "2026.11.02  -  20:10:00 +0000",
+    "vege": "2026.11.02  -  22:00:00 +0000",
+    "cim": "Séfek séfe"
+  },
+  {
+    "csatorna": "SUPERTV2",
+    "kezdes": "2026.11.02  -  22:00:00 +0000",
+    "vege": "2026.11.03  -  00:10:00 +0000",
+    "cim": "A szerelem könyve"
   },
   {
     "csatorna": "TV2",
-    "kezdes": "2026.11.01  -  12:20:00 +0000",
-    "vege": "2026.11.01  -  14:30:00 +0000",
-    "cim": "Panda terv"
+    "kezdes": "2026.11.02  -  12:30:00 +0000",
+    "vege": "2026.11.02  -  13:35:00 +0000",
+    "cim": "Walker, a texasi kopó"
   },
   {
     "csatorna": "TV2",
-    "kezdes": "2026.11.01  -  14:30:00 +0000",
-    "vege": "2026.11.01  -  17:00:00 +0000",
-    "cim": "Rampage - Tombolás"
+    "kezdes": "2026.11.02  -  13:35:00 +0000",
+    "vege": "2026.11.02  -  14:40:00 +0000",
+    "cim": "Egy új nap ígérete"
   },
   {
     "csatorna": "TV2",
-    "kezdes": "2026.11.01  -  17:00:00 +0000",
-    "vege": "2026.11.01  -  17:55:00 +0000",
+    "kezdes": "2026.11.02  -  14:40:00 +0000",
+    "vege": "2026.11.02  -  15:45:00 +0000",
+    "cim": "Egy éjszaka meséje"
+  },
+  {
+    "csatorna": "TV2",
+    "kezdes": "2026.11.02  -  15:45:00 +0000",
+    "vege": "2026.11.02  -  17:00:00 +0000",
+    "cim": "Távoli város"
+  },
+  {
+    "csatorna": "TV2",
+    "kezdes": "2026.11.02  -  17:00:00 +0000",
+    "vege": "2026.11.02  -  17:45:00 +0000",
     "cim": "TV2 Híradó"
   },
   {
     "csatorna": "TV2",
-    "kezdes": "2026.11.01  -  17:55:00 +0000",
-    "vege": "2026.11.01  -  22:00:00 +0000",
-    "cim": "Sztárban Sztár"
+    "kezdes": "2026.11.02  -  17:45:00 +0000",
+    "vege": "2026.11.02  -  18:55:00 +0000",
+    "cim": "Aktív"
   },
   {
     "csatorna": "TV2",
-    "kezdes": "2026.11.01  -  22:00:00 +0000",
-    "vege": "2026.11.02  -  00:50:00 +0000",
-    "cim": "Fák jú Tanár úr!"
+    "kezdes": "2026.11.02  -  18:55:00 +0000",
+    "vege": "2026.11.02  -  20:35:00 +0000",
+    "cim": "Ázsia Expressz"
+  },
+  {
+    "csatorna": "TV2",
+    "kezdes": "2026.11.02  -  20:35:00 +0000",
+    "vege": "2026.11.02  -  22:00:00 +0000",
+    "cim": "A Kísértés"
+  },
+  {
+    "csatorna": "TV2",
+    "kezdes": "2026.11.02  -  22:00:00 +0000",
+    "vege": "2026.11.02  -  23:15:00 +0000",
+    "cim": "East New York"
+  },
+  {
+    "csatorna": "TV2",
+    "kezdes": "2026.11.02  -  23:15:00 +0000",
+    "vege": "2026.11.03  -  00:20:00 +0000",
+    "cim": "Walker, a texasi kopó"
   },
   {
     "csatorna": "VIASAT3",
-    "kezdes": "2026.11.01  -  12:20:00 +0000",
-    "vege": "2026.11.01  -  13:35:00 +0000",
-    "cim": "Kutyával vagyok"
+    "kezdes": "2026.11.02  -  12:55:00 +0000",
+    "vege": "2026.11.02  -  14:00:00 +0000",
+    "cim": "Szívek szállodája"
   },
   {
     "csatorna": "VIASAT3",
-    "kezdes": "2026.11.01  -  13:35:00 +0000",
-    "vege": "2026.11.01  -  14:55:00 +0000",
+    "kezdes": "2026.11.02  -  14:00:00 +0000",
+    "vege": "2026.11.02  -  15:00:00 +0000",
+    "cim": "Szívek szállodája"
+  },
+  {
+    "csatorna": "VIASAT3",
+    "kezdes": "2026.11.02  -  15:00:00 +0000",
+    "vege": "2026.11.02  -  16:00:00 +0000",
+    "cim": "A Grace klinika"
+  },
+  {
+    "csatorna": "VIASAT3",
+    "kezdes": "2026.11.02  -  16:00:00 +0000",
+    "vege": "2026.11.02  -  17:00:00 +0000",
+    "cim": "A Grace klinika"
+  },
+  {
+    "csatorna": "VIASAT3",
+    "kezdes": "2026.11.02  -  17:00:00 +0000",
+    "vege": "2026.11.02  -  18:00:00 +0000",
+    "cim": "A Grace klinika"
+  },
+  {
+    "csatorna": "VIASAT3",
+    "kezdes": "2026.11.02  -  18:00:00 +0000",
+    "vege": "2026.11.02  -  19:20:00 +0000",
     "cim": "Útközben elmeséled - Csavargások Svábyval"
   },
   {
     "csatorna": "VIASAT3",
-    "kezdes": "2026.11.01  -  14:55:00 +0000",
-    "vege": "2026.11.01  -  16:00:00 +0000",
+    "kezdes": "2026.11.02  -  19:20:00 +0000",
+    "vege": "2026.11.02  -  20:20:00 +0000",
     "cim": "Az újonc"
   },
   {
     "csatorna": "VIASAT3",
-    "kezdes": "2026.11.01  -  16:00:00 +0000",
-    "vege": "2026.11.01  -  17:00:00 +0000",
+    "kezdes": "2026.11.02  -  20:20:00 +0000",
+    "vege": "2026.11.02  -  21:25:00 +0000",
+    "cim": "Lucifer"
+  },
+  {
+    "csatorna": "VIASAT3",
+    "kezdes": "2026.11.02  -  21:25:00 +0000",
+    "vege": "2026.11.02  -  22:20:00 +0000",
+    "cim": "Lucifer"
+  },
+  {
+    "csatorna": "VIASAT3",
+    "kezdes": "2026.11.02  -  22:20:00 +0000",
+    "vege": "2026.11.02  -  23:15:00 +0000",
+    "cim": "Kés/Alatt"
+  },
+  {
+    "csatorna": "VIASAT3",
+    "kezdes": "2026.11.02  -  23:15:00 +0000",
+    "vege": "2026.11.03  -  00:15:00 +0000",
     "cim": "Az újonc"
   },
   {
-    "csatorna": "VIASAT3",
-    "kezdes": "2026.11.01  -  17:00:00 +0000",
-    "vege": "2026.11.01  -  18:00:00 +0000",
-    "cim": "Az újonc"
-  },
-  {
-    "csatorna": "VIASAT3",
-    "kezdes": "2026.11.01  -  18:00:00 +0000",
-    "vege": "2026.11.01  -  18:30:00 +0000",
-    "cim": "OTP Junior Piacralépők"
-  },
-  {
-    "csatorna": "VIASAT3",
-    "kezdes": "2026.11.01  -  18:30:00 +0000",
-    "vege": "2026.11.01  -  20:55:00 +0000",
-    "cim": "Pancser Police"
-  },
-  {
-    "csatorna": "VIASAT3",
-    "kezdes": "2026.11.01  -  20:55:00 +0000",
-    "vege": "2026.11.01  -  22:10:00 +0000",
-    "cim": "Lucifer"
-  },
-  {
-    "csatorna": "VIASAT3",
-    "kezdes": "2026.11.01  -  22:10:00 +0000",
-    "vege": "2026.11.01  -  23:20:00 +0000",
-    "cim": "Lucifer"
-  },
-  {
-    "csatorna": "VIASAT3",
-    "kezdes": "2026.11.01  -  23:20:00 +0000",
-    "vege": "2026.11.02  -  00:40:00 +0000",
-    "cim": "Lucifer"
-  },
-  {
     "csatorna": "VIASAT6",
-    "kezdes": "2026.11.01  -  12:45:00 +0000",
-    "vege": "2026.11.01  -  13:50:00 +0000",
-    "cim": "Duma Aktuál"
-  },
-  {
-    "csatorna": "VIASAT6",
-    "kezdes": "2026.11.01  -  13:50:00 +0000",
-    "vege": "2026.11.01  -  14:55:00 +0000",
-    "cim": "Mogács Dániel: Bolondok Hajója"
-  },
-  {
-    "csatorna": "VIASAT6",
-    "kezdes": "2026.11.01  -  14:55:00 +0000",
-    "vege": "2026.11.01  -  16:05:00 +0000",
-    "cim": "Mogács Dániel: Bolondok Hajója"
-  },
-  {
-    "csatorna": "VIASAT6",
-    "kezdes": "2026.11.01  -  16:05:00 +0000",
-    "vege": "2026.11.01  -  17:05:00 +0000",
+    "kezdes": "2026.11.02  -  12:50:00 +0000",
+    "vege": "2026.11.02  -  13:55:00 +0000",
     "cim": "Észbontók"
   },
   {
     "csatorna": "VIASAT6",
-    "kezdes": "2026.11.01  -  17:05:00 +0000",
-    "vege": "2026.11.01  -  17:55:00 +0000",
+    "kezdes": "2026.11.02  -  13:55:00 +0000",
+    "vege": "2026.11.02  -  14:55:00 +0000",
+    "cim": "Duma Aktuál"
+  },
+  {
+    "csatorna": "VIASAT6",
+    "kezdes": "2026.11.02  -  14:55:00 +0000",
+    "vege": "2026.11.02  -  15:55:00 +0000",
+    "cim": "Duma Aktuál"
+  },
+  {
+    "csatorna": "VIASAT6",
+    "kezdes": "2026.11.02  -  15:55:00 +0000",
+    "vege": "2026.11.02  -  17:00:00 +0000",
     "cim": "Észbontók"
   },
   {
     "csatorna": "VIASAT6",
-    "kezdes": "2026.11.01  -  17:55:00 +0000",
-    "vege": "2026.11.01  -  19:00:00 +0000",
-    "cim": "Duma Aktuál"
+    "kezdes": "2026.11.02  -  17:00:00 +0000",
+    "vege": "2026.11.02  -  17:50:00 +0000",
+    "cim": "Észbontók"
   },
   {
     "csatorna": "VIASAT6",
-    "kezdes": "2026.11.01  -  19:00:00 +0000",
-    "vege": "2026.11.01  -  20:10:00 +0000",
-    "cim": "Duma Aktuál"
-  },
-  {
-    "csatorna": "VIASAT6",
-    "kezdes": "2026.11.01  -  20:10:00 +0000",
-    "vege": "2026.11.01  -  21:10:00 +0000",
+    "kezdes": "2026.11.02  -  17:50:00 +0000",
+    "vege": "2026.11.02  -  18:55:00 +0000",
     "cim": "Dumaszínház"
   },
   {
     "csatorna": "VIASAT6",
-    "kezdes": "2026.11.01  -  21:10:00 +0000",
-    "vege": "2026.11.01  -  21:40:00 +0000",
-    "cim": "SOUTH PARK XX."
+    "kezdes": "2026.11.02  -  18:55:00 +0000",
+    "vege": "2026.11.02  -  19:55:00 +0000",
+    "cim": "Dumaszínház"
   },
   {
     "csatorna": "VIASAT6",
-    "kezdes": "2026.11.01  -  21:40:00 +0000",
-    "vege": "2026.11.01  -  22:10:00 +0000",
-    "cim": "SOUTH PARK XX."
+    "kezdes": "2026.11.02  -  19:55:00 +0000",
+    "vege": "2026.11.02  -  21:00:00 +0000",
+    "cim": "Duma Aktuál"
   },
   {
     "csatorna": "VIASAT6",
-    "kezdes": "2026.11.01  -  22:10:00 +0000",
-    "vege": "2026.11.01  -  22:45:00 +0000",
-    "cim": "SOUTH PARK XX."
-  },
-  {
-    "csatorna": "VIASAT6",
-    "kezdes": "2026.11.01  -  22:45:00 +0000",
-    "vege": "2026.11.01  -  23:10:00 +0000",
+    "kezdes": "2026.11.02  -  21:00:00 +0000",
+    "vege": "2026.11.02  -  21:30:00 +0000",
     "cim": "SOUTH PARK XXI."
   },
   {
     "csatorna": "VIASAT6",
-    "kezdes": "2026.11.01  -  23:10:00 +0000",
-    "vege": "2026.11.01  -  23:50:00 +0000",
+    "kezdes": "2026.11.02  -  21:30:00 +0000",
+    "vege": "2026.11.02  -  22:05:00 +0000",
     "cim": "SOUTH PARK XXI."
   },
   {
     "csatorna": "VIASAT6",
-    "kezdes": "2026.11.01  -  23:50:00 +0000",
-    "vege": "2026.11.02  -  00:20:00 +0000",
+    "kezdes": "2026.11.02  -  22:05:00 +0000",
+    "vege": "2026.11.02  -  22:35:00 +0000",
     "cim": "SOUTH PARK XVI."
   },
   {
+    "csatorna": "VIASAT6",
+    "kezdes": "2026.11.02  -  22:35:00 +0000",
+    "vege": "2026.11.02  -  23:10:00 +0000",
+    "cim": "SOUTH PARK XVI."
+  },
+  {
+    "csatorna": "VIASAT6",
+    "kezdes": "2026.11.02  -  23:10:00 +0000",
+    "vege": "2026.11.02  -  23:35:00 +0000",
+    "cim": "SOUTH PARK XXI."
+  },
+  {
+    "csatorna": "VIASAT6",
+    "kezdes": "2026.11.02  -  23:35:00 +0000",
+    "vege": "2026.11.03  -  00:10:00 +0000",
+    "cim": "SOUTH PARK XXI."
+  },
+  {
     "csatorna": "VIASAT_FILM",
-    "kezdes": "2026.11.01  -  12:10:00 +0000",
-    "vege": "2026.11.01  -  12:40:00 +0000",
+    "kezdes": "2026.11.02  -  12:25:00 +0000",
+    "vege": "2026.11.02  -  13:00:00 +0000",
     "cim": "Bűnügyi akták 2.0"
   },
   {
     "csatorna": "VIASAT_FILM",
-    "kezdes": "2026.11.01  -  12:40:00 +0000",
-    "vege": "2026.11.01  -  13:10:00 +0000",
-    "cim": "Bűnügyi akták 2.0"
+    "kezdes": "2026.11.02  -  13:00:00 +0000",
+    "vege": "2026.11.02  -  14:05:00 +0000",
+    "cim": "A világ legveszélyesebb rabjai"
   },
   {
     "csatorna": "VIASAT_FILM",
-    "kezdes": "2026.11.01  -  13:10:00 +0000",
-    "vege": "2026.11.01  -  13:40:00 +0000",
-    "cim": "Bűnügyi akták 2.0"
+    "kezdes": "2026.11.02  -  14:05:00 +0000",
+    "vege": "2026.11.02  -  15:10:00 +0000",
+    "cim": "Túléltem egy sorozatgyilkost"
   },
   {
     "csatorna": "VIASAT_FILM",
-    "kezdes": "2026.11.01  -  13:40:00 +0000",
-    "vege": "2026.11.01  -  14:10:00 +0000",
-    "cim": "Bűnügyi akták 2.0"
+    "kezdes": "2026.11.02  -  15:10:00 +0000",
+    "vege": "2026.11.02  -  16:05:00 +0000",
+    "cim": "A világ leggonoszabb gyilkosai"
   },
   {
     "csatorna": "VIASAT_FILM",
-    "kezdes": "2026.11.01  -  14:10:00 +0000",
-    "vege": "2026.11.01  -  14:45:00 +0000",
-    "cim": "Bűnügyi akták 2.0"
-  },
-  {
-    "csatorna": "VIASAT_FILM",
-    "kezdes": "2026.11.01  -  14:45:00 +0000",
-    "vege": "2026.11.01  -  16:05:00 +0000",
-    "cim": "Epstein árnyéka: Ghislaine Maxwell"
-  },
-  {
-    "csatorna": "VIASAT_FILM",
-    "kezdes": "2026.11.01  -  16:05:00 +0000",
-    "vege": "2026.11.01  -  17:05:00 +0000",
+    "kezdes": "2026.11.02  -  16:05:00 +0000",
+    "vege": "2026.11.02  -  17:10:00 +0000",
     "cim": "Elkaptam a gyilkost"
   },
   {
     "csatorna": "VIASAT_FILM",
-    "kezdes": "2026.11.01  -  17:05:00 +0000",
-    "vege": "2026.11.01  -  17:55:00 +0000",
-    "cim": "Elkaptam a gyilkost"
+    "kezdes": "2026.11.02  -  17:10:00 +0000",
+    "vege": "2026.11.02  -  18:05:00 +0000",
+    "cim": "Ismerős gonosz"
   },
   {
     "csatorna": "VIASAT_FILM",
-    "kezdes": "2026.11.01  -  17:55:00 +0000",
-    "vege": "2026.11.01  -  19:00:00 +0000",
-    "cim": "Elkaptam a gyilkost"
+    "kezdes": "2026.11.02  -  18:05:00 +0000",
+    "vege": "2026.11.02  -  19:00:00 +0000",
+    "cim": "Szerelmem a gyilkosom"
   },
   {
     "csatorna": "VIASAT_FILM",
-    "kezdes": "2026.11.01  -  19:00:00 +0000",
-    "vege": "2026.11.01  -  20:00:00 +0000",
-    "cim": "Agatha Christie III. - Bűbájos gyilkosok"
+    "kezdes": "2026.11.02  -  19:00:00 +0000",
+    "vege": "2026.11.02  -  19:30:00 +0000",
+    "cim": "Bűnügyi akták 2.0"
   },
   {
     "csatorna": "VIASAT_FILM",
-    "kezdes": "2026.11.01  -  20:00:00 +0000",
-    "vege": "2026.11.01  -  22:10:00 +0000",
-    "cim": "Joanna Yeates meggyilkolása"
+    "kezdes": "2026.11.02  -  19:30:00 +0000",
+    "vege": "2026.11.02  -  20:05:00 +0000",
+    "cim": "Bűnügyi akták 2.0"
   },
   {
     "csatorna": "VIASAT_FILM",
-    "kezdes": "2026.11.01  -  22:10:00 +0000",
-    "vege": "2026.11.01  -  23:15:00 +0000",
-    "cim": "Gyilkos a családban"
+    "kezdes": "2026.11.02  -  20:05:00 +0000",
+    "vege": "2026.11.02  -  21:10:00 +0000",
+    "cim": "A világ legveszélyesebb rabjai"
   },
   {
     "csatorna": "VIASAT_FILM",
-    "kezdes": "2026.11.01  -  23:15:00 +0000",
-    "vege": "2026.11.02  -  00:30:00 +0000",
-    "cim": "Epstein árnyéka: Ghislaine Maxwell"
+    "kezdes": "2026.11.02  -  21:10:00 +0000",
+    "vege": "2026.11.02  -  23:10:00 +0000",
+    "cim": "A sofőr mindig drága"
+  },
+  {
+    "csatorna": "VIASAT_FILM",
+    "kezdes": "2026.11.02  -  23:10:00 +0000",
+    "vege": "2026.11.03  -  01:05:00 +0000",
+    "cim": "Gothika"
   }
 ]
