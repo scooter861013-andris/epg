@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Szeles, kezdetben felhős, borongós idő",
-  "updated": "2026.11.02. 19:39",
-  "flow_last_run": "2026.11.02. 20:39",
+  "updated": "2026.11.02. 21:09",
+  "flow_last_run": "2026.11.02. 21:09",
   "current": {
-    "temperature": 7,
-    "condition": "Erősen felhős",
+    "temperature": 6,
+    "condition": "Borult",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
       "max": 12,
-      "min": 7,
+      "min": 6,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
