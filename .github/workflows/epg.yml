@@ -122,7 +122,8 @@ jobs:
           cd epg
           npm install
 
-      - name: Generate epg.xml (tvmustra.hu)
+
+      - name: Generate epg.xml (tvmustra.hu) - 3 probalkozas
         run: |
           cd epg
 
@@ -143,7 +144,7 @@ jobs:
                   ".v-title"
               ),
               (
-                 "div[class^=\"musor_lista_idopont\"]",
+                  "div[class^=\"musor_lista_idopont\"]",
                   ".v-time"
               ),
               (
@@ -167,21 +168,40 @@ jobs:
           print("TVmustra feldolgozo frissitve!")
           PY
 
-          npm run grab --- --channels=../sajat_tvcsatorna_lista.xml --output=../epg.xml
+          for TRY in 1 2 3; do
+            echo "=== EPG letoltes: $TRY. probalkozas / 3 ==="
 
-      - name: Ellenorzes - vannak-e musorok
-        run: |
-          python3 - <<'PY'
+            rm -f ../epg.xml
+
+            if npm run grab --- --channels=../sajat_tvcsatorna_lista.xml --output=../epg.xml; then
+              if python3 - <<'PY'
           import xml.etree.ElementTree as ET
 
-          root = ET.parse("epg.xml").getroot()
+          root = ET.parse("../epg.xml").getroot()
           programs = root.findall("programme")
 
           print("Letoltott musorok:", len(programs))
 
           if not programs:
-              raise SystemExit("HIBA: Nincsenek musorok! Az ures XML nem kerul feltoltesre.")
+              raise SystemExit("HIBA: Nincsenek musorok!")
           PY
+              then
+                echo "EPG sikeresen letoltve!"
+                exit 0
+              fi
+            fi
+
+            echo "A $TRY. probalkozas sikertelen."
+
+            if [ "$TRY" -lt 3 ]; then
+              echo "Varakozas 3 percet..."
+              sleep 180
+            fi
+          done
+
+          echo "HIBA: Mindharom EPG letoltes sikertelen!"
+          exit 1
+
 
       - name: Install JSON parser
         run: npm install fast-xml-parser
