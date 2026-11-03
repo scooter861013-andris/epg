@@ -192,6 +192,126 @@ def transz_lista_teszt(session):
     return hirdetok
 
 
+# ==========================================
+# VIDEKI TRANSZ - MEGYEI SZURES TESZT
+# ==========================================
+
+def transz_megye_teszt(session):
+
+    print("\n=== TRANSZ MEGYEI SZURES TESZT ===")
+
+    megyek = [
+        "Hajdú-Bihar",
+        "Szabolcs-Szatmár-Bereg"
+    ]
+
+    for megye in megyek:
+
+        print("\nMegye:", megye)
+
+        # Eloszor a transz oldalt nyitjuk meg
+        response = session.get(
+            TRANSZ_URL,
+            timeout=30
+        )
+        response.raise_for_status()
+
+        soup = BeautifulSoup(
+            response.content,
+            "html.parser"
+        )
+
+        # Megkeressuk a megyei szuro urlapjat
+        mezo = soup.find(
+            "input",
+            attrs={
+                "name": "incoming[county]",
+                "value": megye
+            }
+        )
+
+        if mezo:
+            form = mezo.find_parent("form")
+        else:
+            form = None
+
+        if form:
+            payload = [
+                (x.get("name"), x.get("value", ""))
+                for x in form.select("input[name]")
+            ]
+        else:
+            print("Megyei urlap nem talalhato.")
+            print("Proba alap POST adatokkal.")
+
+            payload = [
+                ("incoming[county]", megye),
+                ("search", "1")
+            ]
+
+        from urllib.parse import urlencode
+
+        kodolt = urlencode(
+            payload,
+            encoding="iso-8859-2"
+        )
+
+        response = session.post(
+            TRANSZ_URL,
+            data=kodolt,
+            timeout=30,
+            headers={
+                "Referer": TRANSZ_URL,
+                "Content-Type":
+                    "application/x-www-form-urlencoded"
+            }
+        )
+
+        response.raise_for_status()
+
+        eredmeny = BeautifulSoup(
+            response.content,
+            "html.parser"
+        )
+
+        inspect(eredmeny)
+
+        cards = eredmeny.select(
+            '#listPageListContent '
+            '.listOuterDiv[data-memberthumb]'
+        )
+
+        hirdetok = {}
+
+        for card in cards:
+            item = parse_card(card, TRANSZ_URL)
+
+            if item:
+                hirdetok[item["id"]] = item
+
+        from collections import Counter
+
+        varosok = Counter(
+            item["telepules"] or "Ismeretlen"
+            for item in hirdetok.values()
+        )
+
+        print("Egyedi hirdetok:", len(hirdetok))
+        print("Oldalon jelzett:", get_count(eredmeny))
+
+        for varos, db in varosok.most_common():
+            print(f"  {varos}: {db}")
+
+        # Fontos: a POST valoban transz es
+        # megyei szurest adott-e vissza?
+        cim = clean(
+            eredmeny.title.get_text(" ", strip=True)
+        ) if eredmeny.title else ""
+
+        print("Oldal cime:", cim)
+        print("ELLENORZES: a megyei es transz "
+              "szures helyesseget vizsgalni kell.")
+
 
 def main():
     parser = argparse.ArgumentParser()
@@ -208,6 +328,9 @@ def main():
 
         # Uj videki transz lista ellenorzese
         transz_lista_teszt(session)
+        transz_megye_teszt(session)
+
+    
     if not correct_county(soup):
         raise SystemExit('HIBA: nem a Hajdu-Bihar megyei listat kaptuk; a rossz.json valtozatlan!')
     expected = get_count(soup)
