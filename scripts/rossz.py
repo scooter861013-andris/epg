@@ -112,7 +112,24 @@ def get_html(session):
         payload = [('incoming[fvaroskerulet][]', city + '_') for city in CITIES]
         payload += [('tag_category', 'VIDÉK'), ('incoming[fneme]', 'Nő'), ('incoming[county]', COUNTY), ('search', '1')]
     print('Megyei POST-szures alkalmazasa:', COUNTY)
-    response = session.post(URL, data=payload, timeout=30, headers={'Referer': URL})
+
+    from urllib.parse import urlencode
+
+    kodolt_adatok = urlencode(
+        payload,
+        encoding="iso-8859-2"
+    )
+
+    response = session.post(
+        URL,
+        data=kodolt_adatok,
+        timeout=30,
+        headers={
+            "Referer": URL,
+            "Content-Type": "application/x-www-form-urlencoded"
+        }
+    )
+
     response.raise_for_status()
     soup = BeautifulSoup(response.content, 'html.parser')
     inspect(soup)
