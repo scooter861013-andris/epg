@@ -12,6 +12,12 @@ import requests
 from bs4 import BeautifulSoup
 
 URL = 'https://rosszlanyok.hu/rosszlanyok.php?pid=szexpartner-lista&htext=73'
+# Videki transz hirdetesek
+TRANSZ_URL = (
+    "https://rosszlanyok.hu/rosszlanyok.php"
+    "?pid=szexpartner-lista&htext=123&Videki-transzik"
+)
+
 OUT = Path('rossz.json')
 HEADERS = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'Accept-Language': 'hu-HU,hu;q=0.9'}
 COUNTY = 'Hajdú-Bihar'
@@ -136,6 +142,57 @@ def get_html(session):
     return soup
 
 
+# ==========================================
+# VIDEKI TRANSZ LISTA TESZT
+# ==========================================
+
+def transz_lista_teszt(session):
+
+    print("\n=== VIDEKI TRANSZ LISTA ===")
+
+    response = session.get(
+        TRANSZ_URL,
+        timeout=30
+    )
+    response.raise_for_status()
+
+    soup = BeautifulSoup(
+        response.content,
+        "html.parser"
+    )
+
+    inspect(soup)
+
+    cards = soup.select(
+        '#listPageListContent .listOuterDiv[data-memberthumb]'
+    )
+
+    hirdetok = {}
+
+    for card in cards:
+        item = parse_card(card, TRANSZ_URL)
+
+        if item:
+            hirdetok[item["id"]] = item
+
+    print("HTML kartyak:", len(cards))
+    print("Egyedi hirdetok:", len(hirdetok))
+    print("Oldalon jelzett talalatok:", get_count(soup))
+
+    from collections import Counter
+
+    telepulesek = Counter(
+        item["telepules"] or "Ismeretlen"
+        for item in hirdetok.values()
+    )
+
+    for nev, darab in telepulesek.most_common():
+        print(f"  {nev}: {darab}")
+
+    return hirdetok
+
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--html-file', help='Kizarolag helyi HTML teszt, halozat nelkul')
@@ -145,7 +202,12 @@ def main():
     else:
         session = requests.Session()
         session.headers.update(HEADERS)
+
+        # Meglevo Hajdu-Bihar lista
         soup = get_html(session)
+
+        # Uj videki transz lista ellenorzese
+        transz_lista_teszt(session)
     if not correct_county(soup):
         raise SystemExit('HIBA: nem a Hajdu-Bihar megyei listat kaptuk; a rossz.json valtozatlan!')
     expected = get_count(soup)
