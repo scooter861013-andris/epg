@@ -136,6 +136,105 @@ def get_html(session):
     return soup
 
 
+
+
+
+
+
+# ==========================================
+# VIDEKI TRANSZIK - KULON GYUJTES
+# ==========================================
+
+def videki_transzik_gyujtes():
+    from collections import Counter
+
+    transz_url = (
+        "https://rosszlanyok.hu/rosszlanyok.php"
+        "?pid=szexpartner-lista&htext=123&Videki-transzik"
+    )
+
+    response = requests.get(
+        transz_url, headers=HEADERS, timeout=30
+    )
+    response.raise_for_status()
+
+    soup = BeautifulSoup(response.content, "html.parser")
+    inspect(soup)
+
+    cim = clean(
+        soup.title.get_text(" ", strip=True)
+    ) if soup.title else ""
+
+    if "vidéki travik" not in cim.casefold():
+        raise ValueError("Nem a videki transz oldal!")
+
+    vart = get_count(soup)
+    if vart is None or vart < 1:
+        raise ValueError("Hibas transz talalatszam!")
+
+    kartyak = soup.select(
+        "#listPageListContent .listOuterDiv[data-memberthumb]"
+    )
+
+    hirdetok = {}
+    for kartya in kartyak:
+        item = parse_card(kartya, transz_url)
+        if item:
+            hirdetok[item["id"]] = item
+
+    if len(hirdetok) != vart:
+        raise ValueError(
+            f"Hianyos transz lista: {len(hirdetok)}/{vart}"
+        )
+
+    elozo_idk = set()
+
+    if OUT.exists():
+        regi = json.loads(OUT.read_text(encoding="utf-8"))
+        regi_transz = regi.get("videki_transzik", {})
+        if isinstance(regi_transz, dict):
+            elozo_lista = regi_transz.get("hirdetesek", [])
+            if isinstance(elozo_lista, list):
+                elozo_idk = {
+                    str(x["id"]) for x in elozo_lista
+                }
+
+    lista = list(hirdetok.values())
+
+    for item in lista:
+        item["uj"] = (
+            bool(elozo_idk)
+            and item["id"] not in elozo_idk
+        )
+
+    telepulesek = dict(sorted(
+        Counter(
+            item["telepules"] or "Ismeretlen"
+            for item in lista
+        ).items(),
+        key=lambda x: (-x[1], x[0])
+    ))
+
+    return {
+        "forras": transz_url,
+        "frissitve": datetime.now(
+            ZoneInfo("Europe/Budapest")
+        ).strftime("%Y.%m.%d. %H:%M"),
+        "darab": len(lista),
+        "uj_darab": sum(x["uj"] for x in lista),
+        "nem_debrecen_darab": sum(
+            x["nem_debrecen"] for x in lista
+        ),
+        "telepulesek": telepulesek,
+        "hirdetesek": lista
+    }
+
+
+
+
+
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--html-file', help='Kizarolag helyi HTML teszt, halozat nelkul')
@@ -201,6 +300,49 @@ def main():
               'nem_debrecen_darab': sum(x['nem_debrecen'] for x in result),
               'telepulesek': telepulesek,
               'hirdetesek': result}
+
+
+
+    
+    # ==========================================
+    # VIDEKI TRANSZIK HOZZAADASA A JSON-HOZ
+    # ==========================================
+
+    if not args.html_file:
+        regi_transz = None
+
+        if OUT.exists():
+            try:
+                regi_adat = json.loads(
+                    OUT.read_text(encoding="utf-8")
+                )
+                regi_transz = regi_adat.get("videki_transzik")
+            except (OSError, ValueError, TypeError):
+                pass
+
+        try:
+            output["videki_transzik"] = (
+                videki_transzik_gyujtes()
+            )
+            print(
+                "Videki transzik:",
+                output["videki_transzik"]["darab"]
+            )
+        except Exception as hiba:
+            print("Transz gyujtes hiba:", hiba)
+            if isinstance(regi_transz, dict):
+                output["videki_transzik"] = regi_transz
+                print("Regi transz lista megtartva.")
+
+        if "videki_transzik" in output:
+            output["elvalaszto"] = (
+                "--------------------------------------------------"
+            )
+            transz_adat = output.pop("videki_transzik")
+            output["videki_transzik"] = transz_adat
+    
+
+    
     OUT.write_text(json.dumps(output, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print('rossz.json elkeszult:', len(result), 'hirdetes, uj:', output['uj_darab'])
 
