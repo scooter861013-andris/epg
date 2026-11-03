@@ -177,10 +177,29 @@ def main():
             previous_ids = {str(item['id']) for item in previous['hirdetesek']}
     for item in result:
         item['uj'] = bool(previous_ids) and item['id'] not in previous_ids
+
+    
+        # Hirdetesek osszesitese telepulesenkent
+    from collections import Counter
+
+    telepulesek = Counter(
+        item['telepules'] or 'Ismeretlen'
+        for item in result
+    )
+
+    telepulesek = dict(
+        sorted(
+            telepulesek.items(),
+            key=lambda x: (-x[1], x[0])
+        )
+    )
+
+    
     output = {'forras': URL, 'megye': COUNTY,
               'frissitve': datetime.now(ZoneInfo('Europe/Budapest')).strftime('%Y.%m.%d. %H:%M'),
               'darab': len(result), 'uj_darab': sum(x['uj'] for x in result),
               'nem_debrecen_darab': sum(x['nem_debrecen'] for x in result),
+              'telepulesek': telepulesek,
               'hirdetesek': result}
     OUT.write_text(json.dumps(output, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print('rossz.json elkeszult:', len(result), 'hirdetes, uj:', output['uj_darab'])
