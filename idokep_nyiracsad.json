@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Szeles, kezdetben felhős, borongós idő",
-  "updated": "2026.11.03. 06:09",
-  "flow_last_run": "2026.11.03. 06:09",
+  "updated": "2026.11.03. 06:39",
+  "flow_last_run": "2026.11.03. 06:39",
   "current": {
     "temperature": 6,
-    "condition": "Borult",
-    "icon": "☁️"
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:19",
     "sunset": "16:12",
-    "is_night": true
+    "is_night": false
   }
 }
