@@ -1,4 +1,4 @@
-name: Hirdetesek JSON frissites
+name: Rossz
 
 on:
   workflow_dispatch:
@@ -12,7 +12,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: hirdetesek-json
+  group: rossz-json
   cancel-in-progress: false
 
 jobs:
@@ -37,7 +37,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add hirdetesek.json
+          git add rossz.json
           if git diff --cached --quiet; then
             echo "Nincs változás."
           else
