@@ -4,13 +4,13 @@ import json
 import re
 from datetime import datetime
 from pathlib import Path
-from urllib.parse import urljoin, urlparse, urldefrag
+from urllib.parse import urljoin, urlparse, urldefrag, parse_qs
 from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
 
-DEFAULT_URL = 'https://rosszlanyok.hu/varos-debrecen-lanyok'
+DEFAULT_URL = 'https://rosszlanyok.hu/rosszlanyok.php?pid=szexpartner-lista&htext=73'
 OUT = Path('rossz.json')
 HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible; PersonalListReader/1.0)'}
 
@@ -44,10 +44,24 @@ def parse_card(card, page_url):
     img_url = urljoin(page_url, img_rel) if img_rel and 'spacer.gif' not in img_rel else None
     link = urljoin(page_url, a.get('href', ''))
     lines = description.split('\n')
-    location = next((x for x in lines if re.search(r'\bDebrecen\b', x, re.I)), None)
-    # Az oldal részletes helyadatát csak akkor tüntetjük fel, ha ténylegesen benne van a listában.
-    if location:
-        location = re.split(r'\s+\d{1,2}\+?\s*éves', location)[0].strip(' ,')
+    # A tooltipben a kategória után jellemzően a helyszín következik.
+    # Nem kényszerítjük Debrecenre: például Hajdúszoboszló is megmarad.
+    location = None
+    for idx, line in enumerate(lines[:-1]):
+        if re.search(r'(szexpartner|masszázs|dominák)', line, re.I):
+            candidate = clean(lines[idx + 1]).strip(' ,')
+            if candidate and not re.search(r'(éves|cm|kg|Ma:|Holnap:)', candidate, re.I):
+                location = candidate
+                break
+    if not location:
+        # Alternatívaként a kép alt szövegéből keressük a települést.
+        alt_text = clean(img.get('alt', '')) if img else ''
+        pattern = re.escape(name) + r'\s+(.+?)\s+(?:szexpartner|masszázs|dominák)\s+lányok'
+        location_match = re.search(pattern, alt_text, re.I)
+        if location_match:
+            location = clean(location_match.group(1))
+    city = location.split(',')[0].strip() if location else None
+    other_city = bool(city and city.casefold() not in ('debrecen',))
     weight = None
     match = re.search(r'\b\d{1,2}\+?\s*éves\b[^\n]*?\b\d{2,3}\s*cm\s*,\s*(\d{2,3}\+?)\s*kg\b', description, re.I)
     if match:
@@ -62,32 +76,33 @@ def parse_card(card, page_url):
                 'Szexpartner' if 'szexpartner' in alt.lower() else None)
     return {
         'id': member_id, 'nev': name, 'eletkor': age, 'testsuly': weight,
-        'helyszin': location, 'kategoria': category, 'ma': today,
+        'helyszin': location, 'telepules': city, 'nem_debrecen': other_city,
+        'kategoria': category, 'ma': today,
         'kep': img_url, 'adatlap': link, 'uj': False,
     }
 
 
 def pagination_links(soup, current_url, seed_url):
-    seed_path = urlparse(seed_url).path.rstrip('/')
+    """Csak azonos megyei listára vezető oldallapozó linkeket követ."""
     origin = urlparse(seed_url).netloc
+    seed_params = parse_qs(urlparse(seed_url).query)
     urls = set()
     for a in soup.select('a[href]'):
         href = a.get('href', '').strip()
         if not href or href.startswith(('#', 'javascript:', 'mailto:')):
             continue
         u = urldefrag(urljoin(current_url, href)).url
-        p = urlparse(u)
-        if p.netloc != origin:
+        parsed = urlparse(u)
+        if parsed.netloc != origin or parsed.path != urlparse(seed_url).path:
             continue
-        label = clean(a.get_text(' ', strip=True)).lower()
-        cls = ' '.join(a.get('class', [])).lower()
-        # Csak a listázás oldalszámozó linkjei, nem az adatlapok.
-        is_page = ('page' in p.query.lower() or 'oldal' in p.query.lower() or
-                   re.search(r'\b(pager|pagination|lapozo)\b', cls) or
-                   label in ('következő', 'tovább', 'next', '»', '›') or label.isdigit())
-        same_list = (p.path.rstrip('/') == seed_path or
-                     p.path.rstrip('/').startswith(seed_path + '/'))
-        if same_list and is_page and u != current_url:
+        params = parse_qs(parsed.query)
+        if params.get('pid') != seed_params.get('pid') or params.get('htext') != seed_params.get('htext'):
+            continue
+        label = clean(a.get_text(' ', strip=True)).casefold()
+        cls = ' '.join(a.get('class', [])).casefold()
+        has_page_param = any(k.lower() in ('page', 'oldal', 'pageno', 'start', 'offset', 'lap') for k in params)
+        page_link = has_page_param or any(z in cls for z in ('page', 'lapozo', 'pagination')) or label in ('következő', 'tovább', 'next', '»', '›')
+        if page_link and u != current_url:
             urls.add(u)
     return urls
 
@@ -95,15 +110,15 @@ def pagination_links(soup, current_url, seed_url):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--url', default=DEFAULT_URL)
-    parser.add_argument('--max-pages', type=int, default=30)
+    parser.add_argument('--max-pages', type=int, default=100)
     args = parser.parse_args()
     if not args.url.startswith('https://'):
         raise SystemExit('HTTPS cím szükséges.')
     old = {}
     if OUT.exists():
         old = json.loads(OUT.read_text(encoding='utf-8'))
-    had_previous = isinstance(old.get('rossz'), list) and len(old['rossz']) > 0
-    previous_ids = {str(x['id']) for x in old.get('rossz', [])} if had_previous else set()
+    had_previous = isinstance(old.get('hirdetesek'), list) and len(old['hirdetesek']) > 0
+    previous_ids = {str(x['id']) for x in old.get('hirdetesek', [])} if had_previous else set()
 
     session = requests.Session()
     session.headers.update(HEADERS)
@@ -132,6 +147,14 @@ def main():
 
     if not all_cards:
         raise SystemExit('Üres eredmény, JSON változatlan.')
+    # Biztonsági ellenőrzés: a megyei URL néha alapértelmezett (budapesti)
+    # listát ad vissza. Ilyenkor nem írjuk felül a jól működő JSON-t.
+    budapest_count = sum(bool(re.search(r'\bBudapest\b', x.get('helyszin') or '', re.I)) for x in all_cards.values())
+    if budapest_count >= 3 and budapest_count > len(all_cards) * 0.25:
+        raise SystemExit(f'Hibás megyei szűrés: {budapest_count}/{len(all_cards)} budapesti találat; JSON változatlan.')
+    unknown_count = sum(x['telepules'] is None for x in all_cards.values())
+    if unknown_count > len(all_cards) * 0.5:
+        raise SystemExit(f'Túl sok hiányzó település: {unknown_count}/{len(all_cards)}; JSON változatlan.')
     if had_previous and len(all_cards) < len(previous_ids) * 0.65:
         raise SystemExit('Gyanúsan kevés eredmény az előző futáshoz képest; JSON változatlan.')
     result = list(all_cards.values())
@@ -144,8 +167,9 @@ def main():
         'darab': len(result),
         'uj_darab': sum(item['uj'] for item in result),
         'oldalak': len(visited),
-        'megjegyzes': 'A teljes lista csak akkor garantálható, ha az oldal összes lapozási hivatkozása elérhető a HTML-ben.',
-        'rossz': result,
+        'nem_debrecen_darab': sum(x['nem_debrecen'] for x in result),
+        'megjegyzes': 'Csak a HTML-ben elérhető lapozást járja be. JavaScriptből betöltött további találatok külön ellenőrzést igényelnek.',
+        'hirdetesek': result,
     }
     OUT.write_text(json.dumps(output, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print(f'JSON elkészült: {len(result)} hirdetés, ebből {output["uj_darab"]} új.')
