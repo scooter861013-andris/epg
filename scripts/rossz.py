@@ -196,10 +196,16 @@ def transz_lista_teszt(session):
 # VIDEKI TRANSZ - MEGYEI SZURES TESZT
 # ==========================================
 
-def transz_megye_teszt(session):
+def transz_megye_teszt(session, transz_hirdetok):
 
     print("\n=== TRANSZ MEGYEI SZURES TESZT ===")
 
+    transz_idk = set(transz_hirdetok)
+
+    megyei_idk = set()
+
+    
+    
     megyek = [
         "Hajdú-Bihar",
         "Szabolcs-Szatmár-Bereg"
@@ -297,6 +303,23 @@ def transz_megye_teszt(session):
         )
 
         print("Egyedi hirdetok:", len(hirdetok))
+                # Orszagos transz es megyei lista kozos azonositoi
+        kozos_idk = transz_idk & set(hirdetok)
+
+        megyei_idk.update(kozos_idk)
+
+        print("KOZOS TRANSZ HIRDETOK:", len(kozos_idk))
+
+        for azonosito in sorted(kozos_idk):
+            item = transz_hirdetok[azonosito]
+
+            print(
+                "  ID:", azonosito,
+                "| Nev:", item["nev"],
+                "| Telepules:", item["telepules"]
+            )
+
+        
         print("Oldalon jelzett:", get_count(eredmeny))
 
         for varos, db in varosok.most_common():
@@ -312,6 +335,9 @@ def transz_megye_teszt(session):
         print("ELLENORZES: a megyei es transz "
               "szures helyesseget vizsgalni kell.")
 
+    print("\n=== OSSZES KOZOS TRANSZ HIRDETO ===")
+    print("Darab:", len(megyei_idk))
+    
 
 def main():
     parser = argparse.ArgumentParser()
@@ -327,8 +353,8 @@ def main():
         soup = get_html(session)
 
         # Uj videki transz lista ellenorzese
-        transz_lista_teszt(session)
-        transz_megye_teszt(session)
+        transz_hirdetok = transz_lista_teszt(session)
+        transz_megye_teszt(session, transz_hirdetok)
 
     
     if not correct_county(soup):
