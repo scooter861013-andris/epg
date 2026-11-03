@@ -1,178 +1,173 @@
+"""Hajdu-Bihar hirdetesi lista: manualis GitHub Actions JSON export."""
 import argparse
 import html
 import json
 import re
 from datetime import datetime
 from pathlib import Path
-from urllib.parse import urljoin, urlparse, urldefrag, parse_qs
+from urllib.parse import urljoin
 from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
 
-DEFAULT_URL = 'https://rosszlanyok.hu/rosszlanyok.php?pid=szexpartner-lista&htext=73'
+URL = 'https://rosszlanyok.hu/rosszlanyok.php?pid=szexpartner-lista&htext=73'
 OUT = Path('rossz.json')
-HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible; PersonalListReader/1.0)'}
+HEADERS = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'Accept-Language': 'hu-HU,hu;q=0.9'}
+COUNTY = 'Hajdú-Bihar'
+CITIES = ['Berettyóújfalu', 'Debrecen', 'Hajdúböszörmény', 'Hajdúnánás', 'Hajdúszoboszló', 'Nyíracsád', 'Püspökladány', 'Téglás']
 
 
-def clean(s):
-    return ' '.join(str(s or '').split())
+def clean(value):
+    return ' '.join(str(value or '').split())
 
 
-def tooltip_text(tag):
-    raw = tag.get('onmouseover', '') if tag else ''
-    m = re.search(r"myToolTip\(\s*'((?:\\.|[^'\\])*)'", raw, re.S)
-    if not m:
-        return ''
-    markup = html.unescape(m.group(1).replace("\\'", "'").replace('\\"', '"'))
-    soup = BeautifulSoup(markup, 'html.parser')
-    return '\n'.join(clean(t) for t in soup.stripped_strings)
+def tooltip_lines(link):
+    raw = link.get('onmouseover', '') if link else ''
+    match = re.search(r"myToolTip\(\s*'((?:\\.|[^'\\])*)'", raw, re.S)
+    if not match:
+        return []
+    snippet = html.unescape(match.group(1).replace("\\'", "'").replace('\\"', '"'))
+    soup = BeautifulSoup(snippet, 'html.parser')
+    # A HTML br tagjeit sorhatarra alakitjuk, hogy a helyszin ne keveredjen mas mezokkel.
+    for br in soup.find_all('br'):
+        br.replace_with('\n')
+    return [clean(line) for line in soup.get_text('\n').splitlines() if clean(line) and clean(line) != ',']
 
 
 def parse_card(card, page_url):
-    member_id = clean(card.get('data-memberthumb', ''))
+    identifier = clean(card.get('data-memberthumb'))
     name_tag = card.select_one('.nevToShowOnList .nev') or card.select_one('.nev')
-    name_raw = clean(name_tag.get_text(' ', strip=True)) if name_tag else ''
-    m = re.fullmatch(r'(.*?)\s*\((\d+)\)', name_raw)
-    name, age = (m.group(1).strip(), int(m.group(2))) if m else (name_raw, None)
-    a = card.select_one('a.onExternalAdvThumbLink')
-    if not member_id or not name or not a:
+    link = card.select_one('a.onExternalAdvThumbLink')
+    if not identifier or not name_tag or not link:
         return None
-    description = tooltip_text(a)
+    name_full = clean(name_tag.get_text(' ', strip=True))
+    age_match = re.fullmatch(r'(.*?)\s*\((\d+)\)', name_full)
+    name = age_match.group(1) if age_match else name_full
+    age = int(age_match.group(2)) if age_match else None
     img = card.select_one('img.listTagImage')
-    img_rel = (img.get('data-src') or img.get('src') or '') if img else ''
-    img_url = urljoin(page_url, img_rel) if img_rel and 'spacer.gif' not in img_rel else None
-    link = urljoin(page_url, a.get('href', ''))
-    lines = description.split('\n')
-    # A tooltipben a kategória után jellemzően a helyszín következik.
-    # Nem kényszerítjük Debrecenre: például Hajdúszoboszló is megmarad.
+    image_path = (img.get('data-src') or img.get('src') or '') if img else ''
+    image = urljoin(page_url, image_path) if image_path and 'spacer.gif' not in image_path else None
+    lines = tooltip_lines(link)
+    # A helyszin a bemutatott hirdeteseknel a nev/kategoria utan, az eletkoros sor elott van.
     location = None
-    for idx, line in enumerate(lines[:-1]):
-        if re.search(r'(szexpartner|masszázs|dominák)', line, re.I):
-            candidate = clean(lines[idx + 1]).strip(' ,')
-            if candidate and not re.search(r'(éves|cm|kg|Ma:|Holnap:)', candidate, re.I):
-                location = candidate
-                break
-    if not location:
-        # Alternatívaként a kép alt szövegéből keressük a települést.
-        alt_text = clean(img.get('alt', '')) if img else ''
-        pattern = re.escape(name) + r'\s+(.+?)\s+(?:szexpartner|masszázs|dominák)\s+lányok'
-        location_match = re.search(pattern, alt_text, re.I)
-        if location_match:
-            location = clean(location_match.group(1))
+    for index, line in enumerate(lines):
+        if re.search(r'\b\d{1,2}\+?\s*éves\b', line, re.I):
+            if index > 0:
+                candidate = lines[index - 1].strip(' ,')
+                if candidate and not any(k in candidate.casefold() for k in ('lány', 'szexpartner', 'masszázs', 'dominák')):
+                    location = candidate
+            break
+    if not location and img:
+        alt = clean(img.get('alt', ''))
+        match = re.search(re.escape(name) + r'\s+(.+?)\s+(?:szexpartner|masszázs|dominák)\s+lányok', alt, re.I)
+        if match:
+            location = clean(match.group(1))
+    # Sem a telepules, sem a testsuly nem tippelheto meg hianyzo adat eseten.
     city = location.split(',')[0].strip() if location else None
-    other_city = bool(city and city.casefold() not in ('debrecen',))
-    weight = None
-    match = re.search(r'\b\d{1,2}\+?\s*éves\b[^\n]*?\b\d{2,3}\s*cm\s*,\s*(\d{2,3}\+?)\s*kg\b', description, re.I)
-    if match:
-        weight = match.group(1) + ' kg'
-    today = None
-    match = re.search(r'Ma:\s*([^\n]+)', description, re.I)
-    if match:
-        today = clean(match.group(1))
-    alt = clean(img.get('alt', '')) if img else ''
-    category = ('Masszázs' if 'masszázs' in alt.lower() else
-                'Dominák' if 'domin' in alt.lower() else
-                'Szexpartner' if 'szexpartner' in alt.lower() else None)
-    return {
-        'id': member_id, 'nev': name, 'eletkor': age, 'testsuly': weight,
-        'helyszin': location, 'telepules': city, 'nem_debrecen': other_city,
-        'kategoria': category, 'ma': today,
-        'kep': img_url, 'adatlap': link, 'uj': False,
-    }
+    weight_match = re.search(r'\b\d{1,2}\+?\s*éves\b[^\n]*?\b\d{2,3}\s*cm\s*,\s*(\d{2,3}\+?)\s*kg\b', '\n'.join(lines), re.I)
+    weight = weight_match.group(1) + ' kg' if weight_match else None
+    today = next((clean(x.split(':', 1)[1]) for x in lines if x.lower().startswith('ma:')), None)
+    alt_text = clean(img.get('alt', '')).casefold() if img else ''
+    category = ('Masszázs' if 'masszázs' in alt_text else 'Dominák' if 'domin' in alt_text else 'Szexpartner' if 'szexpartner' in alt_text else None)
+    return {'id': identifier, 'nev': name, 'eletkor': age, 'testsuly': weight,
+            'helyszin': location, 'telepules': city, 'nem_debrecen': city is not None and city.casefold() != 'debrecen',
+            'kategoria': category, 'ma': today, 'kep': image,
+            'adatlap': urljoin(page_url, link.get('href', '')), 'uj': False}
 
 
-def pagination_links(soup, current_url, seed_url):
-    """Csak azonos megyei listára vezető oldallapozó linkeket követ."""
-    origin = urlparse(seed_url).netloc
-    seed_params = parse_qs(urlparse(seed_url).query)
-    urls = set()
-    for a in soup.select('a[href]'):
-        href = a.get('href', '').strip()
-        if not href or href.startswith(('#', 'javascript:', 'mailto:')):
-            continue
-        u = urldefrag(urljoin(current_url, href)).url
-        parsed = urlparse(u)
-        if parsed.netloc != origin or parsed.path != urlparse(seed_url).path:
-            continue
-        params = parse_qs(parsed.query)
-        if params.get('pid') != seed_params.get('pid') or params.get('htext') != seed_params.get('htext'):
-            continue
-        label = clean(a.get_text(' ', strip=True)).casefold()
-        cls = ' '.join(a.get('class', [])).casefold()
-        has_page_param = any(k.lower() in ('page', 'oldal', 'pageno', 'start', 'offset', 'lap') for k in params)
-        page_link = has_page_param or any(z in cls for z in ('page', 'lapozo', 'pagination')) or label in ('következő', 'tovább', 'next', '»', '›')
-        if page_link and u != current_url:
-            urls.add(u)
-    return urls
+def get_count(soup):
+    tag = soup.select_one('#listNumResultContainer')
+    match = re.search(r'(\d+)', tag.get_text(' ', strip=True)) if tag else None
+    return int(match.group(1)) if match else None
+
+
+def inspect(soup):
+    title = clean(soup.title.get_text(' ', strip=True)) if soup.title else '(nincs cím)'
+    heading = soup.select_one('#listNumResultContainer')
+    print('Oldal:', title, '|', clean(heading.get_text(' ', strip=True)) if heading else 'talalatszam nelkul')
+
+
+def correct_county(soup):
+    title = clean(soup.title.get_text(' ', strip=True)) if soup.title else ''
+    h1 = [clean(x.get_text(' ', strip=True)) for x in soup.find_all('h1')]
+    return COUNTY.casefold() in title.casefold() and any('hajdú-bihar megye lányok' in x.casefold() for x in h1)
+
+
+def get_html(session):
+    response = session.get(URL, timeout=30)
+    response.raise_for_status()
+    soup = BeautifulSoup(response.content, 'html.parser')
+    inspect(soup)
+    if correct_county(soup):
+        return soup
+    # A megyei menü valójában egy POST űrlapot küld, nem elegendő minden
+    # környezetben a URL önmagában. Az oldalban szereplő űrlapot használjuk.
+    form = soup.select_one('form input[name="incoming[county]"][value="Hajdú-Bihar"]')
+    if form:
+        form = form.find_parent('form')
+    if form:
+        payload = [(x.get('name'), x.get('value', '')) for x in form.select('input[name]')]
+    else:
+        payload = [('incoming[fvaroskerulet][]', city + '_') for city in CITIES]
+        payload += [('tag_category', 'VIDÉK'), ('incoming[fneme]', 'Nő'), ('incoming[county]', COUNTY), ('search', '1')]
+    print('Megyei POST-szures alkalmazasa:', COUNTY)
+    response = session.post(URL, data=payload, timeout=30, headers={'Referer': URL})
+    response.raise_for_status()
+    soup = BeautifulSoup(response.content, 'html.parser')
+    inspect(soup)
+    return soup
 
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--url', default=DEFAULT_URL)
-    parser.add_argument('--max-pages', type=int, default=100)
+    parser.add_argument('--html-file', help='Kizarolag helyi HTML teszt, halozat nelkul')
     args = parser.parse_args()
-    if not args.url.startswith('https://'):
-        raise SystemExit('HTTPS cím szükséges.')
-    old = {}
+    if args.html_file:
+        soup = BeautifulSoup(Path(args.html_file).read_text(encoding='utf-8'), 'html.parser')
+    else:
+        session = requests.Session()
+        session.headers.update(HEADERS)
+        soup = get_html(session)
+    if not correct_county(soup):
+        raise SystemExit('HIBA: nem a Hajdu-Bihar megyei listat kaptuk; a rossz.json valtozatlan!')
+    expected = get_count(soup)
+    if expected is None or expected < 1:
+        raise SystemExit('HIBA: nincs hiteles talalatszam; a rossz.json valtozatlan!')
+    cards = soup.select('#listPageListContent .listOuterDiv[data-memberthumb]')
+    result_by_id = {}
+    for card in cards:
+        item = parse_card(card, URL)
+        if item:
+            # Egy szemely a kiemelt es a normal listaban is szerepelhet.
+            # Az elso, teljesebb kartya elonyt elvez.
+            if item['id'] not in result_by_id or sum(v is not None for v in item.values()) > sum(v is not None for v in result_by_id[item['id']].values()):
+                result_by_id[item['id']] = item
+    result = list(result_by_id.values())
+    print(f'HTML-kartyak: {len(cards)}, egyedi azonositok: {len(result)}, kiirt talalatok: {expected}')
+    # A mintaforras mind a 114 hirdetest tartalmazza. Ha az elo oldal kevesebbet ad,
+    # az lehet JS/lazy-loading: ilyenkor tilos reszleges JSON-t felulirni.
+    if len(result) < expected:
+        raise SystemExit(f'HIBA: hianyos lista ({len(result)}/{expected}), JSON valtozatlan. A lapozast kulon kell vizsgalni.')
+    if len(result) > expected * 1.2:
+        raise SystemExit('HIBA: tul sok a listaelemek szama; JSON valtozatlan.')
+    if sum(x['telepules'] is None for x in result) > len(result) * 0.2:
+        raise SystemExit('HIBA: tul sok hianyzo helyszin; JSON valtozatlan.')
+    previous_ids = set()
     if OUT.exists():
-        old = json.loads(OUT.read_text(encoding='utf-8'))
-    had_previous = isinstance(old.get('hirdetesek'), list) and len(old['hirdetesek']) > 0
-    previous_ids = {str(x['id']) for x in old.get('hirdetesek', [])} if had_previous else set()
-
-    session = requests.Session()
-    session.headers.update(HEADERS)
-    queue, visited, all_cards = [args.url], set(), {}
-    while queue:
-        url = queue.pop(0)
-        if url in visited:
-            continue
-        if len(visited) >= args.max_pages:
-            raise SystemExit(f'Elértük az oldalkorlátot ({args.max_pages}); nem írjuk felül a JSON-t.')
-        response = session.get(url, timeout=25)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, 'html.parser')
-        cards = soup.select('.listOuterDiv[data-memberthumb]')
-        if not cards:
-            raise SystemExit(f'Nincsenek felismerhető hirdetések ezen az oldalon: {url}; JSON változatlan.')
-        for card in cards:
-            item = parse_card(card, url)
-            if item:
-                all_cards[item['id']] = item
-        visited.add(url)
-        for nxt in sorted(pagination_links(soup, url, args.url)):
-            if nxt not in visited and nxt not in queue:
-                queue.append(nxt)
-        print(f'Oldal {len(visited)}: {url} / {len(cards)} kártya / összesen {len(all_cards)} egyedi')
-
-    if not all_cards:
-        raise SystemExit('Üres eredmény, JSON változatlan.')
-    # Biztonsági ellenőrzés: a megyei URL néha alapértelmezett (budapesti)
-    # listát ad vissza. Ilyenkor nem írjuk felül a jól működő JSON-t.
-    budapest_count = sum(bool(re.search(r'\bBudapest\b', x.get('helyszin') or '', re.I)) for x in all_cards.values())
-    if budapest_count >= 3 and budapest_count > len(all_cards) * 0.25:
-        raise SystemExit(f'Hibás megyei szűrés: {budapest_count}/{len(all_cards)} budapesti találat; JSON változatlan.')
-    unknown_count = sum(x['telepules'] is None for x in all_cards.values())
-    if unknown_count > len(all_cards) * 0.5:
-        raise SystemExit(f'Túl sok hiányzó település: {unknown_count}/{len(all_cards)}; JSON változatlan.')
-    if had_previous and len(all_cards) < len(previous_ids) * 0.65:
-        raise SystemExit('Gyanúsan kevés eredmény az előző futáshoz képest; JSON változatlan.')
-    result = list(all_cards.values())
+        previous = json.loads(OUT.read_text(encoding='utf-8'))
+        if isinstance(previous.get('hirdetesek'), list) and previous['hirdetesek']:
+            previous_ids = {str(item['id']) for item in previous['hirdetesek']}
     for item in result:
-        item['uj'] = had_previous and item['id'] not in previous_ids
-    timestamp = datetime.now(ZoneInfo('Europe/Budapest')).strftime('%Y.%m.%d. %H:%M')
-    output = {
-        'forras': args.url,
-        'frissitve': timestamp,
-        'darab': len(result),
-        'uj_darab': sum(item['uj'] for item in result),
-        'oldalak': len(visited),
-        'nem_debrecen_darab': sum(x['nem_debrecen'] for x in result),
-        'megjegyzes': 'Csak a HTML-ben elérhető lapozást járja be. JavaScriptből betöltött további találatok külön ellenőrzést igényelnek.',
-        'hirdetesek': result,
-    }
+        item['uj'] = bool(previous_ids) and item['id'] not in previous_ids
+    output = {'forras': URL, 'megye': COUNTY,
+              'frissitve': datetime.now(ZoneInfo('Europe/Budapest')).strftime('%Y.%m.%d. %H:%M'),
+              'darab': len(result), 'uj_darab': sum(x['uj'] for x in result),
+              'nem_debrecen_darab': sum(x['nem_debrecen'] for x in result),
+              'hirdetesek': result}
     OUT.write_text(json.dumps(output, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-    print(f'JSON elkészült: {len(result)} hirdetés, ebből {output["uj_darab"]} új.')
+    print('rossz.json elkeszult:', len(result), 'hirdetes, uj:', output['uj_darab'])
+
 
 if __name__ == '__main__':
     main()
