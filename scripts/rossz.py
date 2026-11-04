@@ -17,6 +17,108 @@ HEADERS = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KH
 COUNTY = 'Hajdú-Bihar'
 CITIES = ['Berettyóújfalu', 'Debrecen', 'Hajdúböszörmény', 'Hajdúnánás', 'Hajdúszoboszló', 'Nyíracsád', 'Püspökladány', 'Téglás']
 
+# ==========================================
+# VIDEKI TRANSZIK - ENGEDÉLYEZETT TELEPULESEK
+# ==========================================
+
+SAJAT_TELEPULESEK = [
+    "Álmosd",
+    "Ártánd",
+    "Bagamér",
+    "Bakonszeg",
+    "Balmazújváros",
+    "Báránd",
+    "Bedő",
+    "Berekböszörmény",
+    "Berettyóújfalu",
+    "Bihardancsháza",
+    "Biharkeresztes",
+    "Biharnagybajom",
+    "Bihartorda",
+    "Bocskaikert",
+    "Bojt",
+    "Csökmő",
+    "Darvas",
+    "Derecske",
+    "Ebes",
+    "Egyek",
+    "Esztár",
+    "Folyás",
+    "Földes",
+    "Furta",
+    "Fülöp",
+    "Gáborján",
+    "Görbeháza",
+    "Hajdúbagos",
+    "Hajdúböszörmény",
+    "Hajdúdorog",
+    "Hajdúhadház",
+    "Hajdúnánás",
+    "Hajdúsámson",
+    "Hajdúszoboszló",
+    "Hajdúszovát",
+    "Hencida",
+    "Hortobágy",
+    "Hosszúpályi",
+    "Kaba",
+    "Kismarja",
+    "Kokad",
+    "Komádi",
+    "Konyár",
+    "Körösszakál",
+    "Körösszegapáti",
+    "Létavértes",
+    "Magyarhomorog",
+    "Mezőpeterd",
+    "Mezősas",
+    "Mikepércs",
+    "Monostorpályi",
+    "Nádudvar",
+    "Nagyhegyes",
+    "Nagykereki",
+    "Nagyrábé",
+    "Nyírábrány",
+    "Nyíracsád",
+    "Nyíradony",
+    "Nyírmártonfalva",
+    "Pocsaj",
+    "Polgár",
+    "Püspökladány",
+    "Sáp",
+    "Sáránd",
+    "Sárrétudvari",
+    "Szentpéterszeg",
+    "Szerep",
+    "Téglás",
+    "Tépe",
+    "Tetétlen",
+    "Tiszacsege",
+    "Tiszagyulaháza",
+    "Told",
+    "Újiráz",
+    "Újléta",
+    "Újszentmargita",
+    "Újtikos",
+    "Vámospércs",
+    "Váncsod",
+    "Vekerd",
+    "Zsáka",
+
+    # Szabolcs - Hajduhadhaz kornyeke
+    "Balkány",
+    "Biri",
+    "Bököny",
+    "Érpatak",
+    "Geszteréd",
+    "Kállósemjén",
+    "Kálmánháza",
+    "Nagykálló",
+    "Nyírgelse",
+    "Nyírmihálydi",
+    "Szakoly",
+    "Újfehértó",
+]
+
 
 def clean(value):
     return ' '.join(str(value or '').split())
@@ -199,13 +301,25 @@ def videki_transzik_gyujtes():
                     str(x["id"]) for x in elozo_lista
                 }
 
-    lista = list(hirdetok.values())
+    # Csak a sajat telepulesek hirdetesei
+    engedelyezett = {
+        nev.strip().casefold()
+        for nev in SAJAT_TELEPULESEK
+    }
+
+    lista = [
+        item
+        for item in hirdetok.values()
+        if str(item.get("telepules") or "").strip().casefold()
+        in engedelyezett
+    ]
 
     for item in lista:
         item["uj"] = (
             bool(elozo_idk)
             and item["id"] not in elozo_idk
         )
+
 
     telepulesek = dict(sorted(
         Counter(
