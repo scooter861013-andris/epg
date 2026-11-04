@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Visszatér a napsütés, de a szél még marad",
-  "utoljára változott hőmérséklet az időképről": "2026.11.04. 01:35",
-  "flow_last_run": "2026.11.04. 03:05",
+  "utoljára változott hőmérséklet az időképről": "2026.11.04. 03:35",
+  "flow_last_run": "2026.11.04. 03:35",
   "current": {
     "temperature": 5,
-    "condition": "Borult",
-    "icon": "☁️"
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
@@ -30,14 +30,14 @@
     {
       "day": "Péntek",
       "max": 10,
-      "min": -2,
+      "min": -1,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
     },
     {
       "day": "Szombat",
-      "max": 9,
+      "max": 10,
       "min": -1,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -46,7 +46,7 @@
     {
       "day": "Vasárnap",
       "max": 10,
-      "min": -4,
+      "min": -3,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -54,14 +54,14 @@
     {
       "day": "Hétfő",
       "max": 8,
-      "min": -3,
+      "min": -2,
       "condition": "gyenge eső",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 8,
+      "max": 7,
       "min": 3,
       "condition": "borult",
       "icon": "☁️",
