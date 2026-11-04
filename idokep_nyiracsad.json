@@ -2,19 +2,19 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
-  "focim": "Visszatér a napsütés, de a szél még marad",
-  "updated": "2026.11.04. 16:39",
-  "flow_last_run": "2026.11.04. 16:39",
+  "focim": "Napos, hűvös őszi nap jön",
+  "updated": "2026.11.04. 17:09",
+  "flow_last_run": "2026.11.04. 17:09",
   "current": {
-    "temperature": 7,
-    "condition": "Gyengén felhős",
-    "icon": "☁️"
+    "temperature": 4,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
       "max": 12,
-      "min": 4,
+      "min": 3,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
