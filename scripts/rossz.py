@@ -39,6 +39,7 @@ SAJAT_TELEPULESEK = [
     "Bojt",
     "Csökmő",
     "Darvas",
+    "Debrecen",
     "Derecske",
     "Ebes",
     "Egyek",
