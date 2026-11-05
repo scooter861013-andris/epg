@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Napos, hűvös őszi nap jön",
-  "updated": "2026.11.05. 03:09",
-  "flow_last_run": "2026.11.05. 03:09",
+  "updated": "2026.11.05. 03:39",
+  "flow_last_run": "2026.11.05. 03:39",
   "current": {
-    "temperature": 0,
+    "temperature": -1,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Csütörtök",
       "max": 12,
-      "min": 0,
+      "min": -1,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
