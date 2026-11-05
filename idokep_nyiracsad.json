@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Napos, hűvös őszi nap jön",
-  "updated": "2026.11.05. 03:39",
-  "flow_last_run": "2026.11.05. 03:39",
+  "updated": "2026.11.05. 04:09",
+  "flow_last_run": "2026.11.05. 04:09",
   "current": {
-    "temperature": -1,
+    "temperature": -2,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Csütörtök",
       "max": 12,
-      "min": -1,
+      "min": -2,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -22,7 +22,7 @@
     {
       "day": "Péntek",
       "max": 10,
-      "min": -3,
+      "min": -5,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -37,7 +37,7 @@
     },
     {
       "day": "Vasárnap",
-      "max": 11,
+      "max": 10,
       "min": -4,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -45,7 +45,7 @@
     },
     {
       "day": "Hétfő",
-      "max": 10,
+      "max": 9,
       "min": -4,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -53,7 +53,7 @@
     },
     {
       "day": "Kedd",
-      "max": 7,
+      "max": 9,
       "min": -1,
       "condition": "gyenge eső",
       "icon": "🌧️",
@@ -61,8 +61,8 @@
     },
     {
       "day": "Szerda",
-      "max": 7,
-      "min": 2,
+      "max": 8,
+      "min": 5,
       "condition": "borult",
       "icon": "☁️",
       "alert": null
