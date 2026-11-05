@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Napos, hűvös őszi nap jön",
-  "utoljára változott hőmérséklet az időképről": "2026.11.05. 03:05",
-  "flow_last_run": "2026.11.05. 03:05",
+  "utoljára változott hőmérséklet az időképről": "2026.11.05. 03:35",
+  "flow_last_run": "2026.11.05. 03:35",
   "current": {
     "temperature": 1,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
       "max": 11,
-      "min": 0,
+      "min": 1,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
@@ -22,7 +22,7 @@
     {
       "day": "Péntek",
       "max": 10,
-      "min": -2,
+      "min": -3,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
