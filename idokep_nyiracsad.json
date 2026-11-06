@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "A fagyos reggel után több órára kisüt a nap",
-  "updated": "2026.11.06. 06:09",
-  "flow_last_run": "2026.11.06. 06:09",
+  "updated": "2026.11.06. 06:39",
+  "flow_last_run": "2026.11.06. 06:39",
   "current": {
     "temperature": -7,
-    "condition": "Köd",
-    "icon": "🌫️"
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:23",
     "sunset": "16:07",
-    "is_night": true
+    "is_night": false
   }
 }
