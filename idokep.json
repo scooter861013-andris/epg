@@ -3,8 +3,8 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Napos hétvége fagyos reggelekkel",
-  "utoljára változott hőmérséklet az időképről": "2026.11.06. 22:05",
-  "flow_last_run": "2026.11.06. 22:05",
+  "utoljára változott hőmérséklet az időképről": "2026.11.06. 22:35",
+  "flow_last_run": "2026.11.06. 22:35",
   "current": {
     "temperature": 2,
     "condition": "Derült",
@@ -30,7 +30,7 @@
     {
       "day": "Hétfő",
       "max": 9,
-      "min": -4,
+      "min": -3,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -46,23 +46,23 @@
     {
       "day": "Szerda",
       "max": 8,
-      "min": 4,
-      "condition": "erősen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
-      "day": "Csütörtök",
-      "max": 8,
       "min": 3,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
+      "day": "Csütörtök",
+      "max": 10,
+      "min": 4,
+      "condition": "erősen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
       "day": "Péntek",
-      "max": 14,
-      "min": 7,
+      "max": 17,
+      "min": 9,
       "condition": "gyenge eső",
       "icon": "🌧️",
       "alert": null
