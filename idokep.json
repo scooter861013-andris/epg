@@ -4,7 +4,7 @@
   "fronthatas": "Nem várható fronthatás",
   "focim": "A fagyos reggel után több órára kisüt a nap",
   "utoljára változott hőmérséklet az időképről": "2026.11.06. 05:35",
-  "flow_last_run": "2026.11.06. 06:05",
+  "flow_last_run": "2026.11.06. 06:35",
   "current": {
     "temperature": -5,
     "condition": "Derült",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:25",
     "sunset": "16:08",
-    "is_night": true
+    "is_night": false
   }
 }
