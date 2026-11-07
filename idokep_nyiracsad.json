@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Napos idő fagyos reggellel",
-  "updated": "2026.11.07. 19:39",
-  "flow_last_run": "2026.11.07. 19:39",
+  "updated": "2026.11.07. 20:09",
+  "flow_last_run": "2026.11.07. 20:09",
   "current": {
-    "temperature": -3,
+    "temperature": -4,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Vasárnap",
       "max": 12,
-      "min": -9,
+      "min": -10,
       "condition": "derült",
       "icon": "🌙",
       "alert": null
