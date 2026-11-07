@@ -4,7 +4,7 @@
   "fronthatas": "Nem várható fronthatás",
   "focim": "Napos hétvége fagyos reggelekkel",
   "updated": "2026.11.07. 06:09",
-  "flow_last_run": "2026.11.07. 06:09",
+  "flow_last_run": "2026.11.07. 06:39",
   "current": {
     "temperature": -7,
     "condition": "Derült",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:25",
     "sunset": "16:06",
-    "is_night": true
+    "is_night": false
   }
 }
