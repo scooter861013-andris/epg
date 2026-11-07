@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
-  "focim": "Napos hétvége fagyos reggelekkel",
-  "updated": "2026.11.07. 16:39",
-  "flow_last_run": "2026.11.07. 16:39",
+  "focim": "Napos idő fagyos reggellel",
+  "updated": "2026.11.07. 17:09",
+  "flow_last_run": "2026.11.07. 17:09",
   "current": {
-    "temperature": 3,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 1,
+    "condition": "Gyengén felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Szombat",
-      "max": 11,
-      "min": -7,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Vasárnap",
       "max": 12,
@@ -38,7 +30,7 @@
     {
       "day": "Kedd",
       "max": 7,
-      "min": 0,
+      "min": -1,
       "condition": "eső",
       "icon": "🌧️",
       "alert": null
@@ -46,7 +38,7 @@
     {
       "day": "Szerda",
       "max": 8,
-      "min": 4,
+      "min": -1,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -63,6 +55,14 @@
       "day": "Péntek",
       "max": 18,
       "min": 10,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Szombat",
+      "max": 9,
+      "min": 5,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
