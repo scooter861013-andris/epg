@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Napos hétvége fagyos reggelekkel",
-  "updated": "2026.11.07. 12:39",
-  "flow_last_run": "2026.11.07. 12:39",
+  "updated": "2026.11.07. 13:09",
+  "flow_last_run": "2026.11.07. 13:09",
   "current": {
     "temperature": 11,
-    "condition": "Derült",
-    "icon": "🌙"
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
-      "max": 10,
+      "max": 9,
       "min": -7,
       "condition": "gyengén felhős",
       "icon": "☁️",
