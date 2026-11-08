@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Napos idő követi a fagyos reggelt",
-  "updated": "2026.11.08. 09:09",
-  "flow_last_run": "2026.11.08. 09:09",
+  "updated": "2026.11.08. 09:39",
+  "flow_last_run": "2026.11.08. 09:39",
   "current": {
-    "temperature": 4,
+    "temperature": 6,
     "condition": "Derült",
     "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 13,
+      "max": 12,
       "min": -8,
       "condition": "derült",
       "icon": "🌙",
@@ -55,7 +55,7 @@
       "day": "Péntek",
       "max": 17,
       "min": 10,
-      "condition": "zápor",
+      "condition": "eső viharos széllel",
       "icon": "🌧️",
       "alert": null
     },
@@ -63,8 +63,8 @@
       "day": "Szombat",
       "max": 8,
       "min": 5,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
