@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Felhős hétkezdet kevés esővel",
-  "updated": "2026.11.09. 06:09",
-  "flow_last_run": "2026.11.09. 06:09",
+  "updated": "2026.11.09. 06:39",
+  "flow_last_run": "2026.11.09. 06:39",
   "current": {
-    "temperature": -5,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": -6,
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:28",
     "sunset": "16:03",
-    "is_night": true
+    "is_night": false
   }
 }
