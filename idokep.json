@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Felhős hétkezdet kevés esővel",
-  "utoljára változott hőmérséklet az időképről": "2026.11.09. 10:05",
-  "flow_last_run": "2026.11.09. 10:05",
+  "utoljára változott hőmérséklet az időképről": "2026.11.09. 10:35",
+  "flow_last_run": "2026.11.09. 10:35",
   "current": {
     "temperature": 4,
-    "condition": "Borult",
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 7,
+      "max": 8,
       "min": -4,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -30,7 +30,7 @@
     {
       "day": "Szerda",
       "max": 8,
-      "min": 3,
+      "min": 4,
       "condition": "gyenge eső",
       "icon": "🌧️",
       "alert": null
@@ -45,7 +45,7 @@
     },
     {
       "day": "Péntek",
-      "max": 15,
+      "max": 17,
       "min": 10,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
@@ -54,7 +54,7 @@
     {
       "day": "Szombat",
       "max": 9,
-      "min": 3,
+      "min": 4,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -62,7 +62,7 @@
     {
       "day": "Vasárnap",
       "max": 9,
-      "min": -2,
+      "min": -1,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
