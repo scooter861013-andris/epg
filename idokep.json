@@ -1,27 +1,19 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Nem várható fronthatás",
-  "focim": "Felhős hétkezdet kevés esővel",
-  "utoljára változott hőmérséklet az időképről": "2026.11.09. 17:35",
-  "flow_last_run": "2026.11.09. 18:05",
+  "fronthatas": "Kettős fronthatás",
+  "focim": "Borongós, esős idő",
+  "utoljára változott hőmérséklet az időképről": "2026.11.09. 18:35",
+  "flow_last_run": "2026.11.09. 18:35",
   "current": {
-    "temperature": 5,
+    "temperature": 4,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
-      "day": "Hétfő",
-      "max": 8,
-      "min": -4,
-      "condition": "erősen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Kedd",
-      "max": 8,
+      "max": 9,
       "min": 0,
       "condition": "eső",
       "icon": "🌧️",
@@ -39,8 +31,8 @@
       "day": "Csütörtök",
       "max": 11,
       "min": 6,
-      "condition": "zápor",
-      "icon": "🌧️",
+      "condition": "borult",
+      "icon": "☁️",
       "alert": null
     },
     {
@@ -64,6 +56,14 @@
       "max": 9,
       "min": -2,
       "condition": "gyengén felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 8,
+      "min": 0,
+      "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
     }
