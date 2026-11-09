@@ -3,8 +3,8 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettős fronthatás",
   "focim": "Borongós, esős idő",
-  "updated": "2026.11.09. 21:39",
-  "flow_last_run": "2026.11.09. 21:39",
+  "updated": "2026.11.09. 22:09",
+  "flow_last_run": "2026.11.09. 22:09",
   "current": {
     "temperature": 1,
     "condition": "Derült",
@@ -30,7 +30,7 @@
     {
       "day": "Csütörtök",
       "max": 11,
-      "min": 6,
+      "min": 5,
       "condition": "borult",
       "icon": "☁️",
       "alert": null
@@ -46,7 +46,7 @@
     {
       "day": "Szombat",
       "max": 9,
-      "min": 4,
+      "min": 3,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -61,8 +61,8 @@
     },
     {
       "day": "Hétfő",
-      "max": 8,
-      "min": -1,
+      "max": 9,
+      "min": 0,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
