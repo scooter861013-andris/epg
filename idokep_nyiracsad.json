@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettős fronthatás",
   "focim": "Borongós, esős idő",
-  "updated": "2026.11.10. 12:39",
-  "flow_last_run": "2026.11.10. 12:39",
+  "updated": "2026.11.10. 13:09",
+  "flow_last_run": "2026.11.10. 13:09",
   "current": {
     "temperature": 9,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "condition": "Eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 8,
+      "max": 6,
       "min": 2,
       "condition": "eső",
       "icon": "🌧️",
