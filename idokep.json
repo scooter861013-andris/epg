@@ -2,12 +2,12 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti hatás várható",
-  "focim": "Szürke idő kisebb esővel",
-  "utoljára változott hőmérséklet az időképről": "2026.11.11. 08:35",
-  "flow_last_run": "2026.11.11. 08:35",
+  "focim": "Szürke idő",
+  "utoljára változott hőmérséklet az időképről": "2026.11.11. 09:05",
+  "flow_last_run": "2026.11.11. 09:05",
   "current": {
-    "temperature": 4,
-    "condition": "Borult",
+    "temperature": 6,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -15,8 +15,8 @@
       "day": "Szerda",
       "max": 9,
       "min": 2,
-      "condition": "gyenge eső",
-      "icon": "🌧️",
+      "condition": "borult",
+      "icon": "☁️",
       "alert": null
     },
     {
@@ -38,7 +38,7 @@
     {
       "day": "Szombat",
       "max": 10,
-      "min": -2,
+      "min": 1,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
