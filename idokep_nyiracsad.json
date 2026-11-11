@@ -2,21 +2,21 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti hatás várható",
-  "focim": "Szürke idő kisebb esővel",
-  "updated": "2026.11.11. 08:39",
-  "flow_last_run": "2026.11.11. 08:39",
+  "focim": "Szürke idő",
+  "updated": "2026.11.11. 09:09",
+  "flow_last_run": "2026.11.11. 09:09",
   "current": {
-    "temperature": 3,
-    "condition": "Borult",
-    "icon": "☁️"
+    "temperature": 4,
+    "condition": "Köd",
+    "icon": "🌫️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
       "max": 10,
       "min": 0,
-      "condition": "gyenge eső",
-      "icon": "🌧️",
+      "condition": "borult",
+      "icon": "☁️",
       "alert": null
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "day": "Péntek",
-      "max": 14,
+      "max": 15,
       "min": 6,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
@@ -38,7 +38,7 @@
     {
       "day": "Szombat",
       "max": 10,
-      "min": -2,
+      "min": 0,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
