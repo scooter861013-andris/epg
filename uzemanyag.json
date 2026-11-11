@@ -1,21 +1,21 @@
 {
-    "utolso_frissites": "2026.11.10. 05:20:05",
+    "utolso_frissites": "2026.11.11. 05:20:06",
     "agroinform": {
         "gazolaj": {
-            "ar": "721",
+            "ar": "717",
             "irany": "csokkent"
         },
         "benzin95": {
-            "ar": "611",
+            "ar": "606",
             "irany": "csokkent"
         },
         "eur": {
-            "ar": "362.63",
-            "irany": "csokkent"
+            "ar": "364.35",
+            "irany": "novekedett"
         },
         "usd": {
-            "ar": "323.76",
-            "irany": "csokkent"
+            "ar": "326.29",
+            "irany": "novekedett"
         }
     },
     "kutak": [
@@ -24,29 +24,29 @@
             "cim": "Debrecen, Kassai út 92.",
             "uzemanyagok": [
                 {
-                    "datum": "2026-11-06",
+                    "datum": "2026-11-10",
                     "tipus": "Dízel (B7)",
-                    "ar": "719.0 Ft/liter"
+                    "ar": "714.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-11-07",
+                    "datum": "2026-11-10",
                     "tipus": "95 (E10)",
-                    "ar": "606.0 Ft/liter"
+                    "ar": "601.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-11-06",
+                    "datum": "2026-11-10",
                     "tipus": "Dízel (Premium B7)",
-                    "ar": "818.0 Ft/liter"
+                    "ar": "813.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-11-07",
+                    "datum": "2026-11-10",
                     "tipus": "100 (E5)",
-                    "ar": "693.0 Ft/liter"
+                    "ar": "688.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-11-07",
+                    "datum": "2026-11-10",
                     "tipus": "95 (Premium E10)",
-                    "ar": "637.0 Ft/liter"
+                    "ar": "632.0 Ft/liter"
                 }
             ]
         },
@@ -55,24 +55,24 @@
             "cim": "Debrecen, Sámsoni út",
             "uzemanyagok": [
                 {
-                    "datum": "2026-11-06",
+                    "datum": "2026-11-10",
                     "tipus": "Dízel (Premium B7)",
-                    "ar": "818.0 Ft/liter"
+                    "ar": "813.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-11-07",
+                    "datum": "2026-11-10",
                     "tipus": "95 (E10)",
-                    "ar": "608.0 Ft/liter"
+                    "ar": "603.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-11-06",
+                    "datum": "2026-11-10",
                     "tipus": "Dízel (B7)",
-                    "ar": "719.0 Ft/liter"
+                    "ar": "714.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-11-07",
+                    "datum": "2026-11-10",
                     "tipus": "100 (E5)",
-                    "ar": "694.0 Ft/liter"
+                    "ar": "689.0 Ft/liter"
                 }
             ]
         },
@@ -81,29 +81,29 @@
             "cim": "Debrecen, Böszörményi út 1.",
             "uzemanyagok": [
                 {
-                    "datum": "2026-11-06",
+                    "datum": "2026-11-10",
                     "tipus": "Dízel (B7)",
-                    "ar": "718.0 Ft/liter"
+                    "ar": "713.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-11-07",
+                    "datum": "2026-11-10",
                     "tipus": "95 (E10)",
-                    "ar": "607.0 Ft/liter"
+                    "ar": "600.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-11-07",
+                    "datum": "2026-11-10",
                     "tipus": "95 (Premium E10)",
-                    "ar": "648.0 Ft/liter"
+                    "ar": "641.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-11-06",
+                    "datum": "2026-11-10",
                     "tipus": "Dízel (Premium B7)",
                     "ar": "814.0 Ft/liter"
                 },
                 {
-                    "datum": "2026-11-07",
+                    "datum": "2026-11-10",
                     "tipus": "100 (E5)",
-                    "ar": "698.0 Ft/liter"
+                    "ar": "690.0 Ft/liter"
                 }
             ]
         }
