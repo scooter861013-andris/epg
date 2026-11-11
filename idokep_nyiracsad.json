@@ -3,8 +3,8 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti hatás várható",
   "focim": "Szürke idő",
-  "updated": "2026.11.11. 15:09",
-  "flow_last_run": "2026.11.11. 15:39",
+  "updated": "2026.11.11. 16:09",
+  "flow_last_run": "2026.11.11. 16:09",
   "current": {
     "temperature": 7,
     "condition": "Borult",
@@ -29,7 +29,7 @@
     },
     {
       "day": "Péntek",
-      "max": 14,
+      "max": 16,
       "min": 6,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
@@ -37,8 +37,8 @@
     },
     {
       "day": "Szombat",
-      "max": 10,
-      "min": 0,
+      "max": 9,
+      "min": -1,
       "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
@@ -54,15 +54,15 @@
     {
       "day": "Hétfő",
       "max": 10,
-      "min": 5,
+      "min": 3,
       "condition": "eső",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 11,
-      "min": 7,
+      "max": 12,
+      "min": 8,
       "condition": "gyenge eső",
       "icon": "🌧️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:32",
     "sunset": "16:01",
-    "is_night": false
+    "is_night": true
   }
 }
