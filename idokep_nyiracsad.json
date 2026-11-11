@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti hatás várható",
   "focim": "Szürke idő kisebb esővel",
-  "updated": "2026.11.11. 04:09",
-  "flow_last_run": "2026.11.11. 04:09",
+  "updated": "2026.11.11. 04:39",
+  "flow_last_run": "2026.11.11. 04:39",
   "current": {
-    "temperature": 4,
-    "condition": "Borult",
-    "icon": "☁️"
+    "temperature": 2,
+    "condition": "Pára",
+    "icon": null
   },
   "forecast_7d": [
     {
       "day": "Szerda",
       "max": 10,
-      "min": 4,
+      "min": 2,
       "condition": "gyenge eső",
       "icon": "🌧️",
       "alert": null
