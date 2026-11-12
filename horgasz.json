@@ -1,11 +1,11 @@
 {
   "forrás": "idokep.hu",
   "hivatkozás": "https://www.idokep.hu/horgasz",
-  "utoljára_változott_kapásindex": "2026.11.12. 16:50",
-  "utolsó_futás": "2026.11.12. 16:50",
+  "utoljára_változott_kapásindex": "2026.11.12. 18:50",
+  "utolsó_futás": "2026.11.12. 18:50",
   "nap_és_hold": {
-    "napkelte": "6:44",
-    "napnyugta": "16:11",
+    "napkelte": "6:34",
+    "napnyugta": "15:57",
     "holdkelte": "10:14",
     "holdnyugta": "17:48"
   },
@@ -13,14 +13,8 @@
     {
       "időszak": "Most",
       "holdfázis": 1,
-      "halikonok_száma": 3,
-      "minősítés": "Átlagos"
-    },
-    {
-      "időszak": "Csütörtök délután",
-      "holdfázis": 1,
-      "halikonok_száma": 3,
-      "minősítés": "Átlagos"
+      "halikonok_száma": 2,
+      "minősítés": "Alacsony"
     },
     {
       "időszak": "Péntek reggel",
@@ -31,8 +25,8 @@
     {
       "időszak": "Péntek délután",
       "holdfázis": 1,
-      "halikonok_száma": 1,
-      "minősítés": "Rossz"
+      "halikonok_száma": 2,
+      "minősítés": "Alacsony"
     },
     {
       "időszak": "Szombat reggel",
@@ -41,13 +35,19 @@
       "minősítés": "Rossz"
     },
     {
-      "időszak": "Szombat",
+      "időszak": "Szombat délután",
       "holdfázis": 2,
       "halikonok_száma": 1,
       "minősítés": "Rossz"
     },
     {
       "időszak": "Vasárnap",
+      "holdfázis": 2,
+      "halikonok_száma": 1,
+      "minősítés": "Rossz"
+    },
+    {
+      "időszak": "Hétfő",
       "holdfázis": 2,
       "halikonok_száma": 1,
       "minősítés": "Rossz"
