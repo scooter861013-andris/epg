@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Melegfronti hatás várható",
-  "focim": "Érkezik Charles, nagy esőt hoz magával",
-  "updated": "2026.11.12. 17:39",
-  "flow_last_run": "2026.11.12. 17:39",
+  "fronthatas": "Kettősfronti-, majd hidegfronti hatás",
+  "focim": "Csapadékos, szeles időt hoz Charles",
+  "updated": "2026.11.12. 18:09",
+  "flow_last_run": "2026.11.12. 18:09",
   "current": {
     "temperature": 10,
-    "condition": "Gyenge eső",
+    "condition": "Eső",
     "icon": "🌧️"
   },
   "forecast_7d": [
-    {
-      "day": "Csütörtök",
-      "max": 12,
-      "min": 7,
-      "condition": "gyenge eső",
-      "icon": "🌧️",
-      "alert": null
-    },
     {
       "day": "Péntek",
       "max": 14,
@@ -39,14 +31,14 @@
       "day": "Vasárnap",
       "max": 9,
       "min": -2,
-      "condition": "gyengén felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
       "max": 10,
-      "min": 5,
+      "min": 2,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -64,6 +56,14 @@
       "max": 13,
       "min": 12,
       "condition": "eső",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "max": 10,
+      "min": 8,
+      "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     }
