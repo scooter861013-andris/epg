@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Melegfronti hatás várható",
   "focim": "Érkezik Charles, nagy esőt hoz magával",
-  "utoljára változott hőmérséklet az időképről": "2026.11.12. 09:35",
-  "flow_last_run": "2026.11.12. 10:05",
+  "utoljára változott hőmérséklet az időképről": "2026.11.12. 10:35",
+  "flow_last_run": "2026.11.12. 10:35",
   "current": {
-    "temperature": 8,
-    "condition": "Szitálás",
+    "temperature": 7,
+    "condition": "Pára",
     "icon": null
   },
   "forecast_7d": [
@@ -29,7 +29,7 @@
     },
     {
       "day": "Szombat",
-      "max": 9,
+      "max": 10,
       "min": 0,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -45,24 +45,24 @@
     },
     {
       "day": "Hétfő",
-      "max": 10,
-      "min": 4,
+      "max": 9,
+      "min": 5,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 12,
-      "min": 8,
+      "max": 13,
+      "min": 9,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 12,
-      "min": 10,
+      "max": 13,
+      "min": 11,
       "condition": "eső",
       "icon": "🌧️",
       "alert": null
