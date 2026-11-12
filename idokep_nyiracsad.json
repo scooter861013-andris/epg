@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti hatás várható",
   "focim": "Érkezik Charles, nagy esőt hoz magával",
-  "updated": "2026.11.12. 14:39",
-  "flow_last_run": "2026.11.12. 14:39",
+  "updated": "2026.11.12. 15:09",
+  "flow_last_run": "2026.11.12. 15:09",
   "current": {
     "temperature": 10,
-    "condition": "Borult",
-    "icon": "☁️"
+    "condition": "Köd",
+    "icon": "🌫️"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
-      "max": 11,
+      "max": 12,
       "min": 7,
       "condition": "gyenge eső",
       "icon": "🌧️",
