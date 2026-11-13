@@ -3,11 +3,11 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti-, majd hidegfronti hatás",
   "focim": "Naposabb, de hűvös hétvége jön",
-  "updated": "2026.11.13. 22:39",
-  "flow_last_run": "2026.11.13. 22:39",
+  "updated": "2026.11.13. 23:09",
+  "flow_last_run": "2026.11.13. 23:09",
   "current": {
     "temperature": -1,
-    "condition": "Borult",
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -37,7 +37,7 @@
     },
     {
       "day": "Kedd",
-      "max": 12,
+      "max": 11,
       "min": 4,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
