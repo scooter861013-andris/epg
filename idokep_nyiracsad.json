@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti-, majd hidegfronti hatás",
-  "focim": "Csapadékos, szeles időt hoz Charles",
-  "updated": "2026.11.13. 19:39",
-  "flow_last_run": "2026.11.13. 19:39",
+  "focim": "Naposabb, de hűvös hétvége jön",
+  "updated": "2026.11.13. 20:09",
+  "flow_last_run": "2026.11.13. 20:09",
   "current": {
-    "temperature": 4,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "temperature": 3,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
-    {
-      "day": "Péntek",
-      "max": 14,
-      "min": 3,
-      "condition": "eső viharos széllel",
-      "icon": "🌧️",
-      "alert": null
-    },
     {
       "day": "Szombat",
       "max": 9,
@@ -39,15 +31,15 @@
       "day": "Hétfő",
       "max": 9,
       "min": 5,
-      "condition": "zápor",
+      "condition": "eső viharos széllel",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Kedd",
       "max": 12,
-      "min": 6,
-      "condition": "zápor",
+      "min": 4,
+      "condition": "eső viharos széllel",
       "icon": "🌧️",
       "alert": null
     },
@@ -63,6 +55,14 @@
       "day": "Csütörtök",
       "max": 13,
       "min": 9,
+      "condition": "zápor",
+      "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Péntek",
+      "max": 11,
+      "min": 7,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
