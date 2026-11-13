@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Kettősfronti-, majd hidegfronti hatás",
   "focim": "Csapadékos, szeles időt hoz Charles",
-  "utoljára változott hőmérséklet az időképről": "2026.11.13. 15:05",
-  "flow_last_run": "2026.11.13. 15:35",
+  "utoljára változott hőmérséklet az időképről": "2026.11.13. 16:05",
+  "flow_last_run": "2026.11.13. 16:05",
   "current": {
-    "temperature": 6,
+    "temperature": 5,
     "condition": "Borult",
     "icon": "☁️"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Péntek",
       "max": 13,
-      "min": 5,
+      "min": 4,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
       "alert": null
@@ -29,7 +29,7 @@
     },
     {
       "day": "Vasárnap",
-      "max": 10,
+      "max": 9,
       "min": -2,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -45,7 +45,7 @@
     },
     {
       "day": "Kedd",
-      "max": 12,
+      "max": 11,
       "min": 6,
       "condition": "zápor",
       "icon": "🌧️",
@@ -61,8 +61,8 @@
     },
     {
       "day": "Csütörtök",
-      "max": 12,
-      "min": 7,
+      "max": 14,
+      "min": 9,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:37",
     "sunset": "15:59",
-    "is_night": false
+    "is_night": true
   }
 }
