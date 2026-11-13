@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti-, majd hidegfronti hatás",
   "focim": "Csapadékos, szeles időt hoz Charles",
-  "updated": "2026.11.13. 11:09",
-  "flow_last_run": "2026.11.13. 11:39",
+  "updated": "2026.11.13. 12:09",
+  "flow_last_run": "2026.11.13. 12:09",
   "current": {
-    "temperature": 5,
-    "condition": "Eső",
-    "icon": "🌧️"
+    "temperature": 4,
+    "condition": "Borult",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -38,7 +38,7 @@
     {
       "day": "Hétfő",
       "max": 9,
-      "min": 5,
+      "min": 4,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "6:34",
+    "sunrise": "6:35",
     "sunset": "15:58",
     "is_night": false
   }
