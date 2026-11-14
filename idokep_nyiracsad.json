@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti-, majd hidegfronti hatás",
   "focim": "Naposabb, de hűvös hétvége jön",
-  "updated": "2026.11.14. 08:39",
-  "flow_last_run": "2026.11.14. 08:39",
+  "updated": "2026.11.14. 09:09",
+  "flow_last_run": "2026.11.14. 09:09",
   "current": {
-    "temperature": 0,
+    "temperature": 3,
     "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
-      "max": 9,
+      "max": 10,
       "min": -4,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -22,7 +22,7 @@
     {
       "day": "Vasárnap",
       "max": 9,
-      "min": -5,
+      "min": -4,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
