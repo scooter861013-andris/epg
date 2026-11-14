@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Gyenge melegfronti hatás",
   "focim": "Még sok napsütés várható",
-  "updated": "2026.11.14. 23:09",
-  "flow_last_run": "2026.11.14. 23:39",
+  "updated": "2026.11.15. 00:09",
+  "flow_last_run": "2026.11.15. 00:09",
   "current": {
     "temperature": -4,
-    "condition": "Derült",
-    "icon": "🌙"
+    "condition": "Pára",
+    "icon": null
   },
   "forecast_7d": [
     {
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "6:37",
-    "sunset": "15:57",
+    "sunset": "15:56",
     "is_night": true
   }
 }
