@@ -2,28 +2,20 @@
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
   "fronthatas": "Kettősfronti-, majd hidegfronti hatás",
-  "focim": "Naposabb, de hűvös hétvége jön",
-  "utoljára változott hőmérséklet az időképről": "2026.11.14. 19:35",
-  "flow_last_run": "2026.11.14. 19:35",
+  "focim": "Még sok napsütés várható",
+  "utoljára változott hőmérséklet az időképről": "2026.11.14. 20:05",
+  "flow_last_run": "2026.11.14. 20:05",
   "current": {
-    "temperature": -1,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": -2,
+    "condition": "Pára",
+    "icon": null
   },
   "forecast_7d": [
-    {
-      "day": "Szombat",
-      "max": 10,
-      "min": -4,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Vasárnap",
       "max": 9,
       "min": -4,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
@@ -31,7 +23,7 @@
       "day": "Hétfő",
       "max": 10,
       "min": 3,
-      "condition": "eső",
+      "condition": "eső viharos széllel",
       "icon": "🌧️",
       "alert": null
     },
@@ -39,14 +31,14 @@
       "day": "Kedd",
       "max": 10,
       "min": 5,
-      "condition": "erősen felhős",
+      "condition": "borult",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
       "max": 13,
-      "min": 10,
+      "min": 9,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
       "alert": null
@@ -55,7 +47,7 @@
       "day": "Csütörtök",
       "max": 14,
       "min": 8,
-      "condition": "zápor",
+      "condition": "eső",
       "icon": "🌧️",
       "alert": null
     },
@@ -65,6 +57,14 @@
       "min": 7,
       "condition": "zápor",
       "icon": "🌧️",
+      "alert": null
+    },
+    {
+      "day": "Szombat",
+      "max": 9,
+      "min": 6,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
