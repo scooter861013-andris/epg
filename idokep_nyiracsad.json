@@ -4,7 +4,7 @@
   "fronthatas": "Kettősfronti-, majd hidegfronti hatás",
   "focim": "Naposabb, de hűvös hétvége jön",
   "updated": "2026.11.14. 06:09",
-  "flow_last_run": "2026.11.14. 06:09",
+  "flow_last_run": "2026.11.14. 06:39",
   "current": {
     "temperature": -4,
     "condition": "Derült",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:35",
     "sunset": "15:57",
-    "is_night": true
+    "is_night": false
   }
 }
