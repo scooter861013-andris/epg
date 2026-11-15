@@ -124,6 +124,47 @@ adat = {
     "előrejelzés": elorejelzes
 }
 
+# -------------------------------------------------
+# DRAGON BALL EPIZÓDFIGYELŐ
+# -------------------------------------------------
+URL_DRAGONBALL = "https://dragonballhu.tv/sorozatok/dragon-ball-super-beerus"
+
+adat["dragonball"] = (regi_adat or {}).get("dragonball", {})
+
+try:
+    db_resp = requests.get(
+        URL_DRAGONBALL,
+        headers=HEADERS,
+        timeout=15
+    )
+    db_resp.raise_for_status()
+
+    db_soup = BeautifulSoup(db_resp.text, "html.parser")
+    db_app = db_soup.select_one("#app[data-page]")
+    db_props = json.loads(db_app["data-page"])["props"]
+
+    if db_props["series"]["id"] != 75:
+        raise ValueError("Hibás sorozat!")
+
+    db_reszek = db_props["episodes"]
+
+    db_utolso = max(
+        db_reszek,
+        key=lambda e: int(e["episode_number"])
+    )
+
+    adat["dragonball"] = {
+        "sorozat": db_props["series"]["title"],
+        "utolso_resz": int(db_utolso["episode_number"]),
+        "cim": db_utolso["title"],
+        "utolso_ellenorzes": most
+    }
+
+    print("Dragon Ball OK:", db_utolso["episode_number"])
+
+except Exception as hiba:
+    print("Dragon Ball lekérési hiba:", hiba)
+
 with open("horgasz.json", "w", encoding="utf-8") as f:
     json.dump(adat, f, ensure_ascii=False, indent=2)
 
