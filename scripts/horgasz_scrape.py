@@ -146,7 +146,10 @@ try:
     if db_props["series"]["id"] != 75:
         raise ValueError("Hibás sorozat!")
 
-    db_reszek = db_props["episodes"]
+    db_reszek = [
+        e for e in db_props["episodes"]
+        if e.get("episode_number") is not None
+    ]
 
     db_utolso = max(
         db_reszek,
