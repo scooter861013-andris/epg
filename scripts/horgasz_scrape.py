@@ -146,10 +146,14 @@ try:
     if db_props["series"]["id"] != 75:
         raise ValueError("Hibás sorozat!")
 
-    db_reszek = [
-        e for e in db_props["episodes"]
-        if e.get("episode_number") is not None
-    ]
+        db_reszek = []
+
+    for e in db_props["episodes"]:
+        talalat = re.match(r"^\s*(\d+)\.\s*rész", e.get("title") or "")
+
+        if talalat:
+            e["episode_number"] = int(talalat.group(1))
+            db_reszek.append(e)
 
     db_utolso = max(
         db_reszek,
