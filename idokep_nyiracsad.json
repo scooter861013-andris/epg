@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Gyenge melegfronti hatás",
   "focim": "Felhők váltják fel délután a napsütést",
-  "updated": "2026.11.15. 13:39",
-  "flow_last_run": "2026.11.15. 13:39",
+  "updated": "2026.11.15. 14:09",
+  "flow_last_run": "2026.11.15. 14:09",
   "current": {
-    "temperature": 10,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 9,
+    "condition": "Erősen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 9,
+      "max": 7,
       "min": -6,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -22,7 +22,7 @@
     {
       "day": "Hétfő",
       "max": 10,
-      "min": 2,
+      "min": 1,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
       "alert": null
