@@ -146,7 +146,7 @@ try:
     if db_props["series"]["id"] != 75:
         raise ValueError("Hibás sorozat!")
 
-        db_reszek = []
+    db_reszek = []
 
     for e in db_props["episodes"]:
         talalat = re.match(r"^\s*(\d+)\.\s*rész", e.get("title") or "")
