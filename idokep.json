@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Szükség lesz az esernyőkre",
-  "utoljára változott hőmérséklet az időképről": "2026.11.16. 15:35",
-  "flow_last_run": "2026.11.16. 15:35",
+  "utoljára változott hőmérséklet az időképről": "2026.11.16. 16:05",
+  "flow_last_run": "2026.11.16. 16:05",
   "current": {
     "temperature": 8,
-    "condition": "Szitálás",
-    "icon": null
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:41",
     "sunset": "15:56",
-    "is_night": false
+    "is_night": true
   }
 }
