@@ -1,24 +1,16 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Kettősfronti hatás várható",
-  "focim": "Szükség lesz az esernyőkre",
-  "updated": "2026.11.16. 16:09",
-  "flow_last_run": "2026.11.16. 16:09",
+  "fronthatas": "Melegfronti hatás várható",
+  "focim": "Esős, szeles idő",
+  "updated": "2026.11.16. 16:39",
+  "flow_last_run": "2026.11.16. 16:39",
   "current": {
     "temperature": 8,
     "condition": "Gyenge eső",
     "icon": "🌧️"
   },
   "forecast_7d": [
-    {
-      "day": "Hétfő",
-      "max": 9,
-      "min": 5,
-      "condition": "eső",
-      "icon": "🌧️",
-      "alert": null
-    },
     {
       "day": "Kedd",
       "max": 11,
@@ -39,14 +31,14 @@
       "day": "Csütörtök",
       "max": 14,
       "min": 8,
-      "condition": "eső",
+      "condition": "gyenge eső",
       "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Péntek",
       "max": 13,
-      "min": 7,
+      "min": 5,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
@@ -65,6 +57,14 @@
       "min": 1,
       "condition": "közepesen felhős",
       "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 6,
+      "min": 3,
+      "condition": "eső",
+      "icon": "🌧️",
       "alert": null
     }
   ],
