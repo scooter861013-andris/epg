@@ -3,8 +3,8 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Szükség lesz az esernyőkre",
-  "updated": "2026.11.16. 08:39",
-  "flow_last_run": "2026.11.16. 09:09",
+  "updated": "2026.11.16. 09:39",
+  "flow_last_run": "2026.11.16. 09:39",
   "current": {
     "temperature": 5,
     "condition": "Borult",
@@ -13,7 +13,7 @@
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 10,
+      "max": 9,
       "min": 5,
       "condition": "eső",
       "icon": "🌧️",
@@ -38,7 +38,7 @@
     {
       "day": "Csütörtök",
       "max": 14,
-      "min": 4,
+      "min": 8,
       "condition": "eső",
       "icon": "🌧️",
       "alert": null
