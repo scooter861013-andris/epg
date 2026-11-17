@@ -3,8 +3,8 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti hatás várható",
   "focim": "Esős, szeles idő",
-  "updated": "2026.11.17. 12:39",
-  "flow_last_run": "2026.11.17. 14:39",
+  "updated": "2026.11.17. 15:09",
+  "flow_last_run": "2026.11.17. 15:09",
   "current": {
     "temperature": 10,
     "condition": "Borult",
@@ -13,7 +13,7 @@
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 11,
+      "max": 12,
       "min": 5,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
@@ -21,7 +21,7 @@
     },
     {
       "day": "Szerda",
-      "max": 14,
+      "max": 13,
       "min": 10,
       "condition": "zápor",
       "icon": "🌧️",
