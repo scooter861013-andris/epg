@@ -2,18 +2,18 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti hatás várható",
-  "focim": "Esős, szeles idő",
-  "updated": "2026.11.17. 18:39",
-  "flow_last_run": "2026.11.17. 18:39",
+  "focim": "Eső, zápor, zivatar jöhet",
+  "updated": "2026.11.17. 19:09",
+  "flow_last_run": "2026.11.17. 19:09",
   "current": {
     "temperature": 10,
-    "condition": "Zápor",
+    "condition": "Eső",
     "icon": "🌧️"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 11,
+      "max": 12,
       "min": 5,
       "condition": "eső viharos széllel",
       "icon": "🌧️",
