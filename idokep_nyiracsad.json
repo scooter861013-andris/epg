@@ -4,7 +4,7 @@
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Eső, zápor, zivatar jöhet",
   "updated": "2026.11.18. 06:09",
-  "flow_last_run": "2026.11.18. 06:39",
+  "flow_last_run": "2026.11.18. 07:09",
   "current": {
     "temperature": 11,
     "condition": "Borult",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:41",
     "sunset": "15:52",
-    "is_night": true
+    "is_night": false
   }
 }
