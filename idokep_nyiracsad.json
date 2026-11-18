@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Peremciklon hoz esőt, záporokat",
-  "updated": "2026.11.18. 22:09",
-  "flow_last_run": "2026.11.18. 23:09",
+  "updated": "2026.11.18. 23:39",
+  "flow_last_run": "2026.11.18. 23:39",
   "current": {
-    "temperature": 8,
-    "condition": "Borult",
+    "temperature": 9,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Csütörtök",
       "max": 13,
-      "min": 8,
+      "min": 9,
       "condition": "gyenge eső",
       "icon": "🌧️",
       "alert": null
