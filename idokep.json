@@ -3,8 +3,8 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Peremciklon hoz esőt, záporokat",
-  "utoljára változott hőmérséklet az időképről": "2026.11.19. 10:05",
-  "flow_last_run": "2026.11.19. 10:05",
+  "utoljára változott hőmérséklet az időképről": "2026.11.19. 10:35",
+  "flow_last_run": "2026.11.19. 10:35",
   "current": {
     "temperature": 8,
     "condition": "Szitálás",
@@ -46,14 +46,14 @@
     {
       "day": "Hétfő",
       "max": 5,
-      "min": 2,
+      "min": 3,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Kedd",
-      "max": 5,
+      "max": 4,
       "min": 0,
       "condition": "gyengén felhős",
       "icon": "☁️",
