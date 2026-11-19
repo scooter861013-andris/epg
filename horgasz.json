@@ -1,10 +1,10 @@
 {
   "forrás": "idokep.hu",
   "hivatkozás": "https://www.idokep.hu/horgasz",
-  "utoljára_változott_kapásindex": "2026.11.19. 08:50",
-  "utolsó_futás": "2026.11.19. 08:50",
+  "utoljára_változott_kapásindex": "2026.11.19. 10:50",
+  "utolsó_futás": "2026.11.19. 10:50",
   "nap_és_hold": {
-    "napkelte": "6:46",
+    "napkelte": "6:54",
     "napnyugta": "16:03",
     "holdkelte": "13:20",
     "holdnyugta": "0:26"
@@ -13,14 +13,8 @@
     {
       "időszak": "Most",
       "holdfázis": 3,
-      "halikonok_száma": 1,
-      "minősítés": "Rossz"
-    },
-    {
-      "időszak": "Csütörtök reggel",
-      "holdfázis": 3,
-      "halikonok_száma": 1,
-      "minősítés": "Rossz"
+      "halikonok_száma": 2,
+      "minősítés": "Alacsony"
     },
     {
       "időszak": "Csütörtök délután",
@@ -41,6 +35,12 @@
       "minősítés": "Átlagos"
     },
     {
+      "időszak": "Szombat reggel",
+      "holdfázis": 3,
+      "halikonok_száma": 3,
+      "minősítés": "Átlagos"
+    },
+    {
       "időszak": "Szombat",
       "holdfázis": 3,
       "halikonok_száma": 3,
@@ -50,13 +50,13 @@
       "időszak": "Vasárnap",
       "holdfázis": 4,
       "halikonok_száma": 4,
-      "minősítés": "Igazi pecaidő"
+      "minősítés": "Jó"
     }
   ],
   "dragonball": {
     "sorozat": "Dragon Ball Super: Beerus",
     "utolso_resz": 6,
     "cim": "6. rész: Istenek Harca",
-    "utolso_ellenorzes": "2026.11.19. 08:50"
+    "utolso_ellenorzes": "2026.11.19. 10:50"
   }
 }
