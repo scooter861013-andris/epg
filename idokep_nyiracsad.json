@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás várható",
   "focim": "Hidegfront halad át felettünk",
-  "updated": "2026.11.20. 21:39",
-  "flow_last_run": "2026.11.20. 21:39",
+  "updated": "2026.11.20. 22:09",
+  "flow_last_run": "2026.11.20. 22:09",
   "current": {
-    "temperature": 5,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 7,
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
@@ -37,7 +37,7 @@
     },
     {
       "day": "Kedd",
-      "max": 3,
+      "max": 4,
       "min": -4,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -53,7 +53,7 @@
     },
     {
       "day": "Csütörtök",
-      "max": 2,
+      "max": 3,
       "min": -1,
       "condition": "havas eső",
       "icon": "🌧️",
@@ -61,7 +61,7 @@
     },
     {
       "day": "Péntek",
-      "max": 4,
+      "max": 5,
       "min": 2,
       "condition": "eső",
       "icon": "🌧️",
