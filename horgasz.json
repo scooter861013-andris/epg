@@ -1,8 +1,8 @@
 {
   "forrás": "idokep.hu",
   "hivatkozás": "https://www.idokep.hu/horgasz",
-  "utoljára_változott_kapásindex": "2026.11.20. 00:50",
-  "utolsó_futás": "2026.11.20. 08:50",
+  "utoljára_változott_kapásindex": "2026.11.20. 10:50",
+  "utolsó_futás": "2026.11.20. 10:50",
   "nap_és_hold": {
     "napkelte": "6:55",
     "napnyugta": "16:03",
@@ -12,12 +12,6 @@
   "előrejelzés": [
     {
       "időszak": "Most",
-      "holdfázis": 3,
-      "halikonok_száma": 2,
-      "minősítés": "Alacsony"
-    },
-    {
-      "időszak": "Péntek reggel",
       "holdfázis": 3,
       "halikonok_száma": 2,
       "minősítés": "Alacsony"
@@ -41,6 +35,12 @@
       "minősítés": "Átlagos"
     },
     {
+      "időszak": "Vasárnap reggel",
+      "holdfázis": 4,
+      "halikonok_száma": 4,
+      "minősítés": "Igazi pecaidő"
+    },
+    {
       "időszak": "Vasárnap",
       "holdfázis": 4,
       "halikonok_száma": 4,
@@ -57,6 +57,6 @@
     "sorozat": "Dragon Ball Super: Beerus",
     "utolso_resz": 6,
     "cim": "6. rész: Istenek Harca",
-    "utolso_ellenorzes": "2026.11.20. 08:50"
+    "utolso_ellenorzes": "2026.11.20. 10:50"
   }
 }
