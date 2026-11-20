@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti hatás várható",
   "focim": "Szeles idő több-kevesebb napsütéssel",
-  "updated": "2026.11.20. 13:39",
-  "flow_last_run": "2026.11.20. 13:39",
+  "updated": "2026.11.20. 14:09",
+  "flow_last_run": "2026.11.20. 14:09",
   "current": {
-    "temperature": 14,
-    "condition": "Közepesen felhős",
-    "icon": "☁️"
+    "temperature": 13,
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Péntek",
-      "max": 12,
+      "max": 10,
       "min": 7,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -29,7 +29,7 @@
     },
     {
       "day": "Vasárnap",
-      "max": 6,
+      "max": 7,
       "min": 0,
       "condition": "erősen felhős",
       "icon": "☁️",
