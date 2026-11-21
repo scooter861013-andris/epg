@@ -3,18 +3,18 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti hatás várható",
   "focim": "Hidegfront halad át felettünk",
-  "utoljára változott hőmérséklet az időképről": "2026.11.21. 09:05",
-  "flow_last_run": "2026.11.21. 09:05",
+  "utoljára változott hőmérséklet az időképről": "2026.11.21. 09:35",
+  "flow_last_run": "2026.11.21. 09:35",
   "current": {
     "temperature": 8,
-    "condition": "Borult",
-    "icon": "☁️"
+    "condition": "Pára",
+    "icon": null
   },
   "forecast_7d": [
     {
       "day": "Szombat",
       "max": 11,
-      "min": 5,
+      "min": 4,
       "condition": "zápor",
       "icon": "🌧️",
       "alert": null
