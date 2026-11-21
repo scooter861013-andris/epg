@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti hatás várható",
   "focim": "Hidegfront halad át felettünk",
-  "updated": "2026.11.21. 03:39",
-  "flow_last_run": "2026.11.21. 03:39",
+  "updated": "2026.11.21. 04:09",
+  "flow_last_run": "2026.11.21. 04:09",
   "current": {
     "temperature": 7,
-    "condition": "Pára",
-    "icon": null
+    "condition": "Köd",
+    "icon": "🌫️"
   },
   "forecast_7d": [
     {
@@ -46,7 +46,7 @@
     {
       "day": "Szerda",
       "max": 3,
-      "min": -4,
+      "min": -3,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
