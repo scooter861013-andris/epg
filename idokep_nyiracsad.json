@@ -1,10 +1,10 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Meleg-, majd estétől hidegfronti hatás várható",
-  "focim": "Estig nem várható jelentős csapadék",
-  "updated": "2026.11.22. 17:39",
-  "flow_last_run": "2026.11.22. 17:39",
+  "fronthatas": "Hidegfronti jellegű tünetek előfordulhatnak",
+  "focim": "Szeles idő kisebb esővel, záporokkal",
+  "updated": "2026.11.22. 18:09",
+  "flow_last_run": "2026.11.22. 18:09",
   "current": {
     "temperature": 4,
     "condition": "Erősen felhős",
@@ -12,41 +12,33 @@
   },
   "forecast_7d": [
     {
-      "day": "Vasárnap",
-      "max": 5,
-      "min": -2,
-      "condition": "erősen felhős",
-      "icon": "☁️",
-      "alert": null
-    },
-    {
       "day": "Hétfő",
       "max": 5,
       "min": 1,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "zápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Kedd",
       "max": 3,
       "min": -3,
-      "condition": "hózápor",
-      "icon": "🌧️",
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
       "max": 4,
       "min": -4,
-      "condition": "közepesen felhős",
+      "condition": "gyengén felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
       "max": 3,
-      "min": 0,
+      "min": -4,
       "condition": "havas eső",
       "icon": "🌧️",
       "alert": null
@@ -65,6 +57,14 @@
       "min": 3,
       "condition": "erősen felhős",
       "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Vasárnap",
+      "max": 4,
+      "min": 1,
+      "condition": "pára",
+      "icon": null,
       "alert": null
     }
   ],
