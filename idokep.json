@@ -3,11 +3,11 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Meleg-, majd estétől hidegfronti hatás várható",
   "focim": "Estig nem várható jelentős csapadék",
-  "utoljára változott hőmérséklet az időképről": "2026.11.22. 16:05",
-  "flow_last_run": "2026.11.22. 16:05",
+  "utoljára változott hőmérséklet az időképről": "2026.11.22. 16:35",
+  "flow_last_run": "2026.11.22. 16:35",
   "current": {
     "temperature": 4,
-    "condition": "Erősen felhős",
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -38,7 +38,7 @@
     {
       "day": "Szerda",
       "max": 3,
-      "min": -3,
+      "min": -4,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -53,7 +53,7 @@
     },
     {
       "day": "Péntek",
-      "max": 4,
+      "max": 5,
       "min": 2,
       "condition": "gyenge eső",
       "icon": "🌧️",
@@ -61,7 +61,7 @@
     },
     {
       "day": "Szombat",
-      "max": 3,
+      "max": 5,
       "min": 2,
       "condition": "erősen felhős",
       "icon": "☁️",
