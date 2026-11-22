@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Hidegfronti jellegű tünetek előfordulhatnak",
   "focim": "Szeles idő kisebb esővel, záporokkal",
-  "updated": "2026.11.22. 18:09",
-  "flow_last_run": "2026.11.22. 18:09",
+  "updated": "2026.11.22. 18:39",
+  "flow_last_run": "2026.11.22. 18:39",
   "current": {
     "temperature": 4,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "condition": "Gyenge eső",
+    "icon": "🌧️"
   },
   "forecast_7d": [
     {
@@ -47,7 +47,7 @@
       "day": "Péntek",
       "max": 5,
       "min": 3,
-      "condition": "gyenge eső",
+      "condition": "havas eső",
       "icon": "🌧️",
       "alert": null
     },
@@ -55,16 +55,16 @@
       "day": "Szombat",
       "max": 5,
       "min": 3,
-      "condition": "erősen felhős",
-      "icon": "☁️",
+      "condition": "havas eső",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Vasárnap",
       "max": 4,
       "min": 1,
-      "condition": "pára",
-      "icon": null,
+      "condition": "közepesen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
