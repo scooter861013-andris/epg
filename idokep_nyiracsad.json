@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Meleg-, majd estétől hidegfronti hatás várható",
   "focim": "Estig nem várható jelentős csapadék",
-  "updated": "2026.11.22. 08:39",
-  "flow_last_run": "2026.11.22. 08:39",
+  "updated": "2026.11.22. 09:09",
+  "flow_last_run": "2026.11.22. 09:09",
   "current": {
-    "temperature": 1,
-    "condition": "Derült",
-    "icon": "🌙"
+    "temperature": 2,
+    "condition": "Közepesen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Vasárnap",
-      "max": 5,
+      "max": 6,
       "min": -2,
       "condition": "erősen felhős",
       "icon": "☁️",
@@ -38,8 +38,8 @@
     {
       "day": "Szerda",
       "max": 4,
-      "min": -5,
-      "condition": "erősen felhős",
+      "min": -4,
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
