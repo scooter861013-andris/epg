@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem érkezik front",
   "focim": "Hózáporos, szeles idő",
-  "updated": "2026.11.23. 23:09",
-  "flow_last_run": "2026.11.23. 23:39",
+  "updated": "2026.11.24. 00:09",
+  "flow_last_run": "2026.11.24. 00:09",
   "current": {
-    "temperature": -2,
+    "temperature": -3,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -70,7 +70,7 @@
   ],
   "sun": {
     "sunrise": "6:50",
-    "sunset": "15:48",
+    "sunset": "15:47",
     "is_night": true
   }
 }
