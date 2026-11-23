@@ -1,30 +1,22 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Hidegfronti jellegű tünetek előfordulhatnak",
-  "focim": "Szeles idő kisebb esővel, záporokkal",
-  "utoljára változott hőmérséklet az időképről": "2026.11.23. 17:05",
-  "flow_last_run": "2026.11.23. 17:05",
+  "fronthatas": "Nem érkezik front",
+  "focim": "Hózáporos, szeles idő",
+  "utoljára változott hőmérséklet az időképről": "2026.11.23. 17:35",
+  "flow_last_run": "2026.11.23. 17:35",
   "current": {
-    "temperature": 3,
-    "condition": "Gyenge eső",
-    "icon": "🌧️"
+    "temperature": 2,
+    "condition": "Erősen felhős",
+    "icon": "☁️"
   },
   "forecast_7d": [
-    {
-      "day": "Hétfő",
-      "max": 6,
-      "min": -1,
-      "condition": "zápor",
-      "icon": "🌧️",
-      "alert": null
-    },
     {
       "day": "Kedd",
       "max": 3,
       "min": -2,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "hózápor",
+      "icon": "🌧️",
       "alert": null
     },
     {
@@ -46,7 +38,7 @@
     {
       "day": "Péntek",
       "max": 4,
-      "min": 3,
+      "min": 1,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
@@ -63,6 +55,14 @@
       "day": "Vasárnap",
       "max": 2,
       "min": -3,
+      "condition": "erősen felhős",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Hétfő",
+      "max": 1,
+      "min": -5,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
