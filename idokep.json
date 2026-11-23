@@ -3,17 +3,17 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Hidegfronti jellegű tünetek előfordulhatnak",
   "focim": "Szeles idő kisebb esővel, záporokkal",
-  "utoljára változott hőmérséklet az időképről": "2026.11.23. 11:35",
-  "flow_last_run": "2026.11.23. 11:35",
+  "utoljára változott hőmérséklet az időképről": "2026.11.23. 12:05",
+  "flow_last_run": "2026.11.23. 12:05",
   "current": {
-    "temperature": 5,
-    "condition": "Gyengén felhős",
+    "temperature": 6,
+    "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Hétfő",
-      "max": 5,
+      "max": 6,
       "min": 2,
       "condition": "zápor",
       "icon": "🌧️",
@@ -69,7 +69,7 @@
     }
   ],
   "sun": {
-    "sunrise": "6:50",
+    "sunrise": "6:51",
     "sunset": "15:49",
     "is_night": false
   }
