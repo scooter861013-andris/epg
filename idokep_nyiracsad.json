@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem érkezik front",
   "focim": "Hózáporos, szeles idő",
-  "updated": "2026.11.24. 04:39",
-  "flow_last_run": "2026.11.24. 04:39",
+  "updated": "2026.11.24. 05:09",
+  "flow_last_run": "2026.11.24. 05:09",
   "current": {
-    "temperature": -3,
+    "temperature": -2,
     "condition": "Hószállingózás",
     "icon": "❄️"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Kedd",
       "max": 3,
-      "min": -3,
+      "min": -5,
       "condition": "hózápor",
       "icon": "🌧️",
       "alert": null
