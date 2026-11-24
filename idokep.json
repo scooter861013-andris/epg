@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Nem érkezik front",
   "focim": "Hózáporos, szeles idő",
-  "utoljára változott hőmérséklet az időképről": "2026.11.24. 18:05",
-  "flow_last_run": "2026.11.24. 18:05",
+  "utoljára változott hőmérséklet az időképről": "2026.11.24. 18:35",
+  "flow_last_run": "2026.11.24. 18:35",
   "current": {
-    "temperature": 1,
+    "temperature": 0,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Kedd",
       "max": 5,
-      "min": -2,
+      "min": -3,
       "condition": "hózápor",
       "icon": "🌧️",
       "alert": null
