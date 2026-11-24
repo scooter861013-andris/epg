@@ -3,17 +3,17 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem érkezik front",
   "focim": "Hózáporos, szeles idő",
-  "updated": "2026.11.24. 13:39",
-  "flow_last_run": "2026.11.24. 13:39",
+  "updated": "2026.11.24. 14:09",
+  "flow_last_run": "2026.11.24. 14:09",
   "current": {
     "temperature": 4,
-    "condition": "Erősen felhős",
-    "icon": "☁️"
+    "condition": "Derült",
+    "icon": "🌙"
   },
   "forecast_7d": [
     {
       "day": "Kedd",
-      "max": 4,
+      "max": 3,
       "min": -5,
       "condition": "hózápor",
       "icon": "🌧️",
