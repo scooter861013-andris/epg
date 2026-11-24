@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti hatás",
   "focim": "Napos reggel, délután havas eső, hó érkezhet",
-  "updated": "2026.11.24. 20:09",
-  "flow_last_run": "2026.11.24. 20:09",
+  "updated": "2026.11.24. 20:39",
+  "flow_last_run": "2026.11.24. 20:39",
   "current": {
-    "temperature": 0,
+    "temperature": -1,
     "condition": "Erősen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
     {
       "day": "Szerda",
-      "max": 4,
-      "min": -3,
+      "max": 3,
+      "min": -4,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
