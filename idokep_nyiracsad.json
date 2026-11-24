@@ -3,11 +3,11 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem érkezik front",
   "focim": "Hózáporos, szeles idő",
-  "updated": "2026.11.24. 09:39",
-  "flow_last_run": "2026.11.24. 09:39",
+  "updated": "2026.11.24. 10:09",
+  "flow_last_run": "2026.11.24. 10:09",
   "current": {
-    "temperature": 0,
-    "condition": "Borult",
+    "temperature": 1,
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -37,7 +37,7 @@
     },
     {
       "day": "Péntek",
-      "max": 4,
+      "max": 5,
       "min": 3,
       "condition": "gyenge eső",
       "icon": "🌧️",
@@ -47,23 +47,23 @@
       "day": "Szombat",
       "max": 5,
       "min": 2,
-      "condition": "erősen felhős",
-      "icon": "☁️",
+      "condition": "gyenge eső",
+      "icon": "🌧️",
       "alert": null
     },
     {
       "day": "Vasárnap",
-      "max": 4,
+      "max": 3,
       "min": -2,
-      "condition": "erősen felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Hétfő",
-      "max": 2,
+      "max": 1,
       "min": -5,
-      "condition": "erősen felhős",
+      "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     }
