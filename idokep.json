@@ -3,10 +3,10 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Kettősfronti hatás",
   "focim": "Napos reggel, délután havas eső, hó érkezhet",
-  "utoljára változott hőmérséklet az időképről": "2026.11.25. 07:05",
-  "flow_last_run": "2026.11.25. 07:05",
+  "utoljára változott hőmérséklet az időképről": "2026.11.25. 07:35",
+  "flow_last_run": "2026.11.25. 07:35",
   "current": {
-    "temperature": -5,
+    "temperature": -4,
     "condition": "Derült",
     "icon": "🌙"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Szerda",
       "max": 3,
-      "min": -5,
+      "min": -4,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
