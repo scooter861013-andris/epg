@@ -3,8 +3,8 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti hatás",
   "focim": "Esős csütörtök",
-  "updated": "2026.11.25. 21:09",
-  "flow_last_run": "2026.11.25. 21:09",
+  "updated": "2026.11.25. 21:39",
+  "flow_last_run": "2026.11.25. 21:39",
   "current": {
     "temperature": 1,
     "condition": "Borult",
@@ -54,15 +54,15 @@
     {
       "day": "Kedd",
       "max": 0,
-      "min": -7,
+      "min": -8,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
     },
     {
       "day": "Szerda",
-      "max": 0,
-      "min": -6,
+      "max": -1,
+      "min": -7,
       "condition": "pára",
       "icon": null,
       "alert": null
