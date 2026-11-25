@@ -3,12 +3,12 @@
   "location": "Hajduhadhaz",
   "fronthatas": "Kettősfronti hatás",
   "focim": "Esős csütörtök",
-  "utoljára változott hőmérséklet az időképről": "2026.11.25. 18:35",
-  "flow_last_run": "2026.11.25. 18:35",
+  "utoljára változott hőmérséklet az időképről": "2026.11.25. 19:05",
+  "flow_last_run": "2026.11.25. 19:05",
   "current": {
     "temperature": 1,
-    "condition": "Borult",
-    "icon": "☁️"
+    "condition": "Hószállingózás",
+    "icon": "❄️"
   },
   "forecast_7d": [
     {
@@ -23,8 +23,8 @@
       "day": "Péntek",
       "max": 4,
       "min": 3,
-      "condition": "szitálás",
-      "icon": null,
+      "condition": "borult",
+      "icon": "☁️",
       "alert": null
     },
     {
