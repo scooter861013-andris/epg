@@ -1,13 +1,13 @@
 {
   "source": "idokep.hu",
   "location": "Hajduhadhaz",
-  "fronthatas": "Kettősfronti hatás",
+  "fronthatas": "Melegfronti hatás",
   "focim": "Napos reggel, délután havas eső, hó érkezhet",
-  "utoljára változott hőmérséklet az időképről": "2026.11.25. 08:35",
-  "flow_last_run": "2026.11.25. 08:35",
+  "utoljára változott hőmérséklet az időképről": "2026.11.25. 09:05",
+  "flow_last_run": "2026.11.25. 09:05",
   "current": {
-    "temperature": -2,
-    "condition": "Gyengén felhős",
+    "temperature": 0,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -37,8 +37,8 @@
     },
     {
       "day": "Szombat",
-      "max": 4,
-      "min": 1,
+      "max": 5,
+      "min": 2,
       "condition": "gyenge eső",
       "icon": "🌧️",
       "alert": null
@@ -46,7 +46,7 @@
     {
       "day": "Vasárnap",
       "max": 4,
-      "min": -3,
+      "min": -2,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -62,7 +62,7 @@
     {
       "day": "Kedd",
       "max": 0,
-      "min": -7,
+      "min": -6,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
