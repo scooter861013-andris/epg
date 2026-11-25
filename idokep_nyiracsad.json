@@ -1,13 +1,13 @@
 {
   "source": "idokep.hu",
   "location": "Nyiracsad",
-  "fronthatas": "Kettősfronti hatás",
+  "fronthatas": "Melegfronti hatás",
   "focim": "Napos reggel, délután havas eső, hó érkezhet",
-  "updated": "2026.11.25. 08:09",
-  "flow_last_run": "2026.11.25. 08:39",
+  "updated": "2026.11.25. 09:09",
+  "flow_last_run": "2026.11.25. 09:09",
   "current": {
-    "temperature": -2,
-    "condition": "Gyengén felhős",
+    "temperature": -1,
+    "condition": "Közepesen felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -29,8 +29,8 @@
     },
     {
       "day": "Péntek",
-      "max": 4,
-      "min": 3,
+      "max": 5,
+      "min": 4,
       "condition": "gyenge eső",
       "icon": "🌧️",
       "alert": null
@@ -53,7 +53,7 @@
     },
     {
       "day": "Hétfő",
-      "max": 2,
+      "max": 1,
       "min": -5,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -62,7 +62,7 @@
     {
       "day": "Kedd",
       "max": 0,
-      "min": -7,
+      "min": -6,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
