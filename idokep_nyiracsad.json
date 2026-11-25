@@ -3,11 +3,11 @@
   "location": "Nyiracsad",
   "fronthatas": "Melegfronti hatás",
   "focim": "Napos reggel, délután havas eső, hó érkezhet",
-  "updated": "2026.11.25. 10:39",
-  "flow_last_run": "2026.11.25. 10:39",
+  "updated": "2026.11.25. 11:09",
+  "flow_last_run": "2026.11.25. 11:09",
   "current": {
     "temperature": 3,
-    "condition": "Erősen felhős",
+    "condition": "Gyengén felhős",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -30,7 +30,7 @@
     {
       "day": "Péntek",
       "max": 5,
-      "min": 4,
+      "min": 3,
       "condition": "szitálás",
       "icon": null,
       "alert": null
