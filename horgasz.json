@@ -1,11 +1,11 @@
 {
   "forrás": "idokep.hu",
   "hivatkozás": "https://www.idokep.hu/horgasz",
-  "utoljára_változott_kapásindex": "2026.11.25. 08:50",
-  "utolsó_futás": "2026.11.25. 08:50",
+  "utoljára_változott_kapásindex": "2026.11.25. 10:50",
+  "utolsó_futás": "2026.11.25. 10:50",
   "nap_és_hold": {
-    "napkelte": "6:59",
-    "napnyugta": "16:05",
+    "napkelte": "7:02",
+    "napnyugta": "15:58",
     "holdkelte": "16:12",
     "holdnyugta": "8:23"
   },
@@ -13,14 +13,8 @@
     {
       "időszak": "Most",
       "holdfázis": 4,
-      "halikonok_száma": 4,
-      "minősítés": "Jó"
-    },
-    {
-      "időszak": "Szerda reggel",
-      "holdfázis": 4,
-      "halikonok_száma": 4,
-      "minősítés": "Jó"
+      "halikonok_száma": 3,
+      "minősítés": "Átlagos"
     },
     {
       "időszak": "Szerda délután",
@@ -41,6 +35,12 @@
       "minősítés": "Jó"
     },
     {
+      "időszak": "Péntek reggel",
+      "holdfázis": 5,
+      "halikonok_száma": 2,
+      "minősítés": "Alacsony"
+    },
+    {
       "időszak": "Péntek",
       "holdfázis": 5,
       "halikonok_száma": 2,
@@ -57,6 +57,6 @@
     "sorozat": "Dragon Ball Super: Beerus",
     "utolso_resz": 7,
     "cim": "7. rész: \"F\", mint Feltámadás",
-    "utolso_ellenorzes": "2026.11.25. 08:50"
+    "utolso_ellenorzes": "2026.11.25. 10:50"
   }
 }
