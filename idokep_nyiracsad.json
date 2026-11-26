@@ -2,23 +2,15 @@
   "source": "idokep.hu",
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti hatás",
-  "focim": "Esős csütörtök",
-  "updated": "2026.11.26. 19:39",
-  "flow_last_run": "2026.11.26. 19:39",
+  "focim": "Még egy utolsó hullám",
+  "updated": "2026.11.26. 20:09",
+  "flow_last_run": "2026.11.26. 20:09",
   "current": {
     "temperature": 3,
-    "condition": "Borult",
-    "icon": "☁️"
+    "condition": "Szitálás",
+    "icon": null
   },
   "forecast_7d": [
-    {
-      "day": "Csütörtök",
-      "max": 4,
-      "min": 1,
-      "condition": "eső viharos széllel",
-      "icon": "🌧️",
-      "alert": null
-    },
     {
       "day": "Péntek",
       "max": 5,
@@ -65,6 +57,14 @@
       "min": -7,
       "condition": "pára",
       "icon": null,
+      "alert": null
+    },
+    {
+      "day": "Csütörtök",
+      "max": -2,
+      "min": -5,
+      "condition": "köd",
+      "icon": "🌫️",
       "alert": null
     }
   ],
