@@ -3,11 +3,11 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti hatás",
   "focim": "Még egy utolsó hullám",
-  "updated": "2026.11.26. 20:39",
-  "flow_last_run": "2026.11.26. 21:09",
+  "updated": "2026.11.26. 21:39",
+  "flow_last_run": "2026.11.26. 21:39",
   "current": {
     "temperature": 3,
-    "condition": "Pára",
+    "condition": "Szitálás",
     "icon": null
   },
   "forecast_7d": [
@@ -29,7 +29,7 @@
     },
     {
       "day": "Vasárnap",
-      "max": 4,
+      "max": 3,
       "min": -3,
       "condition": "gyengén felhős",
       "icon": "☁️",
@@ -37,7 +37,7 @@
     },
     {
       "day": "Hétfő",
-      "max": 2,
+      "max": 1,
       "min": -6,
       "condition": "közepesen felhős",
       "icon": "☁️",
@@ -46,7 +46,7 @@
     {
       "day": "Kedd",
       "max": 0,
-      "min": -7,
+      "min": -9,
       "condition": "közepesen felhős",
       "icon": "☁️",
       "alert": null
@@ -54,15 +54,15 @@
     {
       "day": "Szerda",
       "max": -1,
-      "min": -7,
+      "min": -8,
       "condition": "pára",
       "icon": null,
       "alert": null
     },
     {
       "day": "Csütörtök",
-      "max": -2,
-      "min": -5,
+      "max": -3,
+      "min": -6,
       "condition": "köd",
       "icon": "🌫️",
       "alert": null
