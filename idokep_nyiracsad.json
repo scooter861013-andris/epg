@@ -3,22 +3,14 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Szárazabb napok következnek",
-  "updated": "2026.11.27. 19:39",
-  "flow_last_run": "2026.11.27. 19:39",
+  "updated": "2026.11.27. 20:09",
+  "flow_last_run": "2026.11.27. 20:09",
   "current": {
     "temperature": 2,
-    "condition": "Borult",
-    "icon": "☁️"
+    "condition": "Szitálás",
+    "icon": null
   },
   "forecast_7d": [
-    {
-      "day": "Péntek",
-      "max": 5,
-      "min": 2,
-      "condition": "borult",
-      "icon": "☁️",
-      "alert": null
-    },
     {
       "day": "Szombat",
       "max": 4,
@@ -31,40 +23,48 @@
       "day": "Vasárnap",
       "max": 3,
       "min": -3,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     },
     {
       "day": "Hétfő",
       "max": 1,
       "min": -6,
-      "condition": "gyengén felhős",
-      "icon": "☁️",
+      "condition": "derült",
+      "icon": "🌙",
       "alert": null
     },
     {
       "day": "Kedd",
       "max": 0,
       "min": -8,
-      "condition": "közepesen felhős",
-      "icon": "☁️",
+      "condition": "pára",
+      "icon": null,
       "alert": null
     },
     {
       "day": "Szerda",
       "max": -1,
       "min": -7,
-      "condition": "pára",
-      "icon": null,
+      "condition": "borult",
+      "icon": "☁️",
       "alert": null
     },
     {
       "day": "Csütörtök",
       "max": -2,
       "min": -6,
-      "condition": "köd",
-      "icon": "🌫️",
+      "condition": "borult",
+      "icon": "☁️",
+      "alert": null
+    },
+    {
+      "day": "Péntek",
+      "max": 0,
+      "min": -4,
+      "condition": "erősen felhős",
+      "icon": "☁️",
       "alert": null
     }
   ],
