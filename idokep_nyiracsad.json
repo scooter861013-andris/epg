@@ -4,7 +4,7 @@
   "fronthatas": "Kettősfronti hatás",
   "focim": "Még egy utolsó hullám",
   "updated": "2026.11.27. 06:39",
-  "flow_last_run": "2026.11.27. 06:39",
+  "flow_last_run": "2026.11.27. 07:09",
   "current": {
     "temperature": 4,
     "condition": "Borult",
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:54",
     "sunset": "15:45",
-    "is_night": true
+    "is_night": false
   }
 }
