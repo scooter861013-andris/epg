@@ -3,10 +3,10 @@
   "location": "Nyiracsad",
   "fronthatas": "Kettősfronti hatás",
   "focim": "Még egy utolsó hullám",
-  "updated": "2026.11.27. 12:39",
-  "flow_last_run": "2026.11.27. 12:39",
+  "updated": "2026.11.27. 13:09",
+  "flow_last_run": "2026.11.27. 13:09",
   "current": {
-    "temperature": 5,
+    "temperature": 6,
     "condition": "Gyenge eső",
     "icon": "🌧️"
   },
@@ -14,7 +14,7 @@
     {
       "day": "Péntek",
       "max": 6,
-      "min": 4,
+      "min": 3,
       "condition": "borult",
       "icon": "☁️",
       "alert": null
