@@ -7,7 +7,7 @@
   "flow_last_run": "2026.11.27. 07:05",
   "current": {
     "temperature": 3,
-    "condition": "Borult",
+    "condition": "Ködszitálás",
     "icon": "☁️"
   },
   "forecast_7d": [
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:55",
     "sunset": "15:46",
-    "is_night": false
+    "is_night": true
   }
 }
