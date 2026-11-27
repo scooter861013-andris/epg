@@ -3,18 +3,18 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Szárazabb napok következnek",
-  "updated": "2026.11.27. 21:39",
-  "flow_last_run": "2026.11.27. 21:39",
+  "updated": "2026.11.27. 22:09",
+  "flow_last_run": "2026.11.27. 22:09",
   "current": {
-    "temperature": 2,
-    "condition": "Borult",
-    "icon": "☁️"
+    "temperature": 1,
+    "condition": "Ködszitálás",
+    "icon": "🌫️"
   },
   "forecast_7d": [
     {
       "day": "Szombat",
       "max": 4,
-      "min": 2,
+      "min": 1,
       "condition": "erősen felhős",
       "icon": "☁️",
       "alert": null
