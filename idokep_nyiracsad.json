@@ -3,12 +3,12 @@
   "location": "Nyiracsad",
   "fronthatas": "Nem várható fronthatás",
   "focim": "Szárazabb napok következnek",
-  "updated": "2026.11.28. 05:39",
-  "flow_last_run": "2026.11.28. 06:39",
+  "updated": "2026.11.28. 07:09",
+  "flow_last_run": "2026.11.28. 07:09",
   "current": {
     "temperature": 0,
-    "condition": "Borult",
-    "icon": "☁️"
+    "condition": "Pára",
+    "icon": null
   },
   "forecast_7d": [
     {
@@ -71,6 +71,6 @@
   "sun": {
     "sunrise": "6:55",
     "sunset": "15:44",
-    "is_night": true
+    "is_night": false
   }
 }
